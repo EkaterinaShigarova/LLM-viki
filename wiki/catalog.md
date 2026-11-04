@@ -59,6 +59,19 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) · доклад 2020.
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p32](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32) · доклад 2016.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p35](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-35) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p36](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-36) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) · доклад 2020.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p30](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-30) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p31](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-31) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p33](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-33) · доклад 2016.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p38](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-38) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p39](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-39) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p40](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-40) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41) · доклад 2024.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304) · доклад 2021.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -192,6 +205,9 @@
 [official-b4e3fcfe0e41e26ea03b:p158](sources/official-b4e3fcfe0e41e26ea03b.md#page-158) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p170](sources/official-b4e3fcfe0e41e26ea03b.md#page-170) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p166](sources/official-b4e3fcfe0e41e26ea03b.md#page-166) · доклад 2025.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p14](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-14) · доклад 2016.
 
 
 <a id="pressure"></a>
@@ -275,6 +291,21 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p230](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-230) · доклад 2015.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p224](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-224) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p225](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-225) · доклад 2022.
+
+<a id="atmospheric-inputs"></a>
+### Атмосферные поступления в бассейн озера
+
+- [Атмосферные выпадения в бассейне Байкала: станции, состав и годовые нагрузки](syntheses/atmospheric-deposition.md)
+
+Обеспеченность: Ранее подготовленный обзор с источниками. Два документа: пятилетнее влажное поступление 2020–2024 и другая сеть обзора 2025 с ретроспективой 2017–2025. Не единый ряд; нужны программы отбора, погрешности и пояснение спорных минимумов.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[official-b4e3fcfe0e41e26ea03b:p156](sources/official-b4e3fcfe0e41e26ea03b.md#page-156) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p157](sources/official-b4e3fcfe0e41e26ea03b.md#page-157) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p158](sources/official-b4e3fcfe0e41e26ea03b.md#page-158) · доклад 2025.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p282](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-282) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p283](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-283) · доклад 2024.
 
 
 <a id="conservation"></a>
@@ -444,6 +475,10 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p18](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-18) · доклад 2021.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p14](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-14) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p156](sources/official-b4e3fcfe0e41e26ea03b.md#page-156) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p166](sources/official-b4e3fcfe0e41e26ea03b.md#page-166) · доклад 2025.
 
 <a id="spring-ice"></a>
 ### Ледовые фазы и сроки наблюдений
@@ -464,6 +499,15 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p13](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-13) · доклад 2019.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15) · доклад 2021.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) · доклад 2022.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p35](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-35) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) · доклад 2020.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p31](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-31) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p32](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32) · доклад 2016.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p39](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-39) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p40](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-40) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41) · доклад 2024.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304) · доклад 2021.
 
 ## Ограничения
 

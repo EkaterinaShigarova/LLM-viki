@@ -23,6 +23,10 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## Байкал: атмосферные станции
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
 ## Байкальск
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
@@ -33,6 +37,10 @@
 ## Байкальский заповедник и охранная зона
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
+
+## Баргузин
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
 ## Баргузинский залив
 
@@ -55,6 +63,10 @@
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 
+## Верхняя Ангара
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+
 ## Вся акватория Байкала
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
@@ -62,6 +74,10 @@
 ## Забайкальский край
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
+
+## Иркутск
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
 ## Иркутская область целиком
 
@@ -74,6 +90,10 @@
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
+
+## Исток Ангары
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
 ## Кабанский заказник
 
@@ -88,6 +108,10 @@
 ## Култук
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Листвянка
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
 ## Муниципальные образования БПТ
 
@@ -135,6 +159,10 @@
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 
+## Селенга — Кабанск
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+
 ## Селенгинское мелководье
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
@@ -142,6 +170,40 @@
 ## Средняя часть Байкала
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
+
+## Танхой
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Турка
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+
+## Тыя
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+
+## Хамар-Дабан
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
+## Хужир
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
+## Южное Прибайкалье
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Южный Байкал — Большие Коты, точка № 1
+
+- [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
+
+## Южный Байкал — район КОС Байкальска
+
+- [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
+- [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
+- [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
 
 [Главный индекс](../index.md)
 

@@ -30,4 +30,37 @@
 - [Эпишура и донные сообщества](epishura-benthos.md)
 - [Северный Байкал](north-baikal-water.md)
 
+## Подлёдный сезон у Байкальска: что сопоставлено по источникам
+
+Дополнительно прочитаны вводные методические блоки, строки фитопланктона таблиц и их продолжения за 2016, 2020 и 2024. Во всех трёх описаниях исследуется верхний слой 0–50 м с пятью порциями по 200 мл и общей пробой 1 л; 2020/2024 прямо называют батометр. Район КОС Байкальска — полигон планктонных наблюдений 250 км². Это общий принцип отбора, а не доказательство неизменности каждой станции, горизонта и лабораторной процедуры. [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p30](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-30) [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p32](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p35](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-35) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p38](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-38) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p39](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-39)
+
+| Источник и сезон | Общая средняя численность, тыс. кл/л | Общая средняя биомасса, мг/м³ | Статистика и ограничение |
+| --- | --- | --- | --- |
+| 2016 март, повествование | 88,0 | 31,1 | Таблица обозначает ледовый период II–III; округлённая средняя 88 |
+| 2016 июнь | 969,9 | 2169,2 | Табличная численность 970, не максимум отдельной станции |
+| 2020 март | 412 | здесь не приводится | Среднее по всей съёмке из таблицы, не фоновая 262 и не зональная 669 |
+| 2020 июнь | 1215,569 | 1070,934 | Точные средние из текста; табличная численность 1216 |
+| 2020 август | 337,153 | 64,998 | Минимальные общие средние сезона по тексту |
+| 2024 март | 182 | 42 | Средние полигона, не минимум отдельной станции |
+| 2024 июнь | 427 | 840 | Максимум средней биомассы данного сезона |
+| 2024 август | 1018 | 239 | Максимум средней численности данного сезона |
+
+Основания таблицы: [2016: PDF31](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-31), [PDF32](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32); [2020: PDF36](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-36), [PDF37](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37); [2024: PDF40](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-40). Пропуск массы марта 2020 не означает ноль. Выбранные величины представлены раздельно, без трендовой линии и без пополнения observations.
+
+В 2016 сезонные минимумы отдельных станций и малые общие средние отмечены в марте, в 2020 минимумы описаны в августе, в 2024 максимум численности приходится на август, массы — на июнь. Поэтому результат «подо льдом всегда минимум, летом всегда максимум» источники не подтверждают. Три выбранных года не являются полным рядом одинаковых станций, а различия не доказывают влияние толщины льда. [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p32](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p40](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-40)
+
+### Состав и разные выборки
+
+В марте 2016 и 2020 описаны многокомпонентные доминантные комплексы мелкоклеточных форм; июнь обоих лет назван авторами высокопродуктивным «синедровым». В 2024 в марте и августе лидировала Chrysochromulina parva, в июне — активно развивалась Synedra acus var. acus. Эти определения относятся к описанным съёмкам; современные таксономические пересмотры и общебайкальская смена сообщества здесь не устанавливаются. [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p32](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-32) [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p33](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-33) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41)
+
+Таблицы 2016/2020 делят средние на «в целом за съёмку», «фон», «зона загрязнения». Рисунок 2024 1.1.1.14 показывает отдельные фоновые/зональные кривые 2015–2024, а не общеполигонное среднее. У графика нет числовой сетки: значения не оцифрованы с изображения. Определяемые авторами площади загрязнения по фитопланктону в 2020 — 6,9/15,7/4,7 км² (март/июнь/август), в 2024 — 2,5/4,6/9,7; без алгоритма выделения зон из этого нельзя вывести улучшение или ухудшение всего озера. [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p31](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-31) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p36](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-36) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41)
+
+Полные выбранные табличные строки и ограничения: [2016](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md), [2020](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md), [2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md). [Весенние ледовые явления](spring-ice-regime.md) описывают другой класс наблюдений. Для объяснения связи биологии со льдом нужны совместные ряды воды/льда/организмов на тех же станциях и программа обеспечения сопоставимости.
+
+## Точка № 1 у Больших Котов: другая программа наблюдений
+
+Мониторинг НИИ биологии ИГУ в 2021 на открытой точке № 1 изучал планктон в слое 0–250 м, провёл 26 выходов, отобрал по 234 пробы хлорофилла и микроводорослей. Это другая пространственно-временная программа, чем три сезонные съёмки полигона КОС Байкальска. Сопутствующие 234 измерения температуры и 26 прозрачности создают опору для совместного анализа, но сам блок не публикует полную синхронную таблицу, приборы или неопределённости. Подлёдный/открытоводный охват не даёт права приписать каждой пробе известную толщину льда. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303)
+
+Авторы называют фито-/зоопланктонную сезонность 2021 типичной, а отдельные отличия — соответствующими естественным колебаниям. Это авторский вывод, первичный многолетний ряд здесь не разобран. Численность зоопланктона в этой работе выражена в тыс. экз./м² слоя 0–50 м, а не объёмных тыс. экз./м³; хлорофилл имеет отдельную проблему печати размерности. Числа не подставлены вместо средних фитопланктона полигона КОС. [Подробный конспект](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304)
+
 <!-- HUMAN NOTES -->

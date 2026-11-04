@@ -126,6 +126,84 @@
                   "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "page": 52
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 35
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 36
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 37
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 38
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 30
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 31
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 33
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 38
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 303
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 304
                 }
               ],
               "gap": "Разные районы и сезоны; общего временного ряда нет."
@@ -475,6 +553,24 @@
                   "source_id": "official-b4e3fcfe0e41e26ea03b",
                   "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
                   "page": 170
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 166
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 14
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
@@ -698,6 +794,53 @@
                 }
               ],
               "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
+            }
+          ]
+        },
+        {
+          "id": "atmospheric-inputs",
+          "title": "Атмосферные поступления в бассейн озера",
+          "topics": [
+            {
+              "id": "atmospheric-deposition",
+              "title": "Атмосферные выпадения в бассейне Байкала: станции, состав и годовые нагрузки",
+              "article": "syntheses/atmospheric-deposition.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "reviewed_overview",
+              "sources": [
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 156
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 157
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 158
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 282
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 283
+                }
+              ],
+              "gap": "Два документа: пятилетнее влажное поступление 2020–2024 и другая сеть обзора 2025 с ретроспективой 2017–2025. Не единый ряд; нужны программы отбора, погрешности и пояснение спорных минимумов."
             }
           ]
         }
@@ -1292,6 +1435,30 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "page": 15,
                   "report_year": 2022
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 156
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 165
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 166
                 }
               ],
               "gap": "Основные годовые подразделы 2015–2024 прочитаны; нет полного исходного суточного/ледового/балансового ряда, методики норм и официального разрешения противоречий."
@@ -1368,6 +1535,60 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "page": 15,
                   "report_year": 2022
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 35
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 37
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 31
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 32
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 303
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 304
                 }
               ],
               "gap": "Основные годовые подразделы 2015–2024 прочитаны; нет полного исходного суточного/ледового/балансового ряда, методики норм и официального разрешения противоречий."

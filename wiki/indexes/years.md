@@ -15,6 +15,7 @@
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
 - [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
 
 ## 2017
 
@@ -35,12 +36,14 @@
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
 - [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
 
 ## 2021
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
 - [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
+- [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
 
 ## 2022
 
@@ -59,11 +62,15 @@
 
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
 - [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+- [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
 ## 2025
 
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
 [Главный индекс](../index.md)
 

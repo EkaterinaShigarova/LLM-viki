@@ -2,6 +2,10 @@
 
 Индекс конспектов; совпадение названия показателя не разрешает межгодовое сравнение.
 
+## Атмосферные выпадения
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
 ## Весеннее вскрытие и очищение ото льда
 
 - [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
@@ -14,6 +18,10 @@
 - [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
+
+## Влажное поступление
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
 ## Водозабор
 
@@ -34,6 +42,14 @@
 ## Годовая температура воздуха
 
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
+
+## Годовой водный сток
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+
+## Годовой вынос химических веществ
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
 ## Горизонты пробоотбора
 
@@ -84,9 +100,19 @@
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 
+## Концентрация и поток вещества
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
 ## Кормовые условия
 
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
+
+## Ледовая гидробиологическая съёмка
+
+- [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
+- [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
+- [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
 
 ## Летучие фенолы
 
@@ -108,6 +134,10 @@
 ## Месячная температура воздуха
 
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
+
+## Минерализация и pH атмосферных проб
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
 ## Нарушения ПДК
 
@@ -143,6 +173,10 @@
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 
+## Отбор с пяти горизонтов
+
+- [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
+
 ## Охват берегового обследования
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
@@ -175,6 +209,10 @@
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 
+## Подлёдные и открытоводные наблюдения
+
+- [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
+
 ## Популяция нерпы
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
@@ -182,6 +220,10 @@
 ## Посещения инфраструктуры
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
+
+## Пределы и средние выборок
+
+- [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
 
 ## Приплод нерпы
 
@@ -209,6 +251,10 @@
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
 
+## Прозрачность воды
+
+- [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
+
 ## Раздельный сбор отходов
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
@@ -221,9 +267,21 @@
 
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
 
+## Сезонные категории и фон
+
+- [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
+
 ## Сезонные переходы
 
 - [2015: температура воздуха и начало сезонов иркутской части БПТ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/air-temperature.md) — доклад 2015.
+
+## Сеть гидрохимических наблюдений
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
+## Средневзвешенная концентрация
+
+- [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
 ## Среднее содержание фенолов
 
@@ -241,9 +299,17 @@
 
 - [2015: температура воздуха и начало сезонов иркутской части БПТ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/air-temperature.md) — доклад 2015.
 
+## Температура поверхностной воды
+
+- [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
+
 ## Техническое освидетельствование
 
 - [2022: судовой приём вод, категории и продолжение таблицы](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md) — доклад 2022.
+
+## Удельное поступление т/(км²·год)
+
+- [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
 ## Уровень воды и система ТО
 
@@ -270,6 +336,16 @@
 ## Фоновые концентрации
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Химия дождя и снега
+
+- [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Численность и биомасса фитопланктона
+
+- [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
+- [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
+- [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
 
 ## Число наблюдений
 
