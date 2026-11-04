@@ -24,7 +24,6 @@ class Encyclopedia(unittest.TestCase):
         self.assertEqual(validate_catalog(self.config, ROOT, self.sources), [])
         entries = [t for _, _, t in topics(self.config)]
         self.assertGreaterEqual(sum(bool(t.get("article")) for t in entries), 22)
-        self.assertGreaterEqual(sum(t["status"] == "research" for t in entries), 2)
         for t in entries:
             if t["status"] == "research":
                 self.assertIsNone(t["article"])
@@ -128,7 +127,8 @@ class Encyclopedia(unittest.TestCase):
         with TestClient(app) as client:
             c = client.get("/api/wiki/catalog")
             self.assertEqual(c.status_code, 200)
-            self.assertEqual(len(c.json()["sections"]), 6)
+            self.assertEqual({s['id'] for s in c.json()['sections']},
+                             {s['id'] for s in self.config['sections']})
             r = client.get("/api/wiki/search", params={"q": "синедровый"})
             self.assertEqual(r.status_code, 200)
             self.assertEqual(r.json()[0]["path"], "syntheses/phytoplankton.md")
@@ -143,7 +143,12 @@ class Encyclopedia(unittest.TestCase):
             )
 
     def test_catalog_render_has_research_gaps_and_physical_page_links(self):
-        text = render_catalog()
+        from unittest.mock import patch
+        config=copy.deepcopy(self.config)
+        topic=next(topics(config))[2]
+        topic.update(status='research',article=None)
+        with patch('baikal.encyclopedia.catalog',return_value=config):
+            text = render_catalog()
         self.assertIn("в очереди, статья не создана", text)
         self.assertIn("#page-", text)
         self.assertIn('<a id="life"></a>', text)

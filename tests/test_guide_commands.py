@@ -47,6 +47,9 @@ class GuideCommands(unittest.TestCase):
             registered = read_json(root / "config/sources.json")["sources"]
             self.assertEqual(len(registered), 1)
             self.assertEqual(registered[0]["authenticity"], "official_domain_candidate")
+            listing=(root / "SOURCES.md").read_text()
+            self.assertIn("Тип ещё не проверен",listing)
+            self.assertIn("Ещё не вычислена",listing)
             self.assertFalse((root / "data/raw").exists())
             status = subprocess.run(
                 [sys.executable, "-m", "baikal", "status"],

@@ -375,7 +375,13 @@
           },
           "editorial_decision": null,
           "expert_review": false,
-          "published": false
+          "published": false,
+          "follow_up_2026_11_04": {
+            "action": "source_terminology_corrected_by_Codex",
+            "human_editorial_approval": null,
+            "source_numbers_changed": false,
+            "note": "Текущий текст уточняет 70 проб; прежняя рекомендация и версия сохранены как история, причина расхождения не разрешена."
+          }
         }
       ]
     },
@@ -474,7 +480,7 @@
     {
       "id": "SAMPLES12-3a0d6a6ad112",
       "fact_sha256": "8e7ee67bbf6ecbeb66d67ab81da8dbbce8e33718f126ac82c6459cf56c511c76",
-      "origin": "datasets/selenga_editorial_packet.json",
+      "origin": "datasets/editorial_candidates.json",
       "article": {
         "path": "wiki/syntheses/selenga-sediments.md",
         "sha256": "a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6"
@@ -534,18 +540,19 @@
         "sha256": "a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6",
         "path": "data/wiki_updates/versions/a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6.md"
       },
-      "fact_pointer": "/candidate_facts/0",
+      "fact_pointer": "/candidates/0/fact",
       "inventory": {
-        "path": "datasets/selenga_claim_registry_v2.json",
-        "sha256": "564315226251219117964752341051523e68dedf31dd7a3ad1e5214456ab0903",
-        "pointer": "/inventory",
+        "path": "datasets/editorial_candidates.json",
+        "sha256": "46be41be0408a4b94cd6e0a8bdcdfe63f2e3f23a8137b9eb2091435d43a3c884",
+        "pointer": "/candidates/0/absence_units",
         "certificate_key": "reviewed_unit_ids"
-      }
+      },
+      "historical_origin": "https://github.com/EkaterinaShigarova/LLM-viki/blob/c1b7ef561c46a1f229fa072868ed98f5f1a189ae/datasets/selenga_editorial_packet.json"
     },
     {
       "id": "DEPTH-29911f2dc898",
       "fact_sha256": "7e6ed4f57b14ac3b41e5e2c6ad2b261cfb942630263e3d8e1bb1a078775cb7c1",
-      "origin": "datasets/selenga_editorial_packet.json",
+      "origin": "datasets/editorial_candidates.json",
       "article": {
         "path": "wiki/syntheses/selenga-sediments.md",
         "sha256": "a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6"
@@ -605,18 +612,19 @@
         "sha256": "a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6",
         "path": "data/wiki_updates/versions/a67b8fbbfda3d9716f31c291485877d576d8c315587604486a411d85918984e6.md"
       },
-      "fact_pointer": "/candidate_facts/1",
+      "fact_pointer": "/candidates/1/fact",
       "inventory": {
-        "path": "datasets/selenga_claim_registry_v2.json",
-        "sha256": "564315226251219117964752341051523e68dedf31dd7a3ad1e5214456ab0903",
-        "pointer": "/inventory",
+        "path": "datasets/editorial_candidates.json",
+        "sha256": "46be41be0408a4b94cd6e0a8bdcdfe63f2e3f23a8137b9eb2091435d43a3c884",
+        "pointer": "/candidates/1/absence_units",
         "certificate_key": "reviewed_unit_ids"
-      }
+      },
+      "historical_origin": "https://github.com/EkaterinaShigarova/LLM-viki/blob/c1b7ef561c46a1f229fa072868ed98f5f1a189ae/datasets/selenga_editorial_packet.json"
     },
     {
       "id": "SOURCE-COAST-2018",
       "fact_sha256": "12571b51ee358a7f513a23008f0ef1772bfb57c3ae92db81ce83f1dd6f0db40e",
-      "origin": "datasets/cross_topic_evaluation.json",
+      "origin": "datasets/editorial_candidates.json",
       "article": {
         "path": "wiki/syntheses/baikal-seal.md",
         "sha256": "d2330425b2e694ac3a06fb72c129c293641e2ea30dce65aec2dade1e82e36312"
@@ -657,13 +665,14 @@
         "sha256": "d2330425b2e694ac3a06fb72c129c293641e2ea30dce65aec2dade1e82e36312",
         "path": "data/wiki_updates/versions/d2330425b2e694ac3a06fb72c129c293641e2ea30dce65aec2dade1e82e36312.md"
       },
-      "fact_pointer": "/candidate/fact",
+      "fact_pointer": "/candidates/2/fact",
       "inventory": {
-        "path": "datasets/cross_topic_claims.json",
-        "sha256": "fdfde56083465f765c951248329f88ae7d1a0ae343fdb47badfc9418c17ad6ef",
-        "pointer": "/articles/0/blocks",
+        "path": "datasets/editorial_candidates.json",
+        "sha256": "46be41be0408a4b94cd6e0a8bdcdfe63f2e3f23a8137b9eb2091435d43a3c884",
+        "pointer": "/candidates/2/absence_units",
         "certificate_key": "reviewed_block_ids"
-      }
+      },
+      "historical_origin": "https://github.com/EkaterinaShigarova/LLM-viki/blob/c1b7ef561c46a1f229fa072868ed98f5f1a189ae/datasets/cross_topic_evaluation.json"
     }
   ],
   "observation_snapshot": {

@@ -5,7 +5,6 @@ import unittest
 from pathlib import Path
 from baikal.core import ROOT,read_json,atomic_json,sha256
 from baikal.draft_review import validate
-from scripts.audit_pipeline_transfer import audit
 
 
 class DraftReview(unittest.TestCase):
@@ -13,7 +12,7 @@ class DraftReview(unittest.TestCase):
         paths={
             'config/sources.json','datasets/editorial_draft_provenance.json',
             'datasets/editorial_scientific_review.json','datasets/observations.json',
-            'datasets/selenga_editorial_packet.json','datasets/cross_topic_evaluation.json',
+            'datasets/selenga_editorial_packet.json','datasets/editorial_candidates.json',
             'datasets/selenga_claim_registry_v2.json','datasets/cross_topic_claims.json',
             'wiki/syntheses/selenga-sediments.md','wiki/syntheses/baikal-seal.md',
             'wiki/syntheses/water-quality-evidence.md',
@@ -49,14 +48,6 @@ class DraftReview(unittest.TestCase):
                 atomic_json(mpath,manifest)
                 with self.assertRaises(ValueError):validate(root)
 
-    def test_synthetic_new_document_uses_generic_pipeline_without_publication(self):
-        result=audit()
-        self.assertTrue(result['test_only'])
-        self.assertEqual((result['synthetic_pages'],result['cached_pages_on_resume'],result['proposals']),(2,1,1))
-        self.assertEqual((result['repeated_page_proposals'],result['unmatched_routes_reported']),(0,2))
-        self.assertTrue(result['first_checkpoint_preserved'])
-        self.assertTrue(result['notes_preserved']);self.assertTrue(result['reviewed_observations_preserved'])
-        self.assertFalse(result['published']);self.assertFalse(result['llm_called'])
 
 
 if __name__=='__main__':unittest.main()

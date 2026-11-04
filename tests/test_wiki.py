@@ -1,10 +1,23 @@
 import tempfile, unittest
 from pathlib import Path
 from baikal.wiki import write_page, MARK
-from baikal.llm import validate_claims
+from baikal.science import validate_claims
 
 
 class WikiContracts(unittest.TestCase):
+    def test_query_does_not_bury_curated_knowledge_under_long_machine_pages(self):
+        from unittest.mock import patch
+        from baikal import wiki
+        with tempfile.TemporaryDirectory() as tmp:
+            w=Path(tmp)
+            for folder in ['sources','syntheses']:(w/folder).mkdir()
+            (w/'sources/source.md').write_text('# Государственный доклад\nсудовые '+ 'воды '*500)
+            (w/'syntheses/ship.md').write_text('# Судовые загрязнённые воды\nПроверяемый обзор источников.')
+            with patch.object(wiki,'WIKI',w):
+                answer=wiki.query('судовые воды')
+            self.assertLess(answer.index('syntheses/ship.md'),answer.index('sources/source.md'))
+            self.assertIn('не новое экологическое заключение',answer)
+
     def test_notes_survive_and_idempotent(self):
         with tempfile.TemporaryDirectory() as tmp:
             p = Path(tmp) / "x.md"
@@ -13,7 +26,7 @@ class WikiContracts(unittest.TestCase):
             self.assertIn("My verified note", p.read_text())
             self.assertFalse(write_page(p, "# new"))
 
-    def test_llm_citations(self):
+    def test_source_citations(self):
         evidence = [{"source_id": "x", "page": 3, "quote": "value 123"}]
         good = {
             "claims": [

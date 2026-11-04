@@ -1,0 +1,83 @@
+{
+  "starting_commit": "c1b7ef561c46a1f229fa072868ed98f5f1a189ae",
+  "pdfs_sha256_unchanged": 11,
+  "checkpoints_size_mtime_unchanged": 3878,
+  "checkpoint_validation_note": "Exact membership, size and nanosecond mtime unchanged against pre-edit baseline; no re-OCR. PDF bytes additionally checked by SHA256.",
+  "protected_data_sha256_unchanged": [
+    "config/sources.json",
+    "datasets/observations.csv",
+    "datasets/observations.json",
+    "datasets/table_review_2025_4_7.json"
+  ],
+  "original_analytical_articles_retained": 22,
+  "current_analytical_articles": 27,
+  "public_markdown_files_checked": 115,
+  "local_markdown_links_checked": 1439,
+  "anchors_checked": 611,
+  "physical_page_link_occurrences_checked": 584,
+  "removed_tracked_files": 104,
+  "local_model_runtime_required": false,
+  "errors": [],
+  "expert_review": false,
+  "tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "passed": 64,
+    "failures": 0,
+    "skipped": 0
+  },
+  "all_active_modules_imported": 15,
+  "installation": {
+    "distribution": "llm-viki",
+    "version": "0.2.0",
+    "pip_check": "passed"
+  },
+  "source_checks": {
+    "errors": [],
+    "unique_source_excerpts": 239,
+    "checked_local_excerpts": 239,
+    "source_pdf_checksums": 11,
+    "source_fact_cards": 17,
+    "expert_review": false
+  },
+  "selected_article_claim_checks": {
+    "errors": [],
+    "warnings": [],
+    "articles_reviewed": 27,
+    "claims_reviewed": 128,
+    "evidence_references": 183,
+    "checked_local_references": 183,
+    "articles_pending": 0
+  },
+  "note_checks": {
+    "errors": [],
+    "notes": 20,
+    "documents_with_notes": 11,
+    "distinct_physical_pages_with_notes": 27,
+    "checked_local_note_references": 27,
+    "full_document_completeness_established": false,
+    "expert_review": false
+  },
+  "retained_draft_checks": {
+    "errors": [],
+    "drafts": 2,
+    "source_excerpts": 18,
+    "checked_local_excerpts": 18,
+    "pdf_checksums_checked": 8,
+    "editorial_candidates": 3,
+    "evidence_blocks": 11,
+    "curated_quantities": 21,
+    "historical_reviews_on_changed_article": 2,
+    "published": false,
+    "expert_review": false
+  },
+  "public_checkout_without_local_data": {
+    "passed": true,
+    "local_excerpt_checks": 0,
+    "require_local_rejects_missing_sources": true
+  },
+  "repeat_cli_build_changed_pages": 0,
+  "wiki_lint_errors": 0,
+  "coverage_heading_candidates": 417,
+  "heading_candidates_outside_configured_baikal_scope": 44,
+  "remaining_warnings": "No title-verified sources for 2003–2014 and 2026; substantive coverage remains partial."
+}

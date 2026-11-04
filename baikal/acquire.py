@@ -256,17 +256,22 @@ def download(source, refresh=False):
 def write_sources():
     cat = load_sources()
     lines = [
-        "# Источники Baikal LLM Wiki",
+        "# Источники LLM-viki",
         "",
         "Google Drive — зеркало передачи. Подлинность официальной публикации указывается отдельно. Год из имени — подсказка, не подтверждение.",
         "",
-        "| Документ | Год по титулу / подсказка | Тип | Ведомство | Официальный URL | Доступ / обработка | Подлинность |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Документ | Год по титулу / подсказка | Тип | Ведомство | Официальный URL | Доступ / обработка | Подлинность | SHA256 PDF |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for s in cat["sources"]:
         year = s.get("report_year") or f"{s.get('year_hint', '?')} (имя)"
+        kind = {
+            "baikal_state_report": "Госдоклад о Байкале",
+            "supplementary_national_review": "Общероссийский обзор с разделом о Байкале",
+            "scientific_article": "Научная публикация",
+        }.get(s.get("document_type"), "Тип ещё не проверен")
         lines.append(
-            f"| [{s['name']}]({s['url']}) | {year} | {'Общероссийский обзор с разделом о Байкале' if s.get('document_type') == 'supplementary_national_review' else 'Госдоклад о Байкале'} | {s.get('agency', '?')} | {s.get('official_url') or 'Не подтверждён'} | {s['status']} ({s.get('extracted_pages', 0)}/{s.get('pages', '?')} стр.) | {s.get('authenticity', 'unknown')} |"
+            f"| [{s['name']}]({s['url']}) | {year} | {kind} | {s.get('agency', '?')} | {s.get('official_url') or 'Не подтверждён'} | {s['status']} ({s.get('extracted_pages', 0)}/{s.get('pages', '?')} стр.) | {s.get('authenticity', 'unknown')} | {s.get('sha256') or 'Ещё не вычислена'} |"
         )
     lines += [
         "",
@@ -280,7 +285,7 @@ def write_sources():
             s for s in cat["sources"] if s.get("report_year", s.get("year_hint")) == y
         ]
         lines.append(
-            f"| {y} | {sum(s.get('document_type') != 'supplementary_national_review' for s in items)} госдоклад(ов) о Байкале; {sum(s.get('document_type') == 'supplementary_national_review' for s in items)} дополнительных обзоров"
+            f"| {y} | {sum(s.get('document_type') == 'baikal_state_report' for s in items)} госдоклад(ов) о Байкале; {sum(s.get('document_type') == 'supplementary_national_review' for s in items)} дополнительных обзоров; {sum(s.get('document_type') not in ('baikal_state_report', 'supplementary_national_review') for s in items)} прочих/неклассифицированных источников"
             + (
                 " (год требует проверки)"
                 if items and any(not s.get("report_year") for s in items)
@@ -290,7 +295,8 @@ def write_sources():
             if items
             else f"| {y} | Публикация не проверена; отсутствие не установлено |"
         )
-    lines += ["", "## Проверка официальных каталогов", ""]
+    lines += ["", "## Проверка официальных каталогов", "",
+              "Сохранённые сетевые результаты прежних проверок; это не новое тестирование доступности. Даты и происхождение — в config/sources.json.", ""]
     for d in cat.get("discovery", []):
         lines.append(
             f"- {d['url']}: {d['status']}; {d.get('error', 'HTTP ответ получен')}"

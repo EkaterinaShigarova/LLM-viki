@@ -91,49 +91,70 @@
     {
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-      "page": 17
+      "page": 17,
+      "report_year": 2018
     },
     {
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-      "page": 19
+      "page": 19,
+      "report_year": 2018
     },
     {
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-      "page": 30
+      "page": 30,
+      "report_year": 2018
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "page": 15,
+      "report_year": 2016
     },
     {
       "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
       "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-      "page": 18
+      "page": 18,
+      "report_year": 2024
     },
     {
       "source_id": "official-b4e3fcfe0e41e26ea03b",
       "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-      "page": 158
+      "page": 158,
+      "report_year": 2025
     },
     {
       "source_id": "official-b4e3fcfe0e41e26ea03b",
       "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-      "page": 159
+      "page": 159,
+      "report_year": 2025
     }
   ],
   "syntheses/baikal-seal.md": [
     {
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-      "page": 53
+      "page": 53,
+      "report_year": 2018
     },
     {
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-      "page": 54
+      "page": 54,
+      "report_year": 2018
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "page": 46,
+      "report_year": 2017
     },
     {
       "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
       "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-      "page": 69
+      "page": 69,
+      "report_year": 2024
     }
   ],
   "syntheses/air-pollution.md": [
@@ -436,6 +457,130 @@
       "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
       "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
       "page": 101
+    }
+  ],
+  "syntheses/ports-and-petroleum.md": [
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "page": 17,
+      "report_year": 2016
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "page": 27,
+      "report_year": 2021
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "page": 161,
+      "report_year": 2025
+    }
+  ],
+  "syntheses/municipal-wastewater.md": [
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "page": 15,
+      "report_year": 2016
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "page": 248,
+      "report_year": 2021
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "page": 249,
+      "report_year": 2021
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "page": 18,
+      "report_year": 2024
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "page": 159,
+      "report_year": 2025
+    }
+  ],
+  "syntheses/air-temperature-irkutsk-bpt.md": [
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 164,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 205,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "page": 172,
+      "report_year": 2022
+    }
+  ],
+  "syntheses/ship-wastewater-reception.md": [
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 229,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 230,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "page": 224,
+      "report_year": 2022
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "page": 225,
+      "report_year": 2022
+    }
+  ],
+  "syntheses/hunting-resources-irkutsk-bpt.md": [
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 164,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 204,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "page": 205,
+      "report_year": 2015
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "page": 199,
+      "report_year": 2022
     }
   ]
 }

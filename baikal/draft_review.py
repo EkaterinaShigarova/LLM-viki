@@ -33,7 +33,7 @@ def validate(root=ROOT, manifest_path='datasets/editorial_draft_provenance.json'
         or manifest['expert_review'] is not False or manifest['editorial_decision'] is not None):
         raise ValueError('Draft cannot claim publication, human approval or expertise')
     cfg={s['id']:s for s in read_json(root/'config/sources.json')['sources']}
-    sources={s['id']:s for s in review['sources']};checked=0;pdf_checked=set()
+    sources={s['id']:s for s in review['sources']};checked=0;pdf_checked=set();stale=0
     for source in sources.values():
         original=cfg[source['source_id']]
         if any(source.get(k)!=original.get(k) for k in ['sha256','report_year','publication_year']):
@@ -64,18 +64,26 @@ def validate(root=ROOT, manifest_path='datasets/editorial_draft_provenance.json'
     for issue in review['issues']:
         for suggestion in issue.get('editorial_suggestions',[]):
             path=root/suggestion['article']['path']
-            if (sha256(path)!=suggestion['article']['sha256'] or suggestion['article_quote'] not in path.read_text()
-                or suggestion['editorial_decision'] is not None or suggestion['published'] is not False
+            if (suggestion['editorial_decision'] is not None or suggestion['published'] is not False
                 or suggestion['expert_review'] is not False):
-                raise ValueError('Editorial suggestion lost its version/status boundary')
+                raise ValueError('False historical editorial approval')
+            if sha256(path)!=suggestion['article']['sha256']:
+                stale+=1
+                archive=root/suggestion['previous_complete_article']['path']
+                if archive.exists():
+                    if sha256(archive)!=suggestion['article']['sha256'] or suggestion['article_quote'] not in archive.read_text():
+                        raise ValueError('Historical suggestion lost its source version')
+                elif require_local:raise FileNotFoundError(archive)
+            elif suggestion['article_quote'] not in path.read_text():
+                raise ValueError('Editorial suggestion lost its article quote')
     obs=review['observation_snapshot']
     if sha256(root/obs['path'])!=obs['sha256']:raise ValueError('Reviewed observations changed')
     for candidate in review['candidates']:
         fact=pointer(read_json(root/candidate['origin']),candidate['fact_pointer'])
         if digest(fact)!=candidate['fact_sha256'] or candidate['id']!=fact.get('fact_id',fact.get('id')):
             raise ValueError('Reviewed candidate was changed or borrowed')
-        if (sha256(root/candidate['article']['path'])!=candidate['article']['sha256']
-            or candidate['expert_review'] is not False or candidate['published'] is not False
+        if sha256(root/candidate['article']['path'])!=candidate['article']['sha256']:stale+=1
+        if (candidate['expert_review'] is not False or candidate['published'] is not False
             or candidate['editorial_decision'] is not None):
             raise ValueError('Candidate version/approval changed')
         if not contains_value(fact['features']['value'],sources[candidate['source_id']]['quote']):
@@ -113,4 +121,4 @@ def validate(root=ROOT, manifest_path='datasets/editorial_draft_provenance.json'
     return {'errors':[],'drafts':len(manifest['drafts']),'source_excerpts':len(sources),
             'checked_local_excerpts':checked,'pdf_checksums_checked':len(pdf_checked),
             'editorial_candidates':len(review['candidates']),'evidence_blocks':blocks,
-            'curated_quantities':quantities,'published':False,'expert_review':False}
+            'curated_quantities':quantities,'historical_reviews_on_changed_article':stale,'published':False,'expert_review':False}

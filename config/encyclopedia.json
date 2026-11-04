@@ -1,11 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22",
-  "discovery": {
-    "new_topics": 16,
-    "new_articles": 14,
-    "deferred_topics": 2
-  },
+  "updated_at": "2026-11-04",
   "evidence_levels": {
     "multiyear_text": "Содержательные страницы нескольких лет прочитаны; достаточны для текста с ограничениями, но не автоматически для числового тренда.",
     "reviewed_overview": "Существующая аналитическая статья с происхождением утверждений; уровень не означает внешнюю экспертизу.",
@@ -220,6 +215,46 @@
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
             }
           ]
+        },
+        {
+          "id": "terrestrial-fauna",
+          "title": "Наземные животные и методы учёта",
+          "topics": [
+            {
+              "id": "hunting-resources-irkutsk-bpt",
+              "title": "Охотничьи ресурсы иркутской части БПТ",
+              "article": "syntheses/hunting-resources-irkutsk-bpt.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 164,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 204,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 205,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "page": 199,
+                  "report_year": 2022
+                }
+              ],
+              "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
+            }
+          ]
         }
       ]
     },
@@ -307,23 +342,31 @@
             {
               "id": "ports-oil",
               "title": "Порты Южного Байкала и нефтяные углеводороды",
-              "article": null,
-              "status": "research",
+              "article": "syntheses/ports-and-petroleum.md",
+              "status": "published",
               "sprint_new": true,
-              "evidence_level": "located_pages",
+              "evidence_level": "multiyear_text",
               "sources": [
                 {
                   "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
                   "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
-                  "page": 17
+                  "page": 17,
+                  "report_year": 2016
                 },
                 {
                   "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-                  "page": 38
+                  "page": 27,
+                  "report_year": 2021
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "page": 161,
+                  "report_year": 2025
                 }
               ],
-              "gap": "Сверить отдельные порты, максимумы/средние, нормы и природные нефтепроявления; статья не создана."
+              "gap": "Опубликован источниковый обзор с ограничениями; экспертная рецензия и сопоставимый числовой ряд не подтверждены."
             }
           ]
         }
@@ -604,23 +647,83 @@
             {
               "id": "municipal-treatment",
               "title": "Очистные сооружения и коммунальный сброс Байкальска",
-              "article": null,
-              "status": "research",
+              "article": "syntheses/municipal-wastewater.md",
+              "status": "published",
               "sprint_new": true,
-              "evidence_level": "located_pages",
+              "evidence_level": "multiyear_text",
               "sources": [
                 {
                   "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
                   "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
-                  "page": 15
+                  "page": 15,
+                  "report_year": 2016
                 },
                 {
                   "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-                  "page": 249
+                  "page": 248,
+                  "report_year": 2021
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "page": 249,
+                  "report_year": 2021
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "page": 18,
+                  "report_year": 2024
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "page": 159,
+                  "report_year": 2025
                 }
               ],
-              "gap": "Отделить оператора, коммунальный сток и наследие производства, проверить объёмы и массы; статья не создана."
+              "gap": "Опубликован источниковый обзор с ограничениями; экспертная рецензия и сопоставимый числовой ряд не подтверждены."
+            }
+          ]
+        },
+        {
+          "id": "shipping",
+          "title": "Судоходство и обращение с судовыми водами",
+          "topics": [
+            {
+              "id": "ship-wastewater-reception",
+              "title": "Судовые воды: приём на Самотлоре",
+              "article": "syntheses/ship-wastewater-reception.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 229,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 230,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "page": 224,
+                  "report_year": 2022
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "page": 225,
+                  "report_year": 2022
+                }
+              ],
+              "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
             }
           ]
         }
@@ -812,6 +915,46 @@
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "title": "Климат и сезонные условия",
+      "subtopics": [
+        {
+          "id": "temperature",
+          "title": "Температура воздуха и климатические нормы",
+          "topics": [
+            {
+              "id": "air-temperature-irkutsk-bpt",
+              "title": "Температура воздуха иркутской части БПТ",
+              "article": "syntheses/air-temperature-irkutsk-bpt.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 164,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "page": 205,
+                  "report_year": 2015
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "page": 172,
+                  "report_year": 2022
+                }
+              ],
+              "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
             }
           ]
         }

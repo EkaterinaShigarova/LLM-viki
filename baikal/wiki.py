@@ -217,7 +217,7 @@ def build():
         ]
         changed += write_page(WIKI / "entities" / f"{key}.md", "\n".join(lines))
         index.append((f"entities/{key}.md", name))
-    # Include human-authored synthesis and saved queries in the index too.
+    # Include curated synthesis and saved queries in the index too.
     from .scientific_review import sync_review_pages
 
     changed += sync_review_pages(ROOT)
@@ -234,32 +234,49 @@ def build():
             if rel not in known:
                 index.append((rel, path.read_text().splitlines()[0].lstrip("# ")))
                 known.add(rel)
-    changed += write_page(
-        WIKI / "index.md",
-        "# Baikal LLM Wiki\n\nСохранённая база знаний с проверяемыми ссылками.\n\n"
-        + "\n".join(f"- [{title}]({path})" for path, title in index)
-        + "\n\n[Журнал](LOG.md)\n\n## Ограничения\nПокрытие и достоверность указаны в [реестре источников](../SOURCES.md).",
-    )
+    # The knowledge layer owns the main index when section notes are registered.
+    # Avoid alternating two index formats and logging a spurious ingest each build.
+    if not (ROOT / "datasets/knowledge_notes.json").exists():
+        changed += write_page(
+            WIKI / "index.md",
+            "# LLM-viki\n\nСохранённая база знаний с проверяемыми ссылками.\n\n"
+            + "\n".join(f"- [{title}]({path})" for path, title in index)
+            + "\n\n[Журнал](LOG.md)\n\n## Ограничения\nПокрытие и достоверность указаны в [реестре источников](../SOURCES.md).",
+        )
     if changed:
         append_log(
             "ingest",
             f"Обновлено страниц: {changed}; источников с извлечёнными страницами: {sum(bool(s.get('extracted_pages')) for s in sources)}",
         )
     atomic_json(ROOT / "datasets/wiki_evidence.json", evidence)
-    return {"changed_pages": changed, "indexed_pages": len(index)}
+    from .knowledge import build as build_knowledge
+
+    knowledge = build_knowledge(ROOT)
+    return {"changed_pages": changed, "indexed_pages": len(index), "knowledge": knowledge}
 
 
 def query(question, save=False):
-    tokens = re.findall(r"\w{3,}", question.lower())
+    tokens = sorted(set(re.findall(r"\w{3,}", question.lower())))
     hits = []
     for p in WIKI.rglob("*.md"):
         if p.name == "LOG.md":
             continue
         t = p.read_text()
-        score = sum(t.lower().count(x) for x in tokens)
-        if score:
+        lower = t.lower()
+        matched = sum(x in lower for x in tokens)
+        if matched:
+            title = lower.splitlines()[0] if lower.splitlines() else ""
+            layer = {"syntheses": 3, "notes": 2, "sources": 0}.get(
+                p.relative_to(WIKI).parts[0], 1
+            )
+            score = (
+                matched,
+                sum(x in title for x in tokens),
+                layer,
+                sum(min(lower.count(x), 3) for x in tokens),
+            )
             hits.append((score, p, t))
-    hits = sorted(hits, key=lambda h: (-h[0], str(h[1])))[:6]
+    hits = sorted(hits, key=lambda h: (*(-v for v in h[0]), str(h[1])))[:6]
     answer = "# Поиск в сохранённой Wiki\n\nЗапрос: " + question + "\n\n"
     answer += "Результаты поиска по статьям; это не новое экологическое заключение.\n\n"
     for _, p, t in hits:

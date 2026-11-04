@@ -3,11 +3,11 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "baikal-llm-wiki"
-version = "0.1.0"
-description = "Evidence-linked Baikal report processing and persistent knowledge wiki"
+name = "llm-viki"
+version = "0.2.0"
+description = "Scientific Markdown knowledge base for environmental monitoring of Lake Baikal"
 requires-python = ">=3.11"
-dependencies = ["PyMuPDF==1.26.6", "pdfplumber==0.11.9", "fastapi==0.141.1", "uvicorn==0.52.1"]
+dependencies = ["PyMuPDF==1.26.6", "pdfplumber==0.11.9"]
 
 [project.scripts]
 baikal = "baikal.cli:main"
@@ -16,4 +16,5 @@ baikal = "baikal.cli:main"
 packages = ["baikal"]
 
 [project.optional-dependencies]
-test = ["httpx==0.28.1"]
+web = ["fastapi==0.141.1", "uvicorn==0.52.1"]
+test = ["httpx==0.28.1", "fastapi==0.141.1", "uvicorn==0.52.1"]

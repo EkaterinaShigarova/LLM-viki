@@ -93,6 +93,20 @@
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p54](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-54) · доклад 2018.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p69](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-69) · доклад 2024.
 
+<a id="terrestrial-fauna"></a>
+### Наземные животные и методы учёта
+
+- [Охотничьи ресурсы иркутской части БПТ](syntheses/hunting-resources-irkutsk-bpt.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p164](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-164) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p204](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-204) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p205](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-205) · доклад 2015.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p199](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-199) · доклад 2022.
+
 
 <a id="water"></a>
 ## Качество воды и химические вещества
@@ -126,12 +140,15 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p287](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-287) · доклад 2019.
 [official-b4e3fcfe0e41e26ea03b:p167](sources/official-b4e3fcfe0e41e26ea03b.md#page-167) · доклад 2025.
 
-- Порты Южного Байкала и нефтяные углеводороды — в очереди, статья не создана
+- [Порты Южного Байкала и нефтяные углеводороды](syntheses/ports-and-petroleum.md)
 
-Обеспеченность: Страницы найдены, проверка не завершена. Сверить отдельные порты, максимумы/средние, нормы и природные нефтепроявления; статья не создана.
+Обеспеченность: Достаточно для описания по нескольким годам. Опубликован источниковый обзор с ограничениями; экспертная рецензия и сопоставимый числовой ряд не подтверждены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p17](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-17) · доклад 2016.
-[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p38](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-38) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p27](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-27) · доклад 2021.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
 
 
 <a id="places"></a>
@@ -243,12 +260,31 @@
 <a id="sewage"></a>
 ### Коммунальная очистка
 
-- Очистные сооружения и коммунальный сброс Байкальска — в очереди, статья не создана
+- [Очистные сооружения и коммунальный сброс Байкальска](syntheses/municipal-wastewater.md)
 
-Обеспеченность: Страницы найдены, проверка не завершена. Отделить оператора, коммунальный сток и наследие производства, проверить объёмы и массы; статья не создана.
+Обеспеченность: Достаточно для описания по нескольким годам. Опубликован источниковый обзор с ограничениями; экспертная рецензия и сопоставимый числовой ряд не подтверждены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p15](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-15) · доклад 2016.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p248](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-248) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p249](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-249) · доклад 2021.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p18](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-18) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p159](sources/official-b4e3fcfe0e41e26ea03b.md#page-159) · доклад 2025.
+
+<a id="shipping"></a>
+### Судоходство и обращение с судовыми водами
+
+- [Судовые воды: приём на Самотлоре](syntheses/ship-wastewater-reception.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p229](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-229) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p230](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-230) · доклад 2015.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p224](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-224) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p225](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-225) · доклад 2022.
 
 
 <a id="conservation"></a>
@@ -324,6 +360,23 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p18](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-18) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p327](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-327) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p69](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-69) · доклад 2024.
+
+
+<a id="climate"></a>
+## Климат и сезонные условия
+
+<a id="temperature"></a>
+### Температура воздуха и климатические нормы
+
+- [Температура воздуха иркутской части БПТ](syntheses/air-temperature-irkutsk-bpt.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p164](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-164) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p205](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-205) · доклад 2015.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p172](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-172) · доклад 2022.
 
 ## Ограничения
 

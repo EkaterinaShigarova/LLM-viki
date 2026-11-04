@@ -1,0 +1,3553 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "report_year": 2015,
+      "publication_year": null,
+      "source_sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023.pdf",
+      "declared_pages": 372,
+      "checkpoint_pages": 372,
+      "ok_pages": 372,
+      "text_pages": 371,
+      "ocr_pages": 13,
+      "detected_tables": 312,
+      "image_occurrences": 85,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 372,
+      "candidate_sections": 45
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "report_year": 2022,
+      "publication_year": null,
+      "source_sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e.pdf",
+      "declared_pages": 374,
+      "checkpoint_pages": 374,
+      "ok_pages": 374,
+      "text_pages": 374,
+      "ocr_pages": 5,
+      "detected_tables": 216,
+      "image_occurrences": 106,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 374,
+      "candidate_sections": 11
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "report_year": 2023,
+      "publication_year": null,
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066.pdf",
+      "declared_pages": 414,
+      "checkpoint_pages": 414,
+      "ok_pages": 414,
+      "text_pages": 413,
+      "ocr_pages": 2,
+      "detected_tables": 229,
+      "image_occurrences": 960,
+      "image_records_without_asset": 425,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 414,
+      "candidate_sections": 55
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "report_year": 2024,
+      "publication_year": null,
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8.pdf",
+      "declared_pages": 353,
+      "checkpoint_pages": 353,
+      "ok_pages": 353,
+      "text_pages": 353,
+      "ocr_pages": 5,
+      "detected_tables": 213,
+      "image_occurrences": 283,
+      "image_records_without_asset": 113,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 353,
+      "candidate_sections": 94
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "report_year": 2019,
+      "publication_year": null,
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a.pdf",
+      "declared_pages": 348,
+      "checkpoint_pages": 348,
+      "ok_pages": 348,
+      "text_pages": 345,
+      "ocr_pages": 8,
+      "detected_tables": 382,
+      "image_occurrences": 204,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 348,
+      "candidate_sections": 36
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "report_year": 2020,
+      "publication_year": null,
+      "source_sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54.pdf",
+      "declared_pages": 361,
+      "checkpoint_pages": 361,
+      "ok_pages": 361,
+      "text_pages": 360,
+      "ocr_pages": 5,
+      "detected_tables": 195,
+      "image_occurrences": 87,
+      "image_records_without_asset": 4,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 361,
+      "candidate_sections": 8
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "report_year": 2021,
+      "publication_year": null,
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391.pdf",
+      "declared_pages": 372,
+      "checkpoint_pages": 372,
+      "ok_pages": 372,
+      "text_pages": 372,
+      "ocr_pages": 6,
+      "detected_tables": 196,
+      "image_occurrences": 108,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 372,
+      "candidate_sections": 11
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "report_year": 2018,
+      "publication_year": null,
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a.pdf",
+      "declared_pages": 342,
+      "checkpoint_pages": 342,
+      "ok_pages": 342,
+      "text_pages": 341,
+      "ocr_pages": 10,
+      "detected_tables": 232,
+      "image_occurrences": 57,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 342,
+      "candidate_sections": 31
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "report_year": 2017,
+      "publication_year": null,
+      "source_sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d.pdf",
+      "declared_pages": 341,
+      "checkpoint_pages": 341,
+      "ok_pages": 341,
+      "text_pages": 336,
+      "ocr_pages": 7,
+      "detected_tables": 243,
+      "image_occurrences": 53,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 341,
+      "candidate_sections": 32
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "report_year": 2016,
+      "publication_year": null,
+      "source_sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "authenticity": "mirror_unverified",
+      "original_path": "data/raw/60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139.pdf",
+      "declared_pages": 374,
+      "checkpoint_pages": 374,
+      "ok_pages": 374,
+      "text_pages": 373,
+      "ocr_pages": 14,
+      "detected_tables": 375,
+      "image_occurrences": 91,
+      "image_records_without_asset": 0,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 374,
+      "candidate_sections": 44
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "report_year": 2025,
+      "publication_year": 2026,
+      "source_sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "authenticity": "official_verified",
+      "original_path": "data/raw/f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920.pdf",
+      "declared_pages": 227,
+      "checkpoint_pages": 227,
+      "ok_pages": 227,
+      "text_pages": 227,
+      "ocr_pages": 0,
+      "detected_tables": 187,
+      "image_occurrences": 554,
+      "image_records_without_asset": 48,
+      "missing_image_files": 0,
+      "machine_markdown_pages": 227,
+      "candidate_sections": 50
+    }
+  ],
+  "sections": [
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 48,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их природные",
+      "start_page": 68,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 68,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 150,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.6",
+      "title": "1.2.6. Атмосферный воздух",
+      "start_page": 153,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.7",
+      "title": "1.2.7. Осадки, снежный покров",
+      "start_page": 157,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.8",
+      "title": "1.2.8. Климатические условия",
+      "start_page": 164,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.2.9",
+      "title": "1.2.9. Радиационная обстановка",
+      "start_page": 167,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.3",
+      "title": "1.3. Природно-антропогенные объекты",
+      "start_page": 170,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.3.1",
+      "title": "1.3.1. Район Байкальского ЦБК",
+      "start_page": 170,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.3.2",
+      "title": "1.3.2. Зона БАМ",
+      "start_page": 175,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.3.3",
+      "title": "1.3.3. Другие природно-антропогенные объекты",
+      "start_page": 178,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4",
+      "title": "1.4. Антропогенные объекты и их влияние",
+      "start_page": 180,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.1",
+      "title": "1.4.1. Промышленные узлы и центры",
+      "start_page": 180,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.2",
+      "title": "1.4.2. Топливно-энергетический комплекс",
+      "start_page": 188,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.2.1",
+      "title": "1.4.2.1. Ангаро-Енисейский каскад ГЭС",
+      "start_page": 188,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.2.2",
+      "title": "1.4.2.2. Теплоэнергетика",
+      "start_page": 192,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.3",
+      "title": "1.4.3. Жилищно-коммунальное хозяйство",
+      "start_page": 197,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.4",
+      "title": "1.4.4. Сельское хозяйство",
+      "start_page": 202,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.5",
+      "title": "1.4.5. Охотничье хозяйство",
+      "start_page": 204,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.6",
+      "title": "1.4.6. Рыбное хозяйство",
+      "start_page": 219,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.7",
+      "title": "1.4.7. Розлив глубинной байкальской воды",
+      "start_page": 228,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.8",
+      "title": "1.4.8. Транспорт",
+      "start_page": 229,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.8.2",
+      "title": "1.4.8.2. Автомобильный транспорт",
+      "start_page": 233,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.8.3",
+      "title": "1.4.8.3. Железнодорожный транспорт",
+      "start_page": 234,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.9",
+      "title": "1.4.9. Туризм и отдых",
+      "start_page": 236,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.10",
+      "title": "1.4.10. Экологические правонарушения",
+      "start_page": 242,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.11",
+      "title": "1.4.11. Социальное положение населения",
+      "start_page": 246,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "1.4.12",
+      "title": "1.4.12. Общая оценка антропогенного воздействия",
+      "start_page": 250,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 256,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 261,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.2.1",
+      "title": "2.2.1. Реализация ФЦП «Охрана озера Байкал и социально-",
+      "start_page": 261,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.2.2",
+      "title": "2.2.2. Другие программы, проекты и мероприятия по охране",
+      "start_page": 276,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 280,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 283,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 287,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.6",
+      "title": "2.6. Научные исследования",
+      "start_page": 296,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 305,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.7.1",
+      "title": "2.7.1. Экологическое образование",
+      "start_page": 305,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.7.2",
+      "title": "2.7.2. Экологическое просвещение",
+      "start_page": 308,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 311,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 314,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 316,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 61,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "26.07.2022",
+      "title": "26.07.2022 в пределах ЭЗАВ",
+      "start_page": 64,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.2.2.1.3",
+      "title": "1.2.2.1.3 и на рис",
+      "start_page": 112,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 189,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.2.5",
+      "title": "1.3.2.5 и 1.3.2.6.",
+      "start_page": 192,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 223,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 223,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 223,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 229,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "1.3.9",
+      "title": "1.3.9. Экологические правонарушения",
+      "start_page": 236,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "section": "2.5.2",
+      "title": "2.5.2 приведены показатели деятельности территориальных органов по феде-",
+      "start_page": 270,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1.1",
+      "title": "1.1.1.1. Уровень озера",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1.2",
+      "title": "1.1.1.2. Поверхностный слой и водная толща",
+      "start_page": 15,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1.3",
+      "title": "1.1.1.3. Донные отложения",
+      "start_page": 41,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1.4",
+      "title": "1.1.1.4. Гидробиологические сообщества",
+      "start_page": 46,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.1.5",
+      "title": "1.1.1.5. Ихтиофауна и популяция нерпы",
+      "start_page": 63,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 73,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "14.03.1995",
+      "title": "14.03.1995 № 33-ФЗ «Об особо охраняемых при-",
+      "start_page": 74,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "31.12.2023",
+      "title": "31.12.2023 составляло 266 человек, из них штат",
+      "start_page": 77,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды",
+      "start_page": 85,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 85,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их ресурсный потенциал",
+      "start_page": 99,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.1.3",
+      "title": "1.2.1.3. Подземные воды",
+      "start_page": 109,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.2.1",
+      "title": "1.2.2.1. Эндогенные геологические процессы и геофизические поля.",
+      "start_page": 117,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.2.2",
+      "title": "1.2.2.2. Экзогенные геологические процессы",
+      "start_page": 127,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.2.3",
+      "title": "1.2.2.3. Минерально-сырьевые ресурсы",
+      "start_page": 134,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.3",
+      "title": "1.2.3. Земельный фонд",
+      "start_page": 147,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.3",
+      "title": "1.2.3. Растительность и животный мир",
+      "start_page": 151,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.6",
+      "title": "1.2.6. Атмосферный воздух",
+      "start_page": 167,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.5",
+      "title": "2.5 и диоксида азота. Город Улан-Удэ и пгт. Селенгинск в течение многих",
+      "start_page": 175,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.7",
+      "title": "1.2.7. Осадки, снежный покров",
+      "start_page": 176,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.8",
+      "title": "1.2.8. Климатические условия",
+      "start_page": 182,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.9",
+      "title": "1.2.9. Радиационная обстановка",
+      "start_page": 191,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влия-",
+      "start_page": 194,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.1",
+      "title": "1.3.1. Топливно-энергетический комплекс",
+      "start_page": 194,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.1.1",
+      "title": "1.3.1.1. Ангаро-Енисейский каскад ГЭС",
+      "start_page": 194,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влияние на окружающую среду",
+      "start_page": 195,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 198,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 202,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.3",
+      "title": "1.3.3. Сельское хозяйство",
+      "start_page": 209,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.4",
+      "title": "1.3.4. Охотничье хозяйство",
+      "start_page": 214,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.5",
+      "title": "1.3.5. Рыбное хозяйство",
+      "start_page": 220,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 227,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 228,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1 Байкальский флот",
+      "start_page": 228,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.7.2",
+      "title": "1.3.7.2 Автомобильный транспорт",
+      "start_page": 231,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 232,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.8",
+      "title": "1.3.8. Туризм и отдых",
+      "start_page": 233,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.9",
+      "title": "1.3.9. Экологические правонарушения",
+      "start_page": 238,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.10",
+      "title": "1.3.10. Социальное положение населения",
+      "start_page": 240,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.3.11",
+      "title": "1.3.11. Общая оценка антропогенного воздействия",
+      "start_page": 244,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое",
+      "start_page": 252,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 260,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия по охране озера Байкал",
+      "start_page": 267,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 269,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 273,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 279,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.6",
+      "title": "2.6. Научные исследования и научное",
+      "start_page": 285,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.6",
+      "title": "2.6. Научные исследования и научное обеспечение сохранения озера Байкал",
+      "start_page": 305,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической",
+      "start_page": 356,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.8",
+      "title": "2.8. Общественное",
+      "start_page": 362,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 375,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа",
+      "start_page": 377,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 393,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1.1",
+      "title": "1.1.1.1. Уровень озера",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1.2",
+      "title": "1.1.1.2. Поверхностный слой и водная толща",
+      "start_page": 14,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1.3",
+      "title": "1.1.1.3. Донные отложения",
+      "start_page": 36,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1.4",
+      "title": "1.1.1.4. Гидробиологические сообщества",
+      "start_page": 38,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.1.5",
+      "title": "1.1.1.5. Ихтиофауна и популяция нерпы",
+      "start_page": 62,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 71,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды",
+      "start_page": 86,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 86,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.1.3",
+      "title": "1.2.1.3. Подземные воды",
+      "start_page": 100,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.2.1",
+      "title": "1.2.2.1. Эндогенные геологические процессы и геофизические поля",
+      "start_page": 106,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.2.2",
+      "title": "1.2.2.2. Экзогенные геологические процессы",
+      "start_page": 115,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.2.3",
+      "title": "1.2.2.3. Минерально-сырьевые ресурсы",
+      "start_page": 121,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.3",
+      "title": "1.2.3. Земельный фонд",
+      "start_page": 123,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "01.01.2025",
+      "title": "01.01.2025 г. следующая:",
+      "start_page": 124,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "01.01.2025",
+      "title": "01.01.2025 г. в собственности граждан и юриди-",
+      "start_page": 124,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.4",
+      "title": "1.2.4. Растительность и животный мир",
+      "start_page": 131,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "24.01.2025",
+      "title": "24.01.2025 площадь погибших насаждений на БПТ,",
+      "start_page": 136,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "24.01.2025",
+      "title": "24.01.2025 общая площадь действующих очагов",
+      "start_page": 136,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.6",
+      "title": "1.2.6. Атмосферный воздух",
+      "start_page": 139,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "28.01.2021",
+      "title": "28.01.2021 № 2 утверждены Санитарные правила и",
+      "start_page": 139,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "24.08.2024",
+      "title": "24.08.2024 г. – 0,081 мг/м",
+      "start_page": 144,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "08.10.2024",
+      "title": "08.10.2024 г. длительностью 40 мин. – до",
+      "start_page": 144,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "26.03.2024",
+      "title": "26.03.2024 г.– 7,500 мг/м",
+      "start_page": 144,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "27.03.2024",
+      "title": "27.03.2024 г. – 5,096 мг/м",
+      "start_page": 144,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.7",
+      "title": "1.2.7. Осадки, снежный покров",
+      "start_page": 147,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.8",
+      "title": "1.2.8. Климатические условия",
+      "start_page": 153,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.2.9",
+      "title": "1.2.9. Радиационная обстановка",
+      "start_page": 159,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влияние на",
+      "start_page": 161,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.1",
+      "title": "1.3.1. Топливно-энергетический комплекс",
+      "start_page": 161,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.1.1",
+      "title": "1.3.1.1. Ангаро-Енисейский каскад ГЭС",
+      "start_page": 161,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 164,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "01.09.2020",
+      "title": "01.09.2020 – публичное акционерное общество",
+      "start_page": 166,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 168,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.3",
+      "title": "1.3.3. Сельское хозяйство",
+      "start_page": 174,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.4",
+      "title": "1.3.4. Охотничье хозяйство",
+      "start_page": 178,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "04.02.2019",
+      "title": "04.02.2019 № 22-уг, которая опубликована на",
+      "start_page": 179,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "07.12.2022",
+      "title": "07.12.2022 № 3789-р.",
+      "start_page": 184,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.5",
+      "title": "1.3.5. Рыбное хозяйство",
+      "start_page": 186,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "22.07.2022",
+      "title": "22.07.2022 № 463 «О внесении изменений в приказ",
+      "start_page": 188,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 192,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 193,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 193,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.7.2",
+      "title": "1.3.7.2. Автомобильный транспорт",
+      "start_page": 196,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 197,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.8",
+      "title": "1.3.8. Отходы производства и потребления",
+      "start_page": 198,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "17.06.2025",
+      "title": "17.06.2025 № ВЧ-02-01-28/26623 формирование офи-",
+      "start_page": 198,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.9",
+      "title": "1.3.9. Туризм и отдых",
+      "start_page": 200,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "03.02.2007",
+      "title": "03.02.2007 постановлением Правительства Россий-",
+      "start_page": 201,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "03.02.2007",
+      "title": "03.02.2007 г. постановлением Правительства Рос-",
+      "start_page": 202,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.10",
+      "title": "1.3.10. Экологические правонарушения",
+      "start_page": 204,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.11",
+      "title": "1.3.11. Социальное положение населения",
+      "start_page": 206,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.12",
+      "title": "1.3.12. Общая оценка антропогенного воздействия",
+      "start_page": 209,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "29.04.2021",
+      "title": "29.04.2021 на срок до 28.04.2041 для передачи за-",
+      "start_page": 211,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "16.08.2041",
+      "title": "16.08.2041 для передачи забранной воды для питье-",
+      "start_page": 211,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "01.11.2013",
+      "title": "01.11.2013 № 6-р «Об утверждении Порядка органи-",
+      "start_page": 214,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.13",
+      "title": "1.3.13. Оценка эффективности региональных планов",
+      "start_page": 215,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.13.1",
+      "title": "1.3.13.1. Приоритетные адаптационные мероприятия региональных",
+      "start_page": 215,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "1.3.13.2",
+      "title": "1.3.13.2. Результаты оценки климатических рисков субъектов",
+      "start_page": 218,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 221,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия по охране",
+      "start_page": 228,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 232,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "23.11.1995",
+      "title": "23.11.1995 № 174-ФЗ «Об экологической экспертизе»)",
+      "start_page": 233,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 234,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 236,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6",
+      "title": "2.6. Научные исследования и научное обеспечение",
+      "start_page": 246,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.1",
+      "title": "2.6.1. ФГБУН Сибирский институт физиологии и биохимии",
+      "start_page": 246,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.2",
+      "title": "2.6.2. ФГБУН Институт географии им В.Б. Сочавы",
+      "start_page": 257,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.3",
+      "title": "2.6.3. ФГБУН Байкальский институт природопользования",
+      "start_page": 258,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.4",
+      "title": "2.6.4. ФГБУН Институт геохимии им. А.П. Виноградова",
+      "start_page": 261,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.5",
+      "title": "2.6.5. ФГБУН Институт земной коры СО РАН (ИЗК СО РАН)",
+      "start_page": 263,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.6",
+      "title": "2.6.6. ФГБУН Институт общей и экспериментальной",
+      "start_page": 266,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.7",
+      "title": "2.6.7. ФГБУН Институт природных ресурсов, экологии",
+      "start_page": 267,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.8",
+      "title": "2.6.8. ФГБУН Лимнологический институт",
+      "start_page": 270,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.9",
+      "title": "2.6.9. ФГБУН Институт солнечно-земной физики",
+      "start_page": 291,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.10",
+      "title": "2.6.10. ФГБУН Геологический институт им. Н.Л. Добрецова",
+      "start_page": 292,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.11",
+      "title": "2.6.11. Байкальский музей СО РАН (БМ СО РАН)",
+      "start_page": 295,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.12",
+      "title": "2.6.12. ФГБОУ ВО «Иркутский государственный университет»",
+      "start_page": 296,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.13",
+      "title": "2.6.13. ФГБУ «Заповедное Прибайкалье»",
+      "start_page": 300,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.14",
+      "title": "2.6.14. ФГБУ «Заповедное Подлеморье»",
+      "start_page": 301,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.15",
+      "title": "2.6.15. ФГБУ «Байкальский государственный заповедник»",
+      "start_page": 301,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.16",
+      "title": "2.6.16. ФГБУ «Государственный природный заповедник",
+      "start_page": 302,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.17",
+      "title": "2.6.17. ФГБУ «Сохондинский государственный природный",
+      "start_page": 302,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.18",
+      "title": "2.6.18. ФГБУ «Национальный парк «Тункинский»",
+      "start_page": 302,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.19",
+      "title": "2.6.19. ФГБУ «Национальный парк «Чикой»",
+      "start_page": 304,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.6.20",
+      "title": "2.6.20. Научный совет Сибирского отделения",
+      "start_page": 304,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 310,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 313,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.9",
+      "title": "2.9. Участие бизнеса в природоохранных",
+      "start_page": 315,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.10",
+      "title": "2.10. Международное сотрудничество",
+      "start_page": 318,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.10.1",
+      "title": "2.10.1. Мероприятия, проводимые ЮНЕСКО",
+      "start_page": 318,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.10.2",
+      "title": "2.10.2. Российско-Монгольское сотрудничество",
+      "start_page": 319,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "section": "2.11",
+      "title": "2.11. Обеспечение доступа к информации",
+      "start_page": 321,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 12,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 12,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 55,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их природные",
+      "start_page": 76,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 76,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 151,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.6",
+      "title": "1.2.6. Атмосферный воздух",
+      "start_page": 153,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.7",
+      "title": "1.2.7 Осадки, снежный покров",
+      "start_page": 157,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.8",
+      "title": "1.2.8. Климатические условия",
+      "start_page": 163,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.2.9",
+      "title": "1.2.9. Радиационная обстановка",
+      "start_page": 168,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влияние",
+      "start_page": 169,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.1",
+      "title": "1.3.1. Топливно-энергетический комплекс",
+      "start_page": 169,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 174,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 179,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.3",
+      "title": "1.3.3. Сельское хозяйство",
+      "start_page": 185,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.4",
+      "title": "1.3.4. Охотничье хозяйство",
+      "start_page": 188,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.5",
+      "title": "1.3.5. Рыбное хозяйство",
+      "start_page": 204,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 212,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 213,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 213,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.7.2",
+      "title": "1.3.7.2. Автомобильный транспорт",
+      "start_page": 217,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 218,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.8",
+      "title": "1.3.8. Туризм и отдых",
+      "start_page": 219,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.9",
+      "title": "1.3.9. Экологические правонарушения",
+      "start_page": 226,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.10",
+      "title": "1.3.10. Социальное положение населения",
+      "start_page": 230,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "1.3.11",
+      "title": "1.3.11. Общая оценка антропогенного",
+      "start_page": 234,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 239,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 242,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 265,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 267,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 276,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.6",
+      "title": "2.6. Научные исследования",
+      "start_page": 286,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 298,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 303,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 306,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 308,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 155,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.5",
+      "title": "1.3.5. Рыбное хозяйство",
+      "start_page": 214,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 224,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 224,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 224,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 229,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.3.8",
+      "title": "1.3.8. Туризм и отдых",
+      "start_page": 230,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "17.12.2020",
+      "title": "17.12.2020 № 38-ru 38303000-53-2020.",
+      "start_page": 270,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 187,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 192,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.4",
+      "title": "1.3.4. Охотничье хозяйство",
+      "start_page": 200,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 225,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 226,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 226,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 231,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "30.08.2026",
+      "title": "30.08.2026. Объем сброса сточных вод в озеро Байкал в 2021 году составил 2,08 млн м",
+      "start_page": 249,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "29.04.2021",
+      "title": "29.04.2021 ОАО «Байкальский ЦБК» на основании договора водопользования",
+      "start_page": 249,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "29.04.2021",
+      "title": "29.04.2021 на срок до 28.04.2041, для передачи поднятой воды для нужд теплоэнергетики",
+      "start_page": 249,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "15.06.2021",
+      "title": "15.06.2021 № 3 Росприроднадзором осуществлялась работа по контролю степени очистки",
+      "start_page": 249,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.1.1.5",
+      "title": "1.1.1.5. Ихтиофауна и популяция нерпы",
+      "start_page": 47,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 55,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "31.12.2018",
+      "title": "31.12.2018 составляла 140 человек, из них штат службы охраны – 50 человек. За 2018 год",
+      "start_page": 58,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их природные",
+      "start_page": 74,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 74,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 141,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влияние",
+      "start_page": 162,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.1",
+      "title": "1.3.1. Топливно-энергетический комплекс",
+      "start_page": 162,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.1.1.2",
+      "title": "1.3.1.1.2. Полезный приток в озеро Байкал в 2018 году с минимальными значениями",
+      "start_page": 164,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 168,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 173,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.3",
+      "title": "1.3.3. Сельское хозяйство",
+      "start_page": 177,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 204,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 205,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 205,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.7.2",
+      "title": "1.3.7.2. Автомобильный транспорт",
+      "start_page": 210,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 211,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.8",
+      "title": "1.3.8. Туризм и отдых",
+      "start_page": 212,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "1.3.11",
+      "title": "1.3.11. Общая оценка антропогенного воздействия",
+      "start_page": 226,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 231,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 235,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 254,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 256,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 265,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.6",
+      "title": "2.6. Научные исследования",
+      "start_page": 276,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 287,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 293,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 295,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 298,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 11,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1.1.3.1",
+      "title": "1.1.1.3.1 и 1.1.1.3.2 соответственно.",
+      "start_page": 25,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1.1.4",
+      "title": "1.1.1.4. Гидробиологические сообщества",
+      "start_page": 29,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1.1.5",
+      "title": "1.1.1.5. Ихтиофауна и популяция нерпы",
+      "start_page": 40,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 48,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их природные",
+      "start_page": 68,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 68,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 140,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3",
+      "title": "1.3. Антропогенные объекты и их влияние",
+      "start_page": 160,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.1",
+      "title": "1.3.1. Топливно-энергетический комплекс",
+      "start_page": 160,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.1.2",
+      "title": "1.3.1.2. Теплоэнергетика",
+      "start_page": 166,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.2",
+      "title": "1.3.2. Жилищно-коммунальное хозяйство",
+      "start_page": 172,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.3",
+      "title": "1.3.3. Сельское хозяйство",
+      "start_page": 178,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.6",
+      "title": "1.3.6. Розлив глубинной байкальской воды",
+      "start_page": 207,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.7",
+      "title": "1.3.7. Транспорт",
+      "start_page": 208,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.7.1",
+      "title": "1.3.7.1. Байкальский флот",
+      "start_page": 208,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.7.2",
+      "title": "1.3.7.2. Автомобильный транспорт",
+      "start_page": 212,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.7.3",
+      "title": "1.3.7.3. Железнодорожный транспорт",
+      "start_page": 213,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.4.9",
+      "title": "1.4.9. Туризм и отдых",
+      "start_page": 215,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.11",
+      "title": "1.3.11. Общая оценка антропогенного воздействия",
+      "start_page": 229,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 236,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 241,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 264,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 266,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 271,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "1.3.9",
+      "title": "1.3.9 настоящего доклада.",
+      "start_page": 279,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.6",
+      "title": "2.6. Научные исследования",
+      "start_page": 281,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 292,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 297,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 299,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 301,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.1",
+      "title": "1.1. Природные объекты",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.1.1",
+      "title": "1.1.1. Озеро Байкал",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.1.2",
+      "title": "1.1.2. Особо охраняемые природные территории",
+      "start_page": 49,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2",
+      "title": "1.2. Компоненты природной среды и их природные",
+      "start_page": 69,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.1",
+      "title": "1.2.1. Водные объекты",
+      "start_page": 69,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.5",
+      "title": "1.2.5. Животный мир",
+      "start_page": 146,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.6",
+      "title": "1.2.6. Атмосферный воздух",
+      "start_page": 149,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.7",
+      "title": "1.2.7. Осадки, снежный покров",
+      "start_page": 155,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.8",
+      "title": "1.2.8. Климатические условия",
+      "start_page": 161,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.2.9",
+      "title": "1.2.9. Радиационная обстановка",
+      "start_page": 165,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.3",
+      "title": "1.3. Природно-антропогенные объекты",
+      "start_page": 168,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.3.1",
+      "title": "1.3.1. Район Байкальского ЦБК",
+      "start_page": 168,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.3.2",
+      "title": "1.3.2. Зона БАМ",
+      "start_page": 172,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.3.3",
+      "title": "1.3.3. Другие природно-антропогенные объекты",
+      "start_page": 175,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4",
+      "title": "1.4. Антропогенные объекты",
+      "start_page": 178,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.1",
+      "title": "1.4.1. Промышленные узлы и центры",
+      "start_page": 178,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.2",
+      "title": "1.4.2. Топливно-энергетический комплекс",
+      "start_page": 185,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.2.2",
+      "title": "1.4.2.2. Теплоэнергетика",
+      "start_page": 189,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.3",
+      "title": "1.4.3. Жилищно-коммунальное хозяйство",
+      "start_page": 194,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.4",
+      "title": "1.4.4. Сельское хозяйство",
+      "start_page": 199,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.5",
+      "title": "1.4.5. Охотничье хозяйство",
+      "start_page": 201,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.6",
+      "title": "1.4.6. Рыбное хозяйство",
+      "start_page": 216,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.7",
+      "title": "1.4.7. Розлив глубинной байкальской воды",
+      "start_page": 226,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.8",
+      "title": "1.4.8. Транспорт",
+      "start_page": 227,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.8.2",
+      "title": "1.4.8.2. Автомобильный транспорт",
+      "start_page": 231,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.8.3",
+      "title": "1.4.8.3. Железнодорожный транспорт",
+      "start_page": 232,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.9",
+      "title": "1.4.9. Туризм и отдых",
+      "start_page": 234,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.10",
+      "title": "1.4.10. Экологические правонарушения",
+      "start_page": 240,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.11",
+      "title": "1.4.11. Социальное положение населения",
+      "start_page": 244,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "1.4.12",
+      "title": "1.4.12. Общая оценка антропогенного воздействия",
+      "start_page": 248,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.1",
+      "title": "2.1. Нормативно-правовое регулирование",
+      "start_page": 254,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.2",
+      "title": "2.2. Программы, проекты и мероприятия",
+      "start_page": 260,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.2.1",
+      "title": "2.2.1. Реализация ФЦП «Охрана озера Байкал и социально-",
+      "start_page": 260,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.2.2",
+      "title": "2.2.2. Другие программы, проекты и мероприятия",
+      "start_page": 278,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.3",
+      "title": "2.3. Экологическая экспертиза",
+      "start_page": 283,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.4",
+      "title": "2.4. Экологический мониторинг",
+      "start_page": 285,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.5",
+      "title": "2.5. Экологический надзор",
+      "start_page": 290,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.6",
+      "title": "2.6. Научные исследования",
+      "start_page": 299,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.7",
+      "title": "2.7. Формирование экологической культуры",
+      "start_page": 306,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.7.1",
+      "title": "2.7.1. Экологическое образование",
+      "start_page": 306,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.7.2",
+      "title": "2.7.2. Экологическое просвещение",
+      "start_page": 309,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.8",
+      "title": "2.8. Общественное экологическое движение",
+      "start_page": 311,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.9",
+      "title": "2.9. Международное сотрудничество",
+      "start_page": 315,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "section": "2.10",
+      "title": "2.10. Обеспечение доступа к информации",
+      "start_page": 317,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.1",
+      "title": "1.1. Гелиогеофизическая обстановка",
+      "start_page": 6,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.2",
+      "title": "1.2. Опасные гидрометеорологические явления",
+      "start_page": 10,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.3",
+      "title": "1.3. Температура воздуха",
+      "start_page": 13,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.4",
+      "title": "1.4. Атмосферные осадки",
+      "start_page": 16,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.5",
+      "title": "1.5. Снежный покров",
+      "start_page": 18,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "1.6",
+      "title": "1.6. Водные ресурсы",
+      "start_page": 20,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.1",
+      "title": "2.1. Характеристика государственной сети наблюдений",
+      "start_page": 28,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.2",
+      "title": "2.2. Оценка антропогенного влияния на климатическую систему",
+      "start_page": 30,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.2.1",
+      "title": "2.2.1. Эмиссия парниковых газов",
+      "start_page": 30,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.2.2",
+      "title": "2.2.2. Содержание СО",
+      "start_page": 31,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3",
+      "title": "2.3. Оценка состояния и загрязнения атмосферы",
+      "start_page": 34,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.1",
+      "title": "2.3.1. Оптическая плотность и прозрачность атмосферы",
+      "start_page": 34,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.2",
+      "title": "2.3.2. Электрические характеристики приземного слоя атмосферы",
+      "start_page": 38,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.3",
+      "title": "2.3.3. Состояние озонового слоя над Россией и прилегающими территориями",
+      "start_page": 40,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.4",
+      "title": "2.3.4. Фоновое содержание загрязняющих веществ в атмосферном воздухе",
+      "start_page": 47,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.5",
+      "title": "2.3.5. Ионный состав атмосферных осадков",
+      "start_page": 50,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.6",
+      "title": "2.3.6. Кислотность и химический состав атмосферных осадков",
+      "start_page": 56,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.7",
+      "title": "2.3.7. Фоновое загрязнение атмосферных осадков (по данным сети СКФМ)",
+      "start_page": 64,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.8",
+      "title": "2.3.8. Загрязнение воздуха и осадков по данным станций ЕМЕП",
+      "start_page": 66,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3.9",
+      "title": "2.3.9. Загрязнение воздуха и осадков по данным станций ЕАНЕТ",
+      "start_page": 69,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.4",
+      "title": "2.4. Содержание загрязняющих веществ в почвах и растительности",
+      "start_page": 71,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.4.1",
+      "title": "2.4.1. Содержание загрязняющих веществ в почвах и растительности",
+      "start_page": 71,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.5",
+      "title": "2.5. Фоновое загрязнение поверхностных вод (по данным сети СКФМ)",
+      "start_page": 79,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.6",
+      "title": "2.6. Радиационная обстановка на территории России",
+      "start_page": 80,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.6.1",
+      "title": "2.6.1. Радиоактивное загрязнение приземного слоя воздуха",
+      "start_page": 80,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.6.2",
+      "title": "2.6.2. Радиоактивное загрязнение поверхностных вод",
+      "start_page": 82,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.6.3",
+      "title": "2.6.3. Радиационная обстановка на территории федеральных округов",
+      "start_page": 82,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.1",
+      "title": "3.1. Загрязнение атмосферного воздуха населенных пунктов",
+      "start_page": 85,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.1.1",
+      "title": "3.1.1. Характеристика загрязнения атмосферного воздуха",
+      "start_page": 85,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.2",
+      "title": "3.2. Загрязнение почвенного покрова",
+      "start_page": 95,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.2.1",
+      "title": "3.2.1. Загрязнение почв токсикантами промышленного происхождения",
+      "start_page": 95,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.2.2",
+      "title": "3.2.2. Загрязнение почв остаточными количествами пестицидов",
+      "start_page": 104,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3",
+      "title": "3.3. Загрязнение поверхностных вод",
+      "start_page": 108,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.1",
+      "title": "3.3.1. Качество поверхностных вод по гидрохимическим показателям",
+      "start_page": 108,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.2",
+      "title": "3.3.2. Гидробиологическая оценка состояния пресноводных объектов",
+      "start_page": 126,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.3",
+      "title": "3.3.3. Водные объекты с наибольшими уровнями загрязнения, аварийные ситуации",
+      "start_page": 128,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.4",
+      "title": "3.3.4. Загрязнение поверхностных водных объектов в результате",
+      "start_page": 131,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.5",
+      "title": "3.3.5. Загрязнение морских вод Российской Федерации по гидрохимическим показателям",
+      "start_page": 133,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.3.6",
+      "title": "3.3.6. Гидробиологическая оценка состояния морских вод",
+      "start_page": 146,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "4.1",
+      "title": "4.1. Московский регион",
+      "start_page": 149,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "4.2",
+      "title": "4.2. Озеро Байкал",
+      "start_page": 156,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.2",
+      "title": "2.2. Гидрохимические наблюдения за качеством поверхностных вод",
+      "start_page": 158,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.3",
+      "title": "2.3. Состояние донных отложений",
+      "start_page": 161,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.4",
+      "title": "2.4. Гидробиологические наблюдения на озере",
+      "start_page": 163,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.5",
+      "title": "2.5. Характеристика выноса загрязняющих веществ с водным стоком основных притоков",
+      "start_page": 164,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "2.6",
+      "title": "2.6. Антропогенные токсиканты в окружающей среде центральной экологической зоны",
+      "start_page": 166,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "4.3",
+      "title": "4.3. Арктическая зона Российской Федерации",
+      "start_page": 174,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "3.1",
+      "title": "3.1. Особенности климатического режима года",
+      "start_page": 176,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "4.3.2",
+      "title": "4.3.2. Комплексная оценка состояния и загрязнения окружающей среды в Арктической",
+      "start_page": 181,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "section": "4.4",
+      "title": "4.4. Комплексные исследования загрязнения окружающей среды в районе",
+      "start_page": 211,
+      "heading_status": "detected_unreviewed_boundary",
+      "boundary_completeness": "not_established"
+    }
+  ],
+  "note": "Detected headings are incomplete navigation aids, not verified chapter boundaries or source summaries."
+}

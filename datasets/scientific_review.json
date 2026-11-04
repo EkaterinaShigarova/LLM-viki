@@ -618,7 +618,7 @@
     "syntheses/water-quality-evidence.md": {
       "status": "ai_source_checked",
       "reviewer_type": "ai_agent",
-      "reviewed_at": "2026-10-22",
+      "reviewed_at": "2026-11-04",
       "claim_ids": [
         "water-quality-evidence-01",
         "water-quality-evidence-02",
@@ -626,17 +626,19 @@
         "water-quality-evidence-04",
         "water-quality-evidence-05",
         "water-quality-evidence-06",
-        "water-quality-evidence-07"
+        "water-quality-evidence-07",
+        "water-quality-evidence-knowledge-20261104-1"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
       },
       "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.",
-      "body_sha256": "6bf2c6d457a4b286e43ad6398623885fb4d1dcb65ca414f88745fd7595dd6268",
+      "body_sha256": "d0f538e8aeb9493acf4e7b4ff212145d9f5839c3245dc85f308a33c8ee05dfee",
       "open_questions": [
         "Получить журналы проб и правила агрегации: фенолы 70–5 и 7–7 за 2024 пока не согласованы."
       ],
@@ -644,7 +646,7 @@
         "F01",
         "F03"
       ],
-      "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
@@ -671,33 +673,36 @@
           "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
           "page": 159
         }
-      ]
+      ],
+      "navigation_update": "2026-11-04: added links to related port and municipal-water articles; evidence and quantities unchanged."
     },
     "syntheses/baikal-seal.md": {
       "status": "ai_source_checked",
       "reviewer_type": "ai_agent",
-      "reviewed_at": "2026-10-22",
+      "reviewed_at": "2026-11-04",
       "claim_ids": [
         "baikal-seal-01",
         "baikal-seal-02",
         "baikal-seal-03",
         "baikal-seal-04",
         "baikal-seal-05",
-        "baikal-seal-06"
+        "baikal-seal-06",
+        "baikal-seal-knowledge-20261104-1"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
       },
       "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.",
-      "body_sha256": "62c8cac10645658bddcf74cec3ce3f4879a0739bda87e05d5f766b881138831d",
+      "body_sha256": "8ccfd0885a2b0851ee2f1f5ef1771e7b08a7a0a9df9055927de314288cdc346b",
       "open_questions": [
         "Согласовать экстраполяцию, ошибки и пересмотры учётов 2018/2024; сопоставимость пока не подтверждена."
       ],
       "finding_ids": [],
-      "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
@@ -1022,6 +1027,131 @@
           "page": 167
         }
       ]
+    },
+    "syntheses/ports-and-petroleum.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "claim_ids": [
+        "ports-and-petroleum-knowledge-20261104-1",
+        "ports-and-petroleum-knowledge-20261104-2",
+        "ports-and-petroleum-knowledge-20261104-3"
+      ],
+      "scientific_review_required": true,
+      "human_confirmation": null,
+      "coverage": "Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.",
+      "finding_ids": [],
+      "open_questions": [
+        "Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки."
+      ],
+      "body_sha256": "2a4ebcbb2820e8944ff55f0167cc47502f0af687b8f0b60918ba178bb22e140a",
+      "source_revisions": {
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+      },
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
+      "link_migration": "2026-11-04: only corrected relative editorial-report links and migrated fact registry; scientific text/evidence unchanged. Current publication copies label linked articles as articles; no source numbers or interpretations changed."
+    },
+    "syntheses/municipal-wastewater.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "claim_ids": [
+        "municipal-wastewater-knowledge-20261104-1",
+        "municipal-wastewater-knowledge-20261104-2",
+        "municipal-wastewater-knowledge-20261104-3",
+        "municipal-wastewater-knowledge-20261104-4",
+        "municipal-wastewater-knowledge-20261104-5"
+      ],
+      "scientific_review_required": true,
+      "human_confirmation": null,
+      "coverage": "Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.",
+      "finding_ids": [],
+      "open_questions": [
+        "Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки."
+      ],
+      "body_sha256": "423b8191696eeae7989d470a9c827c3c13bf9ff7dc2027e634d26371c88aaebd",
+      "source_revisions": {
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+      },
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
+      "link_migration": "2026-11-04: only corrected relative editorial-report links and migrated fact registry; scientific text/evidence unchanged. Current publication copies label linked articles as articles; no source numbers or interpretations changed."
+    },
+    "syntheses/air-temperature-irkutsk-bpt.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "claim_ids": [
+        "air-temperature-irkutsk-bpt-knowledge-20261104-1",
+        "air-temperature-irkutsk-bpt-knowledge-20261104-2",
+        "air-temperature-irkutsk-bpt-knowledge-20261104-3"
+      ],
+      "scientific_review_required": true,
+      "human_confirmation": null,
+      "coverage": "Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.",
+      "finding_ids": [],
+      "open_questions": [
+        "Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки."
+      ],
+      "body_sha256": "00416ca9f9adbb573fec9d498017885e7845873e6e9457d385cf761176073a0c",
+      "source_revisions": {
+        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+      },
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
+      "link_migration": "2026-11-04: only corrected relative editorial-report links and migrated fact registry; scientific text/evidence unchanged."
+    },
+    "syntheses/ship-wastewater-reception.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "claim_ids": [
+        "ship-wastewater-reception-knowledge-20261104-1",
+        "ship-wastewater-reception-knowledge-20261104-2",
+        "ship-wastewater-reception-knowledge-20261104-3",
+        "ship-wastewater-reception-knowledge-20261104-4"
+      ],
+      "scientific_review_required": true,
+      "human_confirmation": null,
+      "coverage": "Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.",
+      "finding_ids": [],
+      "open_questions": [
+        "Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки."
+      ],
+      "body_sha256": "f15694cce7948c18737716ede993180a6ff00c463381a033daac464a99280d52",
+      "source_revisions": {
+        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+      },
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review"
+    },
+    "syntheses/hunting-resources-irkutsk-bpt.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "claim_ids": [
+        "hunting-resources-irkutsk-bpt-knowledge-20261104-1",
+        "hunting-resources-irkutsk-bpt-knowledge-20261104-2",
+        "hunting-resources-irkutsk-bpt-knowledge-20261104-3",
+        "hunting-resources-irkutsk-bpt-knowledge-20261104-4"
+      ],
+      "scientific_review_required": true,
+      "human_confirmation": null,
+      "coverage": "Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.",
+      "finding_ids": [],
+      "open_questions": [
+        "Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки."
+      ],
+      "body_sha256": "82a27da4219a4bd7e40ed13c026a664f49ee789e0ab666c7ec130b4da2ca9032",
+      "source_revisions": {
+        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+      },
+      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review"
     }
   },
   "issues": [

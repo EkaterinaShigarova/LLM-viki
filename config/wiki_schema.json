@@ -6,7 +6,10 @@
     "entity",
     "index",
     "synthesis",
-    "catalog"
+    "catalog",
+    "document_note",
+    "coverage",
+    "question_register"
   ],
   "required_sections": [
     "Источники и доказательства",
@@ -24,5 +27,6 @@
     "ingest",
     "query",
     "lint"
-  ]
+  ],
+  "agent_role": "Codex maintains persistent source-based Markdown knowledge for people and other AI"
 }

@@ -66,7 +66,7 @@ def substantive(text):
 
 
 def propose(source_id, pages=None, limit=20, root=ROOT):
-    """Inspect at most limit changed checkpoints for one source; no PDF/LLM I/O."""
+    """Inspect at most limit changed checkpoints for one source; cached text only."""
     root = Path(root)
     if not 1 <= limit <= 100:
         raise ValueError("Proposal limit must be between 1 and 100 changed pages")
@@ -229,7 +229,6 @@ def propose(source_id, pages=None, limit=20, root=ROOT):
         "notices": failures,
         "proposals": result,
         "published": False,
-        "llm_called": False,
     }
 
 

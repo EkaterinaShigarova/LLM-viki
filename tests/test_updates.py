@@ -69,7 +69,6 @@ class UpdateProposals(unittest.TestCase):
             observations = (root / "datasets/observations.json").read_bytes()
             report = propose("local-one", pages=[1], root=root)
             self.assertFalse(report["published"])
-            self.assertFalse(report["llm_called"])
             packet = load_proposal(root, report["proposals"][0]["id"], "seal")
             self.assertEqual(packet["known_issue_ids"], ["methods"])
             self.assertEqual(packet["status"], "pending_semantic_review")

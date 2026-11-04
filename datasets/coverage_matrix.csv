@@ -1,0 +1,418 @@
+source_id,report_year,section,heading,start_page,candidate_end_page,notes,themes,articles,coverage,boundary_status,scope_status
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.1,1.1. Природные объекты,10,10,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.1.1,1.1.1. Озеро Байкал,10,47,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.1.2,1.1.2. Особо охраняемые природные территории,48,67,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2,1.2. Компоненты природной среды и их природные,68,68,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.1,1.2.1. Водные объекты,68,149,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.5,1.2.5. Животный мир,150,152,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.6,1.2.6. Атмосферный воздух,153,156,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.7,"1.2.7. Осадки, снежный покров",157,163,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.8,1.2.8. Климатические условия,164,166,notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/air-temperature.md,Климат | Сезонность,syntheses/air-temperature-irkutsk-bpt.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.2.9,1.2.9. Радиационная обстановка,167,169,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.3,1.3. Природно-антропогенные объекты,170,170,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.3.1,1.3.1. Район Байкальского ЦБК,170,174,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.3.2,1.3.2. Зона БАМ,175,177,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.3.3,1.3.3. Другие природно-антропогенные объекты,178,179,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4,1.4. Антропогенные объекты и их влияние,180,180,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.1,1.4.1. Промышленные узлы и центры,180,187,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.2,1.4.2. Топливно-энергетический комплекс,188,188,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.2.1,1.4.2.1. Ангаро-Енисейский каскад ГЭС,188,191,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.2.2,1.4.2.2. Теплоэнергетика,192,196,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.3,1.4.3. Жилищно-коммунальное хозяйство,197,201,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.4,1.4.4. Сельское хозяйство,202,203,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.5,1.4.5. Охотничье хозяйство,204,218,notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md,Наземная фауна | Охотничье хозяйство,syntheses/hunting-resources-irkutsk-bpt.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.6,1.4.6. Рыбное хозяйство,219,227,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.7,1.4.7. Розлив глубинной байкальской воды,228,228,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.8,1.4.8. Транспорт,229,232,notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/ship-wastewater.md,Сточные воды | Судоходство,syntheses/ports-and-petroleum.md | syntheses/ship-wastewater-reception.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.8.2,1.4.8.2. Автомобильный транспорт,233,233,notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md,Автотранспорт | Территориальная сопоставимость,syntheses/air-pollution.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.8.3,1.4.8.3. Железнодорожный транспорт,234,235,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.9,1.4.9. Туризм и отдых,236,241,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.10,1.4.10. Экологические правонарушения,242,245,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.11,1.4.11. Социальное положение населения,246,249,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,1.4.12,1.4.12. Общая оценка антропогенного воздействия,250,255,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.1,2.1. Нормативно-правовое регулирование,256,260,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.2,"2.2. Программы, проекты и мероприятия",261,261,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.2.1,2.2.1. Реализация ФЦП «Охрана озера Байкал и социально-,261,275,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.2.2,"2.2.2. Другие программы, проекты и мероприятия по охране",276,279,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.3,2.3. Экологическая экспертиза,280,282,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.4,2.4. Экологический мониторинг,283,286,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.5,2.5. Экологический надзор,287,295,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.6,2.6. Научные исследования,296,304,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.7,2.7. Формирование экологической культуры,305,305,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.7.1,2.7.1. Экологическое образование,305,307,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.7.2,2.7.2. Экологическое просвещение,308,310,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.8,2.8. Общественное экологическое движение,311,313,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.9,2.9. Международное сотрудничество,314,315,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab,2015,2.10,2.10. Обеспечение доступа к информации,316,372,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.1,1.1. Природные объекты,10,10,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.1.1,1.1.1. Озеро Байкал,10,48,notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md | notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md,Качество воды | Коммунальные воды | Методы мониторинга | Порты,syntheses/municipal-wastewater.md | syntheses/ports-and-petroleum.md | syntheses/water-quality-evidence.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.1.2,1.1.2. Особо охраняемые природные территории,49,68,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2,1.2. Компоненты природной среды и их природные,69,69,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.1,1.2.1. Водные объекты,69,145,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.5,1.2.5. Животный мир,146,148,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.6,1.2.6. Атмосферный воздух,149,154,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.7,"1.2.7. Осадки, снежный покров",155,160,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.8,1.2.8. Климатические условия,161,164,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.2.9,1.2.9. Радиационная обстановка,165,167,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.3,1.3. Природно-антропогенные объекты,168,168,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.3.1,1.3.1. Район Байкальского ЦБК,168,171,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.3.2,1.3.2. Зона БАМ,172,174,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.3.3,1.3.3. Другие природно-антропогенные объекты,175,177,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4,1.4. Антропогенные объекты,178,178,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.1,1.4.1. Промышленные узлы и центры,178,184,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.2,1.4.2. Топливно-энергетический комплекс,185,188,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.2.2,1.4.2.2. Теплоэнергетика,189,193,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.3,1.4.3. Жилищно-коммунальное хозяйство,194,198,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.4,1.4.4. Сельское хозяйство,199,200,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.5,1.4.5. Охотничье хозяйство,201,215,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.6,1.4.6. Рыбное хозяйство,216,225,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.7,1.4.7. Розлив глубинной байкальской воды,226,226,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.8,1.4.8. Транспорт,227,230,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.8.2,1.4.8.2. Автомобильный транспорт,231,231,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.8.3,1.4.8.3. Железнодорожный транспорт,232,233,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.9,1.4.9. Туризм и отдых,234,239,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.10,1.4.10. Экологические правонарушения,240,243,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.11,1.4.11. Социальное положение населения,244,247,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,1.4.12,1.4.12. Общая оценка антропогенного воздействия,248,253,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.1,2.1. Нормативно-правовое регулирование,254,259,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.2,"2.2. Программы, проекты и мероприятия",260,260,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.2.1,2.2.1. Реализация ФЦП «Охрана озера Байкал и социально-,260,277,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.2.2,"2.2.2. Другие программы, проекты и мероприятия",278,282,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.3,2.3. Экологическая экспертиза,283,284,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.4,2.4. Экологический мониторинг,285,289,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.5,2.5. Экологический надзор,290,298,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.6,2.6. Научные исследования,299,305,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.7,2.7. Формирование экологической культуры,306,306,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.7.1,2.7.1. Экологическое образование,306,308,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.7.2,2.7.2. Экологическое просвещение,309,310,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.8,2.8. Общественное экологическое движение,311,314,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.9,2.9. Международное сотрудничество,315,316,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0,2016,2.10,2.10. Обеспечение доступа к информации,317,374,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1,1.1. Природные объекты,11,11,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1.1,1.1.1. Озеро Байкал,11,24,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1.1.3.1,1.1.1.3.1 и 1.1.1.3.2 соответственно.,25,28,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1.1.4,1.1.1.4. Гидробиологические сообщества,29,39,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1.1.5,1.1.1.5. Ихтиофауна и популяция нерпы,40,47,notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md,Методы учёта | Нерпа,syntheses/baikal-seal.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.1.2,1.1.2. Особо охраняемые природные территории,48,67,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.2,1.2. Компоненты природной среды и их природные,68,68,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.2.1,1.2.1. Водные объекты,68,139,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.2.5,1.2.5. Животный мир,140,159,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3,1.3. Антропогенные объекты и их влияние,160,160,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.1,1.3.1. Топливно-энергетический комплекс,160,165,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.1.2,1.3.1.2. Теплоэнергетика,166,171,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,172,177,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.3,1.3.3. Сельское хозяйство,178,206,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.6,1.3.6. Розлив глубинной байкальской воды,207,207,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.7,1.3.7. Транспорт,208,208,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.7.1,1.3.7.1. Байкальский флот,208,211,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.7.2,1.3.7.2. Автомобильный транспорт,212,212,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.7.3,1.3.7.3. Железнодорожный транспорт,213,214,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.4.9,1.4.9. Туризм и отдых,215,228,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.11,1.3.11. Общая оценка антропогенного воздействия,229,235,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.1,2.1. Нормативно-правовое регулирование,236,240,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.2,"2.2. Программы, проекты и мероприятия",241,263,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.3,2.3. Экологическая экспертиза,264,265,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.4,2.4. Экологический мониторинг,266,270,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.5,2.5. Экологический надзор,271,278,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,1.3.9,1.3.9 настоящего доклада.,279,280,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.6,2.6. Научные исследования,281,291,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.7,2.7. Формирование экологической культуры,292,296,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.8,2.8. Общественное экологическое движение,297,298,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.9,2.9. Международное сотрудничество,299,300,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr,2017,2.10,2.10. Обеспечение доступа к информации,301,341,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.1,1.1. Природные объекты,11,11,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.1.1,1.1.1. Озеро Байкал,11,46,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.1.1.5,1.1.1.5. Ихтиофауна и популяция нерпы,47,54,notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md,Временная атрибуция | Нерпа | Смертность,syntheses/baikal-seal.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.1.2,1.1.2. Особо охраняемые природные территории,55,57,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,31.12.2018,"31.12.2018 составляла 140 человек, из них штат службы охраны – 50 человек. За 2018 год",58,73,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.2,1.2. Компоненты природной среды и их природные,74,74,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.2.1,1.2.1. Водные объекты,74,140,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.2.5,1.2.5. Животный мир,141,161,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3,1.3. Антропогенные объекты и их влияние,162,162,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.1,1.3.1. Топливно-энергетический комплекс,162,163,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.1.1.2,1.3.1.1.2. Полезный приток в озеро Байкал в 2018 году с минимальными значениями,164,167,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.1.2,1.3.1.2. Теплоэнергетика,168,172,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,173,176,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.3,1.3.3. Сельское хозяйство,177,203,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.6,1.3.6. Розлив глубинной байкальской воды,204,204,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.7,1.3.7. Транспорт,205,205,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.7.1,1.3.7.1. Байкальский флот,205,209,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.7.2,1.3.7.2. Автомобильный транспорт,210,210,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.7.3,1.3.7.3. Железнодорожный транспорт,211,211,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.8,1.3.8. Туризм и отдых,212,225,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,1.3.11,1.3.11. Общая оценка антропогенного воздействия,226,230,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.1,2.1. Нормативно-правовое регулирование,231,234,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.2,"2.2. Программы, проекты и мероприятия",235,253,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.3,2.3. Экологическая экспертиза,254,255,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.4,2.4. Экологический мониторинг,256,264,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.5,2.5. Экологический надзор,265,275,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.6,2.6. Научные исследования,276,286,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.7,2.7. Формирование экологической культуры,287,292,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.8,2.8. Общественное экологическое движение,293,294,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.9,2.9. Международное сотрудничество,295,297,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ,2018,2.10,2.10. Обеспечение доступа к информации,298,342,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.1,1.1. Природные объекты,12,12,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.1.1,1.1.1. Озеро Байкал,12,54,notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md,Разделение сред | Селенга | Сложные таблицы,syntheses/selenga-sediments.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.1.2,1.1.2. Особо охраняемые природные территории,55,75,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2,1.2. Компоненты природной среды и их природные,76,76,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.1,1.2.1. Водные объекты,76,150,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.5,1.2.5. Животный мир,151,152,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.6,1.2.6. Атмосферный воздух,153,156,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.7,"1.2.7 Осадки, снежный покров",157,162,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.8,1.2.8. Климатические условия,163,167,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.2.9,1.2.9. Радиационная обстановка,168,168,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3,1.3. Антропогенные объекты и их влияние,169,169,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.1,1.3.1. Топливно-энергетический комплекс,169,173,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.1.2,1.3.1.2. Теплоэнергетика,174,178,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,179,184,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.3,1.3.3. Сельское хозяйство,185,187,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.4,1.3.4. Охотничье хозяйство,188,203,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.5,1.3.5. Рыбное хозяйство,204,211,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.6,1.3.6. Розлив глубинной байкальской воды,212,212,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.7,1.3.7. Транспорт,213,213,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.7.1,1.3.7.1. Байкальский флот,213,216,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.7.2,1.3.7.2. Автомобильный транспорт,217,217,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.7.3,1.3.7.3. Железнодорожный транспорт,218,218,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.8,1.3.8. Туризм и отдых,219,225,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.9,1.3.9. Экологические правонарушения,226,229,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.10,1.3.10. Социальное положение населения,230,233,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,1.3.11,1.3.11. Общая оценка антропогенного,234,238,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.1,2.1. Нормативно-правовое регулирование,239,241,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.2,"2.2. Программы, проекты и мероприятия",242,264,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.3,2.3. Экологическая экспертиза,265,266,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.4,2.4. Экологический мониторинг,267,275,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.5,2.5. Экологический надзор,276,285,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.6,2.6. Научные исследования,286,297,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.7,2.7. Формирование экологической культуры,298,302,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.8,2.8. Общественное экологическое движение,303,305,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.9,2.9. Международное сотрудничество,306,307,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn,2019,2.10,2.10. Обеспечение доступа к информации,308,348,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.2.5,1.2.5. Животный мир,155,213,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.5,1.3.5. Рыбное хозяйство,214,223,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.6,1.3.6. Розлив глубинной байкальской воды,224,224,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.7,1.3.7. Транспорт,224,224,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.7.1,1.3.7.1. Байкальский флот,224,228,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.7.3,1.3.7.3. Железнодорожный транспорт,229,229,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,1.3.8,1.3.8. Туризм и отдых,230,269,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP,2020,17.12.2020,17.12.2020 № 38-ru 38303000-53-2020.,270,361,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.1.2,1.3.1.2. Теплоэнергетика,187,191,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,192,199,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.4,1.3.4. Охотничье хозяйство,200,224,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.6,1.3.6. Розлив глубинной байкальской воды,225,225,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.7,1.3.7. Транспорт,226,226,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.7.1,1.3.7.1. Байкальский флот,226,230,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,1.3.7.3,1.3.7.3. Железнодорожный транспорт,231,248,notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md,Коммунальные воды | Промышленное наследие,syntheses/bcbk-legacy.md | syntheses/municipal-wastewater.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,30.08.2026,"30.08.2026. Объем сброса сточных вод в озеро Байкал в 2021 году составил 2,08 млн м",249,249,notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md,Коммунальные воды | Промышленное наследие,syntheses/bcbk-legacy.md | syntheses/municipal-wastewater.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,29.04.2021,29.04.2021 ОАО «Байкальский ЦБК» на основании договора водопользования,249,249,notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md,Коммунальные воды | Промышленное наследие,syntheses/bcbk-legacy.md | syntheses/municipal-wastewater.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,29.04.2021,"29.04.2021 на срок до 28.04.2041, для передачи поднятой воды для нужд теплоэнергетики",249,249,notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md,Коммунальные воды | Промышленное наследие,syntheses/bcbk-legacy.md | syntheses/municipal-wastewater.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB,2021,15.06.2021,15.06.2021 № 3 Росприроднадзором осуществлялась работа по контролю степени очистки,249,372,notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md,Коммунальные воды | Промышленное наследие,syntheses/bcbk-legacy.md | syntheses/municipal-wastewater.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.1.2,1.1.2. Особо охраняемые природные территории,61,63,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,26.07.2022,26.07.2022 в пределах ЭЗАВ,64,111,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.2.2.1.3,1.2.2.1.3 и на рис,112,188,notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md,Климат | Статистический тип,syntheses/air-temperature-irkutsk-bpt.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,189,191,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.2.5,1.3.2.5 и 1.3.2.6.,192,222,notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md,Неопределённость методов | Охотничьи ресурсы,syntheses/hunting-resources-irkutsk-bpt.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.6,1.3.6. Розлив глубинной байкальской воды,223,223,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.7,1.3.7. Транспорт,223,223,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.7.1,1.3.7.1. Байкальский флот,223,228,notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md | notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md,Автотранспорт | Многостраничные таблицы | Судоходство | Территории и конфиденциальность,syntheses/air-pollution.md | syntheses/ports-and-petroleum.md | syntheses/ship-wastewater-reception.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.7.3,1.3.7.3. Железнодорожный транспорт,229,235,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,1.3.9,1.3.9. Экологические правонарушения,236,269,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq,2022,2.5.2,2.5.2 приведены показатели деятельности территориальных органов по феде-,270,374,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1,1.1. Природные объекты,10,10,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1,1.1.1. Озеро Байкал,10,10,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1.1,1.1.1.1. Уровень озера,10,14,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1.2,1.1.1.2. Поверхностный слой и водная толща,15,40,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1.3,1.1.1.3. Донные отложения,41,45,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1.4,1.1.1.4. Гидробиологические сообщества,46,62,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.1.5,1.1.1.5. Ихтиофауна и популяция нерпы,63,72,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.1.2,1.1.2. Особо охраняемые природные территории,73,73,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,14.03.1995,14.03.1995 № 33-ФЗ «Об особо охраняемых при-,74,76,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,31.12.2023,"31.12.2023 составляло 266 человек, из них штат",77,84,notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md,ООПТ | Отходы | Туризм,syntheses/protected-areas-management.md | syntheses/tourism-pressure.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2,1.2. Компоненты природной среды,85,85,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.1,1.2.1. Водные объекты,85,98,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2,1.2. Компоненты природной среды и их ресурсный потенциал,99,108,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.1.3,1.2.1.3. Подземные воды,109,116,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.2.1,1.2.2.1. Эндогенные геологические процессы и геофизические поля.,117,126,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.2.2,1.2.2.2. Экзогенные геологические процессы,127,133,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.2.3,1.2.2.3. Минерально-сырьевые ресурсы,134,146,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.3,1.2.3. Земельный фонд,147,150,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.3,1.2.3. Растительность и животный мир,151,166,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.6,1.2.6. Атмосферный воздух,167,174,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.5,2.5 и диоксида азота. Город Улан-Удэ и пгт. Селенгинск в течение многих,175,175,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.7,"1.2.7. Осадки, снежный покров",176,181,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.8,1.2.8. Климатические условия,182,190,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.2.9,1.2.9. Радиационная обстановка,191,193,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3,1.3. Антропогенные объекты и их влия-,194,194,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.1,1.3.1. Топливно-энергетический комплекс,194,194,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.1.1,1.3.1.1. Ангаро-Енисейский каскад ГЭС,194,194,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3,1.3. Антропогенные объекты и их влияние на окружающую среду,195,197,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.1.2,1.3.1.2. Теплоэнергетика,198,201,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,202,208,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.3,1.3.3. Сельское хозяйство,209,213,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.4,1.3.4. Охотничье хозяйство,214,219,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.5,1.3.5. Рыбное хозяйство,220,226,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.6,1.3.6. Розлив глубинной байкальской воды,227,227,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.7,1.3.7. Транспорт,228,228,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.7.1,1.3.7.1 Байкальский флот,228,230,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.7.2,1.3.7.2 Автомобильный транспорт,231,231,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.7.3,1.3.7.3. Железнодорожный транспорт,232,232,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.8,1.3.8. Туризм и отдых,233,237,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.9,1.3.9. Экологические правонарушения,238,239,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.10,1.3.10. Социальное положение населения,240,243,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,1.3.11,1.3.11. Общая оценка антропогенного воздействия,244,251,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.1,2.1. Нормативно-правовое,252,259,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.2,"2.2. Программы, проекты и мероприятия",260,266,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.2,"2.2. Программы, проекты и мероприятия по охране озера Байкал",267,268,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.3,2.3. Экологическая экспертиза,269,272,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.4,2.4. Экологический мониторинг,273,278,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.5,2.5. Экологический надзор,279,284,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.6,2.6. Научные исследования и научное,285,304,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.6,2.6. Научные исследования и научное обеспечение сохранения озера Байкал,305,355,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.7,2.7. Формирование экологической,356,361,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.8,2.8. Общественное,362,374,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.9,2.9. Международное сотрудничество,375,376,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.10,2.10. Обеспечение доступа,377,392,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi,2023,2.10,2.10. Обеспечение доступа к информации,393,414,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1,1.1. Природные объекты,11,11,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1,1.1.1. Озеро Байкал,11,11,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1.1,1.1.1.1. Уровень озера,11,13,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1.2,1.1.1.2. Поверхностный слой и водная толща,14,35,notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md,Гидрохимия | Расхождения первоисточников,syntheses/municipal-wastewater.md | syntheses/water-quality-evidence.md,partial_selected_pages_only,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1.3,1.1.1.3. Донные отложения,36,37,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1.4,1.1.1.4. Гидробиологические сообщества,38,61,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.1.5,1.1.1.5. Ихтиофауна и популяция нерпы,62,70,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.1.2,1.1.2. Особо охраняемые природные территории,71,85,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2,1.2. Компоненты природной среды,86,86,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.1,1.2.1. Водные объекты,86,99,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.1.3,1.2.1.3. Подземные воды,100,105,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.2.1,1.2.2.1. Эндогенные геологические процессы и геофизические поля,106,114,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.2.2,1.2.2.2. Экзогенные геологические процессы,115,120,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.2.3,1.2.2.3. Минерально-сырьевые ресурсы,121,122,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.3,1.2.3. Земельный фонд,123,123,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,01.01.2025,01.01.2025 г. следующая:,124,124,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,01.01.2025,01.01.2025 г. в собственности граждан и юриди-,124,130,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.4,1.2.4. Растительность и животный мир,131,135,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,24.01.2025,"24.01.2025 площадь погибших насаждений на БПТ,",136,136,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,24.01.2025,24.01.2025 общая площадь действующих очагов,136,138,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.6,1.2.6. Атмосферный воздух,139,139,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,28.01.2021,28.01.2021 № 2 утверждены Санитарные правила и,139,143,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,24.08.2024,"24.08.2024 г. – 0,081 мг/м",144,144,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,08.10.2024,08.10.2024 г. длительностью 40 мин. – до,144,144,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,26.03.2024,"26.03.2024 г.– 7,500 мг/м",144,144,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,27.03.2024,"27.03.2024 г. – 5,096 мг/м",144,146,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.7,"1.2.7. Осадки, снежный покров",147,152,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.8,1.2.8. Климатические условия,153,158,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.2.9,1.2.9. Радиационная обстановка,159,160,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3,1.3. Антропогенные объекты и их влияние на,161,161,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.1,1.3.1. Топливно-энергетический комплекс,161,161,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.1.1,1.3.1.1. Ангаро-Енисейский каскад ГЭС,161,163,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.1.2,1.3.1.2. Теплоэнергетика,164,165,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,01.09.2020,01.09.2020 – публичное акционерное общество,166,167,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.2,1.3.2. Жилищно-коммунальное хозяйство,168,173,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.3,1.3.3. Сельское хозяйство,174,177,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.4,1.3.4. Охотничье хозяйство,178,178,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,04.02.2019,"04.02.2019 № 22-уг, которая опубликована на",179,183,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,07.12.2022,07.12.2022 № 3789-р.,184,185,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.5,1.3.5. Рыбное хозяйство,186,187,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,22.07.2022,22.07.2022 № 463 «О внесении изменений в приказ,188,191,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.6,1.3.6. Розлив глубинной байкальской воды,192,192,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.7,1.3.7. Транспорт,193,193,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.7.1,1.3.7.1. Байкальский флот,193,195,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.7.2,1.3.7.2. Автомобильный транспорт,196,196,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.7.3,1.3.7.3. Железнодорожный транспорт,197,197,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.8,1.3.8. Отходы производства и потребления,198,198,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,17.06.2025,17.06.2025 № ВЧ-02-01-28/26623 формирование офи-,198,199,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.9,1.3.9. Туризм и отдых,200,200,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,03.02.2007,03.02.2007 постановлением Правительства Россий-,201,201,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,03.02.2007,03.02.2007 г. постановлением Правительства Рос-,202,203,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.10,1.3.10. Экологические правонарушения,204,205,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.11,1.3.11. Социальное положение населения,206,208,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.12,1.3.12. Общая оценка антропогенного воздействия,209,210,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,29.04.2021,29.04.2021 на срок до 28.04.2041 для передачи за-,211,211,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,16.08.2041,16.08.2041 для передачи забранной воды для питье-,211,213,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,01.11.2013,01.11.2013 № 6-р «Об утверждении Порядка органи-,214,214,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.13,1.3.13. Оценка эффективности региональных планов,215,215,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.13.1,1.3.13.1. Приоритетные адаптационные мероприятия региональных,215,217,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,1.3.13.2,1.3.13.2. Результаты оценки климатических рисков субъектов,218,220,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.1,2.1. Нормативно-правовое регулирование,221,227,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.2,"2.2. Программы, проекты и мероприятия по охране",228,231,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.3,2.3. Экологическая экспертиза,232,232,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,23.11.1995,23.11.1995 № 174-ФЗ «Об экологической экспертизе»),233,233,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.4,2.4. Экологический мониторинг,234,235,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.5,2.5. Экологический надзор,236,245,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6,2.6. Научные исследования и научное обеспечение,246,246,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.1,2.6.1. ФГБУН Сибирский институт физиологии и биохимии,246,256,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.2,2.6.2. ФГБУН Институт географии им В.Б. Сочавы,257,257,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.3,2.6.3. ФГБУН Байкальский институт природопользования,258,260,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.4,2.6.4. ФГБУН Институт геохимии им. А.П. Виноградова,261,262,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.5,2.6.5. ФГБУН Институт земной коры СО РАН (ИЗК СО РАН),263,265,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.6,2.6.6. ФГБУН Институт общей и экспериментальной,266,266,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.7,"2.6.7. ФГБУН Институт природных ресурсов, экологии",267,269,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.8,2.6.8. ФГБУН Лимнологический институт,270,290,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.9,2.6.9. ФГБУН Институт солнечно-земной физики,291,291,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.10,2.6.10. ФГБУН Геологический институт им. Н.Л. Добрецова,292,294,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.11,2.6.11. Байкальский музей СО РАН (БМ СО РАН),295,295,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.12,2.6.12. ФГБОУ ВО «Иркутский государственный университет»,296,299,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.13,2.6.13. ФГБУ «Заповедное Прибайкалье»,300,300,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.14,2.6.14. ФГБУ «Заповедное Подлеморье»,301,301,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.15,2.6.15. ФГБУ «Байкальский государственный заповедник»,301,301,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.16,2.6.16. ФГБУ «Государственный природный заповедник,302,302,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.17,2.6.17. ФГБУ «Сохондинский государственный природный,302,302,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.18,2.6.18. ФГБУ «Национальный парк «Тункинский»,302,303,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.19,2.6.19. ФГБУ «Национальный парк «Чикой»,304,304,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.6.20,2.6.20. Научный совет Сибирского отделения,304,309,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.7,2.7. Формирование экологической культуры,310,312,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.8,2.8. Общественное экологическое движение,313,314,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.9,2.9. Участие бизнеса в природоохранных,315,317,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.10,2.10. Международное сотрудничество,318,318,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.10.1,"2.10.1. Мероприятия, проводимые ЮНЕСКО",318,318,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.10.2,2.10.2. Российско-Монгольское сотрудничество,319,320,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos,2024,2.11,2.11. Обеспечение доступа к информации,321,353,,,,not_summarized,unreviewed_navigation_range,document_scope_unreviewed
+official-b4e3fcfe0e41e26ea03b,2025,1.1,1.1. Гелиогеофизическая обстановка,6,9,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,1.2,1.2. Опасные гидрометеорологические явления,10,12,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,1.3,1.3. Температура воздуха,13,15,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,1.4,1.4. Атмосферные осадки,16,17,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,1.5,1.5. Снежный покров,18,19,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,1.6,1.6. Водные ресурсы,20,27,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.1,2.1. Характеристика государственной сети наблюдений,28,29,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.2,2.2. Оценка антропогенного влияния на климатическую систему,30,30,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.2.1,2.2.1. Эмиссия парниковых газов,30,30,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.2.2,2.2.2. Содержание СО,31,33,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3,2.3. Оценка состояния и загрязнения атмосферы,34,34,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.1,2.3.1. Оптическая плотность и прозрачность атмосферы,34,37,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.2,2.3.2. Электрические характеристики приземного слоя атмосферы,38,39,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.3,2.3.3. Состояние озонового слоя над Россией и прилегающими территориями,40,46,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.4,2.3.4. Фоновое содержание загрязняющих веществ в атмосферном воздухе,47,49,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.5,2.3.5. Ионный состав атмосферных осадков,50,55,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.6,2.3.6. Кислотность и химический состав атмосферных осадков,56,63,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.7,2.3.7. Фоновое загрязнение атмосферных осадков (по данным сети СКФМ),64,65,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.8,2.3.8. Загрязнение воздуха и осадков по данным станций ЕМЕП,66,68,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.3.9,2.3.9. Загрязнение воздуха и осадков по данным станций ЕАНЕТ,69,70,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.4,2.4. Содержание загрязняющих веществ в почвах и растительности,71,71,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.4.1,2.4.1. Содержание загрязняющих веществ в почвах и растительности,71,78,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.5,2.5. Фоновое загрязнение поверхностных вод (по данным сети СКФМ),79,79,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.6,2.6. Радиационная обстановка на территории России,80,80,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.6.1,2.6.1. Радиоактивное загрязнение приземного слоя воздуха,80,81,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.6.2,2.6.2. Радиоактивное загрязнение поверхностных вод,82,82,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,2.6.3,2.6.3. Радиационная обстановка на территории федеральных округов,82,84,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.1,3.1. Загрязнение атмосферного воздуха населенных пунктов,85,85,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.1.1,3.1.1. Характеристика загрязнения атмосферного воздуха,85,94,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.2,3.2. Загрязнение почвенного покрова,95,95,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.2.1,3.2.1. Загрязнение почв токсикантами промышленного происхождения,95,103,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.2.2,3.2.2. Загрязнение почв остаточными количествами пестицидов,104,107,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3,3.3. Загрязнение поверхностных вод,108,108,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.1,3.3.1. Качество поверхностных вод по гидрохимическим показателям,108,125,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.2,3.3.2. Гидробиологическая оценка состояния пресноводных объектов,126,127,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.3,"3.3.3. Водные объекты с наибольшими уровнями загрязнения, аварийные ситуации",128,130,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.4,3.3.4. Загрязнение поверхностных водных объектов в результате,131,132,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.5,3.3.5. Загрязнение морских вод Российской Федерации по гидрохимическим показателям,133,145,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.3.6,3.3.6. Гидробиологическая оценка состояния морских вод,146,148,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,4.1,4.1. Московский регион,149,155,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,4.2,4.2. Озеро Байкал,156,157,,,,not_summarized,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,2.2,2.2. Гидрохимические наблюдения за качеством поверхностных вод,158,160,notes/official-b4e3fcfe0e41e26ea03b/control-review.md,Гидрохимия | Обзор Росгидромета,syntheses/municipal-wastewater.md | syntheses/water-quality-evidence.md,partial_selected_pages_only,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,2.3,2.3. Состояние донных отложений,161,162,notes/official-b4e3fcfe0e41e26ea03b/ports-review.md,Порты | Пространственная атрибуция,syntheses/north-baikal-water.md | syntheses/ports-and-petroleum.md,partial_selected_pages_only,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,2.4,2.4. Гидробиологические наблюдения на озере,163,163,,,,not_summarized,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,2.5,2.5. Характеристика выноса загрязняющих веществ с водным стоком основных притоков,164,165,,,,not_summarized,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,2.6,2.6. Антропогенные токсиканты в окружающей среде центральной экологической зоны,166,173,,,,not_summarized,unreviewed_navigation_range,configured_baikal_range
+official-b4e3fcfe0e41e26ea03b,2025,4.3,4.3. Арктическая зона Российской Федерации,174,175,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,3.1,3.1. Особенности климатического режима года,176,180,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,4.3.2,4.3.2. Комплексная оценка состояния и загрязнения окружающей среды в Арктической,181,210,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope
+official-b4e3fcfe0e41e26ea03b,2025,4.4,4.4. Комплексные исследования загрязнения окружающей среды в районе,211,227,,,,outside_baikal_scope,unreviewed_navigation_range,outside_configured_baikal_scope

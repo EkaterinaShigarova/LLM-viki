@@ -1,7 +1,6 @@
 # Immutable originals and processing products stay local
 /data/
 /.venv/
-/.venv-llm/
 /.tools/
 /.cache/
 *.pdf
@@ -19,7 +18,6 @@ __pycache__/
 .pytest_cache/
 .env
 .env.*
-!.env.example
 credentials*.json
 *service-account*.json
 .DS_Store
