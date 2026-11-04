@@ -24,10 +24,12 @@
 ## 2018
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
+- [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
 
 ## 2019
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
+- [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
 
 ## 2020
 
@@ -38,6 +40,7 @@
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
+- [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
 
 ## 2022
 
@@ -45,10 +48,12 @@
 - [2022: судовой приём вод, категории и продолжение таблицы](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md) — доклад 2022.
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
+- [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 
 ## 2023
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
+- [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
 ## 2024
 

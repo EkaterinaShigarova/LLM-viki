@@ -9,6 +9,11 @@
 - [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
 - [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
 - [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+- [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
+- [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
+- [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
+- [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
+- [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
 ## Водозабор
 
@@ -190,6 +195,11 @@
 - [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
 - [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
 - [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+- [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
+- [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
+- [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
+- [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
+- [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
 ## Приём судовых вод
 
@@ -242,6 +252,11 @@
 - [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
 - [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
 - [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+- [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
+- [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
+- [2021: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md) — доклад 2021.
+- [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
+- [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
 ## Фактическая добыча
 
