@@ -560,7 +560,6 @@
       "territory": "Озеро Байкал",
       "height_system": "ТО",
       "unit": "m (literal decimal comma retained)",
-      "narrative_page": 12,
       "table_page": 14,
       "narrative_fields": [
         "level_at_year_start",
@@ -587,7 +586,21 @@
       "last_row_extreme_labels_explicit": true,
       "verification_status": "Source transcription checked by agent; not confirmed observations or specialist review",
       "comparability_approved": false,
-      "observations_added": false
+      "observations_added": false,
+      "table_daily_upper_m_literal": "456,95",
+      "table_daily_lower_m_literal": "455,71",
+      "narrative_pages": [
+        12,
+        13
+      ],
+      "narrative_field_pages": {
+        "level_at_year_start": 12,
+        "norm_at_year_start": 12,
+        "minimum_level": 12,
+        "maximum_level": 12,
+        "rise_during_filling": 12,
+        "level_at_year_end": 13
+      }
     },
     {
       "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
@@ -598,7 +611,6 @@
       "territory": "Озеро Байкал",
       "height_system": "ТО",
       "unit": "m (literal decimal comma retained)",
-      "narrative_page": 13,
       "table_page": 14,
       "narrative_fields": [
         "level_at_year_start",
@@ -625,7 +637,20 @@
       "last_row_extreme_labels_explicit": true,
       "verification_status": "Source transcription checked by agent; not confirmed observations or specialist review",
       "comparability_approved": false,
-      "observations_added": false
+      "observations_added": false,
+      "table_daily_upper_m_literal": "456,88",
+      "table_daily_lower_m_literal": "456,23",
+      "narrative_pages": [
+        13
+      ],
+      "narrative_field_pages": {
+        "level_at_year_start": 13,
+        "norm_at_year_start": 13,
+        "minimum_level": 13,
+        "maximum_level": 13,
+        "rise_during_filling": 13,
+        "level_at_year_end": 13
+      }
     },
     {
       "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
@@ -636,7 +661,6 @@
       "territory": "Озеро Байкал",
       "height_system": "ТО",
       "unit": "m (literal decimal comma retained)",
-      "narrative_page": 15,
       "table_page": 16,
       "narrative_fields": [
         "level_at_year_start",
@@ -663,7 +687,20 @@
       "last_row_extreme_labels_explicit": true,
       "verification_status": "Source transcription checked by agent; not confirmed observations or specialist review",
       "comparability_approved": false,
-      "observations_added": false
+      "observations_added": false,
+      "table_daily_upper_m_literal": "457,23",
+      "table_daily_lower_m_literal": "456,20",
+      "narrative_pages": [
+        15
+      ],
+      "narrative_field_pages": {
+        "level_at_year_start": 15,
+        "norm_at_year_start": 15,
+        "minimum_level": 15,
+        "maximum_level": 15,
+        "rise_during_filling": 15,
+        "level_at_year_end": 15
+      }
     },
     {
       "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
@@ -674,7 +711,6 @@
       "territory": "Озеро Байкал",
       "height_system": "ТО",
       "unit": "m (literal decimal comma retained)",
-      "narrative_page": 15,
       "table_page": 16,
       "narrative_fields": [
         "level_at_year_start",
@@ -701,7 +737,20 @@
       "last_row_extreme_labels_explicit": true,
       "verification_status": "Source transcription checked by agent; not confirmed observations or specialist review",
       "comparability_approved": false,
-      "observations_added": false
+      "observations_added": false,
+      "table_daily_upper_m_literal": "456,86",
+      "table_daily_lower_m_literal": "456,35",
+      "narrative_pages": [
+        15
+      ],
+      "narrative_field_pages": {
+        "level_at_year_start": 15,
+        "norm_at_year_start": 15,
+        "minimum_level": 15,
+        "maximum_level": 15,
+        "rise_during_filling": 15,
+        "level_at_year_end": 15
+      }
     },
     {
       "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
@@ -712,7 +761,6 @@
       "territory": "Озеро Байкал",
       "height_system": "ТО",
       "unit": "m (literal decimal comma retained)",
-      "narrative_page": 11,
       "table_page": 13,
       "narrative_fields": [
         "level_at_year_start",
@@ -739,7 +787,20 @@
       "last_row_extreme_labels_explicit": false,
       "verification_status": "Source transcription checked by agent; not confirmed observations or specialist review",
       "comparability_approved": false,
-      "observations_added": false
+      "observations_added": false,
+      "table_daily_upper_m_literal": "457,15",
+      "table_daily_lower_m_literal": "456,14",
+      "narrative_pages": [
+        11
+      ],
+      "narrative_field_pages": {
+        "level_at_year_start": 11,
+        "norm_at_year_start": 11,
+        "minimum_level": 11,
+        "maximum_level": 11,
+        "rise_during_filling": 11,
+        "level_at_year_end": 11
+      }
     }
   ],
   "issues": [
@@ -1141,5 +1202,252 @@
     "hydrology-retrospective-ranges",
     "hydrology-figure-labels",
     "hydrology-periods-and-methods"
-  ]
+  ],
+  "article_archives": [
+    {
+      "article": "syntheses/water-level-regulation.md",
+      "sha256": "f5d63b4cdb5b1d9945e754301b823e9e3ec87dc2468b753cd469324bd7e6c62f",
+      "path": "data/wiki_updates/versions/f5d63b4cdb5b1d9945e754301b823e9e3ec87dc2468b753cd469324bd7e6c62f.md"
+    },
+    {
+      "article": "syntheses/baikal-water-balance.md",
+      "sha256": "e70af9f9ee29cb3c1792a3700ec68a8f0e6e0e717b88ee747f5a2b449bdee24d",
+      "path": "data/wiki_updates/versions/e70af9f9ee29cb3c1792a3700ec68a8f0e6e0e717b88ee747f5a2b449bdee24d.md"
+    },
+    {
+      "article": "syntheses/spring-ice-regime.md",
+      "sha256": "574a511aff1e77a8db06c894986ca8d2f6032fc4daf6462cbb512bd9102074fb",
+      "path": "data/wiki_updates/versions/574a511aff1e77a8db06c894986ca8d2f6032fc4daf6462cbb512bd9102074fb.md"
+    }
+  ],
+  "completion_of_previous_queue": [
+    {
+      "report_year": 2018,
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "actual_pages": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "section_and_referenced_figures_read; selected rows checked",
+      "not_full_atomic_coverage": true
+    },
+    {
+      "report_year": 2019,
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "actual_pages": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "section_and_referenced_figures_read; selected rows checked",
+      "not_full_atomic_coverage": true
+    },
+    {
+      "report_year": 2021,
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "actual_pages": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "section_and_referenced_figures_read; selected rows checked",
+      "not_full_atomic_coverage": true
+    },
+    {
+      "report_year": 2022,
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "actual_pages": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "status": "section_and_referenced_figures_read; selected rows checked",
+      "not_full_atomic_coverage": true
+    },
+    {
+      "report_year": 2023,
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "actual_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "status": "section_and_referenced_figures_read; selected rows checked",
+      "not_full_atomic_coverage": true
+    }
+  ],
+  "supersedes_queue_from": "datasets/hydrology_review.json#/reading_queue (historical snapshot retained unchanged)",
+  "next_reading_queue": [
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "candidate_pages": [
+        156,
+        157,
+        158,
+        164,
+        165
+      ],
+      "status": "not_read_in_part2",
+      "task": "Прочитать Байкальский контекст и речной сток обзора; проверить фактические границы и методы."
+    },
+    {
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "report_year": 2016,
+      "candidate_pages": [
+        30,
+        32,
+        33
+      ],
+      "status": "keyword_candidates_not_read",
+      "task": "Проверить, относятся ли ледостав/толщина/температура именно к Байкалу, затем читать подраздел с продолжениями."
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "candidate_pages": [
+        35,
+        37,
+        38
+      ],
+      "status": "keyword_candidates_not_read",
+      "task": "Проверить ледовый/термический материал и географию перед конспектированием."
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "candidate_pages": [
+        40,
+        41
+      ],
+      "status": "keyword_candidates_not_read",
+      "task": "Проверить ледовый/термический контекст; не считать совпадение слова доказательством содержания."
+    }
+  ],
+  "arithmetic_checks": [
+    {
+      "id": "direction-2018",
+      "operands_m": [
+        "455,98",
+        "456,15"
+      ],
+      "source_reports_pages": [
+        [
+          2018,
+          12
+        ],
+        [
+          2017,
+          12
+        ]
+      ],
+      "reported_comparison": "0,17 м выше",
+      "calculated_signed_difference_m": "-0.17",
+      "source_repaired": false
+    },
+    {
+      "id": "direction-2021",
+      "operands_m": [
+        "456,64",
+        "456,48"
+      ],
+      "source_reports_pages": [
+        [
+          2021,
+          15
+        ]
+      ],
+      "reported_comparison": "0,16 м ниже",
+      "calculated_signed_difference_m": "0.16",
+      "source_repaired": false
+    },
+    {
+      "id": "monthly-2019",
+      "operands_m": [
+        "456,64",
+        "455,48"
+      ],
+      "source_reports_pages": [
+        [
+          2019,
+          14
+        ]
+      ],
+      "reported_difference_cm": "16",
+      "calculated_difference_cm": "116",
+      "source_repaired": false
+    }
+  ],
+  "final_validation": {
+    "starting_commit": "0109fe2b30041dd704a4038137d55c962050eff3",
+    "pdfs_sha256_unchanged": 11,
+    "checkpoints_sha256_unchanged": 3878,
+    "protected_datasets_unchanged": [
+      "config/sources.json",
+      "datasets/observations.csv",
+      "datasets/observations.json",
+      "datasets/table_review_2025_4_7.json",
+      "datasets/hydrology_levels_2024.csv",
+      "datasets/hydrology_review.json",
+      "datasets/source_facts.json",
+      "datasets/editorial_candidates.json"
+    ],
+    "earlier_notes_unchanged": 25,
+    "earlier_claims_unchanged": 140,
+    "earlier_articles_retained": 29,
+    "articles_modified": [
+      "wiki/syntheses/water-level-regulation.md",
+      "wiki/syntheses/spring-ice-regime.md",
+      "wiki/syntheses/baikal-water-balance.md"
+    ],
+    "full_previous_articles_archived": 3,
+    "new_notes": 5,
+    "new_physical_pages": 26,
+    "total_notes": 30,
+    "total_distinct_note_pages": 78,
+    "analytical_articles": 29,
+    "new_articles": 0,
+    "page_contexts_checked": 26,
+    "reused_comparison_contexts_checked": 3,
+    "page_images_checked": 22,
+    "figures_read": 10,
+    "tables_read": 5,
+    "table_page_occurrences": 7,
+    "selected_annual_source_records_checked": 5,
+    "markdown_files_checked": 128,
+    "internal_links_checked": 2149,
+    "anchors_checked": 1053,
+    "physical_page_links_checked": 1024,
+    "tests": {
+      "passed": 64,
+      "failed": 0,
+      "skipped": 0
+    },
+    "expert_review": false,
+    "full_hydrological_coverage_established": false,
+    "errors": []
+  },
+  "source_validation": {
+    "selected_claims_in_current_registry": 152,
+    "checked_local_claim_references": 250,
+    "earlier_reviewed_observations": 168,
+    "errors": [],
+    "scope": "Provenance/quote checks, not specialist scientific review"
+  }
 }

@@ -62,6 +62,40 @@
 
 Все выбранные числовые отметки относятся к ТО; пересчёт из другой системы высот не выполнялся. Разные нормативные линии — условия определённых актов и водности, а не самостоятельные наблюдения. Сведения 2015 о расчётной работе и предложениях изменения регулирования не доказывают осуществление всех рекомендаций или рассчитанный экологический эффект. [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p10](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-10) [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p15](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-15) [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p16](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-16)
 
+## Дополнение: годовые истории 2018, 2019 и 2021–2023
+
+Оставшиеся подразделы позволяют проследить разные сезонные истории, а не только сопоставить по одному максимуму. В таблице ниже — **отметки и периоды повествования**, в м ТО. Они отделены от самостоятельных месячных/суточных блоков ретроспективных таблиц; особенно это существенно для спорных дат 2019. «Средний уровень» на начало года не получает придуманного алгоритма осреднения.
+
+| Год наблюдения | На начало года | Минимум → максимум в повествовании | Период наполнения | На конец года | Источник |
+| --- | ---: | --- | --- | ---: | --- |
+| 2018 | 455,98 | 455,71 → 456,95 | 18 апреля–1 ноября | 456,64 | [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p12](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-12) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p13](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-13) |
+| 2019 | 456,64 | 456,23 → 456,88 | 9 мая–18 сентября | 456,48 | [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p13](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-13) |
+| 2021 | 456,64 | 456,20 → 457,23 | 11 мая–28 сентября | 456,78 | [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15) |
+| 2022 | 456,77 | 456,35 → 456,86 | 7 мая–15 сентября | 456,46 | [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) |
+| 2023 | 456,46 | 456,14 → 457,15 | 12 мая–7 октября | 456,75 | [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p11](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-11) |
+
+Напечатанные приросты наполнения этих лет — соответственно 1,24; 0,65; 1,03; 0,51 и 1,01 м — арифметически согласуются с приведёнными крайними отметками. Это проверка чисел, а не валидация измерений или однородности временного ряда. Между концом года и началом следующего возможны различающиеся исходные отсчёты; их нельзя объявлять одной точкой без первичного ряда. Прежние противоречия 2020 (включая 0,5/0,05 м) остаются открытыми. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p12](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-12) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p13](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-13) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p11](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-11)
+
+### Направление сравнений и нормы
+
+В докладе 2018 уровень 455,98 м назван на 0,17 м **выше** начала 2017; прежний доклад даёт на 01.01.2017 456,15 м. Собственная разность двух напечатанных отметок — **−0,17 м**. В 2021 фраза «на 0,16 м **ниже**» сопровождает 456,64 м против приведённых 456,48 м на 01.01.2020; собственная разность **+0,16 м**. Изображения подтверждают направления слов и числа. Неизвестно, какой элемент исправлять, поэтому исходные сообщения не заменяются расчётом. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p12](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-12) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p12](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-12) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15)
+
+Норма начала года составляет 456,43 м в описаниях 2018/2019/2021 и 456,47 м в 2022/2023, тогда как в ранее прочитанном 2024 — 456,44 м. Все эти отметки названы в ТО. Само различие не доказывает смены системы высот, ошибки или физического изменения уровня: не раскрыты базовые годы и способ определения нормы. Сопоставлять отклонения от нормы как единый ряд пока нельзя. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p12](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-12) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p13](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-13) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p11](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-11) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p11](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11)
+
+### Почему строку 2019 нельзя исправлять по правдоподобию
+
+Повествование 2019 ставит минимум к 8 мая и окончание наполнения к 18 сентября. Таблица того же доклада размещает max 456,88 м на **1–8 мая**, min 456,23 м — на **14–18 сентября**. В месячном блоке напечатаны max 456,64 и min **455,48** с разностью **16 см**; собственная разность — **116 см**. В перечне месяцев верхней отметки стоит **декабрь 2018** внутри строки 2019. Это подтверждённая печать источника, не ошибка перестановки столбцов при подготовке Wiki. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p13](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-13) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p14](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-14)
+
+Поздняя ретроспектива 2020 даёт для месячного min 2019 **456,48**, однако сохраняет спорную датировку суточных экстремумов. Она не объявляется официальным исправлением раннего доклада. В новой трёхстраничной ретроспективе 2023 даты также повторяются, поэтому повторение не является независимым подтверждением их корректности. Нужны первичные ряды и история пересмотра. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p14](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p13](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-13)
+
+### Правовые условия и авторские оценки
+
+Доклады описывают специальные условия № 654 на 2021 и № 379 на 2022–2023. В абзацах приостановления № 234 напечатана дата **26.03.2021**, в общих сведениях тех же документов — **26.03.2001**. Правовая ссылка требует отдельной сверки с актом; здесь сохраняются оба варианта. Описанный режим соответствующего года не переносится автоматически на сегодняшний день. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p14](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-14) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p15](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-15) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p14](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-14) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15)
+
+В 2023 авторы одновременно сообщают о недостижении специальных пределов № 379 и несоблюдении метрового диапазона № 234, предлагают совершенствовать прогноз и расширить допустимые колебания. Это разные условные границы и рекомендация, а не автоматически логический конфликт или выполненное мероприятие. Оценка эффективности мониторинга принадлежит авторам; отдельная независимая проверка эффективности и ущерба в проекте не проведена. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p14](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-14) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p15](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-15)
+
+Собственные годовые строки проверены с учётом продолжений: таблица 2023 занимает PDF11–13 и разделяет месячные/суточные блоки. У последней строки отсутствуют явные max/min; интерпретация верхней/нижней строки отмечена в источниковом реестре. Выбранные структурированные записи пяти лет — [часть 2](../../datasets/hydrology_review_part2.json), отдельно от observations. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p11](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-11) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p12](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-12) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p13](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-13)
+
 ## Подробные конспекты и связанные процессы
 
 - [Водный баланс и полезный приток](baikal-water-balance.md) — отличия потока, запаса и базовых периодов.
@@ -71,7 +105,12 @@
 - [Доклад 2015: подробный конспект](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md).
 - [Доклад 2016: подробный конспект](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md).
 - [Доклад 2017: подробный конспект](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md).
+- [Доклад 2018: подробный конспект](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md).
+- [Доклад 2019: подробный конспект](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md).
 - [Доклад 2020: подробный конспект](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md).
+- [Доклад 2021: подробный конспект](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrology.md).
+- [Доклад 2022: подробный конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md).
+- [Доклад 2023: подробный конспект](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md).
 - [Доклад 2024: подробный конспект](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md).
 
 <!-- HUMAN NOTES -->

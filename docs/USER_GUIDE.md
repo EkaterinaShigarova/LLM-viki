@@ -20,7 +20,7 @@ Codex читает государственные доклады, готовит
 | Год, место или показатель | [годы](../wiki/indexes/years.md), [территории](../wiki/indexes/territories.md), [показатели](../wiki/indexes/indicators.md) | Найти нужные конспекты |
 | Список PDF | [SOURCES.md](../SOURCES.md), [config/sources.json](../config/sources.json) | Узнать адрес, год и контрольную сумму |
 | 168 сверенных чисел | [datasets/observations.csv](../datasets/observations.csv) | Читать в GitHub или табличном редакторе |
-| Гидрологию и исходную таблицу уровня | [HYDROLOGY_REVIEW.md](HYDROLOGY_REVIEW.md), [hydrology_levels_2024.csv](../datasets/hydrology_levels_2024.csv) | Прочитать разбор пяти докладов и полный перенос таблицы 2024; напечатанные ошибки сохранены, это не новый проверенный ряд observations |
+| Гидрологию и исходную таблицу уровня | [HYDROLOGY_REVIEW.md](HYDROLOGY_REVIEW.md), [hydrology_levels_2024.csv](../datasets/hydrology_levels_2024.csv) | Прочитать гидрологический разбор докладов 2015–2024 и полный перенос таблицы 2024; напечатанные ошибки сохранены, это не новый проверенный ряд observations |
 | Другие проверяемые карточки | [datasets/source_facts.json](../datasets/source_facts.json) | Посмотреть 17 отдельных сообщений; это не дополнение к 168 observations |
 | Цитаты и прежние научные опоры | [datasets/scientific_archive.json](../datasets/scientific_archive.json) | Найти сохранённые первичные выдержки и ограничения |
 | Три прежних дополнения | [datasets/editorial_candidates.json](../datasets/editorial_candidates.json) | Проверить источниковую опору и историческую версию статьи; решения человека нет |
