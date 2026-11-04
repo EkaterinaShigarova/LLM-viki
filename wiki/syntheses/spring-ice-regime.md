@@ -101,4 +101,10 @@
 
 [Конспект точки № 1](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) отделяет температуру воды от воздуха, биологические пробы от физических замеров и диапазон от среднего. Для связи с весенними фазами нужны синхронные постовые данные; в данном блоке нет приборной методики и точных дат ледовых событий. Авторскую оценку типичности планктонной сезонности нельзя превращать в доказательство стабильности ледового режима. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304)
 
+## Исток Ангары и сезонные озёрные температуры
+
+Исследовательские блоки 2020/2021 дополняют физическое описание истоком Ангары: авторы связывают незамерзающий исток с подлёдным термоклином и поступлением озёрной воды, приводят зимние 0–4 °C и прогрев до +17 °C летом/осенью 2020. Температура воздуха −30 °C в январе 2018 на соседнем графике не является температурой воды. Ни эти сообщения, ни авторская гипотеза подъёма холодной воды при землетрясениях не дают даты ледостава и толщины льда Байкала. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p298](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-298) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p299](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-299) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p296](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-296)
+
+Обзор 2025 называет температуру продольного разреза среднегодовой, одновременно указывая наблюдения июнь–октябрь и несколько горизонтов. Это другая опора, чем поверхностная вода истока или подлёдная точка № 1. Единый годовой ледово-температурный ряд из этих агрегатов не построен. [Исток Ангары: подробный разбор](angara-water-geochemistry.md) · [конспект разреза](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md). [official-b4e3fcfe0e41e26ea03b:p160](../sources/official-b4e3fcfe0e41e26ea03b.md#page-160)
+
 <!-- HUMAN NOTES -->

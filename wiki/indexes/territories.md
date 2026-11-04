@@ -94,6 +94,12 @@
 ## Исток Ангары
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+- [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+- [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
+## КОС Байкальска
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
 ## Кабанский заказник
 
@@ -135,6 +141,14 @@
 - [2015: приём судовых вод на Самотлоре и классификационный учёт флота](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/ship-wastewater.md) — доклад 2015.
 - [2022: судовой приём вод, категории и продолжение таблицы](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md) — доклад 2022.
 
+## Озеро Байкал — поверхностная и глубинная вода
+
+- [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+
+## Озеро Байкал — схема отбора
+
+- [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
 ## Побережье Байкала
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
@@ -150,6 +164,11 @@
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Продольный разрез Байкала
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
 ## Река Селенга
 
@@ -159,13 +178,38 @@
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 
+## Северная оконечность
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
 ## Селенга — Кабанск
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
+## Селенга: Кабанск, три створа
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
+## Селенга: Мурзино
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
+## Селенга: Наушки
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
+## Селенга: Новоселенгинск
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
+## Селенга: Улан-Удэ и Мостовой
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
 ## Селенгинское мелководье
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
 ## Средняя часть Байкала
 

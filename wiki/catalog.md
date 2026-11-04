@@ -136,9 +136,14 @@
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p17](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-17) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p19](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-19) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p30](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-30) · доклад 2018.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p15](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-15) · доклад 2016.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p18](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-18) · доклад 2024.
 [official-b4e3fcfe0e41e26ea03b:p158](sources/official-b4e3fcfe0e41e26ea03b.md#page-158) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p159](sources/official-b4e3fcfe0e41e26ea03b.md#page-159) · доклад 2025.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p298](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-298) · доклад 2021.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p88](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-88) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p160](sources/official-b4e3fcfe0e41e26ea03b.md#page-160) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
 
 <a id="organic"></a>
 ### Органические загрязнители
@@ -208,6 +213,26 @@
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p166](sources/official-b4e3fcfe0e41e26ea03b.md#page-166) · доклад 2025.
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p14](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-14) · доклад 2016.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p88](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-88) · доклад 2024.
+
+<a id="river-water-quality"></a>
+### Качество воды речных створов
+
+- [Селенга: гидрохимические створы, качество воды и границы сравнения](syntheses/selenga-water-quality.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Два документа раскрывают разные статистики: концентрации/частоты и годовой вынос. Нужны журналы, методика категорий и точная связь замыкающего створа с водпостом.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p86](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-86) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p87](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-87) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p88](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-88) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p158](sources/official-b4e3fcfe0e41e26ea03b.md#page-158) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p159](sources/official-b4e3fcfe0e41e26ea03b.md#page-159) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
 
 
 <a id="pressure"></a>
@@ -508,6 +533,27 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41) · доклад 2024.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304) · доклад 2021.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p298](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-298) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p299](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-299) · доклад 2020.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p296](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-296) · доклад 2021.
+[official-b4e3fcfe0e41e26ea03b:p160](sources/official-b4e3fcfe0e41e26ea03b.md#page-160) · доклад 2025.
+
+<a id="water-temperature-geochemistry"></a>
+### Температура воды и геохимические ряды
+
+- [Исток Ангары: температура, минерализация и границы озёрного мониторинга](syntheses/angara-water-geochemistry.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Нужны первичные температурные/ионные ряды, методы TDS и пояснение разворота 2021. Исток и озёрный сезонный разрез не единый ряд.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p298](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-298) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p299](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-299) · доклад 2020.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p296](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-296) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p297](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-297) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p298](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-298) · доклад 2021.
+[official-b4e3fcfe0e41e26ea03b:p159](sources/official-b4e3fcfe0e41e26ea03b.md#page-159) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p160](sources/official-b4e3fcfe0e41e26ea03b.md#page-160) · доклад 2025.
 
 ## Ограничения
 

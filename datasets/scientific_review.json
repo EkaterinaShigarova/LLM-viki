@@ -486,23 +486,25 @@
         "hydrology3-20261104-02",
         "hydrology3-20261104-03",
         "hydrology3-20261104-04",
-        "hydrology3-20261104-15"
+        "hydrology3-20261104-15",
+        "water-geochemistry-20261104-16"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139"
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
       },
-      "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются.",
-      "body_sha256": "ed8bcb84d1975525e2943b03c701b05d323952e062397747b0fa71dae2e72cdb",
+      "coverage": "Выбранные содержательные блоки сверены с источниками, часть графики/таблиц просмотрена в оригинале; полная атомизация и научная рецензия не заявляются.",
+      "body_sha256": "f1b4da6e291d5685d4d79bf79c7d987ff8c333d6be026137ce1fcc9647f9a1dd",
       "open_questions": [
         "Проверить первичные методы интегрирования годового выноса и отбора проб; межтабличное и межтерриториальное сравнение не разрешено автоматически."
       ],
       "finding_ids": [
         "F06"
       ],
-      "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+      "review_method": "Knowledge-base agent reads exact source blocks and selected original figures/tables; no local model; not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "official-b4e3fcfe0e41e26ea03b",
@@ -542,6 +544,29 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется."
+        },
+        {
+          "reviewed_at": "2026-11-04",
+          "body_sha256": "ed8bcb84d1975525e2943b03c701b05d323952e062397747b0fa71dae2e72cdb",
+          "source_revisions": {
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139"
+          },
+          "claim_ids": [
+            "river-inputs-2025-01",
+            "river-inputs-2025-02",
+            "river-inputs-2025-03",
+            "river-inputs-2025-04",
+            "river-inputs-2025-05",
+            "river-inputs-2025-06",
+            "hydrology3-20261104-01",
+            "hydrology3-20261104-02",
+            "hydrology3-20261104-03",
+            "hydrology3-20261104-04",
+            "hydrology3-20261104-15"
+          ],
+          "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+          "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются."
         }
       ]
     },
@@ -678,7 +703,9 @@
         "water-quality-evidence-05",
         "water-quality-evidence-06",
         "water-quality-evidence-07",
-        "water-quality-evidence-knowledge-20261104-1"
+        "water-quality-evidence-knowledge-20261104-1",
+        "water-geochemistry-20261104-14",
+        "water-geochemistry-20261104-15"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -686,10 +713,11 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
       },
-      "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.",
-      "body_sha256": "d0f538e8aeb9493acf4e7b4ff212145d9f5839c3245dc85f308a33c8ee05dfee",
+      "coverage": "Выбранные содержательные блоки сверены с источниками, часть графики/таблиц просмотрена в оригинале; полная атомизация и научная рецензия не заявляются.",
+      "body_sha256": "d9a49123d593c706bde069b16e4ddbfd913aa230a4befd16c5361276c434c7b0",
       "open_questions": [
         "Получить журналы проб и правила агрегации: фенолы 70–5 и 7–7 за 2024 пока не согласованы."
       ],
@@ -697,7 +725,7 @@
         "F01",
         "F03"
       ],
-      "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
+      "review_method": "Knowledge-base agent reads exact source blocks and selected original figures/tables; no local model; not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
@@ -725,7 +753,31 @@
           "page": 159
         }
       ],
-      "navigation_update": "2026-11-04: added links to related port and municipal-water articles; evidence and quantities unchanged."
+      "navigation_update": "2026-11-04: added links to related port and municipal-water articles; evidence and quantities unchanged.",
+      "review_history": [
+        {
+          "reviewed_at": "2026-11-04",
+          "body_sha256": "d0f538e8aeb9493acf4e7b4ff212145d9f5839c3245dc85f308a33c8ee05dfee",
+          "source_revisions": {
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "water-quality-evidence-01",
+            "water-quality-evidence-02",
+            "water-quality-evidence-03",
+            "water-quality-evidence-04",
+            "water-quality-evidence-05",
+            "water-quality-evidence-06",
+            "water-quality-evidence-07",
+            "water-quality-evidence-knowledge-20261104-1"
+          ],
+          "review_method": "Codex selected source-to-note synthesis and provenance validation; not specialist review",
+          "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно."
+        }
+      ]
     },
     "syntheses/baikal-seal.md": {
       "status": "ai_source_checked",
@@ -1364,7 +1416,8 @@
         "hydrology2-20261104-12",
         "hydrology3-20261104-06",
         "hydrology3-20261104-07",
-        "hydrology3-20261104-16"
+        "hydrology3-20261104-16",
+        "water-geochemistry-20261104-17"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1373,7 +1426,7 @@
         "Методики измерений/нормы, базовые периоды и независимая подлинность зеркал требуют дополнительной проверки."
       ],
       "reviewed_at": "2026-11-04",
-      "body_sha256": "4723a1ae978ee0f1f97b29bdfbff7a700e33acd3fe9bb415c93704402eec329a",
+      "body_sha256": "e6045da5499c00d9f60a3199c951a96249c9533351468c455276592a30ecef0e",
       "source_revisions": {
         "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
         "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
@@ -1384,10 +1437,11 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
         "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
       },
-      "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
-      "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются.",
+      "review_method": "Knowledge-base agent reads exact source blocks and selected original figures/tables; no local model; not specialist review",
+      "coverage": "Выбранные содержательные блоки сверены с источниками, часть графики/таблиц просмотрена в оригинале; полная атомизация и научная рецензия не заявляются.",
       "review_history": [
         {
           "reviewed_at": "2026-11-04",
@@ -1433,6 +1487,35 @@
           ],
           "review_method": "Codex reading five additional hydrological sections and 22 page images; selected source checks, not specialist review",
           "coverage": "Прежние проверенные утверждения сохранены; добавлены выбранные блоки из пяти новых конспектов. Основные разделы 2015–2024 представлены, полная атомизация всех таблиц и независимая проверка методик не заявляются."
+        },
+        {
+          "reviewed_at": "2026-11-04",
+          "body_sha256": "4723a1ae978ee0f1f97b29bdfbff7a700e33acd3fe9bb415c93704402eec329a",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+          },
+          "claim_ids": [
+            "hydrology-20261104-05",
+            "hydrology-20261104-06",
+            "hydrology-20261104-07",
+            "hydrology-20261104-08",
+            "hydrology2-20261104-11",
+            "hydrology2-20261104-12",
+            "hydrology3-20261104-06",
+            "hydrology3-20261104-07",
+            "hydrology3-20261104-16"
+          ],
+          "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+          "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются."
         }
       ]
     },
@@ -1456,6 +1539,54 @@
       },
       "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются.",
       "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+      "review_history": []
+    },
+    "syntheses/angara-water-geochemistry.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "human_confirmation": null,
+      "scientific_review_required": true,
+      "body_sha256": "238279bf94d5e8b4ca76da35de5012b36e440cf7855656f5cb1cc7406aaae3e8",
+      "source_revisions": {
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+      },
+      "claim_ids": [
+        "water-geochemistry-20261104-01",
+        "water-geochemistry-20261104-02",
+        "water-geochemistry-20261104-03",
+        "water-geochemistry-20261104-04",
+        "water-geochemistry-20261104-05",
+        "water-geochemistry-20261104-06",
+        "water-geochemistry-20261104-07"
+      ],
+      "coverage": "Выбранные содержательные блоки сверены с источниками, часть графики/таблиц просмотрена в оригинале; полная атомизация и научная рецензия не заявляются.",
+      "review_method": "Knowledge-base agent reads exact source blocks and selected original figures/tables; no local model; not specialist review",
+      "review_history": []
+    },
+    "syntheses/selenga-water-quality.md": {
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-04",
+      "human_confirmation": null,
+      "scientific_review_required": true,
+      "body_sha256": "59c806553026020e6f333091703382af947e2fb716d972396a98515655439b3a",
+      "source_revisions": {
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+      },
+      "claim_ids": [
+        "water-geochemistry-20261104-08",
+        "water-geochemistry-20261104-09",
+        "water-geochemistry-20261104-10",
+        "water-geochemistry-20261104-11",
+        "water-geochemistry-20261104-12",
+        "water-geochemistry-20261104-13"
+      ],
+      "coverage": "Выбранные содержательные блоки сверены с источниками, часть графики/таблиц просмотрена в оригинале; полная атомизация и научная рецензия не заявляются.",
+      "review_method": "Knowledge-base agent reads exact source blocks and selected original figures/tables; no local model; not specialist review",
       "review_history": []
     }
   },
@@ -2562,6 +2693,65 @@
       ],
       "conclusion": "Проверки соседних лет подтверждены; временной минимум всего ряда не подтверждён. Пространственный смысл не предполагается как установленный.",
       "next_step": "Уточнить смысл сравнения и нормирование ряда по станциям/годам; исходные сетки не исправлять.",
+      "specialist_required": true
+    },
+    {
+      "id": "water-tds-2021-reversal",
+      "title": "Минерализация истока: снижение средних и начало роста с 2021",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "water-geochemistry-20261104-05"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+          "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+          "report_year": 2021,
+          "publication_year": null,
+          "page": 297,
+          "quote": "    Данные по макрокомпонентному составу, полученные в 1997–2021 гг., подтверждают\nнизкую минерализацию (TDS) и бикарбонатно-кальциевый состав воды Байкала и истока Ан-\nгары (рис. 2.6.16), которые отмечались исследователями ранее. В 2017 году средняя минера-\nлизация воды  истока  составляла  94,61  (86,7–98,96) мг/л,  в 2018 году –  95,59  (91,04–\n101,7) мг/л, в 2019 году – 95,64 (92–97,9) мг/л. В 2020 году произошло заметное снижение\nминерализации – 91,25 (76,5–101,4) мг/л, которое отмечалось и в 2021 году – 89,61 (84,8–\n94,9) мг/л. Ранее такая низкая TDS в воде истока Ангары отмечалась в 1952 году.\n     Циклично-волновое изменение TDS воды в Ангаре с постепенным незначительным\nнарастанием значений отмечалось с 1950 до 2016 года (рис. 2.6.16). Полученные данные\nпо минерализации воды истока Ангары коррелируют с температурными циклами измене-\nния воды и с последовательным незначительным увеличением среднегодовых температур.\nОбщая минерализация воды истока фиксирует длительный восходящий природный цикл\nизменений с 1950 до 2017 года, а далее начинается понижение температуры воды, значе-\nний TDS и главных ионов – SO42-, HCO3-, т.е. намечается отрицательный тренд по глав-\nным ионам и минерализации.\n\n\n\n\n\n Рис. 2.6.16. Среднегодовая температура поверхности воды в 1960–2021 годах в истоке р. Ангары\n(тонкие линии) и ее пятилетнее значение (жирные линии) и среднегодовые значения состава воды\n  (TDS, Cl-, SO42-) истока р. Ангары в 1950–2021 годы (по литературным и авторским данным)\n\n    С 2021 года вновь намечается некоторое увеличение содержания главных ионов\n(SO42, HCO3-) и TDS в воде истока Ангары, что означает начало положительной динамики\nв обновлении воды. Происходящие изменения концентраций элементов в водной экоси-\nстеме Байкала могут быть обусловлены сезонными климатическими изменениями (темпе-\nратурой воздуха и воды, ураганами и штормовыми ветрами), гидродинамическими усло-\nвиями в Байкале и Ангаре, составом вмещающих Байкал пород, частыми землетрясениями\nв Байкальской рифтовой зоне, подъемом глубинной воды и опусканием поверхностной\nводы, а также существующими в придонных частях Байкала грязевыми вулканами, раз-\nрушением придонных железо-марганцевых конкреций и другими причинами.\n\n\n                                     296",
+          "quote_basis": "exact_cached_page_text",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Выбранный температурно-геохимический или гидрохимический блок прочитан с контекстом, методом и ограничениями; полнота всего доклада не заявляется."
+        }
+      ],
+      "source_versions": [
+        "Средние TDS: 2019 95,64; 2020 91,25; 2021 89,61 мг/л",
+        "Текст: с 2021 вновь намечается увеличение главных ионов и TDS"
+      ],
+      "conclusion": "Годовая средняя 2021 ниже 2020; период авторского разворота не раскрыт. Возможное внутригодовое объяснение не объявлено доказанным.",
+      "next_step": "Получить исходные месячные/сезонные ряды, дату начала роста и метод расчёта годовых средних.",
+      "specialist_required": true
+    },
+    {
+      "id": "water-seasonal-annual-aggregation",
+      "title": "Среднегодовой ярлык при наблюдениях продольного разреза июнь–октябрь",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "water-geochemistry-20261104-06",
+        "water-geochemistry-20261104-14"
+      ],
+      "evidence": [
+        {
+          "source_id": "official-b4e3fcfe0e41e26ea03b",
+          "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+          "report_year": 2025,
+          "publication_year": 2026,
+          "page": 160,
+          "quote": "Обзор состояния и загрязнения окружающей среды в Российской Федерации за 2025 год\n\n   В районе продольного разреза гидрохимические наблюдения проводились на всех контролируемых горизонтах\n(0,5, 25, 50, 100 м и придонном). Общая гидрохимическая характеристика воды озера (среднегодовые концентрации)\nв 2025 г. в сравнении с периодом 2020-2024 гг. приведена на рис. 4.18 - 4.20.\n\n                              12,00\n\n\n                              10,00\n\n\n                                8,00\n\n\n                                6,00\n\n\n                                4,00\n\n\n                                2,00\n\n\n                                0,00\n                                      2020 г.           2021 г.           2022 г.           2023 г.           2024 г.           2025 г.\n                 температура, ͦС             8,30               6,50               6,60               7,50               6,80               7,90\n                рН, ед.                     7,80               7,90               7,90               8,00               7,80               8,00\n                 цветность, градусы        3,90               3,80               3,80               5,30               2,40               3,50\n                 кислород, мг/л             10,8               11,1               10,0               10,8               10,9               11,1\n\n               Рис. 4.18. Общая гидрохимическая характеристика воды в районе продольного разреза оз. Байкал\n\n   Наблюдения в исследуемый период проводились с июня по октябрь. Значения водородного показателя изменялись\nв пределах от 7,7 до 8,3 ед. pH (7,5-8,1 ед. pH в 2024 г.), а содержание растворённого кислорода в пределах от 9,10\nдо 13,2 мг/л (9,30- 13,2 мг/л в 2024 г.). Минерализация воды озера в его северной, средней и южной частях\nсоответствовала среднемноголетним значениям (рис. 4.19).\n\n                               100,0\n\n                                 99,0\n\n                                 98,0\n\n                                       мг/л      97,0\n\n                                 96,0\n\n                                 95,0\n\n                                 94,0\n                                       2020 г.          2021 г.          2022 г.          2023 г.          2024 г.          2025 г.\n                            сев. Байкал         98,4              95,7              96,3              97,0              96,0              96,7\n                          сред. Байкал        98,9              96,1              97,1              97,0              97,0              97,2\n                    юж. Байкал         97,0              96,1              97,0              97,1              97,0              96,7\n\n                          Рис. 4.19. Минерализация воды озера по котловинам продольного разреза\n\n   В 2025 г. содержание сульфатных ионов в воде северной средней и южной котловины озера находилось на уровне\nпредыдущего года наблюдений (рис. 4.20). Концентрация сульфатов варьировала в интервале 5,5  - 7,8 мг/л.\nМаксимальные значения фиксировались в южной части озера в поверхностном слое.\n\n                             6,80\n\n\n                             6,40\n\n\n                             6,00\n                                    мг/л\n\n                             5,60\n\n\n                             5,20\n                                        2020 г.         2021 г.         2022 г.         2023 г.         2024 г.         2025 г.\n                              сев. Байкал         5,90             6,10             6,30             6,20             6,00             6,10\n                            сред. Байкал        5,80             5,90             6,60             6,50             6,40             6,20\n                     юж. Байкал         5,70             5,80             6,60             6,10             6,50             6,40\n\n                        Рис. 4.20. Содержание сульфатных ионов по котловинам продольного разреза\n\n\n\n\n160                          Федеральная служба по гидрометеорологии и мониторингу окружающей среды",
+          "quote_basis": "exact_cached_page_text",
+          "original_page_visually_checked": true,
+          "source_authenticity": "official_verified",
+          "statement": "Выбранный температурно-геохимический или гидрохимический блок прочитан с контекстом, методом и ограничениями; полнота всего доклада не заявляется."
+        }
+      ],
+      "source_versions": [
+        "Графики 4.18–4.20 названы среднегодовыми",
+        "Период гидрохимических наблюдений: июнь–октябрь, несколько горизонтов"
+      ],
+      "conclusion": "Полный календарный охват и правила усреднения по станции/глубине/времени не раскрыты. Это ограничение метода, не произвольное исправление чисел.",
+      "next_step": "Запросить программу съёмок и алгоритм среднегодового агрегирования; проверить календарь ретроспективных лет.",
       "specialist_required": true
     }
   ],

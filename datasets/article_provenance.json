@@ -129,6 +129,30 @@
       "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
       "page": 159,
       "report_year": 2025
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 298
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 88
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 160
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 161
     }
   ],
   "syntheses/baikal-seal.md": [
@@ -212,6 +236,12 @@
       "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
       "report_year": 2016,
       "page": 14
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 88
     }
   ],
   "syntheses/baikal-omul.md": [
@@ -1137,6 +1167,30 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 304
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 298
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 299
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 296
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 160
     }
   ],
   "syntheses/atmospheric-deposition.md": [
@@ -1169,6 +1223,106 @@
       "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
       "report_year": 2024,
       "page": 283
+    }
+  ],
+  "syntheses/angara-water-geochemistry.md": [
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 298
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 299
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 296
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 297
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 298
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 159
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 160
+    }
+  ],
+  "syntheses/selenga-water-quality.md": [
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 86
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 87
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 88
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 89
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 158
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 159
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 161
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 164
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 165
     }
   ]
 }

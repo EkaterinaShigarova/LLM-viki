@@ -2,6 +2,10 @@
 
 Индекс конспектов; совпадение названия показателя не разрешает межгодовое сравнение.
 
+## TDS и главные ионы
+
+- [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
 ## Атмосферные выпадения
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
@@ -23,6 +27,10 @@
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
+## Водные пробы отдельно от осадков
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
 ## Водозабор
 
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
@@ -34,6 +42,18 @@
 ## Выявленные нарушения
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
+
+## Геохимический мониторинг
+
+- [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+
+## Гидрохимические горизонты и календарь
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Гидрохимические створы
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
 
 ## Год наблюдений и публикации
 
@@ -100,6 +120,10 @@
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 
+## Концентрации min/max/mean
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
 ## Концентрация и поток вещества
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
@@ -123,6 +147,14 @@
 
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 
+## Локальные нормы и фон
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Макрокомпоненты и микроэлементы
+
+- [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+
 ## Максимум фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
@@ -134,6 +166,10 @@
 ## Месячная температура воздуха
 
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
+
+## Методы и пределы причинного вывода
+
+- [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
 
 ## Минерализация и pH атмосферных проб
 
@@ -196,6 +232,10 @@
 ## Ошибка учёта
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
+
+## ПДК и частота превышения
+
+- [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
 
 ## Пассажирские перевозки
 
@@ -283,6 +323,10 @@
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
+## Среднегодовая температура и сглаживание
+
+- [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
 ## Среднее содержание фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
@@ -295,9 +339,17 @@
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 
+## Температура воды и воздуха
+
+- [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+
 ## Температура воздуха
 
 - [2015: температура воздуха и начало сезонов иркутской части БПТ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/air-temperature.md) — доклад 2015.
+
+## Температура и минерализация разреза
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
 ## Температура поверхностной воды
 
@@ -354,6 +406,10 @@
 ## Число проб
 
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
+
+## Число проб и наблюдений
+
+- [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
 [Главный индекс](../index.md)
 

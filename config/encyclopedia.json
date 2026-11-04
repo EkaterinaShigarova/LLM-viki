@@ -355,32 +355,68 @@
                 {
                   "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
                   "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-                  "page": 17
+                  "page": 17,
+                  "report_year": 2018
                 },
                 {
                   "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
                   "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-                  "page": 19
+                  "page": 19,
+                  "report_year": 2018
                 },
                 {
                   "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
                   "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
-                  "page": 30
+                  "page": 30,
+                  "report_year": 2018
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "page": 15,
+                  "report_year": 2016
                 },
                 {
                   "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-                  "page": 18
+                  "page": 18,
+                  "report_year": 2024
                 },
                 {
                   "source_id": "official-b4e3fcfe0e41e26ea03b",
                   "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-                  "page": 158
+                  "page": 158,
+                  "report_year": 2025
                 },
                 {
                   "source_id": "official-b4e3fcfe0e41e26ea03b",
                   "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-                  "page": 159
+                  "page": 159,
+                  "report_year": 2025
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 298
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 88
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 160
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 161
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
@@ -571,9 +607,86 @@
                   "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
                   "report_year": 2016,
                   "page": 14
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 88
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
+            }
+          ]
+        },
+        {
+          "id": "river-water-quality",
+          "title": "Качество воды речных створов",
+          "topics": [
+            {
+              "id": "selenga-water-quality",
+              "title": "Селенга: гидрохимические створы, качество воды и границы сравнения",
+              "article": "syntheses/selenga-water-quality.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 86
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 87
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 88
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 89
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 158
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 159
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 161
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 165
+                }
+              ],
+              "gap": "Два документа раскрывают разные статистики: концентрации/частоты и годовой вынос. Нужны журналы, методика категорий и точная связь замыкающего створа с водпостом."
             }
           ]
         }
@@ -1589,9 +1702,92 @@
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
                   "report_year": 2021,
                   "page": 304
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 298
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 299
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 296
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 160
                 }
               ],
               "gap": "Основные годовые подразделы 2015–2024 прочитаны; нет полного исходного суточного/ледового/балансового ряда, методики норм и официального разрешения противоречий."
+            }
+          ]
+        },
+        {
+          "id": "water-temperature-geochemistry",
+          "title": "Температура воды и геохимические ряды",
+          "topics": [
+            {
+              "id": "angara-water-geochemistry",
+              "title": "Исток Ангары: температура, минерализация и границы озёрного мониторинга",
+              "article": "syntheses/angara-water-geochemistry.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 298
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 299
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 296
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 297
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 298
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 159
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 160
+                }
+              ],
+              "gap": "Нужны первичные температурные/ионные ряды, методы TDS и пояснение разворота 2021. Исток и озёрный сезонный разрез не единый ряд."
             }
           ]
         }
