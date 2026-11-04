@@ -179,7 +179,7 @@
 [official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
 
 <a id="inflow-level"></a>
-### Притоки и регулирование
+### Притоки: водный сток и вынос
 
 - [Притоки Байкала: водный сток и вынос веществ в 2024–2025 годах](syntheses/river-inputs-2025.md)
 
@@ -192,16 +192,6 @@
 [official-b4e3fcfe0e41e26ea03b:p158](sources/official-b4e3fcfe0e41e26ea03b.md#page-158) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p170](sources/official-b4e3fcfe0e41e26ea03b.md#page-170) · доклад 2025.
-
-- [Уровень Байкала: приточность, регулирование и системы высот](syntheses/water-level-regulation.md)
-
-Обеспеченность: Достаточно для описания по нескольким годам. Нужны первичные суточные ряды и проверка арифметики источника.
-
-Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
-
-[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p13](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13) · доклад 2020.
-[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) · доклад 2022.
-[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p12](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-12) · доклад 2017.
 
 
 <a id="pressure"></a>
@@ -377,6 +367,71 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p164](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-164) · доклад 2015.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p205](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-205) · доклад 2015.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p172](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-172) · доклад 2022.
+
+
+<a id="hydrology"></a>
+## Гидрология и сезонный режим Байкала
+
+<a id="levels-and-balance"></a>
+### Уровень, регулирование и водный баланс
+
+- [Уровень Байкала: приточность, регулирование и системы высот](syntheses/water-level-regulation.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Подробно прочитаны пять годовых разделов; исходные арифметические расхождения и методики норм не разрешены.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p13](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13) · доклад 2020.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p15](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-15) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p12](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-12) · доклад 2017.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p10](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-10) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p11](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-11) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p12](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-12) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p13](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-13) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p14](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-14) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p15](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-15) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p16](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-16) · доклад 2015.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p14](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p15](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-15) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p16](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-16) · доклад 2020.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p11](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-11) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p12](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-12) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p13](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-13) · доклад 2016.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p14](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-14) · доклад 2016.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p13](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-13) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p14](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-14) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p15](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-15) · доклад 2017.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p11](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p12](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-12) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p13](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-13) · доклад 2024.
+
+- [Водный баланс: компоненты и полезный приток](syntheses/baikal-water-balance.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Источниковый синтез пяти прочитанных разделов; точные периоды, методики и первичные ряды требуют дальнейшей проверки; не экспертная рецензия.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p10](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-10) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p14](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-14) · доклад 2015.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p12](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-12) · доклад 2020.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p14](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-14) · доклад 2016.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p11](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-11) · доклад 2017.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p11](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11) · доклад 2024.
+
+<a id="spring-ice"></a>
+### Ледовые фазы и сроки наблюдений
+
+- [Весеннее вскрытие и очищение Байкала ото льда](syntheses/spring-ice-regime.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Источниковый синтез пяти прочитанных разделов; точные периоды, методики и первичные ряды требуют дальнейшей проверки; не экспертная рецензия.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p14](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-14) · доклад 2015.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p13](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13) · доклад 2020.
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p13](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-13) · доклад 2016.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p12](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-12) · доклад 2017.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p11](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11) · доклад 2024.
 
 ## Ограничения
 

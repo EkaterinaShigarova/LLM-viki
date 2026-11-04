@@ -75,3 +75,17 @@
 - **Климат:** станции, период нормы и агрегирование; два выбранных года не дают тренда.
 
 [Точный источниковый разбор](../datasets/editorial_scientific_review.json) · [Три сохранённых кандидата](../datasets/editorial_candidates.json) · [Матрица покрытия](coverage.md) · [Главный индекс](index.md)
+
+## Гидрологическая сверка пяти докладов
+
+- **2020: напечатанные 0,5 м против разности 0,05 м.** Все три числа действительно напечатаны; правильный исходный элемент неизвестен. 456,48; 456,43; напечатанное превышение 0,5 м; Собственная разность 0,05 м. [2020: PDF13](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13)
+
+- **Прирост наполнения и разности названных экстремумов.** Не восстановлен исходный отсчёт наполнения; арифметика не заменяет первичный ряд. 2015: напечатано 0,46 м; разность 456,30−455,86 = 0,44 м; 2020: напечатано 0,65 м; разность 457,12−456,17 = 0,95 м; таблица печатает 95 см. [2015: PDF14](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-14) [2020: PDF13](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13) [2020: PDF14](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14)
+
+- **Разности и периоды ретроспективных таблиц.** Изображения подтверждают печать и столбцы; официальное пояснение/пересмотр рядов отсутствуют. 2015: 44 см в таблицах 2015/2016/2017 и 56 см в 2020/2024 при тех же крайних отметках; 2017/2020/2024: 140 см для суточных 457,29 и 455,71; арифметически 158 см; 2017: сводный минимум 2001–2017 456,01 против 455,71 в строке 2016 той же таблицы. [2015: PDF11](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-11) [2016: PDF11](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-11) [2017: PDF13](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-13) [2020: PDF14](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14) [2024: PDF12](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-12)
+
+- **Годы сравнения и статистики рисунков.** Точные численные точки не оцифрованы; нельзя разрешить расхождение подменой таблицы графиком. 2015: заголовок графика 1988, легенда 1998; 2016: вводный текст 1994/1982, сезонная легенда 1973/2015; Месячные блоки таблиц не принимаются за проверенный ряд по аналогии с кривыми. [2015: PDF13](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-13) [2016: PDF11](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-11) [2016: PDF13](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-13) [2017: PDF13](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-13) [2017: PDF15](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-15) [2020: PDF14](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14) [2020: PDF16](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-16)
+
+- **Балансовые периоды, нормы и ледовые методы.** Различия не объявляются трендом или доказанной ошибкой; требуются методические документы и исходные ряды. 2010–2013 против среднемноголетних значений без базовых лет; 456,43 м нормы на начало года в ранних описаниях против 456,44 м в 2024; Не заданы единые посты/критерии ледовых фаз и алгоритм полезного притока. [2015: PDF10](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-10) [2017: PDF11](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-11) [2020: PDF12](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-12) [2024: PDF11](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11)
+
+[Подробные результаты и очередь](../docs/HYDROLOGY_REVIEW.md) · [Научные исходные записи](../datasets/hydrology_review.json).

@@ -159,7 +159,7 @@
 <a id="article-water-level-regulation"></a>
 ### [Уровень Байкала: приточность, регулирование и системы высот](../syntheses/water-level-regulation.md)
 
-Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 5. Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.
+Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 9. Сохранены прежние проверенные блоки; добавлены выбранные источниковые/методические утверждения гидрологического синтеза. Это не полная атомизация всех предложений или экспертная проверка методик.
 
 Открытый вопрос: Запросить первичный уровенный ряд и уточнение нормы: напечатанные 0,5 м расходятся с арифметическими 0,05 м.
 
@@ -204,6 +204,20 @@
 Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 4. Выбранные источниковые блоки, связанные с подробными конспектами; не полная атомизация статьи и не научная экспертиза.
 
 Открытый вопрос: Сопоставимость методов, полнота и независимая подлинность зеркал требуют проверки.
+
+<a id="article-baikal-water-balance"></a>
+### [Водный баланс Байкала: компоненты, полезный приток и границы сопоставления](../syntheses/baikal-water-balance.md)
+
+Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 4. Сохранены прежние проверенные блоки; добавлены выбранные источниковые/методические утверждения гидрологического синтеза. Это не полная атомизация всех предложений или экспертная проверка методик.
+
+Открытый вопрос: Методики измерений/нормы, базовые периоды и независимая подлинность зеркал требуют дополнительной проверки.
+
+<a id="article-spring-ice-regime"></a>
+### [Весенний ледовый режим Байкала: вскрытие, очищение и сроки наблюдений](../syntheses/spring-ice-regime.md)
+
+Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 4. Сохранены прежние проверенные блоки; добавлены выбранные источниковые/методические утверждения гидрологического синтеза. Это не полная атомизация всех предложений или экспертная проверка методик.
+
+Открытый вопрос: Методики измерений/нормы, базовые периоды и независимая подлинность зеркал требуют дополнительной проверки.
 
 ## Нерешённые вопросы
 
@@ -284,6 +298,64 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p26](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-26)
 
 Запросить протоколы определения ПАУ/БП и разъяснение составителей; проверить систематику суммы канцерогенных аренов.
+
+<a id="hydrology-filling-differences"></a>
+### Прирост наполнения и разности названных экстремумов
+
+Состояние: requires_methodological_review. Не восстановлен исходный отсчёт наполнения; арифметика не заменяет первичный ряд.
+- 2015: напечатано 0,46 м; разность 456,30−455,86 = 0,44 м
+- 2020: напечатано 0,65 м; разность 457,12−456,17 = 0,95 м; таблица печатает 95 см
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p14](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-14)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p13](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-13)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p14](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14)
+
+Запросить первичные суточные/месячные ряды, методические паспорта норм и официальное пояснение составителей; не исправлять PDF.
+
+<a id="hydrology-retrospective-ranges"></a>
+### Разности и периоды ретроспективных таблиц
+
+Состояние: unresolved_source. Изображения подтверждают печать и столбцы; официальное пояснение/пересмотр рядов отсутствуют.
+- 2015: 44 см в таблицах 2015/2016/2017 и 56 см в 2020/2024 при тех же крайних отметках
+- 2017/2020/2024: 140 см для суточных 457,29 и 455,71; арифметически 158 см
+- 2017: сводный минимум 2001–2017 456,01 против 455,71 в строке 2016 той же таблицы
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p11](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-11)
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p11](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-11)
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p13](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-13)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p14](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p12](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-12)
+
+Запросить первичные суточные/месячные ряды, методические паспорта норм и официальное пояснение составителей; не исправлять PDF.
+
+<a id="hydrology-figure-labels"></a>
+### Годы сравнения и статистики рисунков
+
+Состояние: requires_methodological_review. Точные численные точки не оцифрованы; нельзя разрешить расхождение подменой таблицы графиком.
+- 2015: заголовок графика 1988, легенда 1998
+- 2016: вводный текст 1994/1982, сезонная легенда 1973/2015
+- Месячные блоки таблиц не принимаются за проверенный ряд по аналогии с кривыми
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p13](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-13)
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p11](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-11)
+[drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p13](../sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-13)
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p13](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-13)
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p15](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-15)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p14](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-14)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p16](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-16)
+
+Запросить первичные суточные/месячные ряды, методические паспорта норм и официальное пояснение составителей; не исправлять PDF.
+
+<a id="hydrology-periods-and-methods"></a>
+### Балансовые периоды, нормы и ледовые методы
+
+Состояние: requires_methodological_review. Различия не объявляются трендом или доказанной ошибкой; требуются методические документы и исходные ряды.
+- 2010–2013 против среднемноголетних значений без базовых лет
+- 456,43 м нормы на начало года в ранних описаниях против 456,44 м в 2024
+- Не заданы единые посты/критерии ледовых фаз и алгоритм полезного притока
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p10](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-10)
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p11](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-11)
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p12](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-12)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p11](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-11)
+
+Запросить первичные суточные/месячные ряды, методические паспорта норм и официальное пояснение составителей; не исправлять PDF.
 
 ## Ограничения
 

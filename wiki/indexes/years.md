@@ -8,15 +8,18 @@
 - [2015: приём судовых вод на Самотлоре и классификационный учёт флота](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/ship-wastewater.md) — доклад 2015.
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
 
 ## 2016
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
 
 ## 2017
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
 
 ## 2018
 
@@ -29,6 +32,7 @@
 ## 2020
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
 
 ## 2021
 
@@ -49,6 +53,7 @@
 ## 2024
 
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
 
 ## 2025
 

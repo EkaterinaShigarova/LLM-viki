@@ -10,6 +10,14 @@
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
 
+## Ангара и Иркутский гидроузел
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+
 ## Байкальск
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
@@ -24,6 +32,14 @@
 ## Баргузинский залив
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
+
+## Бассейн Байкала
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
 
 ## Большое Голоустное
 
@@ -66,6 +82,14 @@
 ## Муниципальные образования БПТ
 
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
+
+## Озеро Байкал
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
 
 ## Озеро Байкал и Ангара
 

@@ -2,6 +2,14 @@
 
 Индекс конспектов; совпадение названия показателя не разрешает межгодовое сравнение.
 
+## Весеннее вскрытие и очищение ото льда
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+
 ## Водозабор
 
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
@@ -175,6 +183,14 @@
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
 
+## Приток и водный баланс
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
+
 ## Приём судовых вод
 
 - [2022: судовой приём вод, категории и продолжение таблицы](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md) — доклад 2022.
@@ -218,6 +234,14 @@
 ## Техническое освидетельствование
 
 - [2022: судовой приём вод, категории и продолжение таблицы](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/ship-water.md) — доклад 2022.
+
+## Уровень воды и система ТО
+
+- [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
+- [2016: уровень, водный баланс и весенние ледовые явления](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/hydrology.md) — доклад 2016.
+- [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2020: уровень, водный баланс и весенние ледовые явления](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrology.md) — доклад 2020.
+- [2024: уровень, водный баланс и весенние ледовые явления](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/hydrology.md) — доклад 2024.
 
 ## Фактическая добыча
 
