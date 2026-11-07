@@ -238,6 +238,30 @@
         "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md"
       ],
       "limitations": "Оба графика просмотрены, точные неподписанные высоты не оцифрованы. Обе таблицы перенесены отдельно, их расхождения не разрешены; раздел1.3.6 исключён."
+    },
+    {
+      "id": "north-hydrobiology-2022",
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "source_sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "report_year": 2022,
+      "title": "Северный Байкал: гидробиологические наблюдения",
+      "candidate_pdf_pages": [
+        46,
+        49
+      ],
+      "located_evidence_page": 46,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала.",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_heading_PDF46_to_Selenga_heading_PDF49",
+      "verified_pdf_pages": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md",
+      "limitations": "Весь северный подраздел и таблица проверены;предшествующийКОС/следующаяСеленга исключены. Ошибочный диапазон и разряды текста/таблицы не исправлены."
     }
   ],
   "updated_at": "2026-11-08",

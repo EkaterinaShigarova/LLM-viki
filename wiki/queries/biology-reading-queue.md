@@ -63,3 +63,7 @@
 ## Рыбное хозяйство 2024 — завершённое продолжение
 
 PDF186–192 прочитаны полностью в рамках 1.3.5, от заголовка под охотничьими выводами до 1.3.6. Готовы [выловы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md),[воспроизводство](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md),[контроль](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md). Прежнее указание«только навигация 186–192»описывает состояние до этого продолжения.
+
+## Северный Байкал 2022 — завершено
+
+PDF46–49 от собственного заголовка до Селенгинского мелководья. [Конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) и[полная таблица](../../datasets/north_baikal_hydrobiology_2021_2022.csv). Следующий связный блок —Селенгинское мелководье от заголовка PDF49 через PDF50 до Малого моря на PDF51; пока это проверенная навигация, не готовое исследование.

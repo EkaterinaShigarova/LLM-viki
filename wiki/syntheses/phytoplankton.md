@@ -83,4 +83,10 @@
 
 В КОС 2025 фитопланктонная индикаторная площадь подо льдом уменьшилась в 1,3 раза, весной выросла в 2,5, летом сохранилась. Это разные сезонные площади, без раскрытого алгоритма зоны, не единая динамика массы/числа водорослей. [Сравнение методов](hydrobiological-monitoring-methods.md) · [Полный конспект](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md). [official-b4e3fcfe0e41e26ea03b:p163](../sources/official-b4e3fcfe0e41e26ea03b.md#page-163)
 
+## Северный Байкал 2022: пространственная и сезонная структура
+
+На северном полигоне 2022 в двух съёмках отмечено **свыше 258 таксонов ниже рода**семи отделов, в отдельной пробе 12–138; полидоминантная структура с лидерством золотистых. Средние число/масса **2255 тыс.кл/л /928 мг/м³в июне**,**474/52 в сентябре по прозе**; таблица даёт 473 вместо 474, максимальную июньскую массу 2311 вместо 2310. Оба сообщения сохранены. Минимумы осеньюуТыи, максимумы летом уКичеры/Котельниковского относятся к разным станциям и показателям. [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48)
+
+Северные 2021 летние данные в таблице относятся к **июню–июлю**, а 2022 к июню. Вместе с изменением береговых соотношений это ограничивает межгодовую интерпретацию: совпадение названия группы не создаёт одинаковую выборку. Не построен ряд«2017 КОС→2022 север→2025 всё озеро». [Полный северный конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) сохраняет все территории/статистики и методические пробелы. [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48)
+
 <!-- HUMAN NOTES -->

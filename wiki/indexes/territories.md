@@ -167,6 +167,7 @@
 - [2019: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/baikal-omul.md) — доклад 2019.
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2024: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md) — доклад 2024.
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Контрольный 100-метровый створ
 
@@ -174,9 +175,17 @@
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 
+## Котельниковский
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+
 ## Култук
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Курла
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Листвянка
 
@@ -283,6 +292,7 @@
 - [2024: голомянко-бычковый комплекс в питании нерпы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md) — доклад 2024.
 - [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Селенга
 
@@ -338,6 +348,10 @@
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
+## Томпуда
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+
 ## Турка
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
@@ -345,6 +359,7 @@
 ## Тыя
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Уда — выше Улан-Удэ
 

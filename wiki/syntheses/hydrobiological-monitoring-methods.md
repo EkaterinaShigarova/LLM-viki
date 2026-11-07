@@ -54,4 +54,8 @@
 
 [КОС 2017: методы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md),[фито](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md),[бентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) · [Малое море 2022](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) · [Обзор 2025](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md).
 
+## Дополнительная проверка сопоставимости: север и Малое море 2022
+
+У двух районов 2022 совпадают июнь/сентябрь и бентосный Ван-Вин 0,08 м², но северная сеть **110 км²плюс реперные станции**,20–80 и 105–200 м, не эквивалентна трём станциям Малого моря 33–270 м. Северная таблица 2021 летом имеет окно июнь–июль,2022—июнь; для бентоса 2021 есть пропуск анализа, сравнение выполнено с 2020. Такой материал позволяет проверять ограничения сравнения, но не оценить единый темп изменения сообщества без станционной программы. [Северный конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) и [вся таблица](../../datasets/north_baikal_hydrobiology_2021_2022.csv) сохраняют исходные различия. [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49)
+
 <!-- HUMAN NOTES -->

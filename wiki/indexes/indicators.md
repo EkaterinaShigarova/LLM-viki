@@ -6,6 +6,10 @@
 
 - [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
+## Spirogyra
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+
 ## TDS и главные ионы
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
@@ -17,6 +21,10 @@
 ## Атмосферные выпадения
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
+## Бактериопланктон
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Биомасса омуля
 
@@ -156,6 +164,10 @@
 
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
 
+## Зоопланктон
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+
 ## Искусственное воспроизводство
 
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
@@ -235,6 +247,10 @@
 ## Любительское рыболовство
 
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
+
+## Макрозообентос
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Макрозообентос: плотность и биомасса
 
@@ -625,6 +641,10 @@
 
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Фитопланктон
+
+- [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
 ## Фитопланктон: численность и биомасса
 
