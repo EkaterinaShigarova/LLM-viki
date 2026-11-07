@@ -1586,7 +1586,8 @@
         "night-fishery2024-20261108-11",
         "night-fishery2024-20261108-12",
         "night-fishery2024-20261108-13",
-        "night-fishery2024-20261108-14"
+        "night-fishery2024-20261108-14",
+        "night-reproduction2016-20261108-12"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1594,10 +1595,11 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "9c53d230785a5d9447f1d33dab4c6f28025516a67fa6d9ab8ea7deb63509928d",
+      "body_sha256": "11fbc9a60feb23df58416186d7d62b7b9b52153670cafa1607297c7d0438afd3",
       "open_questions": [
         "Длительное содержание 2021 и неспособность адаптации 2022",
         "Неустановленный вид голомянки в транскриптомном анализе",
@@ -1605,7 +1607,8 @@
         "Разные наборы митогеномов, видов филогении и 36 особей",
         "Разные поздние значения двух таблиц вылова 2024",
         "Осётр 2024: точность/охват 908 тыс.и округлённых оснований",
-        "Смешение наложенных и взысканных штрафов в выводах 2024"
+        "Смешение наложенных и взысканных штрафов в выводах 2024",
+        "Рисунок общего ската 2016: повторная подпись 1984 после 1986"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -1659,6 +1662,16 @@
           "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
           "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
           "page": 192
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 221
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 222
         }
       ],
       "review_history": [
@@ -1697,6 +1710,30 @@
           ],
           "review_method": "Agent reads original PDF images and full cached source context; checks attribution/modality; not specialist review",
           "coverage": "Выбранные источниковые абзацы/сопоставления сверены по оригиналам; это не полная атомизация статьи или научная экспертиза."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "9c53d230785a5d9447f1d33dab4c6f28025516a67fa6d9ab8ea7deb63509928d",
+          "source_revisions": {
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
+          },
+          "claim_ids": [
+            "fish-and-biodiversity-01",
+            "fish-and-biodiversity-02",
+            "fish-and-biodiversity-03",
+            "fish-and-biodiversity-04",
+            "golomyanka-20261108-12",
+            "golomyanka-20261108-13",
+            "night-fishery2024-20261108-11",
+            "night-fishery2024-20261108-12",
+            "night-fishery2024-20261108-13",
+            "night-fishery2024-20261108-14"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -1908,7 +1945,8 @@
         "night-fishery2024-20261108-07",
         "night-fishery2024-20261108-08",
         "night-fishery2024-20261108-09",
-        "night-fishery2024-20261108-10"
+        "night-fishery2024-20261108-10",
+        "night-reproduction2016-20261108-10"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1918,12 +1956,13 @@
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "4abffc4c3250dfed3a79f3fc6bbb2d447b11f0b151a46e20718fe4ee18e72499",
+      "body_sha256": "5751808fb78a4da1358737915a0ffebabadb4f509dae324ce97ac7d948bb2aab",
       "open_questions": [
         "Проследить выживание выпущенной молоди и возврат производителей; реконструкция и выпуск не удостоверяют восстановление популяции.",
         "Разные поздние значения двух таблиц вылова 2024",
         "Осётр 2024: точность/охват 908 тыс.и округлённых оснований",
-        "Смешение наложенных и взысканных штрафов в выводах 2024"
+        "Смешение наложенных и взысканных штрафов в выводах 2024",
+        "Рисунок общего ската 2016: повторная подпись 1984 после 1986"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -1957,6 +1996,11 @@
           "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
           "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
           "page": 191
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 221
         }
       ],
       "review_history": [
@@ -1976,6 +2020,27 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "4abffc4c3250dfed3a79f3fc6bbb2d447b11f0b151a46e20718fe4ee18e72499",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
+          },
+          "claim_ids": [
+            "baikal-sturgeon-01",
+            "baikal-sturgeon-02",
+            "baikal-sturgeon-03",
+            "baikal-sturgeon-04",
+            "night-fishery2024-20261108-07",
+            "night-fishery2024-20261108-08",
+            "night-fishery2024-20261108-09",
+            "night-fishery2024-20261108-10"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -2012,7 +2077,9 @@
         "night-fishery2024-20261108-03",
         "night-fishery2024-20261108-04",
         "night-fishery2024-20261108-05",
-        "night-fishery2024-20261108-06"
+        "night-fishery2024-20261108-06",
+        "night-reproduction2016-20261108-11",
+        "night-reproduction2016-20261108-13"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -2020,10 +2087,11 @@
         "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
         "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
-        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "6105ae5e3003aaa4f63c3bcbc75f71f8353d501fcb60777b6f879cc7a214eec1",
+      "body_sha256": "19fcb206aae8a0de0963e0885e07fc2ad8d0a9fa1730dc6aecadb94f129a28e0",
       "open_questions": [
         "Исходные 35,6 млн омуля:2020 или 2021",
         "Учтённый вылов омуля 2023:90 или 80 т",
@@ -2035,7 +2103,8 @@
         "Ось нерестового графика 2023: 1981–1976 против 1976–1981",
         "Разные поздние значения двух таблиц вылова 2024",
         "Осётр 2024: точность/охват 908 тыс.и округлённых оснований",
-        "Смешение наложенных и взысканных штрафов в выводах 2024"
+        "Смешение наложенных и взысканных штрафов в выводах 2024",
+        "Рисунок общего ската 2016: повторная подпись 1984 после 1986"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -2154,6 +2223,16 @@
           "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
           "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
           "page": 191
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 220
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 221
         }
       ],
       "review_history": [
@@ -2210,6 +2289,49 @@
           ],
           "review_method": "Agent source reading with original table/figure visual checks; programmatic provenance validation; not specialist review",
           "coverage": "Полные блоки омуля четырёх докладов прочитаны; выбраны проверяемые смысловые блоки и таблицы. Исчерпывающая атомизация всех утверждений/экспертная рецензия не заявлены."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "6105ae5e3003aaa4f63c3bcbc75f71f8353d501fcb60777b6f879cc7a214eec1",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
+          },
+          "claim_ids": [
+            "baikal-omul-01",
+            "baikal-omul-02",
+            "baikal-omul-03",
+            "baikal-omul-04",
+            "omul-20261107-01",
+            "omul-20261107-02",
+            "omul-20261107-03",
+            "omul-20261107-04",
+            "omul-20261107-05",
+            "omul-20261107-06",
+            "omul-20261107-07",
+            "omul-20261107-08",
+            "omul-20261107-09",
+            "omul-20261107-10",
+            "omul-20261107-11",
+            "omul-20261107-12",
+            "omul-20261107-13",
+            "omul-20261107-14",
+            "omul-20261107-15",
+            "omul-20261107-16",
+            "omul-20261107-17",
+            "omul-20261107-18",
+            "omul-20261107-19",
+            "night-fishery2024-20261108-01",
+            "night-fishery2024-20261108-02",
+            "night-fishery2024-20261108-03",
+            "night-fishery2024-20261108-04",
+            "night-fishery2024-20261108-05",
+            "night-fishery2024-20261108-06"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -3204,6 +3326,67 @@
       ],
       "open_questions": [
         "Селенгинское мелководье2022:единица таблицы бентоса не согласуется с текстом"
+      ]
+    },
+    "syntheses/fish-artificial-reproduction.md": {
+      "review_history": [],
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-08",
+      "human_confirmation": null,
+      "scientific_review_required": true,
+      "body_sha256": "6f0e5e31eb58c4f09dae21a4b15f8bfd09946b9ebe8065dd7fb5390c2e656ba4",
+      "source_revisions": {
+        "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
+      },
+      "claim_ids": [
+        "night-reproduction2016-20261108-01",
+        "night-reproduction2016-20261108-02",
+        "night-reproduction2016-20261108-03",
+        "night-reproduction2016-20261108-04",
+        "night-reproduction2016-20261108-05",
+        "night-reproduction2016-20261108-06",
+        "night-reproduction2016-20261108-07",
+        "night-reproduction2016-20261108-08",
+        "night-reproduction2016-20261108-09"
+      ],
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+      "reviewed_evidence": [
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 220
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 221
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 222
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 189
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 190
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 191
+        }
+      ],
+      "open_questions": [
+        "Рисунок общего ската2016:повторная подпись1984после1986"
       ]
     }
   },
@@ -5628,6 +5811,34 @@
       ],
       "conclusion": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом.",
       "next_step": "Уточнить область действия заключения по программе/годовому отчёту исполнителя.",
+      "specialist_required": true
+    },
+    {
+      "id": "reproduction2016-figure-year",
+      "title": "Рисунок общего ската 2016: повторная подпись 1984 после 1986",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-reproduction2016-20261108-03"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "report_year": 2016,
+          "publication_year": null,
+          "page": 221,
+          "quote": "О состоянии озера Байкал и мерах по его охране в 2016 году                             221\n\n   млрд экз.\n  6\n\n  5\n  4                                                               1.4\n\n  3\n\n  2\n\n  1\n\n  0\n        1981 1982 1983 1984 1985 1986 1984 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016\n                                 Общий скат   Выпуск с РВЗ\nРис. 1.4.6.2. Численность личинок омуля, скатившихся в оз. Байкал.\n\n   В осенний период 2016 г. было отловлено для целей воспроизводства 10,8 тыс. экз. (в\n2015 г. – 12,2 тыс. экз.) производителей омуля, заложено на инкубацию всего 63,6 млн шт. (в\n2015 г. – 60,4 млн шт.) икры омуля. Соответственно, в 2017 г. ожидается выпуск личинок ому-\nля на уровне 2016 г., когда был зафиксирован минимальный за период работы рыбоводных\nзаводов объём выпуска личинок с заводов.\n   На байкальских рыбоводных заводах разработана и внедрена уникальная технология –\nэкологический метод сбора икры омуля (авторское свидетельство 1064930, Н.Ф. Дзюменко).\nТехнологическая схема выпуска рыбоводной продукции омуля в основном личинками, а не\nподрощенной молодью соответствует естественному скату личинок омуля и биологически\nоправдана, а также отчасти обусловлена экономическим фактором.\n    Государственный заказ и финансирование работ по искусственному воспроизводству\nбайкальского омуля в последние годы постоянно снижались:\n    2009 г. – 53,5 млн руб. на выпуск 11,0 млн экз. молоди и 872,9 млн экз. личинок;\n    2010 г. – 37,6 млн руб. на выпуск 11,0 млн экз. молоди и 295,4 млн экз. личинок;\n    2011 г. – 32,1 млн руб. на выпуск 11,0 млн экз. молоди и 200,0 млн экз. личинок;\n    2012 г. – 25,3 млн руб. на выпуск 10,0 млн экз. молоди;\n    2013 г. – 20,9 млн руб. на выпуск 6,4 млн экз. молоди;\n    2014 г. – 19,9 млн руб. на выпуск 5,8 млн экз. молоди;\n    2015 г. – 19,9 млн руб. на выпуск 5,8 млн экз. молоди.\n   В 2012–2015 гг. государственного заказа на производство и выпуск личинок омуля не\nбыло. В 2015 г. госконтракт, в силу форс-мажорных обстоятельств, не был выполнен, факт\nвыпуска молоди из питомников не был подтвержден соответствующими актами.\n   В апреле 2016 г. по решению Федерального агентства по управлению государственным\nимуществом, совместно с Федеральным агентством по рыболовству с целью сохранения\nи пополнения запасов байкальского омуля для повышения объемов и эффективности его\nискусственного  воспроизводства, осуществлена  передача  от АО «Востсибрыбцентр»\nв  оперативное  управление ФГБУ  «Байкалрыбвод»  Селенгинского  и  Баргузинского\nрыбоводных заводов, а в декабре и Большереченского рыбоводного завода.\n    Государственное задание для ФГБУ «Байкалрыбвод» на 2016  г. было определено в\nобъёме 1,0 млн шт. молоди байкальского омуля средней навеской 0,5 г; 0,9 млн шт. молоди\nосётра средней навеской 3,0 г; 1,0 млн шт. молоди сазана средней навеской 0,5 г.",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "По изображению подтверждена ошибка подписи;1987не подставлен и неподписанные высоты не оцифрованы."
+        }
+      ],
+      "source_versions": [
+        "Ось 1981–2016 после 1986 повторяет 1984, далее 1988"
+      ],
+      "conclusion": "По изображению подтверждена ошибка подписи;1987 не подставлен и неподписанные высоты не оцифрованы.",
+      "next_step": "Проверить первичный ряд/редакционную поправку перед построением годовой серии.",
       "specialist_required": true
     }
   ],

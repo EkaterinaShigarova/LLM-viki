@@ -141,6 +141,10 @@
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
 
+## Госзаказ
+
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
+
 ## Грузовые перевозки
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
@@ -181,6 +185,10 @@
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
+
+## Икра
+
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
 
 ## Искусственное воспроизводство
 
@@ -254,6 +262,10 @@
 
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 
+## Личиночный выпуск
+
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
+
 ## Локальные нормы и фон
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
@@ -326,6 +338,10 @@
 ## Митохондриальные геномы
 
 - [2022: кислородная гипотеза аквариумной адаптации голомянок и геномный контекст](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md) — доклад 2022.
+
+## Навеска
+
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
 
 ## Нарушения ПДК
 
@@ -463,6 +479,10 @@
 
 - [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
 
+## Подрощенная молодь
+
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
+
 ## Популяция нерпы
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
@@ -508,6 +528,7 @@
 ## Проектная мощность
 
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
+- [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
 
 ## Прозрачность воды
 

@@ -79,6 +79,18 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 192
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 221
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 222
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
@@ -224,6 +236,18 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 191
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 220
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 221
                 }
               ],
               "gap": "Первичные методики/ряды и нерестилища; разрешение расхождений 2023/2024; разделение общего ската по происхождению. Научная рецензия не выполнена."
@@ -268,6 +292,12 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 191
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 221
                 }
               ],
               "gap": "Нужны данные выживания и возврата выпущенной молоди."
@@ -300,6 +330,52 @@
                 }
               ],
               "gap": "Видовые выборки/протоколы адаптации, прямой тест кислородного механизма и природные запасы не установлены; требуется научная рецензия."
+            },
+            {
+              "id": "fish-artificial-reproduction",
+              "title": "Искусственное воспроизводство рыб: стадии, мощности и учёт выпусков",
+              "article": "syntheses/fish-artificial-reproduction.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 220
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 221
+                },
+                {
+                  "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+                  "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+                  "report_year": 2016,
+                  "page": 222
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 189
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 190
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 191
+                }
+              ],
+              "gap": "Акты/редакции заданий,журналы партий,выживаемость и природные эффекты."
             }
           ]
         },

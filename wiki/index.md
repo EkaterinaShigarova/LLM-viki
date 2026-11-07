@@ -25,6 +25,7 @@
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 - [Рыбы и биоразнообразие: почему одного показателя недостаточно](syntheses/fish-and-biodiversity.md)
+- [Искусственное воспроизводство рыб Байкала: стадии, мощности и учёт выпусков](syntheses/fish-artificial-reproduction.md)
 - [Лесные пожары: учёт последствий и меры предупреждения](syntheses/forest-fires.md)
 - [Подземные воды и геологические процессы: как устроена сеть мониторинга](syntheses/groundwater-geological-monitoring.md)
 - [Наземные охотничьи ресурсы иркутской части БПТ: оценки, добыча и методы учёта](syntheses/hunting-resources-irkutsk-bpt.md)

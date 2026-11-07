@@ -331,6 +331,29 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md",
       "limitations": "Полный названный подраздел;фактические границы проверены по оригиналам. Месяцы,среды,табличные варианты и неразрешённые ограничения сохранены."
+    },
+    {
+      "id": "fish-reproduction-2016",
+      "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+      "source_sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+      "report_year": 2016,
+      "title": "Искусственное воспроизводство:стадии,госзаказы и осётр",
+      "candidate_pdf_pages": [
+        220,
+        222
+      ],
+      "located_evidence_page": 220,
+      "exact_locator_quote": "Искусственное воспроизводство рыбных ресурсов.",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_subheading_PDF220_to_control_heading_PDF222",
+      "verified_pdf_pages": [
+        220,
+        221,
+        222
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md",
+      "limitations": "Прочитан весь воспроизводственный подраздел,не уловы/контроль всего1.4.6. Заказы не засчитаны исполнением,1029/1044и3,0гразделены,ошибочная ось графика сохранена."
     }
   ],
   "updated_at": "2026-11-08",
