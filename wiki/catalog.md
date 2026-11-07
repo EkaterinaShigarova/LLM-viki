@@ -28,6 +28,10 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p302](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-302) · доклад 2021.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p296](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-296) · доклад 2022.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p187](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-187) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p188](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-188) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p189](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-189) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p191](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-191) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p192](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-192) · доклад 2024.
 
 - [Байкальский омуль: экологические группы и естественное воспроизводство](syntheses/baikal-omul.md)
 
@@ -53,6 +57,11 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p64](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-64) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p65](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-65) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p66](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p187](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-187) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p188](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-188) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p189](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-189) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p190](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-190) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p191](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-191) · доклад 2024.
 
 - [Байкальский осётр: охрана и искусственное воспроизводство](syntheses/baikal-sturgeon.md)
 
@@ -63,6 +72,9 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p51](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-51) · доклад 2020.
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p222](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-222) · доклад 2016.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p67](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-67) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p189](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-189) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p190](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-190) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p191](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-191) · доклад 2024.
 
 - [Голомянки и глубоководные рыбы: аквариумная адаптация и кислородная гипотеза](syntheses/baikal-golomyanka.md)
 

@@ -66,6 +66,11 @@
 ## Вылов
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
+- [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
+
+## Выпуск молоди
+
+- [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
 
 ## Выявленные нарушения
 
@@ -151,6 +156,10 @@
 
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
 
+## Искусственное воспроизводство
+
+- [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
+
 ## Историческая оценка осетра
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
@@ -222,6 +231,10 @@
 ## Локальные нормы и фон
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Любительское рыболовство
+
+- [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
 
 ## Макрозообентос: плотность и биомасса
 
@@ -316,6 +329,10 @@
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
 
+## ОДУ
+
+- [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
+
 ## ОДУ и учтённый вылов
 
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
@@ -334,6 +351,10 @@
 ## Объём коммунального сброса
 
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
+
+## Ограничения административной статистики
+
+- [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
 
 ## Олигохетный индекс
 
@@ -411,6 +432,10 @@
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
 
+## Правонарушения
+
+- [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
+
 ## Пределы и средние выборок
 
 - [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
@@ -441,9 +466,17 @@
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
 
+## Проектная мощность
+
+- [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
+
 ## Прозрачность воды
 
 - [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
+
+## Промысловый запас
+
+- [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
 
 ## Разделение численности хищника и рыб
 
@@ -475,6 +508,10 @@
 ## Региональные сети одной реки
 
 - [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Рыбоохрана
+
+- [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
 
 ## Сезонная добыча
 
@@ -514,6 +551,10 @@
 ## Среднее содержание фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
+
+## Средняя навеска
+
+- [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
 
 ## Станционные максимумы
 
@@ -626,6 +667,10 @@
 ## Число проб и наблюдений
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Штрафы
+
+- [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
 
 ## ЭВЗ кадмием
 

@@ -207,6 +207,37 @@
         164
       ],
       "note_path": "wiki/notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md"
+    },
+    {
+      "id": "fishery-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "Рыбное хозяйство: уловы, искусственное воспроизводство и рыбоохрана",
+      "candidate_pdf_pages": [
+        186,
+        192
+      ],
+      "located_evidence_page": 186,
+      "exact_locator_quote": "1.3.5. Рыбное хозяйство",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_heading_on_PDF186_to_1.3.6_on_PDF192",
+      "verified_pdf_pages": [
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192
+      ],
+      "completed_at": "2026-11-08",
+      "note_paths": [
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md",
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md",
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md"
+      ],
+      "limitations": "Оба графика просмотрены, точные неподписанные высоты не оцифрованы. Обе таблицы перенесены отдельно, их расхождения не разрешены; раздел1.3.6 исключён."
     }
   ],
   "updated_at": "2026-11-08",
