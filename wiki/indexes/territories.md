@@ -112,6 +112,10 @@
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
 - [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
 
+## Дагарская губа
+
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
+
 ## Джида — Хамней
 
 - [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
@@ -162,8 +166,8 @@
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 
@@ -178,6 +182,7 @@
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2024: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md) — доклад 2024.
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Колпинная
 
@@ -213,7 +218,7 @@
 
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 - [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 
 ## Модонкуль — выше Закаменска
@@ -310,10 +315,11 @@
 ## Северный Байкал
 
 - [2024: голомянко-бычковый комплекс в питании нерпы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md) — доклад 2024.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Селенга
 
@@ -350,7 +356,7 @@
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
@@ -380,6 +386,10 @@
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 
+## Томпуда — Котельниковский
+
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
+
 ## Турка
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
@@ -388,6 +398,7 @@
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Уда — выше Улан-Удэ
 
@@ -401,7 +412,7 @@
 
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 
 ## Хамар-Дабан
@@ -455,7 +466,7 @@
 
 ## Южные порты
 
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Южный Байкал
 

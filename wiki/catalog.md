@@ -142,6 +142,9 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p43](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-43) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p44](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-44) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -162,6 +165,7 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -185,6 +189,8 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p44](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-44) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -238,6 +244,8 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p43](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-43) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
 
 
 <a id="water"></a>
@@ -341,6 +349,9 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
 
 - [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
 

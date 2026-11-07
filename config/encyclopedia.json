@@ -561,6 +561,24 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 45
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 33
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 34
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 35
                 }
               ],
               "gap": "Разные районы и сезоны; общего временного ряда нет."
@@ -647,6 +665,12 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 54
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 35
                 }
               ],
               "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
@@ -751,6 +775,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 46
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 35
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 36
                 }
               ],
               "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
@@ -936,6 +972,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 54
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 34
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 36
                 }
               ],
               "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия."
@@ -1274,6 +1322,24 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 49
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 33
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 34
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 36
                 }
               ],
               "gap": "Уточнить фоновые значения и неизменность вертикалей."

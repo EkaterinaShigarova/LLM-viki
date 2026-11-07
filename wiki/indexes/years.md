@@ -25,7 +25,8 @@
 - [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## 2018
 
@@ -100,7 +101,7 @@
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 [Главный индекс](../index.md)
 

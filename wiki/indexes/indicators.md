@@ -4,7 +4,7 @@
 
 ## Epischura baicalensis
 
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 
 ## Spirogyra
@@ -12,6 +12,7 @@
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## TDS и главные ионы
 
@@ -30,6 +31,7 @@
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Батометрический отбор
 
@@ -82,7 +84,7 @@
 ## Встречаемость Spirogyra
 
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Вылов
 
@@ -103,7 +105,7 @@
 
 ## Гидробиологические зоны
 
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Гидробиологические сезонные показатели
 
@@ -185,6 +187,7 @@
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Икра
 
@@ -278,10 +281,11 @@
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Макрозообентос: плотность и биомасса
 
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Макрокомпоненты и микроэлементы
 
@@ -409,7 +413,7 @@
 
 ## Олигохетный индекс
 
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Органический углерод
 
@@ -458,6 +462,7 @@
 ## Петерсен
 
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Площадь индикаторной зоны
 
@@ -626,7 +631,7 @@
 
 ## Станционные максимумы
 
-- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Станционные различия
 
@@ -699,6 +704,7 @@
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
+- [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
 ## Фитопланктон: численность и биомасса
 
@@ -706,7 +712,7 @@
 
 ## Фон и воздействие
 
-- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Фон и контроль
 

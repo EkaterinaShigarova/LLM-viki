@@ -354,6 +354,46 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md",
       "limitations": "Прочитан весь воспроизводственный подраздел,не уловы/контроль всего1.4.6. Заказы не засчитаны исполнением,1029/1044и3,0гразделены,ошибочная ось графика сохранена."
+    },
+    {
+      "id": "north-hydrobiology-2017",
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "source_sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "title": "Северный Байкал2017:сообщества,методы,таблица",
+      "candidate_pdf_pages": [
+        33,
+        36
+      ],
+      "located_evidence_page": 33,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_north_heading_PDF33_to_Selenga_heading_PDF36",
+      "verified_pdf_pages": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md",
+      "limitations": "Полностью прочитан северный подраздел/вся таблица. Июль бактерий,1322,3/1369и480–0080сохранены;следующийрайон не включён."
+    },
+    {
+      "id": "selenga-hydrobiology-2017",
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "source_sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "title": "Следующее чтение:Селенгинское мелководье,таблица и продолжение",
+      "candidate_pdf_pages": [
+        36,
+        39
+      ],
+      "located_evidence_page": 36,
+      "exact_locator_quote": "Район Селенгинского мелководья",
+      "substantive_reading_completed": false,
+      "boundary_status": "heading_and_conclusions_located_by_cached_text_search_not_full_visual_reading",
+      "limitations": "НачалоPDF36,таблицаPDF37,продолжениеPDF38доВыводовPDF39. Сначала прочитать оригиналы и уточнить конец самих выводов;не считать найденный заголовок готовым исследованием."
     }
   ],
   "updated_at": "2026-11-08",
