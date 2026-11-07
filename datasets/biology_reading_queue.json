@@ -68,9 +68,19 @@
       ],
       "located_evidence_page": 302,
       "exact_locator_quote": "ржание в аквариумах нескольких донных и донно-пелагических видов\nи длительное – голомянок и глубоководных гаммарид. Стали возможными систематиче-\nские наблюдения за поведением байкальских глубоководных рыб в аквариумных условиях.\n    Получены новые сведения по фауне ручейников, населяющих водотоки бассейна\nозера Байкал. Анализ многолетних сборов ручейников показал стабильность видового ",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Блок Байкальского музея. Экспериментальная адаптация, не популяционная оценка; установить начало/конец абзацев."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_target_paragraphs_original_pdf_and_adjacent_pages",
+      "limitations": "Прочитан полный аквариумный абзац PDF302; категория кратковременного содержания не названа. Виды, режимы и численные сроки неизвестны; весь музейный блок не объявлен законспектированным.",
+      "completed_at": "2026-11-08",
+      "verified_pdf_pages": [
+        302
+      ],
+      "boundary_only_pdf_pages": [
+        301,
+        303
+      ],
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/deep-fish-aquarium.md",
+      "original_locator_confirmed": true
     },
     {
       "id": "deep-fish-2022",
@@ -84,9 +94,19 @@
       ],
       "located_evidence_page": 296,
       "exact_locator_quote": "и окончательные хозяева описторхиса.\n     Сделан вывод о том, что неспособность голомянок адаптироваться к жизни в аквари-\nумах может быть связана с невозможностью ими при обычном давлении поглощать количе-\nство кислорода, необходимое для нормальной жизнедеятельности, что, в свою очередь, мо-\nжет быть обусловлено недостаточно активным переносом кислорода гемоглобином, кото-\nрый может на",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Не объединять автоматически с опытом 2021: проверить давление/кислород, модальность вывода и видовые различия."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_target_paragraphs_original_pdf_and_adjacent_pages",
+      "limitations": "Прочитаны физиологический и следующий геномный абзацы PDF296. Вид транскриптома не установлен; гипотеза не стала причинным доказательством. Другие темы музейного блока не законспектированы.",
+      "completed_at": "2026-11-08",
+      "verified_pdf_pages": [
+        296
+      ],
+      "boundary_only_pdf_pages": [
+        295,
+        297
+      ],
+      "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md",
+      "original_locator_confirmed": true
     },
     {
       "id": "food-web-2024",
@@ -100,9 +120,19 @@
       ],
       "located_evidence_page": 187,
       "exact_locator_quote": "преоб-\nбинами.                                         ладанием малой и большой голомянки, а также\n    Кроме мелководных участков Байкала, в состав    длиннокрылой широколобки. Общая расчетная чис-\nрыбопромысловых районов входят следующие ос-    ленность популяции нерпы в 2024 г. составила 163,2\nновные водоемы:                                     тыс. животных. Результаты ледового учета",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Это контекст питания/биоресурсов, не отдельный учёт численности голомянок; проверить соседние страницы и название раздела."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_target_paragraphs_original_pdf_and_adjacent_pages",
+      "limitations": "Прочитан пищевой контекст нерпы правой колонки PDF187; числа нерпы не присвоены рыбам. Полнота рыбохозяйственного 1.3.5 и таблицы вылова не заявлена.",
+      "completed_at": "2026-11-08",
+      "verified_pdf_pages": [
+        187
+      ],
+      "boundary_only_pdf_pages": [
+        186,
+        188
+      ],
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md",
+      "original_locator_confirmed": true
     },
     {
       "id": "kos-benthos-2017",
@@ -153,5 +183,6 @@
       "limitations": "Старт ниже рисунка 4.24 на PDF163, продолжение до 4.2.5 на PDF164. Сетные/грунтовые пробы, годы сравнения и север/Малое море/мелководье разделить."
     }
   ],
-  "updated_at": "2026-11-07"
+  "updated_at": "2026-11-08",
+  "next_priority": "Планктон/эпишура и макрозообентос: КОС 2017 PDF29–33; затем Малое море 2022 PDF51–53 и обзор 2025 PDF163–164. Это навигационные диапазоны, проверить реальные границы."
 }

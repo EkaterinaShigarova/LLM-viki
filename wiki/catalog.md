@@ -25,6 +25,9 @@
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p47](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-47) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p54](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-54) · доклад 2018.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p63](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63) · доклад 2024.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p302](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-302) · доклад 2021.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p296](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-296) · доклад 2022.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p187](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-187) · доклад 2024.
 
 - [Байкальский омуль: экологические группы и естественное воспроизводство](syntheses/baikal-omul.md)
 
@@ -60,6 +63,16 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p51](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-51) · доклад 2020.
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p222](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-222) · доклад 2016.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p67](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-67) · доклад 2024.
+
+- [Голомянки и глубоководные рыбы: аквариумная адаптация и кислородная гипотеза](syntheses/baikal-golomyanka.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Видовые выборки/протоколы адаптации, прямой тест кислородного механизма и природные запасы не установлены; требуется научная рецензия.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p302](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-302) · доклад 2021.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p296](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-296) · доклад 2022.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p187](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-187) · доклад 2024.
 
 <a id="plankton"></a>
 ### Планктон, обрастания и дно

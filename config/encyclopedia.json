@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "evidence_levels": {
     "multiyear_text": "Содержательные страницы нескольких лет прочитаны; достаточны для текста с ограничениями, но не автоматически для числового тренда.",
     "reviewed_overview": "Существующая аналитическая статья с происхождением утверждений; уровень не означает внешнюю экспертизу.",
@@ -37,6 +37,24 @@
                   "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "page": 63
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 302
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 296
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 187
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
@@ -181,6 +199,35 @@
                 }
               ],
               "gap": "Нужны данные выживания и возврата выпущенной молоди."
+            },
+            {
+              "id": "baikal-golomyanka",
+              "title": "Голомянки и глубоководные рыбы: аквариумная адаптация и кислородная гипотеза",
+              "article": "syntheses/baikal-golomyanka.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 302
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 296
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 187
+                }
+              ],
+              "gap": "Видовые выборки/протоколы адаптации, прямой тест кислородного механизма и природные запасы не установлены; требуется научная рецензия."
             }
           ]
         },
