@@ -32,7 +32,10 @@
         "night-review2025-20261108-01",
         "night-review2025-20261108-02",
         "night-north2022-20261108-04",
-        "night-north2022-20261108-05"
+        "night-north2022-20261108-05",
+        "night-selenga2022-20261108-10",
+        "night-kos2022-20261108-01",
+        "night-kos2022-20261108-02"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -46,7 +49,7 @@
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "563b22ec015cbfc01edc79e72bdca2c3ac24b6e15156a2a54da7975f71c5f40e",
+      "body_sha256": "899ecc493865f826fac2c4d41ee673d6e1fafcd64dfbb8752ccf3be2efc4900c",
       "open_questions": [
         "Согласовать сезоны, глубины, состав станций и методы; численность и биомасса не взаимозаменяемы.",
         "КОС 2017:116/162 и июль/июнь",
@@ -56,7 +59,10 @@
         "Обзор 2025: проценты олигохетного индекса и доли проб",
         "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря",
         "Север 2022: общий диапазон гетеротрофов 93–304 не охватывает среднее 825",
-        "Север 2022: числовые разряды таблицы и прозы"
+        "Север 2022: числовые разряды таблицы и прозы",
+        "Селенгинское мелководье 2022: единица таблицы бентоса не согласуется с текстом",
+        "КОС 2022: разные средние/охват таблицы и прозы",
+        "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -180,6 +186,31 @@
           "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
           "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
           "page": 48
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 49
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 50
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 43
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 44
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 45
         }
       ],
       "review_history": [
@@ -312,6 +343,77 @@
             "night-smallsea2022-20261108-02",
             "night-review2025-20261108-01",
             "night-review2025-20261108-02"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "563b22ec015cbfc01edc79e72bdca2c3ac24b6e15156a2a54da7975f71c5f40e",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "phytoplankton-01",
+            "phytoplankton-02",
+            "phytoplankton-03",
+            "phytoplankton-04",
+            "phytoplankton-05",
+            "hydrology3-20261104-08",
+            "hydrology3-20261104-09",
+            "hydrology3-20261104-17",
+            "hydrology3-20261104-18",
+            "night-kos2017-20261108-01",
+            "night-kos2017-20261108-02",
+            "night-kos2017-20261108-03",
+            "night-smallsea2022-20261108-01",
+            "night-smallsea2022-20261108-02",
+            "night-review2025-20261108-01",
+            "night-review2025-20261108-02",
+            "night-north2022-20261108-04",
+            "night-north2022-20261108-05"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "93e8918554c60c513e241f240d0eb933b43c1fb7f83d0d2e7fee9e38fd96d425",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "phytoplankton-01",
+            "phytoplankton-02",
+            "phytoplankton-03",
+            "phytoplankton-04",
+            "phytoplankton-05",
+            "hydrology3-20261104-08",
+            "hydrology3-20261104-09",
+            "hydrology3-20261104-17",
+            "hydrology3-20261104-18",
+            "night-kos2017-20261108-01",
+            "night-kos2017-20261108-02",
+            "night-kos2017-20261108-03",
+            "night-smallsea2022-20261108-01",
+            "night-smallsea2022-20261108-02",
+            "night-review2025-20261108-01",
+            "night-review2025-20261108-02",
+            "night-north2022-20261108-04",
+            "night-north2022-20261108-05",
+            "night-selenga2022-20261108-10"
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
@@ -545,7 +647,9 @@
         "night-smallsea2022-20261108-06",
         "night-review2025-20261108-05",
         "night-review2025-20261108-06",
-        "night-north2022-20261108-08"
+        "night-north2022-20261108-08",
+        "night-selenga2022-20261108-12",
+        "night-kos2022-20261108-05"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -557,7 +661,7 @@
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "a20867a32d62dc2fba30694e89ebdde88648f6a94f4523d6f94569409f42bc16",
+      "body_sha256": "b6fe3828d49e8d60f1610a7ca8794a8e191acbd1cfd22869021016b00b7d3460",
       "open_questions": [
         "Уточнить систематические группы и стандартизацию сетных, грунтовых и обрастательных проб; обнаружение нитей не измеряет площадь зарастания.",
         "КОС 2017:116/162 и июль/июнь",
@@ -567,7 +671,10 @@
         "Обзор 2025: проценты олигохетного индекса и доли проб",
         "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря",
         "Север 2022: общий диапазон гетеротрофов 93–304 не охватывает среднее 825",
-        "Север 2022: числовые разряды таблицы и прозы"
+        "Север 2022: числовые разряды таблицы и прозы",
+        "Селенгинское мелководье 2022: единица таблицы бентоса не согласуется с текстом",
+        "КОС 2022: разные средние/охват таблицы и прозы",
+        "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик"
       ],
       "finding_ids": [
         "F02"
@@ -628,6 +735,16 @@
           "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
           "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
           "page": 49
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 45
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 54
         }
       ],
       "review_history": [
@@ -719,6 +836,61 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "a20867a32d62dc2fba30694e89ebdde88648f6a94f4523d6f94569409f42bc16",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "spirogyra-observations-01",
+            "spirogyra-observations-02",
+            "spirogyra-observations-03",
+            "spirogyra-observations-04",
+            "spirogyra-observations-05",
+            "spirogyra-observations-06",
+            "night-kos2017-20261108-07",
+            "night-kos2017-20261108-08",
+            "night-smallsea2022-20261108-06",
+            "night-review2025-20261108-05",
+            "night-review2025-20261108-06",
+            "night-north2022-20261108-08"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "0559163cb1cd5e6478ede031849de3d4c492260e1655989ee72b8647968827ae",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "spirogyra-observations-01",
+            "spirogyra-observations-02",
+            "spirogyra-observations-03",
+            "spirogyra-observations-04",
+            "spirogyra-observations-05",
+            "spirogyra-observations-06",
+            "night-kos2017-20261108-07",
+            "night-kos2017-20261108-08",
+            "night-smallsea2022-20261108-06",
+            "night-review2025-20261108-05",
+            "night-review2025-20261108-06",
+            "night-north2022-20261108-08",
+            "night-selenga2022-20261108-12"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -806,21 +978,25 @@
         "environmental-problems-04",
         "environmental-problems-05",
         "environmental-problems-06",
-        "night-review2025-20261108-07"
+        "night-review2025-20261108-07",
+        "night-kos2022-20261108-08"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "8d3705f8751356ecef09e638dae1faa69a9106f141c9f3014db9f15f1570389c",
+      "body_sha256": "9ec2ee08b1cb2d2df807fe74e0115e7d7e67cd66a150decab9b5dc834969c2b6",
       "open_questions": [
         "Не строить единый индекс из несопоставимых показателей; проверить официальные экземпляры зеркал и непокрытые годы.",
         "Обзор 2025: проценты олигохетного индекса и доли проб",
-        "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря"
+        "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря",
+        "КОС 2022: разные средние/охват таблицы и прозы",
+        "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик"
       ],
       "finding_ids": [
         "F05"
@@ -881,6 +1057,26 @@
           "source_id": "official-b4e3fcfe0e41e26ea03b",
           "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
           "page": 164
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 51
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 52
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 53
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 54
         }
       ],
       "review_history": [
@@ -902,6 +1098,26 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "8d3705f8751356ecef09e638dae1faa69a9106f141c9f3014db9f15f1570389c",
+          "source_revisions": {
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "environmental-problems-01",
+            "environmental-problems-02",
+            "environmental-problems-03",
+            "environmental-problems-04",
+            "environmental-problems-05",
+            "environmental-problems-06",
+            "night-review2025-20261108-07"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -1084,7 +1300,10 @@
         "night-review2025-20261108-03",
         "night-review2025-20261108-04",
         "night-north2022-20261108-06",
-        "night-north2022-20261108-07"
+        "night-north2022-20261108-07",
+        "night-selenga2022-20261108-11",
+        "night-kos2022-20261108-03",
+        "night-kos2022-20261108-04"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1096,7 +1315,7 @@
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "7e2b1b0036f5b58da2dc1d4855337559ebc35aeb938f3a73b9cf1080675e7d61",
+      "body_sha256": "b97a461a2b88454ea8a7eeccb4565eda5826b0f23c3a6d2520e12048b3555e43",
       "open_questions": [
         "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии.",
         "КОС 2017:116/162 и июль/июнь",
@@ -1106,7 +1325,10 @@
         "Обзор 2025: проценты олигохетного индекса и доли проб",
         "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря",
         "Север 2022: общий диапазон гетеротрофов 93–304 не охватывает среднее 825",
-        "Север 2022: числовые разряды таблицы и прозы"
+        "Север 2022: числовые разряды таблицы и прозы",
+        "Селенгинское мелководье 2022: единица таблицы бентоса не согласуется с текстом",
+        "КОС 2022: разные средние/охват таблицы и прозы",
+        "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик"
       ],
       "finding_ids": [
         "F07"
@@ -1172,6 +1394,26 @@
           "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
           "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
           "page": 49
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 50
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 44
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 45
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 46
         }
       ],
       "review_history": [
@@ -1263,6 +1505,67 @@
             "night-smallsea2022-20261108-05",
             "night-review2025-20261108-03",
             "night-review2025-20261108-04"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "7e2b1b0036f5b58da2dc1d4855337559ebc35aeb938f3a73b9cf1080675e7d61",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05",
+            "night-kos2017-20261108-04",
+            "night-kos2017-20261108-05",
+            "night-kos2017-20261108-06",
+            "night-smallsea2022-20261108-03",
+            "night-smallsea2022-20261108-04",
+            "night-smallsea2022-20261108-05",
+            "night-review2025-20261108-03",
+            "night-review2025-20261108-04",
+            "night-north2022-20261108-06",
+            "night-north2022-20261108-07"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "60136263d90faf1f6f54a88f34d4f6d88e543574914088e53391e6ec6f97e599",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05",
+            "night-kos2017-20261108-04",
+            "night-kos2017-20261108-05",
+            "night-kos2017-20261108-06",
+            "night-smallsea2022-20261108-03",
+            "night-smallsea2022-20261108-04",
+            "night-smallsea2022-20261108-05",
+            "night-review2025-20261108-03",
+            "night-review2025-20261108-04",
+            "night-north2022-20261108-06",
+            "night-north2022-20261108-07",
+            "night-selenga2022-20261108-11"
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
@@ -2715,6 +3018,26 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "d7b993818ed62fcf157f317871385d7a44d505f15e34c17fb444973a9b16bce4",
+          "source_revisions": {
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+          },
+          "claim_ids": [
+            "night-review2025-20261108-08",
+            "night-review2025-20261108-09",
+            "night-review2025-20261108-10",
+            "night-review2025-20261108-11",
+            "night-review2025-20261108-12",
+            "night-review2025-20261108-13",
+            "night-north2022-20261108-09"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ],
       "status": "ai_source_checked",
@@ -2722,7 +3045,7 @@
       "reviewed_at": "2026-11-08",
       "human_confirmation": null,
       "scientific_review_required": true,
-      "body_sha256": "d7b993818ed62fcf157f317871385d7a44d505f15e34c17fb444973a9b16bce4",
+      "body_sha256": "d04fa64b3c14d4dea6186ed3d20a2654e5a6936162d38818af8461e2344b8836",
       "source_revisions": {
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
@@ -2735,7 +3058,9 @@
         "night-review2025-20261108-11",
         "night-review2025-20261108-12",
         "night-review2025-20261108-13",
-        "night-north2022-20261108-09"
+        "night-north2022-20261108-09",
+        "night-kos2022-20261108-06",
+        "night-kos2022-20261108-07"
       ],
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -2804,13 +3129,81 @@
           "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
           "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
           "page": 49
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 43
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 45
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 54
         }
       ],
       "open_questions": [
         "Обзор 2025: проценты олигохетного индекса и доли проб",
         "Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря",
         "Север 2022: общий диапазон гетеротрофов 93–304 не охватывает среднее 825",
-        "Север 2022: числовые разряды таблицы и прозы"
+        "Север 2022: числовые разряды таблицы и прозы",
+        "КОС 2022: разные средние/охват таблицы и прозы",
+        "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик"
+      ]
+    },
+    "syntheses/selenga-shallows-communities.md": {
+      "review_history": [],
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-08",
+      "human_confirmation": null,
+      "scientific_review_required": true,
+      "body_sha256": "89f54d26eaf0ac7e1cefd7926d234d97180c2ea3ad7f6525ab741b0ab9da826f",
+      "source_revisions": {
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+        "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920"
+      },
+      "claim_ids": [
+        "night-selenga2022-20261108-01",
+        "night-selenga2022-20261108-02",
+        "night-selenga2022-20261108-03",
+        "night-selenga2022-20261108-04",
+        "night-selenga2022-20261108-05",
+        "night-selenga2022-20261108-06",
+        "night-selenga2022-20261108-07",
+        "night-selenga2022-20261108-08",
+        "night-selenga2022-20261108-09"
+      ],
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+      "reviewed_evidence": [
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 49
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 50
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 51
+        },
+        {
+          "source_id": "official-b4e3fcfe0e41e26ea03b",
+          "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+          "page": 164
+        }
+      ],
+      "open_questions": [
+        "Селенгинское мелководье2022:единица таблицы бентоса не согласуется с текстом"
       ]
     }
   },
@@ -5062,6 +5455,179 @@
       ],
       "conclusion": "Оба варианта сохранены; часть может быть округлением, но не все различия доказанно объясняются им. Не усреднять/не подменять.",
       "next_step": "Запросить неокруглённые средние и правила подготовки текста/таблицы.",
+      "specialist_required": true
+    },
+    {
+      "id": "selenga2022-benthos-unit",
+      "title": "Селенгинское мелководье 2022: единица таблицы бентоса не согласуется с текстом",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-selenga2022-20261108-06",
+        "night-selenga2022-20261108-11"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 50,
+          "quote": "              О состоянии озера Байкал и мерах по его охране в 2022 году\n\n                                                              Таблица 1.1.1.4.3\n     Количественные характеристики гидробионтов в озере Байкал в районе\n       Селенгинского мелководья по результатам съемок 2021 и 2022 годов\n                (числитель – пределы, знаменатель – среднее значение)\n №         Группы гидробионтов                 2021 г.          Сентябрь 2022 г.\n        Бактериопланктон, численность гете-          266–1608                 1–10\n  1    ротрофов, кл/мл                                825                     3\n                                                        256–1921;                251–860,5       Фитопланктон, численность, тыс. кл/л                                                       1371                    454\n  2                                                      96–676                  19–90,5        Биомасса, мг/м3                                                        395                     44\n                                                          29–230;                 10–36        Зоопланктон, численность, тыс. экз/м3                                                             100,7                      21,3  3                                                         28–489,3                 44,6–286        Биомасса, мг/м3                                                        193                    104\n        Бактериобентос, численность гетеро-            15–73                   3–24\n  4    трофов, тыс. кл/г                                39                     12\n                                                                              3–14        Зообентос, численность, экз/м2                    –                                                                                 6\n  5                                                                              14–37        Биомасса, г/м2                                   –                                                                                          25,5\n\n    Бактериопланктон и микрофлора донных отложений. Состояние бактериопланк-\nтона и микрофлоры донных отложений оценивали по численности гетеротрофных, фено-\nлокисляющих и углеводородокисляющих бактерий.\n    Общий диапазон значений групп бактериопланктона составил: фенолокисляющие\nбактерии – 0–41 кл/мл, гетеротрофы – 1–10 кл/мл, углеводородокисляющие – 0–10 кл/мл.\n    Максимальное количество гетеротрофов отмечено на станции, расположенной меж-\nду устьем пр. Промой и устьем пр. Харауз, напротив основного русла р. Селенги. Среднее\nзначение составило 3 кл/мл, что ниже показателя 2021 года в 275 раз. Наибольшие значе-\nния фенолокисляющих и углеводородокисляющих бактерий зафиксированы на выносе\nиз пр. Колпинной.  Фенолокисляющие  организмы  обнаружены  на  восьми  станциях\n(67 % проб), углеводородокисляющие – на одной станции.\n    При исследовании микрофлоры донных отложений наибольшее значение гетеротроф-\nных бактерий (24 тыс. кл/г вл. ила) отмечено на выносе из пр. Колпинной (глубина 25 м),\nнаименьшее (3 тыс. кл/г вл. ила) – напротив устья пр. Харауз (глубина 25 м). Средняя чис-\nленность бактерий составила 12 тыс. кл/г вл. ила, что в три раза ниже прошлогоднего значе-\nния. Фенолокисляющие микроорганизмы обнаружены в 42 % проб, с максимальным значе-\nнием (17 тыс. кл/г вл. ила) напротив устья пр. Харауз (напротив маяка, глубина 24 м). Коли-\nчество углеводородокисляющих  бактерий изменялось  в диапазоне 0–104 кл/г вл. ила,\nвстречаемость составила 75 %. Наибольшие значения определены в юго-западной и цен-\nтральной частях мелководья.\n    Фитопланктон. В районе Селенгинского мелководья в сентябре 2022 года числен-\nность фитопланктона изменялась в диапазоне 251–861 тыс. кл/л, биомасса – 19–91 мг/м3. Ми-\nнимальный уровень развития зафиксирован на выносе из пр. Средней, немного южнее\nм. Среднего (с горизонтов до 25 м), максимальный – напротив зал. Сор (с горизонтов до 25 м).\n    Общая средняя численность относительно показателя прошлого года, снизилась\nв три раза (до 454 тыс. кл/л), биомасса – в девять раз (до 44 мг/м3).\n     Фитопланктон Селенгинского мелководья представляли свыше 59 таксонов водо-\nрослей рангом ниже рода, относящихся к щести отделам: диатомовые – 27, зеленые –\n13, золотистые – 10, динофитовые – четыре, синезеленые (цианобактерии) – три, крипто-\nфитовые – два, а также несколько представителей и групп водорослей, не идентифици-\nрованных до отдела («прочие»). В пробах видовое разнообразие варьировало от 14\nдо 34 низших таксонов из 5–6 отделов. Наименьший количественный состав зарегистри-\nрован напротив пролива Прорва  (с горизонтов до 20 м), наибольший – на выносе\nиз пр. Колпинной (с горизонтов до 25 м).\n    Ведущие позиции в полидоминантном комплексе занимали нативные мелкоклеточ-\nные водоросли озера Байкал: золотистые, криптофитовые и зеленые.\n\n\n\n                                         49",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "В исходной подписи неттыс.;множитель1000не добавлен. Прочерки2021не нули,сравнение с2020."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 51,
+          "quote": "Государственный доклад\n\n     Харовая водоросль рода Spirogyra Link обнаружена в 83 % проб зоопланктона, ото-\nбранных в толще воды, и в половине проб донных отложений с макрозообентосом,\nс наибольшим  скоплением  в  северо-восточной  части  акватории  –  на  выносе\nиз пр. Колпинной.\n     Зоопланктон. В зоопланктоне по численности доминировали круглогодичные ко-\nловратки. На исследуемых станциях показатели общей численности изменялись в пре-\nделах 10–36 тыс. экз/м3, биомассы – 45–286 мг/м3. Максимальная численность зафиксирова-\nна напротив зал. Сор, в пробе, поднятой с глубины 20 м, биомасса – напротив зал. Сор,\nс глубины 35 м. Минимальная численность определена на выносе из пр. Колпинной (глубина\n20 м), биомасса – напротив устья пр. Харауз (основное русло р. Селенги, глубина 20 м).\n     Средние значения численности и биомассы для обследуемой акватории составили\n21 тыс. экз/м3 и 104,2 мг/м3, что ниже значений прошлого года в 4,7 и 1,9 раза соответственно.\n     Зообентос. Отбор проб зообентоса в районе авандельты р. Селенги производили на\nпесчаных и илисто-песчаных донных отложениях с глубин 23–50 м. В работе использова-\nли ковш Ван-Вина с площадью захвата 0,08 м2.\n     Численность зообентоса изменялась в диапазоне 2 925–13 825 экз./м2, биомасса\n– 14–37 г/м2. Максимальный показатель численности отмечен в районе устья пр. Кривой,\nнапротив м. Среднего (глубина 26 м), максимальный показатель биомассы – на выносе\nиз пр. Средней, немного южнее м. Среднего (глубина 24 м). Минимальная численность\nотмечена напротив устья пр. Харауз, основное русло р. Селенги (глубина 25 м), мини-\nмальная биомасса – напротив пролива Прорва (глубина 23 м). По сравнению с результа-\nтами 2020 года (в 2021 году анализ проб не проводился) средняя численность зообентоса\n(5 895 экз/м2) снизилась в 3,2 раза, биомасса (26 г/м2) – в 1,6 раза. Основную численность\nбентоса формировали три группы организмов: олигохеты, амфиподы и нематоды. Ядро\nбиомассы создавали олигохеты и амфиподы. Роль остальных групп (моллюсков, полихет,\nхирономид, планарий, ручейников) в структуре зообентоса незначительна. Амфиподы\nвстречены во всех пробах, моллюски (представители класса Bivalvia) – в 58 % проб. Ам-\nфипод определено 22 вида из девяти родов, их максимальная численность зарегистриро-\nвана в районе устья пр. Кривой напротив м. Среднего (глубина 26 м).\n    Гидробиологические наблюдения в районе Малого Моря\n    В июне и сентябре 2022 года проведены комплексные гидробиологические исследо-\nвания состояния водной толщи и донных отложений Малого Моря, включавшие в себя\nизучение бактериопланктона, фитопланктона, зоопланктона, микрофлоры донных отло-\nжений и макрозообентоса (в сентябре) на трех станциях. Обобщенные количественные\nхарактеристики  гидробиологических   показателей   за  2021–2022   гг.  приведены\nв табл. 1.1.1.4.4.\n                                                              Таблица 1.1.1.4.4\n         Количественные характеристики гидробионтов в озере Байкал\n         в районе Малого Моря по результатам съемок 2021 и 2022 годов\n                (числитель – пределы, знаменатель – среднее значение)\n                                                  2021 г.                2022 г.№         Группы гидробионтов                                     июнь    сентябрь   июнь    сентябрь\n      Бактериопланктон                                 2–339       147–588      35–955        31–47\n 1    Численность гетеротрофов, кл/мл                      116          413          607           38\n     Фитопланктон                                   2349–4353    893–1219     321–2017     641–10878\n      Численность, тыс. кл/л                               3119         1018         1114          4074\n 2\n                                                      1574–2834     183–332     230–1375,5     78–2817      Биомасса, мг/м3\n                                                         2090         239          733          1031\n      Зоопланктон                                            0,2–6,3       23–26         4–9,4         18–39\n      Численность, тыс. экз/м3                               3            24,3           6            29\n 3\n                                                            3–190,4      52–283       54–94        92–233      Биомасса, мг/м3\n                                                                 70,6          194,7          77           156\n      Бактериобентос                                    2–23         5–16          0,6–6          1,4–3\n 4    Численность гетеротрофов, тыс. кл/г вл. ила              10           9             3,2            2\n      Зообентос                                                             0,8–19,7                      0,5–14                                                          –                         –      Численность, тыс. экз/м2                                                 11,5                        6\n 5                                                                          13,2–34,6                      0,3–29,4      Биомасса, г/м2                                        –                         –\n                                                                                27,2                          13,3\n\n\n                                         50",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "В исходной подписи неттыс.;множитель1000не добавлен. Прочерки2021не нули,сравнение с2020."
+        }
+      ],
+      "source_versions": [
+        "PDF50:3–14/6, подписьэкз/м²",
+        "PDF51:2925–13825/5895 экз/м²; масса 26 в прозе/25,5 таблица"
+      ],
+      "conclusion": "В исходной подписи неттыс.; множитель 1000 не добавлен. Прочерки 2021 не нули, сравнение с 2020.",
+      "next_step": "Нужны первичная таблица/редакционное уточнение единицы, полные программы 2021/2022.",
+      "specialist_required": true
+    },
+    {
+      "id": "kos2022-table-prose",
+      "title": "КОС 2022: разные средние/охват таблицы и прозы",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2022-20261108-04"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 43,
+          "quote": "Государственный доклад\n\n                    1.1.1.4. Гидробиологические сообщества\n                  (ФГБУ «Иркутское УГМС» Росгидромета)\n\n    В 2022 году гидробиологические наблюдения на озере Байкал проводили на южном\nБайкале – в районе влияния КОС г. Байкальска, на Северном Байкале – в районе влияния\nтрассы БАМ, в районе Малого Моря и на Селенгинском мелководье.\n    Гидробиологические наблюдения в районе КОС г. Байкальска\n    В 2022 году гидробиологические наблюдения включали в себя изучение бактерио-\nпланктона, фитопланктона, зоопланктона, микрофлоры донных отложений и макрозо-\nобентоса по ряду параметров (численность, биомасса, видовое разнообразие). Пробы\nпланктона отбирали в марте, июне и в августе на полигоне площадью 250 км2. Пробы\nдонных отложений на микрофлору отобраны в марте и в августе в пределах малого поли-\nгона на площади 13,4 км2 и на фоновом участке, пробы зообентоса – в марте на площади\n5 км2, на контрольном и фоновом участках.\n    Обобщенные количественные характеристики гидробиологических показателей и\nразмеры площадей зон загрязнения в 2022 году приведены в табл. 1.1.1.4.1.\n    Бактериопланктон и микрофлора донных отложений\n     Состояние бактериопланктона в поверхностном слое воды (0,5 м) и микрофлоры\nверхнего двухсантиметрового слоя донных отложений оценивали по четырем группам\nмикроорганизмов. Гетеротрофы, фенолокисляющие и углеводородокисляющие бактерии\nопределяли количественно, целлюлозоразрушающие – качественным методом.\n    Общий диапазон значений групп бактериопланктона составил: фенолокисляющие\nбактерии – 0–267 кл/мл гетеротрофы – 1–1440 кл/мл, углеводородокисляющие бактерии\n– 0–103 кл/мл. Максимальные показатели всех групп бактерий отмечены в июне: гетеро-\nтрофов – на реперной станции (середина разреза Солзан – Маритуй), фенолокисляющих и\nуглеводородокисляющих – на станции, расположенной в 0,5 км восточнее труб сброса,\n0,6 км от берега. От марта к июню происходило увеличение средней численности гетеро-\nтрофных бактерий в 6,2 раза (от 28 до 174 кл/мл), к августу средняя численность снизи-\nлась в 7,3 раза (до 24 кл/мл). По сравнению с показателями 2021 года средняя численность\nснизилась: в марте – в 1,9 раза, в июне – незначительно, в августе – в 8,4 раза.\n     Встречаемость в пробах фенолокисляющих бактерий возрастала от марта (18 %)\nк июню (49 %) и уменьшалась к августу (7 %). Наибольшая встречаемость целлюлозораз-\nрушающих организмов наблюдалась в июне (61 %), наименьшая – в августе (40 %), в мар-\nте составляла 53 %. Встречаемость в пробах углеводородокисляющих бактерий снижалась\nот 65 % в марте до 42 % в июне и до 30 % в августе.\n    По данным, предоставленным сотрудниками ФГБУ «Гидрохимический институт»\n(ГХИ), площадь загрязнения по состоянию бактериопланктона в 2022 году изменялась\nот 0,36 км2 в период ледовой съемки до 7,9 км2 в июне.\n     Диапазон изменений показателей групп микрофлоры в донных отложениях составлял:\nгетеротрофы – 0,9–69 тыс. кл/г вл. ила, фенолокисляющие бактерии – 0–9 тыс. кл/г вл. ила,\nуглеводородокисляющие – 0–106 кл/г вл. ила. Максимальное количество бактерий из иссле-\nдованных групп отмечено в марте на станциях, находящихся в непосредственной близости\nот точки сброса. Минимальный показатель гетеротрофных бактерий отмечен в оба периода\nотбора: в марте – на станции, расположенной в 4,2 км на С–З от точки сброса, глубина 40 м,\nи в августе – на станции в 2,4 км на С–СВ от точки сброса, глубина 420 м.\n    Целлюлозоразрушающие микроорганизмы в марте обнаружены в 68 % проб, в авгу-\nсте – в 52 %. Частота встречаемости углеводородокисляющих бактерий снижалась от мар-\nта к августу с 77 % до 58 %, фенолокисляющих – с 45 % до 6 %.\n     Сезонная динамика характеризуется снижением средней численности гетеротрофов\nот 10 тыс. кл/г вл. ила в марте до 5 тыс. кл/г вл. ила – в августе. По сравнению с данными\nпрошлого года средняя численность гетеротрофов в период ледостава снизилась незначи-\nтельно, в августе – в 1,3 раза.\n    Площадь загрязнения по состоянию микрофлоры донных отложений изменялась\nот 0,6 км2 в период ледовой съемки до 1,1 км2 в августе.\n\n\n\n\n                                         42",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены отдельные совокупности иточность;различие не объявлено автоматически ошибкой илиразрешённым округлением."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 44,
+          "quote": "                                                                                                               Таблица 1.1.1.4.1\n                                 Характеристики гидробионтов и размеры площади зон загрязнения\n                    в районе КОС г. Байкальска в 2021–2022 годах (числитель – пределы, знаменатель – среднее значение)\n                                                          2021 г.                                                   2022 г.\n                                                    Численность                                           Численность\n         Группы гидробионтов   Время                                    Площадь,   Время                                   Площадь,                                     в целом за              зона загряз-                     в целом за             зона загряз-                               съемки               фон                    км2     съемки              фон                    км2                                          съемку                 нения                          съемку                нения\n                                            1–424       1–43       155–252                           1–516      1–29\n                                                     III                                                     2,2            III                               516           0,36\n                                              53         21          201                              28         11\n              Бактериопланктон,                4–1387      11–55      170–947                          1–1440      1–70      267–605\n                                 VI                                                     3,2       VI                                                        7,9                   кл/мл                       182         37          517                              174        24         366\n                                           12–1728     12–116     231–1728                          2–170      2–29                                        VIII                                                    9,1        VIII                               –           –\n                                             201         61          504                              24         18\n                                           103–380    103–243     345–367                          45–610     46–133     234–610\n                                                     III                                                     5,7            III                                                        3,8\n           Фитопланктон, числен-                231        177         354                              111        83         376                                           132–1188    234–353     556–919                         177–1199   266–453    645–119943                  ность,            VI                                                     6,6       VI                                                        6,9                                             414        308         714                              470        382         882\n                   тыс. кл/л                                           421–1265    421–498     801–1265                         346–1394   346–584    798–1068\n                                        VIII                                                    8,2        VIII                                                    12,1\n                                             840        470         979                              656        482         963\n                                               1,7–407     126–186       6–79                              2,9–721    153–232      2,9–95\n                                                     III                                                  14,8           III                                                     21,5\n                                              75         149          52                              109        186         69\n                Зоопланктон,                   5–245      96–245       11–52                            17–96      65–79       17–46\n                                 VI                                                  22,9       VI                                                     16,5\n                    мг/м3                       50         138          30                               51         72          36\n                                           23–1498    751–1498     23–209                           4–421     189–347      3,7–68\n                                        VIII                                                 15,8        VIII                                                    17,0\n                                             341        945         110                              132        226         31\n                                             3–84       3–11        42–84                              0,9–69      0,9–9       46–69\n               Бактериобентос,            III         11          7           63            0,7            III         10         6          57             0,6\n               тыс. кл/г вл. ила                   0,5–35       0,5–7       27–35                              0,9–19      0,9–5       11–19                                        VIII                                                    2,3        VIII                                                       1,1\n                                              7          4           31                                     5,5         3          16\n             Зообентос, биомасса,                 0,3–51                                                      0,02–31                                                     III                     –           –           –             III                    –           –           –                       г/м2                         9                                                                  2,4",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены отдельные совокупности иточность;различие не объявлено автоматически ошибкой илиразрешённым округлением."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 46,
+          "quote": "              О состоянии озера Байкал и мерах по его охране в 2022 году\n\n    По данным, предоставленным сотрудниками ФГБУ «ГХИ», площадь загрязнения\nпо состоянию зоопланктона в 2022 году снижалась от 21,5 км2 в период ледостава\nдо 16,5 км2 в июне. В августе составляла 17,0 км2.\n     Зообентос. Отбор проб зообентоса проводили на участке, подверженном воздей-\nствию КОС  г. Байкальска, с глубин 25–140 м, и на фоновом участке – между река-\nми Утулик и Безымянная, с глубин 25–110 м. Отбор производили с помощью дночерпате-\nля Петерсена с площадью захвата 0,025 м2 на илистых и илисто-песчаных грунтах с при-\nмесью детрита.\n    В пробах, отобранных на участке, подверженном влиянию КОС г. Байкальска, обна-\nружено шесть таксономических групп беспозвоночных (олигохеты, нематоды, амфиподы,\nмоллюски, хирономиды и полихеты Амфиподы), представленные 23 видами из 11 родов,\nс наибольшей  частотой  встречаемости  р.  Micruropus  Stebbing и  р.  Asprogammarus\nBazikalova, встречены в 94,3 % проб. Моллюски обнаружены в 31,4 % проб. Диапазон ко-\nлебаний общих значений численности составил 200–5920 экз/м2, биомассы – 0,02–31 г/м2.\nМаксимальная численность отмечена на станции, расположенной в 0,2 км восточнее точ-\nки сброса условно чистых вод, 0,1 км от берега (глубина 47 м), максимальная биомасса –\nв 0,6 км восточнее точки сброса, 0,1 км от берега (глубина 38 м). Минимальная числен-\nность зафиксирована на станции, расположенной в 600 м западнее точки сброса условно\nчистых вод, 0,2 км от берега (глубина 80 м). Основу численности формировали олигохеты,\nнематоды и амфиподы, биомассу создавали олигохеты, амфиподы и моллюски. Средние\nзначения численности (1482 экз/м2) и биомассы (2 г/м2), по сравнению с количественными\nпоказателями в марте 2021 года, уменьшились в 10,5 и 3,9 раза соответственно.\n    На фоновом участке диапазон колебаний численности составил 200–3680 экз/м2,\nбиомассы – 0,03–2 г/м2. Максимальные значения численности и биомассы зафиксированы\nна глубинах 100 и 35 м соответственно, минимальные – на глубинах 35 и 60 м. Определе-\nно пять групп беспозвоночных (олигохеты, нематоды, амфиподы, моллюски и хирономи-\nды). Основу общей численности формировали нематоды и амфиподы. Наибольшей часто-\nтой  встречаемости  среди  амфипод,  как  и  на  полигоне,  обладали  представители\nр. Micruropus и р. Asprogammarus. Всего определено девять видов бокоплавов (амфипод)\nиз четырех родов. Амфиподы встречены в 83 % проб, моллюски – в 16 %. Ядро биомассы\nсоздавали  олигохеты,  амфиподы  и  хирономиды.  Средние  значения  численности\n(1273 экз/м2) и биомассы (0,8 г/м2) по сравнению с количественными показателями в мар-\nте 2021 года уменьшились в 9,5 и 8,3 раза соответственно.\n    Гидробиологические наблюдения в районе Северного Байкала.\n     Гидробиологические наблюдения в районе трассы БАМ, проводившиеся в июне и\nсентябре 2022 года, включали в себя изучение бактериопланктона, фитопланктона, зоо-\nпланктона, микрофлоры донных отложений и макрозообентоса. Пробы отбирали на поли-\nгоне площадью 110 км2, расположенном вдоль берега озера от р. Томпуды на востоке\nдо м. Котельниковского на западе, и на фоновых станциях северной части продольного\nреперного разреза. Исследования бактериопланктона проводили также в устьях рек Том-\nпуда, Тыя, Верхняя Ангара, Кичера и Рель. Обобщенные количественные характеристики\nгидробиологических показателей за 2021–2022 гг. приведены в табл. 1.1.1.4.2.\n     Бактериопланктон. В 2022 году в поверхностном слое воды общий диапазон зна-\nчений групп бактериопланктона составил: гетеротрофы – 3–4304 кл/мл, фенолокисляю-\nщие бактерии – 0–354 кл/мл, углеродокисляющие – 0–104 кл/мл.\n     Максимальная численность гетеротрофных бактерий определена в июне на станции\nв 0,5 км от устья р. Томпуды. Максимальное количество фенолокисляющих бактерий так-\nже  выявлено  в июне  на  станции,  расположенной  в  0,5 км  от  берега  напротив\nм. Котельниковского. Наибольшее значение углеводородокисляющих бактерий отмечено\nв сентябре в устье р. Верх. Ангары. Частота встречаемости фенолокисляющих микроорга-\nнизмов снижалась от 62 % в июне до 27 % в сентябре, углеводородокисляющих бактерий\n– от 88 % до 27 %.\n    В течение сезона наблюдалось снижение средних значений гетеротрофов от июня\nк сентябрю в 14,2 раза (от 825 до 58 кл/мл). По сравнению с данными 2021 года средняя\nчисленность гетеротрофов в июне увеличилась в 1,5 раза, в сентябре снизилась в 14,2 раза.\n     Среднее значение гетеротрофных бактерий по восточному побережью в течение сезона\nоставалось более высоким, чем с западной стороны: в июне – в 3,4 раза, в сентябре – в 1,3 раза.\n\n\n                                         45",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены отдельные совокупности иточность;различие не объявлено автоматически ошибкой илиразрешённым округлением."
+        }
+      ],
+      "source_versions": [
+        "Микрофлора август 5 впрозе/5,5 втаблице",
+        "Бентос масса: вся съёмка 2,4 таблица; воздействие 2/фон 0,8 проза"
+      ],
+      "conclusion": "Сохранены отдельные совокупности иточность; различие не объявлено автоматически ошибкой илиразрешённым округлением.",
+      "next_step": "Нужны первичные средние, веса станций иправила подготовки таблицы.",
+      "specialist_required": true
+    },
+    {
+      "id": "hydrobio2022-conclusion-scope",
+      "title": "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2022-20261108-07",
+        "night-kos2022-20261108-08"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 49,
+          "quote": "Государственный доклад\n\nна станциях, расположенных вдоль западного побережья, – от м. Толстого до м. Курлы\n(порт Северобайкальск).\n     Зоопланктон. Показатели численности зоопланктонного сообщества в течение года\nизменялись в интервале 1,2–28 тыс. экз/м3, биомассы – 26–605 мг/м3. Максимальная чис-\nленность зарегистрирована осенью на реперой станции, расположенной на середине разреза\nс. Байкальское – р. Томпуда, биомасса – в июне в 0,5 км от устья р. Слюдянки. Минималь-\nные значения численности и биомассы определены в сентябре в 0,5 км от устья р. Тыи.\n    В июне и сентябре в зоопланктоне содоминировали веслоногие рачки и коловратки.\nВ июне преобладали веслоногие, среди которых превалировал рачок Epischura baicalensis\nSars. На прибрежных станциях в 0,5 и 1,0 км от устья р. Тыи к основным доминантам при-\nсоединялась группа циклопов. В сентябре более многочисленными становились коловрат-\nки. Среди веслоногих по-прежнему превалировала эпишура. На половине прибрежных\nстанций, расположенных как с западной, так и с восточной стороны озера, активно разви-\nвались циклопы.\n     Показатели  общей  средней  численности  летом  (11 тыс. экз/м3)  и  осенью\n(14 тыс. экз/м3) относительно результатов прошлого года уменьшились в 1,8 раза. Средняя\nбиомасса в июне (214,8 мг/м3) снизилась в 2,7 раза, в сентябре (145 мг/м3) – в 1,8 раза.\nВ сезонной динамике от июня к сентябрю средняя численность увеличилась в 1,2 раза,\nбиомасса уменьшилась в 1,5 раза.\n    В целом структура зоопланктона на севере озера Байкал довольно однородна. Летом\nна западных прибрежных станциях средние значения численности и биомассы зоопланк-\nтона были ниже, чем на восточных, в 1,5 и 1,2 раза соответственно. Осенью значительных\nотличий не выявлено.\n     Зообентос. Отбор проб зообентоса в северной части озера Байкал проводили на илисто-\nпесчаных донных отложениях с примесью детрита, на мелководье (20–80 м) и в глубоковод-\nной зоне (105–200 м). В работе использовали ковш Ван-Вина с площадью захвата 0,08 м2.\n     Бентофауна представлена девятью таксономическими группами беспозвоночных: оли-\nгохеты, нематоды, амфиподы, моллюски, хирономиды, полихеты, турбеллярии, пиявки и\nличинки ручейников. Амфиподы встречены во всех  пробах. Среди них определено\n28 видов, относящихся к восьми родам. Моллюски (преимущественно представители\nр. Baicalia и р. Sphaerium) встречены в 29 % проб. Численность зообентоса изменялась\nв диапазоне 375–12 813 экз/м2, биомасса – 0,2–45 г/м2. Максимальные показатели зообенто-\nса зафиксированы в 0,5 км от устья р. Кичеры. Минимальная численность отмечена в 1 км\nот берега напротив м. Курлы, минимальная биомасса – в 1 км от берега напротив м. Хакусы.\n    В  целом  на  севере  озера  Байкал  среднее  значение  численности  составило\n3 169 экз/м2, биомассы – 5 г/м2. У западного побережья средние показатели численности\n(3 329 экз/м2) и биомассы (6 г/м2) были выше, чем у восточного (2 647 экз/м2 и 2 г/м2)\nв 1,3 и 2,8 раза соответственно. У западного побережья более выражено развитие олиго-\nхет, хирономид, амфипод и полихет.\n     Средняя численность в зоне мелководья (6 304 экз/м2) и в глубоководной зоне\n(973 экз/м2), в сравнении со значениями 2020 года (в 2021 году анализ проб не проводил-\nся) снизилась в 2,2 и 2,4 раза соответственно. Средняя биомасса в зоне мелководья\nуменьшилась в 1,2 раза, в глубоководной зоне – в 6,5 раза.\n    Донное сообщество на мелководье и в глубоководной зоне в большей степени сфор-\nмировано олигохетами. На всех глубинах содоминировали нематоды, в мелководной зоне\nих дополняли хирономиды, в глубоководной зоне – амфиподы. Роль остальных зообен-\nтонтов в построении сообщества незначительна.\n    Район Селенгинского мелководья\n    В сентябре 2022 года проведены комплексные гидробиологические исследования со-\nстояния водной толщи и донных отложений Селенгинского мелководья, включавшие\nв себя изучение бактериопланктона, фитопланктона, зоопланктона, микрофлоры донных\nотложений и макрозообентоса на 12 станциях. Обобщенные количественные характери-\nстики гидробиологических показателей за 2021–2022 гг. приведены в табл. 1.1.1.4.3.\n\n\n\n\n                                         48",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 51,
+          "quote": "Государственный доклад\n\n     Харовая водоросль рода Spirogyra Link обнаружена в 83 % проб зоопланктона, ото-\nбранных в толще воды, и в половине проб донных отложений с макрозообентосом,\nс наибольшим  скоплением  в  северо-восточной  части  акватории  –  на  выносе\nиз пр. Колпинной.\n     Зоопланктон. В зоопланктоне по численности доминировали круглогодичные ко-\nловратки. На исследуемых станциях показатели общей численности изменялись в пре-\nделах 10–36 тыс. экз/м3, биомассы – 45–286 мг/м3. Максимальная численность зафиксирова-\nна напротив зал. Сор, в пробе, поднятой с глубины 20 м, биомасса – напротив зал. Сор,\nс глубины 35 м. Минимальная численность определена на выносе из пр. Колпинной (глубина\n20 м), биомасса – напротив устья пр. Харауз (основное русло р. Селенги, глубина 20 м).\n     Средние значения численности и биомассы для обследуемой акватории составили\n21 тыс. экз/м3 и 104,2 мг/м3, что ниже значений прошлого года в 4,7 и 1,9 раза соответственно.\n     Зообентос. Отбор проб зообентоса в районе авандельты р. Селенги производили на\nпесчаных и илисто-песчаных донных отложениях с глубин 23–50 м. В работе использова-\nли ковш Ван-Вина с площадью захвата 0,08 м2.\n     Численность зообентоса изменялась в диапазоне 2 925–13 825 экз./м2, биомасса\n– 14–37 г/м2. Максимальный показатель численности отмечен в районе устья пр. Кривой,\nнапротив м. Среднего (глубина 26 м), максимальный показатель биомассы – на выносе\nиз пр. Средней, немного южнее м. Среднего (глубина 24 м). Минимальная численность\nотмечена напротив устья пр. Харауз, основное русло р. Селенги (глубина 25 м), мини-\nмальная биомасса – напротив пролива Прорва (глубина 23 м). По сравнению с результа-\nтами 2020 года (в 2021 году анализ проб не проводился) средняя численность зообентоса\n(5 895 экз/м2) снизилась в 3,2 раза, биомасса (26 г/м2) – в 1,6 раза. Основную численность\nбентоса формировали три группы организмов: олигохеты, амфиподы и нематоды. Ядро\nбиомассы создавали олигохеты и амфиподы. Роль остальных групп (моллюсков, полихет,\nхирономид, планарий, ручейников) в структуре зообентоса незначительна. Амфиподы\nвстречены во всех пробах, моллюски (представители класса Bivalvia) – в 58 % проб. Ам-\nфипод определено 22 вида из девяти родов, их максимальная численность зарегистриро-\nвана в районе устья пр. Кривой напротив м. Среднего (глубина 26 м).\n    Гидробиологические наблюдения в районе Малого Моря\n    В июне и сентябре 2022 года проведены комплексные гидробиологические исследо-\nвания состояния водной толщи и донных отложений Малого Моря, включавшие в себя\nизучение бактериопланктона, фитопланктона, зоопланктона, микрофлоры донных отло-\nжений и макрозообентоса (в сентябре) на трех станциях. Обобщенные количественные\nхарактеристики  гидробиологических   показателей   за  2021–2022   гг.  приведены\nв табл. 1.1.1.4.4.\n                                                              Таблица 1.1.1.4.4\n         Количественные характеристики гидробионтов в озере Байкал\n         в районе Малого Моря по результатам съемок 2021 и 2022 годов\n                (числитель – пределы, знаменатель – среднее значение)\n                                                  2021 г.                2022 г.№         Группы гидробионтов                                     июнь    сентябрь   июнь    сентябрь\n      Бактериопланктон                                 2–339       147–588      35–955        31–47\n 1    Численность гетеротрофов, кл/мл                      116          413          607           38\n     Фитопланктон                                   2349–4353    893–1219     321–2017     641–10878\n      Численность, тыс. кл/л                               3119         1018         1114          4074\n 2\n                                                      1574–2834     183–332     230–1375,5     78–2817      Биомасса, мг/м3\n                                                         2090         239          733          1031\n      Зоопланктон                                            0,2–6,3       23–26         4–9,4         18–39\n      Численность, тыс. экз/м3                               3            24,3           6            29\n 3\n                                                            3–190,4      52–283       54–94        92–233      Биомасса, мг/м3\n                                                                 70,6          194,7          77           156\n      Бактериобентос                                    2–23         5–16          0,6–6          1,4–3\n 4    Численность гетеротрофов, тыс. кл/г вл. ила              10           9             3,2            2\n      Зообентос                                                             0,8–19,7                      0,5–14                                                          –                         –      Численность, тыс. экз/м2                                                 11,5                        6\n 5                                                                          13,2–34,6                      0,3–29,4      Биомасса, г/м2                                        –                         –\n                                                                                27,2                          13,3\n\n\n                                         50",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 52,
+          "quote": "              О состоянии озера Байкал и мерах по его охране в 2022 году\n\n     Бактериопланктон. Состояние бактериопланктона и микрофлоры донных отложе-\nний оценивали по численности гетеротрофных, фенолокисляющих и углеводородокисля-\nющих бактерий.\n     Исследование бактериопланктона показало изменение количества гетеротрофных\nбактерий в диапазоне 31–955 кл/мл. Максимальный показатель зафиксирован в июне\nв створе п. Хужир, в 1,6 км от берега, минимальный – в сентябре на выходе из Малого\nМоря на разрезе р. Зундук – м. Хобой. Среднее значение гетеротрофов в июне (607 кл/мл),\nпо сравнению с данными 2021 года увеличилось в 5,2 раза, в сентябре (38 кл/мл) – снизи-\nлось в 10,9 раза. Летом численность фенолокисляющих бактерий изменялась в диапазоне\n0–33 кл/мл, углеводородокисляющих – 10–102 кл/мл, в сентябре эти группы бактерий не\nвыявлены. Максимальный показатель фенолокисляющих бактерий отмечен на выходе\nиз Малого Моря, углеводородокисляющих – в створе п. Хужир.\n    Микрофлора донных отложений. В пробах донных отложений количество гетеро-\nтрофных бактерий варьировало от 0,6 до 5,8 тыс. кл/г вл. ила. Предельные значения опре-\nделены в июне: наибольшее – в створе  п. Хужир, 1,6 км от берега (глубина 29 м),\nнаименьшее – на разрезе м. Хорин-Ирги (Кобылья Голова) – м. Улан, ближе к м. Кобылья\nГолова  (глубина  32 м).  Средняя  численность  гетеротрофов  в  июне  составила\n3,2 тыс. кл/г вл. ила, в сентябре – 2 тыс. кл/г вл. ила. По сравнению с данными прошлого\nгода значения снизились в 3,0 и 4,6 раза соответственно.\n    Фенолокисляющие и углеводородокисляющие  бактерии  в донных отложениях\nне выявлены.\n    Фитопланктон. В районе Малого Моря численность фитопланктона находилась\nв пределах 321–10 878 тыс. кл/л, биомассы – 78–2 817 мг/м3. Максимальные значения от-\nмечены в сентябре на  разрезе  м. Хорин-Ирги (Кобылья Голова) –  м. Улан, ближе\nк м. Кобылья Голова. Минимальные показатели наблюдали на выходе из Малого Моря на\nразрезе р. Зундук – м. Хобой: биомасса – в сентябре, численность – в июне. Общие сред-\nние показатели развития фитопланктона, составлявшие в июне 1 114 тыс. кл/л и 733 мг/м3,\nк сентябрю увеличились в 3,7 раза (до 4 074 тыс. кл/л) и в 1,4 раза (до 1 031 мг/м3). В июне\nуровень развития фитопланктона, по сравнению с показателями прошлого года снизился:\nсредняя численность – в 2,8 раза, биомасса – в 2,9 раза. В сентябре средние значения вы-\nросли: численность – в 4 раза, биомасса – в 4,3 раза.\n     Фитопланктон представляли более 56 таксонов рангом ниже рода, относящихся\nк шести отделам: диатомовые – 34, зеленые – восемь, золотистые – пять, динофитовые –\nчетыре, криптофитовые – три, синезеленые – два, и несколько отдельных представителей\nи групп водорослей, не идентифицированных до отдела («прочие»). Таксономическое раз-\nнообразие в пробах варьировало от 18 до 45 видов и разновидностей из 5–6 отделов.\nВ июне по численности лидировала центрическая колониальная диатомовая в сопровож-\nдении нативных мелкоклеточных золотистых, зеленых и криптофитовых водорослей бай-\nкальского фитоценоза. В сентябре активно развивалась мелкоклеточная золотистая, до-\nполняли нативные криптофитовые и зеленые водоросли.\n     Харовая нитчатая водоросль рода Spirogyra Link в гидробиологических пробах\nне обнаружена.\n     Зоопланктон. В июне основу зоопланктона по численности и биомассе определял\nвеслоногий рачок Epischura baicalensis Sars. В сентябре по численности лидировали коло-\nвратки, основу биомассы составляла эпишура. Коловратки были представлены в основном\nкруглогодичными видами.\n    На исследуемых станциях значения общей численности изменялись в пределах\n4,2–39 тыс. экз/м3, биомассы – 54–233 мг/м3. Минимальные количественные показатели\nзафиксированы летом: численность – на разрезе м. Хорин-Ирги (Кобылья Голова) –\nм. Улан, ближе к м. Кобылья Голова, биомасса – на выходе из Малого Моря на разрезе\nр. Зундук – м. Хобой. Максимальные показатели отмечены осенью: численность – на разрезе\nм. Хорин-Ирги (Кобылья Голова) – м. Улан, ближе к м. Кобылья Голова, биомасса – в створе\nп. Хужир, 1,6–1,7 км от берега.\n     Показатели  средних  значений  численности  и  биомассы  летом  составляли\n6 тыс. экз/м3 и 77 мг/м3, относительно прошлого года численность увеличилась в 2,1 раза,\n\n\n                                         51",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 53,
+          "quote": "Государственный доклад\n\nбиомасса осталась на уровне прошлого года. Осенью средние показатели относительно\nаналогичных результатов прошлого года изменились в 1,2 раза: численность – в сторону\nувеличения до 29 тыс. экз/м3, биомасса – в сторону уменьшения до 156 мг/м3. В осенний\nпериод развития зоопланктон отличался от летнего: структурой, доминантным составом,\nболее высокой плотностью (превышал в 4,7 раза) и биомассой (в 2,0 раза). Различия ха-\nрактерны для сезонной динамики развития зоопланктона.\n     Зообентос. Количественные пробы зообентоса на Малом Море отбирали дночерпа-\nтелем Ван-Вина с площадью захвата 0,08 м2, с глубин 33–270 м, на песчаных и глинистых\nдонных отложениях.\n    В пробах обнаружено семь таксономических групп беспозвоночных. Основную чис-\nленность формировали олигохеты и нематоды. Роль остальных групп (амфиподы, полихе-\nты, моллюски, пиявки и личинки ручейников) в структуре зообентоса незначительна.\nНаибольший вклад в создание биомассы внесли олигохеты. В группе амфипод определено\n16 видов, относящихся к шести родам, с наибольшей частотой встречаемости Crypturopus\ninflatus. Моллюски отмечены в 67 % проб, на глубинах до 35 м. Среди них встречались\nпреимущественно представители р. Baikalia.\n     Показатели общей численности изменялись в пределах 475–13 913 экз/м2, биомассы –\n0,3–29 г/м2. Максимальный уровень развития отмечен в створе п. Хужир, 1,6–1,7 км от бе-\nрега (глубина 35 м), минимальный – на выходе из Малого Моря на разрезе р. Зундук –\nм. Хобой (глубина 270 м).\n     Средняя численность зообентоса (5 896 экз/м2) по сравнению с показателем в сен-\nтябре 2021 года уменьшилась в 1,9 раза, средняя биомасса (13 г/м2) – в 2 раза.\n\n    Выводы\n      1. В марте и июне 2022 года средние количественные показатели групп гидробион-\nтов в районе КОС г. Байкальска, в районе трассы БАМ, на Селенгинском мелководье и\nна Малом Море озера Байкал сопоставимы со значениями прошлых лет.\n      2. В августе – сентябре по сравнению с результатами за аналогичный период ряда\nпрошлых лет отмечено уменьшение средних количественных показателей гидробионтов\nв разных частях озера до минимальных значений. Особенно заметно снижение на Селен-\nгинском мелководье и в районе трассы БАМ. Наиболее существенно снизилась числен-\nность гетеротрофных микроорганизмов в бактериопланктоне.\n      3. В районе КОС г. Байкальска целлюлозоразрушающие бактерии в течение сезона\nвстречены в 40–61 % проб поверхностного слоя воды и в 52–68 % проб, поднятых с по-\nверхности дна. В донных отложениях максимальное количество гетеротрофных, феноло-\nкисляющих и углеводородокисляющих бактерий определено в марте на станциях, нахо-\nдящихся в непосредственной близости от точки сброса условно чистых вод. При этом\nнаибольшее за сезон количество углеводородокисляющих бактерий (106 кл/г влажного\nила) отмечено среди исследованных проб микрофлоры донных отложений, отобранных\nпо всему озеру Байкал.\n      4. В поверхностном слое воды озера встречаемость фенолокисляющих бактерий со-\nставляла 0–67 %, в донных отложениях – 0–47 %. Чаще всего бактерии отмечали в пробах\nводы, отобранных в июне на Малом Море и в сентябре на Селенгинском мелководье,\nа также в пробах, поднятых с поверхности дна в сентябре в районе трассы БАМ.\n      5. Встречаемость углеводородокисляющих бактерий в воде изменялась в диапа-\nзоне 0–100 %, в донных отложениях – 0–82 %. Небольшое количество углеводородокис-\nляющих бактерий (10–102 кл/мл) обнаружено во всех пробах воды на Малом Море\nв июне, при отсутствии показателей нефтяного загрязнения на дне. В донных отложениях\nбактерии чаще встречались в июне в районе трассы БАМ.\n      6. Самые высокие для обследованной акватории озера средние значения численно-\nсти зоопланктона (29 тыс. экз/м3) и зообентоса  (6 тыс. экз/м2), а также численности\n(4074 тыс. кл/л) и биомассы (1031 мг/м3) фитопланктона определены в сентябре на Малом\nМоре. Наибольшее среднее количество гетеротрофных микроорганизмов (825 кл/мл)\nи самая высокая средняя биомасса зоопланктона (215 мг/м3) выявлены в июне в районе\n\n\n\n\n                                         52",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом."
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "report_year": 2022,
+          "publication_year": null,
+          "page": 54,
+          "quote": "              О состоянии озера Байкал и мерах по его охране в 2022 году\n\nтрассы БАМ, наибольшая средняя биомасса зообентоса (25,5 г/м2) – в сентябре на Селен-\nгинском мелководье.\n      7. По всей обследованной акватории озера, за исключением Малого Моря, встреча-\nлась несвойственная озеру Байкал харовая нитчатая водоросль рода Spirogyra Link. Коли-\nчество спирогиры увеличивалось к концу вегетационного периода.\n      8. В районе КОС г. Байкальска в период ледовой съемки нитчатая водоросль обна-\nружена в 24 % проб макрозообентоса. Нити водоросли находили в донных отложениях,\nподнятых с глубин от 25 до 120 м на полигоне, преимущественно с восточной стороны\nот точки выпуска условно чистых вод. На фоновом участке спирогира отмечена на глу-\nбине 35 м. В толще воды, при отборе зоопланктона сетью Джеди спирогира встречена\nв августе в 47 % проб, отобранных на полигоне, на восточных и западных разрезах.\nНаибольшие скопления водоросли наблюдали на прибрежных станциях. Единичные клет-\nки отмечены на расстоянии до 7 км от берега. На репере спирогира не обнаружена.\n      9. В районе трассы БАМ спирогира в течение всего сезона встречалась в зоопланк-\nтонных пробах. Летом нитчатка обнаружена в большей части проб (62 %), собранных как\nпо периметру озера, так и на двух северных реперных станциях. В сентябре спирогира\nвстречалась на всех станциях западного побережья и северной оконечности, включая са-\nмую северную реперную станцию – на середине разреза Нижнеангарск – Дагарская губа\n(67 % проб). В июне и сентябре наибольшее скопление водоросли отмечалось на станции,\nнаходящейся в 0,5 км от устья р. Тыи. Осенью водоросль обнаружена и в 35 % проб мак-\nрозообентоса, поднятых с глубин 40–200 м, на станциях, расположенных вдоль западного\nпобережья – от м. Толстого до порта Северобайкальск.\n      10. В районе Селенгинского мелководья спирогира обнаружена в половине проб\nмакрозообентоса и в 83 % проб зоопланктона, отобранных в толще воды, с наибольшим\nскоплением в северо-восточной части акватории – на выносе из пр. Колпинной.\n\n                    1.1.1.5. Ихтиофауна и популяция нерпы\n (Федеральное агентство «Росрыболовство», Байкальский филиал ФГБНУ «ВНИРО»)\n\n    Ихтиофауна озера Байкал отличается разнообразием и, по последним данным,\nпредставлена 56 видами и подвидами из 13 семейств. Вопрос о таксономическом стату-\nсе отдельных видов и подвидов продолжает обсуждаться. Большинство видов не явля-\nются промысловыми. Многие представители эндемичны. Главным образом это различ-\nные виды семейства глубинных широколобок. В Красную книгу Российской Федерации\n(2021) включено четыре вида рыб, нуждающихся в охране, – обыкновенный таймень, си-\nбирский осетр, арктический голец и острорылый ленок. Вышеперечисленные виды также\nвходят в Красные книги Республики Бурятия (2013) и Иркутской области (2020). Кроме\nэтого, в Красную книгу Иркутской области (2020) входят два эндемичных вида, отнесен-\nных к категории редких видов, – елохинская и карликовая широколобки.\n    Промыслом в настоящее время охватываются 13 видов рыб, среди которых аккли-\nматизированные в бассейне Байкала амурский сазан, амурский сом и лещ. В перечень\nпромысловых эндемичных видов водных животных озера Байкал включены байкальский\nомуль (с октября 2017 года действует запрет на промышленную добычу и любительский\nвылов), белый байкальский хариус, черный байкальский хариус, байкальская нерпа. Общий\nдопустимый улов (ОДУ) устанавливается для перечисленных промысловых эндемиков\nозера, а также для байкальского сига. Для остальных промысловых видов водных биоре-\nсурсов Байкала определяются объемы возможного вылова (добычи).\n    Материалы, обосновывающие ОДУ и возможный вылов водных биоресурсов, еже-\nгодно разрабатываются Байкальским филиалом ФГБНУ «ВНИРО» на основании мони-\nторинговых исследований.\n     Сведения о рыболовстве и рыбном хозяйстве на Байкале и БПТ приведены в подраз-\nделе 1.3.5 настоящего доклада.\n\n\n\n                                         53",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом."
+        }
+      ],
+      "source_versions": [
+        "Пункт 1 март/июньдлячетырёхрайонов, ноСеленгаисследованавсентябре",
+        "Пункт 2 осеннееуменьшение, ноМалоеМоре 2022 фитопланктонвыше 2021"
+      ],
+      "conclusion": "Неуниверсализировать обобщение автора и не приписывать неназванные наблюдения. Сохранены оба сообщения с территорией/периодом.",
+      "next_step": "Уточнить область действия заключения по программе/годовому отчёту исполнителя.",
       "specialist_required": true
     }
   ],

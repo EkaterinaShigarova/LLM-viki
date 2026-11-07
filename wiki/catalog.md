@@ -119,6 +119,11 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p43](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-43) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p44](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-44) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -137,6 +142,8 @@
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -156,6 +163,10 @@
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p44](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-44) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) · доклад 2022.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -206,6 +217,9 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p43](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-43) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
 
 
 <a id="water"></a>
@@ -309,6 +323,17 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p47](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-47) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+
+- [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы/индекс,единица бентоса2022,сопоставимость сетей.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p49](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-49) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос
@@ -530,6 +555,10 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p69](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-69) · доклад 2024.
 [official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p53](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-53) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
 
 
 <a id="climate"></a>

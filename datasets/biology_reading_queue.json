@@ -262,6 +262,75 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md",
       "limitations": "Весь северный подраздел и таблица проверены;предшествующийКОС/следующаяСеленга исключены. Ошибочный диапазон и разряды текста/таблицы не исправлены."
+    },
+    {
+      "id": "selenga-hydrobiology-2022",
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "source_sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "report_year": 2022,
+      "title": "Селенгинское мелководье: гидробиология и единица бентоса",
+      "candidate_pdf_pages": [
+        49,
+        51
+      ],
+      "located_evidence_page": 49,
+      "exact_locator_quote": "Район Селенгинского мелководья",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_heading_PDF49_to_MaloMore_heading_PDF51",
+      "verified_pdf_pages": [
+        49,
+        50,
+        51
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md",
+      "limitations": "Прочитан весь подраздел,не речной створ. Табличная единица бентоса сохранена без подстановкитыс.;ретроспектива2021не имеет указанного месяца."
+    },
+    {
+      "id": "kos-hydrobiology-2022",
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "source_sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "report_year": 2022,
+      "title": "КОС Байкальска:полный гидробиологический подраздел",
+      "candidate_pdf_pages": [
+        43,
+        46
+      ],
+      "located_evidence_page": 43,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_named_subsection_end_before_next_heading",
+      "verified_pdf_pages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md",
+      "limitations": "Полный названный подраздел;фактические границы проверены по оригиналам. Месяцы,среды,табличные варианты и неразрешённые ограничения сохранены."
+    },
+    {
+      "id": "hydrobiology-conclusions-2022",
+      "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+      "source_sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+      "report_year": 2022,
+      "title": "Все10общих гидробиологических выводов",
+      "candidate_pdf_pages": [
+        53,
+        54
+      ],
+      "located_evidence_page": 53,
+      "exact_locator_quote": "Выводы",
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_named_subsection_end_before_next_heading",
+      "verified_pdf_pages": [
+        53,
+        54
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md",
+      "limitations": "Полный названный подраздел;фактические границы проверены по оригиналам. Месяцы,среды,табличные варианты и неразрешённые ограничения сохранены."
     }
   ],
   "updated_at": "2026-11-08",

@@ -37,6 +37,7 @@
 - [Охраняемые территории: наблюдения, посещение и природоохранная работа](syntheses/protected-areas-management.md)
 - [Притоки Байкала: водный сток и вынос веществ в 2024–2025 годах](syntheses/river-inputs-2025.md)
 - [Авандельта Селенги: донные отложения и грунтовая вода](syntheses/selenga-sediments.md)
+- [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
 - [Селенга: гидрохимические створы, качество воды и границы сравнения](syntheses/selenga-water-quality.md)
 - [Судовые загрязнённые воды: приём на Самотлоре и пределы оценки воздействия](syntheses/ship-wastewater-reception.md)
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
