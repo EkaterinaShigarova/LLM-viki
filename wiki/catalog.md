@@ -144,6 +144,11 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p88](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-88) · доклад 2024.
 [official-b4e3fcfe0e41e26ea03b:p160](sources/official-b4e3fcfe0e41e26ea03b.md#page-160) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p162](sources/official-b4e3fcfe0e41e26ea03b.md#page-162) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
 
 <a id="organic"></a>
 ### Органические загрязнители
@@ -168,6 +173,22 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p27](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-27) · доклад 2021.
 [official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
 
+<a id="sediment-methods"></a>
+### Донные среды, литотипы и оценочные шкалы
+
+- [Донные отложения Байкала: сеть мониторинга, ПАУ и литотипы](syntheses/bottom-sediment-monitoring.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Нужны первичные станции/пробоотбор, аналитика и формула органического индекса; оценки разных литотипов/сред не единый числовой ряд.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p31](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-31) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p32](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-32) · доклад 2019.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p38](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-38) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p162](sources/official-b4e3fcfe0e41e26ea03b.md#page-162) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+
 
 <a id="places"></a>
 ## Районы озера и водный режим
@@ -185,6 +206,8 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p40](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-40) · доклад 2022.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p26](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-26) · доклад 2015.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p31](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-31) · доклад 2019.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p162](sources/official-b4e3fcfe0e41e26ea03b.md#page-162) · доклад 2025.
 
 - [Северный Байкал: район БАМ и фоновые наблюдения](syntheses/north-baikal-water.md)
 
@@ -214,6 +237,11 @@
 [official-b4e3fcfe0e41e26ea03b:p166](sources/official-b4e3fcfe0e41e26ea03b.md#page-166) · доклад 2025.
 [drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0:p14](sources/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0.md#page-14) · доклад 2016.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p88](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-88) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p162](sources/official-b4e3fcfe0e41e26ea03b.md#page-162) · доклад 2025.
 
 <a id="river-water-quality"></a>
 ### Качество воды речных створов
@@ -233,6 +261,9 @@
 [official-b4e3fcfe0e41e26ea03b:p161](sources/official-b4e3fcfe0e41e26ea03b.md#page-161) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92) · доклад 2024.
 
 
 <a id="pressure"></a>

@@ -67,6 +67,11 @@
 - [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 - [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
 
 ## 2025
 
@@ -75,6 +80,7 @@
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 
 [Главный индекс](../index.md)
 

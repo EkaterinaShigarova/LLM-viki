@@ -52,4 +52,33 @@
 - [Исток Ангары: температура и геохимия](angara-water-geochemistry.md).
 - [Северный Байкал: локальные выборки](north-baikal-water.md).
 
+## Притоки: вложенная сеть вместо одной станции «Селенга»
+
+Доклад 2024 различает Джиду, Модонкуль, Чикой, Хилок и Уду. Модонкуль — приток Джиды, а не непосредственно озера или та же река, что Селенга. Улан-Удэнские створы Уды также не являются тремя створами самой Селенги у города. Для каждого объекта сохранены свои места, даты и показатель. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91)
+
+| Река /территория | Пункты и категория 2024 по источнику | Ограничение |
+| --- | --- | --- |
+| Джида | Хамней и ст. Джида — «загрязненная» | 6/13 и 5/13 — показатели с превышениями, не пробы |
+| Модонкуль | 2 км выше Закаменска — «очень грязная», 1,3 км ниже — «грязная» | Фон уже загрязнён; разность категории не доказывает очистку |
+| Чикой, Бурятия | с. Чикой и Поворот — «загрязненная» | Региональный блок не описывает всю длину реки |
+| Чикой, Забайкальский край | «очень загрязненная», ухудшение к 2023 по авторам | Не противоречит категории других пунктов Бурятии |
+| Хилок | Хайластуй и краевые пункты — «очень загрязненная» | Три краевых створа не равны устьевому пункту |
+| Уда | выше Улан-Удэ и контроль в 1,5 км от устья — «очень загрязненная» | 1 случай ЭВЗ Cd в фоне нельзя переносить в контроль |
+
+Основания: [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92). Числовые средние и частоты в этих речных блоках не представлены; слова о повторяемости не заменены придуманными процентами.
+
+### Модонкуль: воздействие и неустранённая пара ПДК
+
+Авторы связывают качество Модонкуля с неорганизованным поступлением шахтных/дренажных вод недействующего Джидинского комбината. Минерализация 182–1691 мг/дм³, максимальная в контроле; оба створа имеют металл/фторидную нагрузку. Фоновые 5 ВЗ/6 ЭВЗ и контрольные 2 ВЗ/3 ЭВЗ — числа названных событий по веществам, не обязательно столько же независимых проб или дат. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90)
+
+В контроле напечатана медь **12,1 мкг/дм³ (1,2 ПДК)**, в фоне **60,1 мкг/дм³ (60,1 ПДК)**. Из пар получаются разные знаменатели; исходная нормативная база/причина не раскрыты. Сохранены также марганец 1,865 мг/дм³ в перечне ЭВЗ и 1866 мкг/дм³ в перечне максимумов. Ни кратность, ни 1865/1866 не исправлены предположением. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90)
+
+### Регион и статистика меняют смысл сравнения
+
+У Чикоя максимум ХПК краевого блока 50,3 мг/л не заменяет 15,2/16,0 мг/дм³ пунктов Бурятии: меняются станции, даты и территория. У Хилока максимум нефтепродуктов 0,78 мг/л выше г. Хилок не присваивается Хайластую с 0,08; взвесь Малеты 8,0 мг/л «в 1,4 раза выше фона» не названа 1,4 ПДК. Равенство литра/дм³ устраняет только объёмный масштаб единицы, не эти различия. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92)
+
+Для Уды в фоновом створе отдельно указан ЭВЗ кадмием 0,0091 мг/дм³ (9,1 ПДК, 18 июня). Сообщение ТЭЦ-1 об отсутствии своего сброса дренажных вод в 2024 не означает отсутствия всех загрязняющих источников и не отменяет это измерение. Требуются журналы/перечень потоков, а не предположение, что нормативная категория должна следовать из одной строки учёта сброса. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p91](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-91)
+
+Подробные конспекты: [Джида](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md), [Модонкуль](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md), [Чикой](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md), [Хилок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md), [Уда](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md). [CSV названных максимумов](../../datasets/selenga_tributary_maxima_2024.csv) сохраняет единицы/даты/напечатанные кратности и спорные записи; это не пополнение observations и не набор среднегодовых концентраций. Лабораторная методика, знаменатели частот и вклады источников остаются пробелами.
+
 <!-- HUMAN NOTES -->

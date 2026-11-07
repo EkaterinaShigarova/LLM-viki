@@ -68,4 +68,12 @@
 
 Подробные конспекты: [весь 4.2.2 обзора 2025](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md), [речные створы Селенги 2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md), [геохимия истока 2021](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md). Новые самостоятельные статьи: [исток Ангары](angara-water-geochemistry.md) и [качество воды Селенги](selenga-water-quality.md). Не раскрыты частоты/ошибки всех анализов и единый алгоритм категорий; «соответствует фону» не равно «не превышает любую ПДК».
 
+## Донные оценки не заменяют водные ПДК
+
+В обзоре 2025 грунтовая вода и донный материал имеют разные химические перечни, а ПАУ/БП отложений выражены в нг/г с.о. Таблица 4.5 задаёт литотипные оценочные шкалы: БП 13,1 нг/г в песках — сильная категория при пороге >5, а средние 14,4 в глинистых илах — умеренная при интервале 5–30. Поэтому большее число не обязано означать более высокий класс при иной матрице. Это не норматив 0,001 мг/л фенолов водного створа. [official-b4e3fcfe0e41e26ea03b:p161](../sources/official-b4e3fcfe0e41e26ea03b.md#page-161) [official-b4e3fcfe0e41e26ea03b:p162](../sources/official-b4e3fcfe0e41e26ea03b.md#page-162) [official-b4e3fcfe0e41e26ea03b:p163](../sources/official-b4e3fcfe0e41e26ea03b.md#page-163)
+
+В речных блоках встречаются разные основания: «выше фона» не равно ПДК, число загрязняющих показателей не равно числу проб, ВЗ/ЭВЗ по нескольким веществам в одну дату не равно числу независимых отборов. У Модонкуля сохранена спорная пара меди 12,1 мкг/дм³ /1,2 ПДК, а условно «фоновый» створ может иметь более тяжёлую категорию, чем контроль. Формальная роль створа не гарантирует химическую чистоту. [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p89](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-89) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90) [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92)
+
+[Мониторинг донных отложений](bottom-sediment-monitoring.md) · [Селенга и её притоки](selenga-water-quality.md). Для межсредовых/межрегиональных выводов нужны собственные методики и нормативные основания; простого совпадения названия вещества недостаточно.
+
 <!-- HUMAN NOTES -->

@@ -10,6 +10,10 @@
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
+## ВЗ и ЭВЗ
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
 ## Весеннее вскрытие и очищение ото льда
 
 - [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
@@ -83,6 +87,10 @@
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 
+## Грунтовая вода и донный материал
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
 ## Донные отложения
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
@@ -106,6 +114,10 @@
 ## Календарь съёмок
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
+
+## Категории качества
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
 
 ## Классификационный учёт судов
 
@@ -147,6 +159,10 @@
 
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 
+## Литотипы и оценочная шкала
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
 ## Локальные нормы и фон
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
@@ -155,9 +171,29 @@
 
 - [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
 
+## Максимальные концентрации
+
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
+
 ## Максимум фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
+
+## Максимумы загрязняющих веществ
+
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
+## Максимумы и фон
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
+## Максимумы концентраций
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Максимумы металлов и кратности ПДК
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
 
 ## Масса принятых судовых вод
 
@@ -170,6 +206,14 @@
 ## Методы и пределы причинного вывода
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
+## Минерализация
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
+## Минерализация и pH
+
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
 
 ## Минерализация и pH атмосферных проб
 
@@ -232,6 +276,10 @@
 ## Ошибка учёта
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
+
+## ПАУ и бенз(а)пирен в осадках
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 
 ## ПДК и частота превышения
 
@@ -303,6 +351,18 @@
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 
+## Расчётная площадь загрязнения
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
+## Региональная категория качества
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
+## Региональные сети одной реки
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
 ## Сезонная добыча
 
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
@@ -330,6 +390,10 @@
 ## Среднее содержание фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
+
+## Станционные различия
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
 
 ## Статистический охват
 
@@ -376,6 +440,10 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## Учет сброса отдельно от качества
+
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
 ## Фактическая добыча
 
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
@@ -384,6 +452,10 @@
 
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Фон и контроль
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
 
 ## Фоновые концентрации
 
@@ -403,6 +475,10 @@
 
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 
+## Число показателей с превышениями
+
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
+
 ## Число проб
 
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
@@ -410,6 +486,10 @@
 ## Число проб и наблюдений
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## ЭВЗ кадмием
+
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
 
 [Главный индекс](../index.md)
 

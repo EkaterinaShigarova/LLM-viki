@@ -5,6 +5,7 @@
 ## Авандельта Селенги
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 
 ## Алтачейский заказник
 
@@ -59,6 +60,10 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## Бассейн Джиды
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
 ## Большое Голоустное
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
@@ -70,6 +75,14 @@
 ## Вся акватория Байкала
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
+
+## Джида — Хамней
+
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
+
+## Джида — ст. Джида
+
+- [2024: Джида — два пункта гидрохимического мониторинга](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/dzhida-water-quality.md) — доклад 2024.
 
 ## Забайкальский край
 
@@ -119,6 +132,18 @@
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 
+## Малое море
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
+## Модонкуль — выше Закаменска
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
+## Модонкуль — ниже Закаменска
+
+- [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
 ## Муниципальные образования БПТ
 
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
@@ -153,6 +178,10 @@
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
 
+## Полигон КОС Байкальска
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
 ## Порт Байкал
 
 - [2015: приём судовых вод на Самотлоре и классификационный учёт флота](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/ship-wastewater.md) — доклад 2015.
@@ -181,6 +210,10 @@
 ## Северная оконечность
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Северная оконечность Байкала
+
+- [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 
 ## Селенга — Кабанск
 
@@ -227,13 +260,45 @@
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
 
+## Уда — выше Улан-Удэ
+
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
+## Уда — контроль у устья
+
+- [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
 ## Хамар-Дабан
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
+## Хилок — Малета
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
+## Хилок — Хайластуй
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
+## Хилок — выше и ниже г. Хилок
+
+- [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
 ## Хужир
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+
+## Чикой — Забайкальский край
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Чикой — Поворот
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Чикой — с. Чикой
+
+- [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
 
 ## Южное Прибайкалье
 

@@ -19,6 +19,7 @@
 - [Байкальский осётр: охрана и искусственное воспроизводство](syntheses/baikal-sturgeon.md)
 - [Водный баланс Байкала: компоненты, полезный приток и границы сопоставления](syntheses/baikal-water-balance.md)
 - [Наследие БЦБК: накопители, подземные воды и коммунальные стоки](syntheses/bcbk-legacy.md)
+- [Донные отложения Байкала: сеть мониторинга, ПАУ и литотипы](syntheses/bottom-sediment-monitoring.md)
 - [Выбросы теплоэнергетики: что подтверждает ретроспективный ряд](syntheses/emissions-and-comparability.md)
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
@@ -72,5 +73,6 @@
 - [Озеро Байкал](entities/baikal.md)
 - [Река Селенга](entities/selenga.md)
 - [Поиск в сохранённой Wiki](queries/04bc1a01d895.md)
+- [Очередь чтения: живые сообщества Байкала](queries/biology-reading-queue.md)
 
 <!-- HUMAN NOTES -->

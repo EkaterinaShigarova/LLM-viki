@@ -153,6 +153,36 @@
       "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
       "report_year": 2025,
       "page": 161
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 89
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 90
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 92
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 162
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 163
     }
   ],
   "syntheses/baikal-seal.md": [
@@ -242,6 +272,36 @@
       "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
       "report_year": 2024,
       "page": 88
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 89
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 90
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 91
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 161
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 162
     }
   ],
   "syntheses/baikal-omul.md": [
@@ -432,6 +492,18 @@
       "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
       "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
       "page": 31
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 161
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 162
     }
   ],
   "syntheses/north-baikal-water.md": [
@@ -1323,6 +1395,62 @@
       "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
       "report_year": 2025,
       "page": 165
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 90
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 91
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 92
+    }
+  ],
+  "syntheses/bottom-sediment-monitoring.md": [
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "page": 31
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "page": 32
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 38
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 161
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 162
+    },
+    {
+      "source_id": "official-b4e3fcfe0e41e26ea03b",
+      "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+      "report_year": 2025,
+      "page": 163
     }
   ]
 }
