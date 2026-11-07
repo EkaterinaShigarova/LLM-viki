@@ -61,6 +61,7 @@
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2022: кислородная гипотеза аквариумной адаптации голомянок и геномный контекст](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md) — доклад 2022.
+- [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
 
 ## 2023
 

@@ -40,4 +40,8 @@
 
 Авторское объяснение массового развития через переизбыток антропогенных биогенов сохранено как объяснение источника, не прямое установление причины каждого обнаружения. Продолжение фразы переходит с PDF31 на 32; последующий северный район начинается лишь на PDF33 и не относится к КОС. [Конспект](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md). [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32)
 
+## Отрицательное наблюдение Малого Моря 2022
+
+В собственном подразделе Малого Моря 2022 написано, что Spirogyraв гидробиологических пробах **не обнаружена**. Это результат двух съёмок(июнь/сентябрь) на трёх станциях, не доказательство отсутствия водоросли во всём проливе во все годы. Верхняя часть предыдущей PDF51 с 83% планктонных находок относится к авандельте Селенги; перенос этого процента в Малое море был бы ошибкой атрибуции. [Конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md). [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52)
+
 <!-- HUMAN NOTES -->

@@ -101,6 +101,10 @@
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 
+## Зундук — Хобой
+
+- [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
+
 ## Иня
 
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
@@ -165,6 +169,7 @@
 ## Малое море
 
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+- [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
 
 ## Модонкуль — выше Закаменска
 
@@ -346,9 +351,14 @@
 
 - [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
 
+## Хорин-Ирги — Улан
+
+- [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
+
 ## Хужир
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+- [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
 
 ## Чивыркуйский залив
 

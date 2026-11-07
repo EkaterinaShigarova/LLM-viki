@@ -26,7 +26,9 @@
         "hydrology3-20261104-18",
         "night-kos2017-20261108-01",
         "night-kos2017-20261108-02",
-        "night-kos2017-20261108-03"
+        "night-kos2017-20261108-03",
+        "night-smallsea2022-20261108-01",
+        "night-smallsea2022-20261108-02"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -39,7 +41,7 @@
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "349cce6af21a23fdc299dba35a9be6c923f39a5b37dcb82e439a0194e94e1bcc",
+      "body_sha256": "cfcf926e87f3d4a7ce2511dc0cfad45b96492114eb0f96e087ba1b12c931d4ba",
       "open_questions": [
         "Согласовать сезоны, глубины, состав станций и методы; численность и биомасса не взаимозаменяемы.",
         "КОС 2017:116/162 и июль/июнь",
@@ -139,6 +141,11 @@
           "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
           "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
           "page": 31
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 51
         }
       ],
       "review_history": [
@@ -183,6 +190,34 @@
           ],
           "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
           "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "349cce6af21a23fdc299dba35a9be6c923f39a5b37dcb82e439a0194e94e1bcc",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d"
+          },
+          "claim_ids": [
+            "phytoplankton-01",
+            "phytoplankton-02",
+            "phytoplankton-03",
+            "phytoplankton-04",
+            "phytoplankton-05",
+            "hydrology3-20261104-08",
+            "hydrology3-20261104-09",
+            "hydrology3-20261104-17",
+            "hydrology3-20261104-18",
+            "night-kos2017-20261108-01",
+            "night-kos2017-20261108-02",
+            "night-kos2017-20261108-03"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -409,17 +444,19 @@
         "spirogyra-observations-05",
         "spirogyra-observations-06",
         "night-kos2017-20261108-07",
-        "night-kos2017-20261108-08"
+        "night-kos2017-20261108-08",
+        "night-smallsea2022-20261108-06"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
-        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "5606af590832e9b8f2220db6ffc93d995705266bf514590c71eeea187320c9c9",
+      "body_sha256": "142ee744127a2630adcc13653fe8da970a9fa59a84f38426c7e30aa8fcc013a7",
       "open_questions": [
         "Уточнить систематические группы и стандартизацию сетных, грунтовых и обрастательных проб; обнаружение нитей не измеряет площадь зарастания.",
         "КОС 2017:116/162 и июль/июнь",
@@ -456,6 +493,16 @@
           "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
           "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
           "page": 32
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 51
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 52
         }
       ],
       "review_history": [
@@ -477,6 +524,27 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "5606af590832e9b8f2220db6ffc93d995705266bf514590c71eeea187320c9c9",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
+          },
+          "claim_ids": [
+            "spirogyra-observations-01",
+            "spirogyra-observations-02",
+            "spirogyra-observations-03",
+            "spirogyra-observations-04",
+            "spirogyra-observations-05",
+            "spirogyra-observations-06",
+            "night-kos2017-20261108-07",
+            "night-kos2017-20261108-08"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -811,17 +879,21 @@
         "epishura-benthos-05",
         "night-kos2017-20261108-04",
         "night-kos2017-20261108-05",
-        "night-kos2017-20261108-06"
+        "night-kos2017-20261108-06",
+        "night-smallsea2022-20261108-03",
+        "night-smallsea2022-20261108-04",
+        "night-smallsea2022-20261108-05"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
-        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "e83e196a8e2aa82d0ad8e20a120872cc95eac98fda0ec676f255ab3d22556a83",
+      "body_sha256": "15c4263d800dc2651b2d072fe043f2380234a169390c77c73c9715da07274287",
       "open_questions": [
         "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии.",
         "КОС 2017:116/162 и июль/июнь",
@@ -858,6 +930,21 @@
           "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
           "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
           "page": 33
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 51
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 52
+        },
+        {
+          "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+          "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+          "page": 53
         }
       ],
       "review_history": [
@@ -878,6 +965,27 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "e83e196a8e2aa82d0ad8e20a120872cc95eac98fda0ec676f255ab3d22556a83",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05",
+            "night-kos2017-20261108-04",
+            "night-kos2017-20261108-05",
+            "night-kos2017-20261108-06"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },

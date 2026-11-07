@@ -71,4 +71,10 @@
 
 Полная [таблица 2016/2017](../../datasets/kos_hydrobiology_2016_2017.csv) разделяет всю съёмку, фон, зону и индикаторную площадь; римские периоды шире календаря прозы. Августовские табличные пределы всей съёмки 190–1733 и зоны 1021–1734 оставлены буквально, не сведены к единому максимуму. Микробные 162/116 и «49+0» не использованы для исправления фитопланктона. [Подробный конспект](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md). [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31)
 
+## Малое море 2022: два месяца и три разные станции
+
+На трёх станциях Малого Моря 2022 средние фитопланктона выросли от июня **1114 тыс.кл/л /733 мг/м³** к сентябрю **4074 /1031**. Максимумы сентября —у Кобыльей Головы; на выходе Зундук—Хобой минимумы массы в сентябре, числа в июне. Более 56 таксонов ниже рода, в пробе 18–45; июньский лидер описан как центрическая колониальная диатомовая, сентябрьский —мелкоклеточная золотистая, без видовых названий. Они не отождествлены сSynedra/C.parvaпо описанию другого района. [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52)
+
+Полная [таблица 2021/2022](../../datasets/small_sea_hydrobiology_2021_2022.csv) имеет 32 сезонно-метрические записи, разделяет пределы/средние и единицы. Орудие, горизонты и объёмы фитопланктонного отбора в подразделе Малого Моря не названы; условия пяти горизонтов КОС 2017 к нему автоматически не перенесены. Рост между двумя съёмками не доказанный межгодовой тренд. [Конспект](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md). [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52)
+
 <!-- HUMAN NOTES -->

@@ -347,6 +347,12 @@
                   "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
                   "report_year": 2017,
                   "page": 31
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 51
                 }
               ],
               "gap": "Разные районы и сезоны; общего временного ряда нет."
@@ -385,6 +391,18 @@
                   "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
                   "report_year": 2017,
                   "page": 32
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 52
                 }
               ],
               "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
@@ -423,6 +441,24 @@
                   "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
                   "report_year": 2017,
                   "page": 33
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 53
                 }
               ],
               "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
