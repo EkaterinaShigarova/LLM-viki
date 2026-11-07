@@ -61,6 +61,7 @@
 ## Встречаемость Spirogyra
 
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Вылов
 
@@ -73,6 +74,10 @@
 ## Геохимический мониторинг
 
 - [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
+
+## Гидробиологические зоны
+
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Гидробиологические сезонные показатели
 
@@ -330,6 +335,10 @@
 
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
 
+## Олигохетный индекс
+
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
+
 ## Органический углерод
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
@@ -505,6 +514,10 @@
 ## Среднее содержание фенолов
 
 - [2021: календарь портовых наблюдений и разные статистики фенолов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md) — доклад 2021.
+
+## Станционные максимумы
+
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Станционные различия
 

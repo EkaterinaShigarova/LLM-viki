@@ -28,6 +28,7 @@
 - [Лесные пожары: учёт последствий и меры предупреждения](syntheses/forest-fires.md)
 - [Подземные воды и геологические процессы: как устроена сеть мониторинга](syntheses/groundwater-geological-monitoring.md)
 - [Наземные охотничьи ресурсы иркутской части БПТ: оценки, добыча и методы учёта](syntheses/hunting-resources-irkutsk-bpt.md)
+- [Гидробиологический мониторинг: станции, пробы и пределы сопоставления](syntheses/hydrobiological-monitoring-methods.md)
 - [Коммунальные сточные воды Байкальска: операторы, сброс и контроль качества](syntheses/municipal-wastewater.md)
 - [Северный Байкал: район БАМ и фоновые наблюдения](syntheses/north-baikal-water.md)
 - [Устойчивые органические загрязнители: ПХБ, пестициды и разные среды](syntheses/persistent-organic-pollutants.md)

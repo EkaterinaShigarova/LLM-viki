@@ -337,3 +337,17 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 Охваты и алгоритм не установлены, варианты не слиты. Нужны первичные пробы, агрегация и расшифровка табличных зон.
 
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33)
+
+## Ночная сессия:методические вопросы2025
+
+### Обзор 2025: проценты олигохетного индекса и доли проб
+
+Проценты не интерпретированы одинаково и не стали долей площади; формула/знаменатель требуют программы. Получить формулу индекса, классификационные пороги и таблицы проб.
+
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164)
+
+### Обзор 2025: северное 3708 экз.м²и малые масштабы Малого Моря
+
+Оригинальная размерность/значения сохранены; пропущенная дробь/масштаб не восстановлены по ожиданию. Сверить первичные таблицы, единицы и тип статистики; не умножать на 1000 без документа.
+
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164)

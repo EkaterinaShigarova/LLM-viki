@@ -102,6 +102,8 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) · доклад 2017.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -116,6 +118,8 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) · доклад 2017.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -131,6 +135,8 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p53](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-53) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -158,6 +164,26 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p204](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-204) · доклад 2015.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p205](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-205) · доклад 2015.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p199](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-199) · доклад 2022.
+
+<a id="biological-monitoring-methods"></a>
+### Дизайн гидробиологических наблюдений
+
+- [Гидробиологический мониторинг: станции,пробы и пределы сопоставления](syntheses/hydrobiological-monitoring-methods.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p29](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-29) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) · доклад 2017.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p53](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-53) · доклад 2022.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 
 <a id="water"></a>
@@ -476,6 +502,8 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p18](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-18) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p327](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-327) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p69](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-69) · доклад 2024.
+[official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 
 
 <a id="climate"></a>

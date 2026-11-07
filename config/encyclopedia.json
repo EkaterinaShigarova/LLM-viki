@@ -353,6 +353,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 51
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 163
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
                 }
               ],
               "gap": "Разные районы и сезоны; общего временного ряда нет."
@@ -403,6 +415,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 52
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 163
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
                 }
               ],
               "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
@@ -459,6 +483,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 53
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 163
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
                 }
               ],
               "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
@@ -534,6 +570,83 @@
                 }
               ],
               "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
+            }
+          ]
+        },
+        {
+          "id": "biological-monitoring-methods",
+          "title": "Дизайн гидробиологических наблюдений",
+          "topics": [
+            {
+              "id": "hydrobiological-monitoring-methods",
+              "title": "Гидробиологический мониторинг: станции,пробы и пределы сопоставления",
+              "article": "syntheses/hydrobiological-monitoring-methods.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 29
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 30
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 31
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 32
+                },
+                {
+                  "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+                  "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+                  "report_year": 2017,
+                  "page": 33
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 53
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 163
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
+                }
+              ],
+              "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия."
             }
           ]
         }
@@ -1488,6 +1601,18 @@
                   "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "page": 69
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 163
+                },
+                {
+                  "source_id": "official-b4e3fcfe0e41e26ea03b",
+                  "sha256": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+                  "report_year": 2025,
+                  "page": 164
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."

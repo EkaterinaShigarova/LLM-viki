@@ -140,6 +140,7 @@
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
 - [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Кабанский заказник
 
@@ -170,6 +171,7 @@
 
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
 - [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Модонкуль — выше Закаменска
 
@@ -260,6 +262,7 @@
 ## Северный Байкал
 
 - [2024: голомянко-бычковый комплекс в питании нерпы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md) — доклад 2024.
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Селенга
 
@@ -296,6 +299,7 @@
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Солзан
 
@@ -379,6 +383,10 @@
 ## Южное Прибайкалье
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Южные порты
+
+- [2025: гидробиология Байкала — четыре района,индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
 
 ## Южный Байкал
 
