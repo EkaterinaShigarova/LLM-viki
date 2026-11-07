@@ -28,7 +28,7 @@
 
 - [Байкальский омуль: экологические группы и естественное воспроизводство](syntheses/baikal-omul.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Сверить методы учёта производителей и личинок по рекам.
+Обеспеченность: Достаточно для описания по нескольким годам. Первичные методики/ряды и нерестилища; разрешение расхождений 2023/2024; разделение общего ската по происхождению. Научная рецензия не выполнена.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -36,6 +36,20 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p49](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-49) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p50](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-50) · доклад 2019.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p64](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-64) · доклад 2023.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p41](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-41) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p43](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-43) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p44](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-44) · доклад 2015.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p48](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-48) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p51](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-51) · доклад 2019.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p65](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-65) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p66](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-66) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p67](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-67) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p68](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-68) · доклад 2023.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p62](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-62) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p63](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p64](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-64) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p65](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-65) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p66](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66) · доклад 2024.
 
 - [Байкальский осётр: охрана и искусственное воспроизводство](syntheses/baikal-sturgeon.md)
 

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "prepared_at": "2026-11-05",
-  "kind": "navigation_only_not_substantive_review",
+  "kind": "reading_queue_with_explicit_completed_source_sections_and_navigation_only_pending_entries",
   "entries": [
     {
       "id": "omul-2015",
@@ -15,9 +15,19 @@
       ],
       "located_evidence_page": 42,
       "exact_locator_quote": "есурсов  во внутренних  водах Российской\n      Федерации на 2015 год»;\n         Байкальский омуль – основной промысловый вид, относится к озерно-речным проход­1.1\n     ным сиговым, нагуливается в озере Байкал, на нерест идет во впадающие в него реки. Пред­\n      ставлен тремя морфо-экологическими группами (пелагической, придонно-глубоководной,\n      прибрежной), разделение которых обусловлено г",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Прочитать таблицу/графики целиком; конец омуля на PDF44 проверить перед осетром. Не путать ОДУ, учтённый вылов и экспертную оценку."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_source_heading_to_sturgeon_heading_on_last_page",
+      "limitations": "Прочитан весь блок омуля с таблицей и графиками, включая конец перед осетром; это не полнота остальных тем совместных страниц. Первичные методики/нерестилища/рыбохозяйственный раздел остаются пробелами.",
+      "completed_at": "2026-11-07",
+      "verified_omul_pdf_pages": [
+        42,
+        43,
+        44
+      ],
+      "method_context_pdf_pages": [
+        41
+      ],
+      "note_path": "wiki/notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md"
     },
     {
       "id": "omul-2024",
@@ -31,9 +41,20 @@
       ],
       "located_evidence_page": 63,
       "exact_locator_quote": "                               изводство, составляет 0,01-1,00 млн особей. Чис-\nБайкальский омуль                               ленность производителей омуля, нерестящихся в\n    Байкальский омуль относится к озерно-речным    речках Чивыркуйского залива, а также в реках\nпроходным сиговым рыбам. Нагуливается омуль в     Кичера, Кика, Турка и других малых реках Байкала\nоз. Байкал, на нерест идет в",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Проверить продолжения таблиц/графиков на PDF64–65; PDF66 содержит начало осетра. Проверить периоды ретроспектив, не считать весь PDF66 омулем."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_source_heading_to_sturgeon_heading_on_last_page",
+      "limitations": "Прочитан весь блок омуля с таблицей и графиками, включая конец перед осетром; это не полнота остальных тем совместных страниц. Первичные методики/нерестилища/рыбохозяйственный раздел остаются пробелами.",
+      "completed_at": "2026-11-07",
+      "verified_omul_pdf_pages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "method_context_pdf_pages": [
+        62
+      ],
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md"
     },
     {
       "id": "deep-fish-2021",
@@ -131,5 +152,6 @@
       "boundary_status": "provisional_range_verify_continuations",
       "limitations": "Старт ниже рисунка 4.24 на PDF163, продолжение до 4.2.5 на PDF164. Сетные/грунтовые пробы, годы сравнения и север/Малое море/мелководье разделить."
     }
-  ]
+  ],
+  "updated_at": "2026-11-07"
 }

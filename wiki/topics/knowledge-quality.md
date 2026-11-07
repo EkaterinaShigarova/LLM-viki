@@ -138,9 +138,23 @@
 <a id="article-baikal-omul"></a>
 ### [Байкальский омуль: экологические группы и естественное воспроизводство](../syntheses/baikal-omul.md)
 
-Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 4. Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.
+Статус: Содержательная сверка с источниками (автоматизированная). Проверено смысловых блоков: 23. Полные блоки омуля четырёх докладов прочитаны; выбраны проверяемые смысловые блоки и таблицы. Исчерпывающая атомизация всех утверждений/экспертная рецензия не заявлены.
 
-Открытый вопрос: Установить длительность базовых многолетних рядов и сопоставимость нерестовых учётов.
+Открытый вопрос: Исходные 35,6 млн омуля:2020 или 2021
+
+Открытый вопрос: Учтённый вылов омуля 2023:90 или 80 т
+
+Открытый вопрос: Несогласованные диапазоны ретроспективной биомассы омуля
+
+Открытый вопрос: Возрастное окно сравнительного роста омуля
+
+Открытый вопрос: Неоднозначный субъект 75% созревающих в 8 лет
+
+Открытый вопрос: Исторический максимум захода 9,4 и 7,6 млн
+
+Открытый вопрос: Первичные методики речного учёта/ската, разделение естественного/заводского вклада, калибровки гидроакустики и ошибки; нерестилища требуют прямых обследований.
+
+Открытый вопрос: Ось нерестового графика 2023: 1981–1976 против 1976–1981
 
 <a id="article-bcbk-legacy"></a>
 ### [Наследие БЦБК: накопители, подземные воды и коммунальные стоки](../syntheses/bcbk-legacy.md)
@@ -556,6 +570,88 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p90](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-90)
 
 Уточнить первичный протокол и правила округления, не объединять варианты произвольно.
+
+<a id="omul-population-baseline-year"></a>
+### Исходные 35,6 млн омуля:2020 или 2021
+
+Состояние: requires_source_or_methodological_review. Сохранены оба года; нельзя выбрать базу роста без первичного ряда.
+- Доклад 2023:35,6 млн в 2020
+- Доклад 2024:35,6 млн в 2021
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p68](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-68)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p66](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66)
+
+Получить исходный ряд численности и пояснение к редакциям.
+
+<a id="omul-catch-2023-variants"></a>
+### Учтённый вылов омуля 2023:90 или 80 т
+
+Состояние: requires_source_or_methodological_review. Обе подписи оригиналов сохранены; уточнение статистики или опечатка не установлены.
+- Рисунок доклада 2023:90 т
+- Ретроспектива доклада 2024:80 т
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p67](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-67)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p66](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66)
+
+Сверить ведомственную статистику 2023 и историю уточнений.
+
+<a id="omul-biomass-retrospective"></a>
+### Несогласованные диапазоны ретроспективной биомассы омуля
+
+Состояние: requires_source_or_methodological_review. Вложенный период имеет меньшую нижнюю границу; возможный пересмотр/метод или ошибка не установлены.
+- Доклад 2015:2006–2014 16,0–21,4 тыс.т
+- Поздние:2011–2014 14,2–16,9 тыс.т
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p44](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-44)
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p50](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-50)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p65](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-65)
+
+Проверить исходные годовые ряды, возрастной охват, метод и редакции оценок.
+
+<a id="omul-growth-age-window"></a>
+### Возрастное окно сравнительного роста омуля
+
+Состояние: requires_source_or_methodological_review. Различие формулировок не превращено в наблюдённую смену темпа роста.
+- 2015:прибрежная группа 2–5 лет
+- Поздние:прибрежная группа 1–4 года
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p42](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-42)
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p48](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-48)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p63](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63)
+
+Сверить кривые роста, состав выборок и авторское пояснение.
+
+<a id="omul-maturity-scope"></a>
+### Неоднозначный субъект 75% созревающих в 8 лет
+
+Состояние: requires_source_or_methodological_review. Группа/пол последнего предложения не выбраны догадкой.
+- Глубоководная:>75% в 9 лет; прибрежная 75% в 6
+- Отдельное предложение:>75% особей в 8 лет
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p65](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-65)
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p66](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-66)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p64](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-64)
+
+Нужны таблицы половозрелости по полу, возрасту и МЭГ.
+
+<a id="omul-historical-extrema"></a>
+### Исторический максимум захода 9,4 и 7,6 млн
+
+Состояние: requires_source_or_methodological_review. Вероятно различается охват, но период для 9,4 не раскрыт; оба сообщения сохранены.
+- Общий диапазон поздних докладов 0,8–9,4
+- Максимум 2003 для периода промысла 7,6
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p42](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-42)
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p43](../sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-43)
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p49](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-49)
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p63](../sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63)
+
+Установить временной/речной охват исторических экстремумов; не подставлять 9,4 в 2003.
+
+<a id="omul-figure-period-reversal"></a>
+### Ось нерестового графика 2023: 1981–1976 против 1976–1981
+
+Состояние: requires_source_or_methodological_review. Перестановка присутствует на оригинальном рисунке, не объясняется одной ошибкой извлечения. Оба сообщения сохранены; новый временной интервал не создан.
+- Оригинал рисунка 1.1.1.5.1: 1981–1976
+- Проза того же доклада: 1976–1981
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p64](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-64)
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p65](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-65)
+
+Запросить редакционное пояснение к подписи и исходный массив графика.
 
 ## Ограничения
 

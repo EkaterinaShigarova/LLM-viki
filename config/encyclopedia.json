@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-07",
   "evidence_levels": {
     "multiyear_text": "Содержательные страницы нескольких лет прочитаны; достаточны для текста с ограничениями, но не автоматически для числового тренда.",
     "reviewed_overview": "Существующая аналитическая статья с происхождением утверждений; уровень не означает внешнюю экспертизу.",
@@ -68,9 +68,93 @@
                   "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "page": 64
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 43
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 44
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 48
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 65
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 66
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 67
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 68
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 62
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 63
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 64
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 65
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 66
                 }
               ],
-              "gap": "Сверить методы учёта производителей и личинок по рекам."
+              "gap": "Первичные методики/ряды и нерестилища; разрешение расхождений 2023/2024; разделение общего ската по происхождению. Научная рецензия не выполнена."
             },
             {
               "id": "baikal-sturgeon",

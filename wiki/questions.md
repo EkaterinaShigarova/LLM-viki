@@ -237,3 +237,49 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 Шкала БП зависит от литотипа; классификационная площадь не равна массе выноса. Нет распределения всех проб по средам/литотипам и полной лабораторной методики. Модонкуль связан с Селенгой через Джиду; разные региональные категории Чикоя не объединяются. Исходные максимумы не заменяют средневзвешенные концентрации.
 
 [Конспекты и разбор](../docs/SEDIMENT_TRIBUTARY_REVIEW.md) · [следующее чтение о живых сообществах](queries/biology-reading-queue.md).
+
+## Омуль: воспроизводство, версии оценок и методы
+
+### Исходные 35,6 млн омуля:2020 или 2021
+
+Сохранены оба года; нельзя выбрать базу роста без первичного ряда. Получить исходный ряд численности и пояснение к редакциям.
+
+[2023:PDF68](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-68) [2024:PDF66](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66)
+
+### Учтённый вылов омуля 2023:90 или 80 т
+
+Обе подписи оригиналов сохранены; уточнение статистики или опечатка не установлены. Сверить ведомственную статистику 2023 и историю уточнений.
+
+[2023:PDF67](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-67) [2024:PDF66](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-66)
+
+### Несогласованные диапазоны ретроспективной биомассы омуля
+
+Вложенный период имеет меньшую нижнюю границу; возможный пересмотр/метод или ошибка не установлены. Проверить исходные годовые ряды, возрастной охват, метод и редакции оценок.
+
+[2015:PDF44](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-44) [2019:PDF50](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-50) [2024:PDF65](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-65)
+
+### Возрастное окно сравнительного роста омуля
+
+Различие формулировок не превращено в наблюдённую смену темпа роста. Сверить кривые роста, состав выборок и авторское пояснение.
+
+[2015:PDF42](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-42) [2019:PDF48](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-48) [2024:PDF63](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63)
+
+### Неоднозначный субъект 75% созревающих в 8 лет
+
+Группа/пол последнего предложения не выбраны догадкой. Нужны таблицы половозрелости по полу, возрасту и МЭГ.
+
+[2023:PDF65](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-65) [2023:PDF66](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-66) [2024:PDF64](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-64)
+
+### Исторический максимум захода 9,4 и 7,6 млн
+
+Вероятно различается охват, но период для 9,4 не раскрыт; оба сообщения сохранены. Установить временной/речной охват исторических экстремумов; не подставлять 9,4 в 2003.
+
+[2015:PDF42](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-42) [2015:PDF43](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-43) [2019:PDF49](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-49) [2024:PDF63](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-63)
+
+[Все ограничения и границы чтения](../docs/OMUL_REVIEW.md).
+
+### Ось нерестового графика 2023: 1981–1976 против 1976–1981
+
+Перестановка присутствует на оригинальном рисунке, не объясняется одной ошибкой извлечения. Оба сообщения сохранены; новый временной интервал не создан. Запросить редакционное пояснение к подписи и исходный массив графика.
+
+[2023:PDF64](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-64) [2023:PDF65](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-65).
