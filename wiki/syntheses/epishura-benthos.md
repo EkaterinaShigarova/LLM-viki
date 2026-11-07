@@ -30,4 +30,12 @@
 - [Спирогира](spirogyra-observations.md)
 - [Качество воды](water-quality-evidence.md)
 
+## КОС 2017: разные слои, грунты и виды статистики
+
+Для эпишуры 2017 описан тотальный отбор 0–50 м с исключением трёх мелководных станций, но орудие в этом абзаце не названо. Диапазоны 0,2–27,9 тыс.экз/м³и 1,4–490,3 мг/м³, средние 6,2 /78,3 разделены. На станции сброса значения ниже средних обследованных групп во все сроки; это не тождественно глобальному минимуму каждой станции/показателя. Весенний пик и сопоставимость с прошлым годом — авторская оценка, не новый унифицированный ряд. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32)
+
+Макрозообентос 2017 отбирали в марте дночерпателем Петерсена 0,025 м²: воздействие 24–140 м, фон 20–90 м по методическому описанию. При этом фоновый максимум напечатан на 2 м; оба указания сохранены, журнал станций нужен для решения. Контрольные пределы 480–28760 экз/м² /0,1–36,02 г/м², средние 9246 /5,89. Фон: максимумы 22520 /16,92, средние 10641 /7,41; полное описание продолжается вверху PDF33 до заголовка Северного Байкала. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33)
+
+В зоне воздействия девять групп и 27 видов амфипод, в фоне шесть групп и 16 видов. По числу в зоне лидируют нематоды 43,9% при 0,5% массы, по массе олигохеты 60%; в фоне по массе лидируют моллюски 58,3%. Это разные структурные показатели, а не общий индекс загрязнения. Табличные 0,1–22/6 г/м²всей съёмки не совпадают с прозой 0,1–36,02/5,89; пустой фон 2017 таблицы не заполнен произвольно. [Конспект](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) · [CSV](../../datasets/kos_hydrobiology_2016_2017.csv). [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33)
+
 <!-- HUMAN NOTES -->

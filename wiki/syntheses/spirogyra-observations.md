@@ -34,4 +34,10 @@
 - [Эпишура и донные сообщества](epishura-benthos.md)
 - [Северный Байкал](north-baikal-water.md)
 
+## КОС 2017: внутрисезонные находки в разных пробах
+
+У КОС 2017 при ледовой съёмке единичные нити Spirogyra отмечены в зоопланктонных пробах у выпуска условно чистых вод и 15 км восточнее труб; в июне —в трети проб, к осени —почти в половине. Одиночные нити попадались до 11 км от берега на полигоне/разрезах, а единичные клетки в августе —также в фитопланктоне. Частоты проб не стали долей площади дна; происхождение нитей на каждой станции не прослежено. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32)
+
+Авторское объяснение массового развития через переизбыток антропогенных биогенов сохранено как объяснение источника, не прямое установление причины каждого обнаружения. Продолжение фразы переходит с PDF31 на 32; последующий северный район начинается лишь на PDF33 и не относится к КОС. [Конспект](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md). [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32)
+
 <!-- HUMAN NOTES -->

@@ -146,9 +146,22 @@
       ],
       "located_evidence_page": 32,
       "exact_locator_quote": "затели уровня\nразвития популяции эпишуры находились в пределах многолетних.\n    Зообентос. Отбор проб  макрозообентоса проводился на  участке, подверженном\nвоздействию КОС г. Байкальска, с глубин 24-140 м, и на фоновом участке между р. Утулик\nи р. Безымянной с глубин 20-90 м. Пробы отбирались с помощью дночерпателя Петерсена\nс площадью захвата 0,025 м2 на песчаных и илисто-песчаных грун",
-      "substantive_reading_completed": false,
-      "boundary_status": "provisional_range_verify_continuations",
-      "limitations": "Метод на PDF29, таблица PDF30, фитопланктон PDF31, зоопланктон/зообентос PDF32 с продолжением PDF33. На PDF33 начинается северный район: не смешивать."
+      "substantive_reading_completed": true,
+      "boundary_status": "verified_complete_KOS_subsection_before_North_Baikal_heading_on_PDF33",
+      "limitations": "Прочитан весь подраздел КОС, включая повёрнутую таблицу и продолжение фона на PDF33; северный район на том же листе исключён. Спорные числа/глубины сохранены.",
+      "completed_at": "2026-11-08",
+      "verified_pdf_pages": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "note_paths": [
+        "notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md",
+        "notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md",
+        "notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md"
+      ]
     },
     {
       "id": "small-sea-2022",
@@ -184,5 +197,5 @@
     }
   ],
   "updated_at": "2026-11-08",
-  "next_priority": "Планктон/эпишура и макрозообентос: КОС 2017 PDF29–33; затем Малое море 2022 PDF51–53 и обзор 2025 PDF163–164. Это навигационные диапазоны, проверить реальные границы."
+  "next_priority": "Малое море2022 PDF51–53,затем гидробиология2025 PDF163–164;КОС2017уже законспектирован."
 }

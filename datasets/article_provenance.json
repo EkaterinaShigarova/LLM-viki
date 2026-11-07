@@ -538,6 +538,18 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 304
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 30
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 31
     }
   ],
   "syntheses/spirogyra-observations.md": [
@@ -555,6 +567,18 @@
       "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "page": 55
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 31
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 32
     }
   ],
   "syntheses/epishura-benthos.md": [
@@ -572,6 +596,18 @@
       "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "page": 42
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 30
+    },
+    {
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "page": 33
     }
   ],
   "syntheses/selenga-sediments.md": [

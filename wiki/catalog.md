@@ -99,6 +99,8 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p41](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-41) · доклад 2024.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p303](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-303) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p304](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-304) · доклад 2021.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) · доклад 2017.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -109,6 +111,8 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p40](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-40) · доклад 2015.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p31](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-31) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) · доклад 2017.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -119,6 +123,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) · доклад 2023.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) · доклад 2017.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42) · доклад 2020.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) · доклад 2017.
 
 <a id="seal"></a>
 ### Верхний трофический уровень

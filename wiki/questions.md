@@ -311,3 +311,29 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 [2022:PDF296](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-296)
 
 [Источниковый разбор](../docs/GOLOMYANKA_REVIEW.md).
+
+## Ночная сессия: КОС2017
+
+### КОС 2017:116/162 и июль/июнь
+
+Числа/месяцы сохранены раздельно, арифметикой первоисточник не исправлен. Нужны первичные результаты и редакционное пояснение.
+
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p29](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-29) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30)
+
+### КОС 2017:49+0,197–127 и пределы 1733/1734
+
+Оригинальные записи проверены на повёрнутой странице, не нормализованы догадкой. Уточнить исходную таблицу и статус спорных ячеек.
+
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30)
+
+### КОС 2017: фоновая глубина 2 м против 20–90 м
+
+Оба сообщения оригинала сохранены,2 не заменено 20. Сверить журнал станций и глубин.
+
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32)
+
+### КОС 2017: таблица бентоса и проза участков
+
+Охваты и алгоритм не установлены, варианты не слиты. Нужны первичные пробы, агрегация и расшифровка табличных зон.
+
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p30](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-30) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p32](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-32) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33)

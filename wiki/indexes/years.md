@@ -22,6 +22,9 @@
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
 - [2017: уровень, водный баланс и весенние ледовые явления](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrology.md) — доклад 2017.
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## 2018
 

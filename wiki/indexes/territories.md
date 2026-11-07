@@ -133,6 +133,9 @@
 ## КОС Байкальска
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Кабанский заказник
 
@@ -289,6 +292,14 @@
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
 
+## Солзан
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+
+## Солзан — Маритуй
+
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+
 ## Средняя часть Байкала
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
@@ -312,6 +323,12 @@
 ## Уда — контроль у устья
 
 - [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
+## Утулик — Безымянная
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Хамар-Дабан
 
@@ -352,6 +369,10 @@
 ## Южное Прибайкалье
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Южный Байкал
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 
 ## Южный Байкал — Большие Коты, точка № 1
 

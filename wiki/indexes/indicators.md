@@ -2,6 +2,10 @@
 
 Индекс конспектов; совпадение названия показателя не разрешает межгодовое сравнение.
 
+## Epischura baicalensis
+
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
+
 ## TDS и главные ионы
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
@@ -53,6 +57,10 @@
 ## Водозабор
 
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
+
+## Встречаемость Spirogyra
+
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
 
 ## Вылов
 
@@ -113,6 +121,14 @@
 ## Длительное аквариумное содержание
 
 - [2021: глубоководные рыбы и гаммариды в аквариумах Байкальского музея](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/deep-fish-aquarium.md) — доклад 2021.
+
+## Доминантные таксоны
+
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+
+## Донная микрофлора
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 
 ## Донные отложения
 
@@ -193,6 +209,10 @@
 ## Локальные нормы и фон
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
+
+## Макрозообентос: плотность и биомасса
+
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Макрокомпоненты и микроэлементы
 
@@ -342,9 +362,17 @@
 
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
 
+## Площадь индикаторной зоны
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+
 ## Поведенческие наблюдения
 
 - [2021: глубоководные рыбы и гаммариды в аквариумах Байкальского музея](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/deep-fish-aquarium.md) — доклад 2021.
+
+## Поверхностная микрофлора
+
+- [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 
 ## Поверхностные пробы
 
@@ -531,6 +559,14 @@
 
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Фитопланктон: численность и биомасса
+
+- [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
+
+## Фон и воздействие
+
+- [2017: КОС — эпишура,зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 
 ## Фон и контроль
 

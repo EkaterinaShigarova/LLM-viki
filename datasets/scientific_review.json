@@ -13,7 +13,7 @@
     "syntheses/phytoplankton.md": {
       "status": "ai_source_checked",
       "reviewer_type": "ai_agent",
-      "reviewed_at": "2026-11-04",
+      "reviewed_at": "2026-11-08",
       "claim_ids": [
         "phytoplankton-01",
         "phytoplankton-02",
@@ -23,7 +23,10 @@
         "hydrology3-20261104-08",
         "hydrology3-20261104-09",
         "hydrology3-20261104-17",
-        "hydrology3-20261104-18"
+        "hydrology3-20261104-18",
+        "night-kos2017-20261108-01",
+        "night-kos2017-20261108-02",
+        "night-kos2017-20261108-03"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -32,15 +35,20 @@
         "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+        "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d"
       },
-      "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются.",
-      "body_sha256": "d66813a9d50e5aa8362179a220fc4dcabd13f1f3f7d2ac51b5592e62c6aeee1f",
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
+      "body_sha256": "349cce6af21a23fdc299dba35a9be6c923f39a5b37dcb82e439a0194e94e1bcc",
       "open_questions": [
-        "Согласовать сезоны, глубины, состав станций и методы; численность и биомасса не взаимозаменяемы."
+        "Согласовать сезоны, глубины, состав станций и методы; численность и биомасса не взаимозаменяемы.",
+        "КОС 2017:116/162 и июль/июнь",
+        "КОС 2017:49+0,197–127 и пределы 1733/1734",
+        "КОС 2017: фоновая глубина 2 м против 20–90 м",
+        "КОС 2017: таблица бентоса и проза участков"
       ],
       "finding_ids": [],
-      "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
@@ -56,6 +64,81 @@
           "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
           "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
           "page": 52
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 35
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 36
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 37
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 30
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 31
+        },
+        {
+          "source_id": "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0",
+          "sha256": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+          "page": 33
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 39
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 40
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 41
+        },
+        {
+          "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+          "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+          "page": 303
+        },
+        {
+          "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+          "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+          "page": 304
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 30
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 31
         }
       ],
       "review_history": [
@@ -76,6 +159,30 @@
           ],
           "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
           "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно."
+        },
+        {
+          "reviewed_at": "2026-11-04",
+          "body_sha256": "d66813a9d50e5aa8362179a220fc4dcabd13f1f3f7d2ac51b5592e62c6aeee1f",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
+          },
+          "claim_ids": [
+            "phytoplankton-01",
+            "phytoplankton-02",
+            "phytoplankton-03",
+            "phytoplankton-04",
+            "phytoplankton-05",
+            "hydrology3-20261104-08",
+            "hydrology3-20261104-09",
+            "hydrology3-20261104-17",
+            "hydrology3-20261104-18"
+          ],
+          "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
+          "coverage": "Выбранные смысловые блоки сверены; таблицы/графики прочитаны в указанном объёме. Полнота всех утверждений и экспертная проверка не заявляются."
         }
       ]
     },
@@ -293,31 +400,37 @@
     "syntheses/spirogyra-observations.md": {
       "status": "ai_source_checked",
       "reviewer_type": "ai_agent",
-      "reviewed_at": "2026-10-22",
+      "reviewed_at": "2026-11-08",
       "claim_ids": [
         "spirogyra-observations-01",
         "spirogyra-observations-02",
         "spirogyra-observations-03",
         "spirogyra-observations-04",
         "spirogyra-observations-05",
-        "spirogyra-observations-06"
+        "spirogyra-observations-06",
+        "night-kos2017-20261108-07",
+        "night-kos2017-20261108-08"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
       "source_revisions": {
         "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
-        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-        "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d"
+        "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+        "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391"
       },
-      "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно.",
-      "body_sha256": "41fec1849fdceec139be57579a0a9174a7fe6cc432d92841809b6716f93f7f2d",
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
+      "body_sha256": "5606af590832e9b8f2220db6ffc93d995705266bf514590c71eeea187320c9c9",
       "open_questions": [
-        "Уточнить систематические группы и стандартизацию сетных, грунтовых и обрастательных проб; обнаружение нитей не измеряет площадь зарастания."
+        "Уточнить систематические группы и стандартизацию сетных, грунтовых и обрастательных проб; обнаружение нитей не измеряет площадь зарастания.",
+        "КОС 2017:116/162 и июль/июнь",
+        "КОС 2017:49+0,197–127 и пределы 1733/1734",
+        "КОС 2017: фоновая глубина 2 м против 20–90 м",
+        "КОС 2017: таблица бентоса и проза участков"
       ],
       "finding_ids": [
         "F02"
       ],
-      "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
@@ -333,6 +446,37 @@
           "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
           "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
           "page": 55
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 31
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 32
+        }
+      ],
+      "review_history": [
+        {
+          "reviewed_at": "2026-10-22",
+          "body_sha256": "41fec1849fdceec139be57579a0a9174a7fe6cc432d92841809b6716f93f7f2d",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d"
+          },
+          "claim_ids": [
+            "spirogyra-observations-01",
+            "spirogyra-observations-02",
+            "spirogyra-observations-03",
+            "spirogyra-observations-04",
+            "spirogyra-observations-05",
+            "spirogyra-observations-06"
+          ],
+          "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+          "coverage": "Существенные фактические/методические смысловые блоки, перечисленные в реестре; повторы не считаются повторно."
         }
       ]
     },
@@ -658,13 +802,16 @@
     "syntheses/epishura-benthos.md": {
       "status": "ai_source_checked",
       "reviewer_type": "ai_agent",
-      "reviewed_at": "2026-10-22",
+      "reviewed_at": "2026-11-08",
       "claim_ids": [
         "epishura-benthos-01",
         "epishura-benthos-02",
         "epishura-benthos-03",
         "epishura-benthos-04",
-        "epishura-benthos-05"
+        "epishura-benthos-05",
+        "night-kos2017-20261108-04",
+        "night-kos2017-20261108-05",
+        "night-kos2017-20261108-06"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -673,20 +820,29 @@
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
         "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
       },
-      "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется.",
-      "body_sha256": "6b4e3cf593c69c779ba3fd1342e34a5becd4138ec23fadba797187ef8b38b4c3",
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
+      "body_sha256": "e83e196a8e2aa82d0ad8e20a120872cc95eac98fda0ec676f255ab3d22556a83",
       "open_questions": [
-        "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии."
+        "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии.",
+        "КОС 2017:116/162 и июль/июнь",
+        "КОС 2017:49+0,197–127 и пределы 1733/1734",
+        "КОС 2017: фоновая глубина 2 м против 20–90 м",
+        "КОС 2017: таблица бентоса и проза участков"
       ],
       "finding_ids": [
         "F07"
       ],
-      "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
       "reviewed_evidence": [
         {
           "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
           "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
           "page": 49
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 32
         },
         {
           "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
@@ -696,7 +852,32 @@
         {
           "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
           "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
-          "page": 32
+          "page": 30
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "page": 33
+        }
+      ],
+      "review_history": [
+        {
+          "reviewed_at": "2026-10-22",
+          "body_sha256": "6b4e3cf593c69c779ba3fd1342e34a5becd4138ec23fadba797187ef8b38b4c3",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05"
+          ],
+          "review_method": "LLM-assisted semantic source check plus programmatic provenance validation; not specialist review",
+          "coverage": "Существенные смысловые блоки перечислены в реестре; методические ограничения отделены от наблюдаемых фактов. Научная рецензия требуется."
         }
       ]
     },
@@ -3714,6 +3895,160 @@
       ],
       "conclusion": "Наборы не перечислены; их перекрытие неизвестно. Не исправлено 6 на 7,36 не присвоено физиологическому опыту.",
       "next_step": "Получить список таксонов/образцов, матрицу филогении и номера NGS-библиотек.",
+      "specialist_required": true
+    },
+    {
+      "id": "kos2017-bacteria-mean",
+      "title": "КОС 2017:116/162 и июль/июнь",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2017-20261108-03"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 29,
+          "quote": "       28                                                             Государственный доклад\n          1.1.1.4. Гидробиологические сообщества\n         (ФГБУ «Иркутское УГМС» Росгидромета)\n\n1. 1     В 2017 году гидробиологические наблюдения на озере Байкал проводили на южном       Байкале – в районе влияния КОС г. Байкальска, на Северном Байкале – в районе влияния\n       трассы БАМ и на Селенгинском мелководье.\n\n          Гидробиологические наблюдения в районе КОС г. Байкальска\n        В  2017  году  гидробиологические  наблюдения  включали  в  себя  изучение\n       бактериопланктона, фитопланктона, зоопланктона, микрофлоры донных отложений и зообен-\n       тоса по ряду параметров (численность, биомасса, видовое разнообразие). Пробы планктона\n       отбирались в марте, июне и августе на полигоне площадью 250 км2. Пробы донных отло-\n      жений на микрофлору отобраны в марте и августе в пределах малого полигона на площади\n        13,4 км2, пробы зообентоса – в марте на площади 5 км2, на контрольном и фоновом участках.\n         Обобщенные количественные  характеристики  гидробиологических  показателей и\n      размеры площадей зон загрязнения в 2017 году приведены в таблице 1.1.1.4.1.\n          Бактериопланктон и микрофлора донных отложений. Состояние бактериопланктона\n       в поверхностном слое воды (0,5 м) и микрофлоры верхнего двухсантиметрового слоя\n      донных отложений оценивалось по четырём группам микроорганизмов. Гетеротрофы,\n      фенолокисляющие и углеводородокисляющие  бактерии  определялись  количественно,\n      целлюлозоразрушающие – качественным методом.\n        Общий  диапазон  значений  групп  бактериопланктона  составил:  гетеротрофы  –\n       0-2392  кл/мл, фенолокисляющие бактерии – 0-754  кл/мл, углеводородокисляющие –\n        0-104 кл/мл. Максимальные значения наблюдались в августе восточнее реки Солзан, 2 км от\n        берега. Увеличение средних показателей численности гетеротрофных и фенолокисляющих\n       бактерий прослеживалось с марта по август (значение гетеротрофов увеличилось в 13,5 раза\n       до 116 кл/мл, фенолокисляющих бактерий – в 9,5 раза до 2,9 кл/мл). Наибольшая встреча-\n       емость в пробах целлюлозоразрушающих организмов наблюдалась в августе и составляла\n       51 %, наименьшая – в июне (16 %). Средние показатели гетеротрофов, по сравнению с\n      прошлым годом, в марте и августе незначительно увеличились, в июле – снизились в 3,3 раза\n       до 16,0 кл/мл.\n        В микрофлоре донных отложений предельные показатели гетеротрофов, а также\n      максимальные значения углеводородокисляющих и целлюлозоразрушающих бактерий\n      выделены  в  период  ледовой  съёмки.  Максимальная  концентрация  гетеротрофов\n        (79,0 тыс. кл/г вл. ила) отмечена в 6,6 км западнее труб сброса, 450 м от берега на глубине 215 м,\n      минимальная (0,4 тыс. кл/г вл. ила) – на фоновой станции между реками Безымянной и Уту-\n      лик на глубине 40 м, углеводородокисляющие (106 кл./г вл. ила) – в точке подводного выпуска\n     КОС (гл. 27 м). Целлюлозоразрушающие бактерии в период ледостава были обнаружены во\n       всех пробах, в августе – лишь в 60 %. Максимальный показатель фенолокисляющих бактерий\n        (9,0 тыс. кл/г вл. ила) зафиксирован в августе на фоновой станции (гл. 40 м). Сезонная ди-\n      намика характеризуется увеличением средних значений гетеротрофов от марта к августу\n       в 1,4 раза до 9,4 тыс. кл/г вл. ила и фенолов – в 1,8 раза до 0,66 тыс. кл/г вл. ила. По сравнению\n       с 2016 годом средние показатели гетеротрофов в марте снизились в 2,0 раза, в августе\n       в 3,0 раза.\n         Данные численности определяемых групп бактерий в поверхностных водах и грунтах\n      сопоставимы с многолетними.",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Числа/месяцы сохранены раздельно,арифметикой первоисточник не исправлен."
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 30,
+          "quote": " О состоянии озера Байкал и мерах по его охране в 2017 году                              29\n\n1.1.1.4.1                       км2   0,3   0,9   7,6    11,9    13,0   9,5    17,4    22,6    13,6    0,11   3,8        1. 1                                                                 Площадь,\nТаблица\n\n\n                       36   30                   31  25  18  37  28                                  Зона                22-37        49+0    1574    1510    1307 12-48    5-42      1,4-71     12-79     16-46             г.                                                            124-2392         1418-1902         1465-1598          1021-1734                                                                                                        загрязнения     КОС             2017\n\n\n\n\n\n              4                              1                                6                                21                                                     99                        12 1-7                                                                                              2-8                                                                   529                                                                         103                                                             5-48                           Фон  1-25                                                      835    1209                                                                                     367 0,4-2          районе                                                                                                                                                        90-116                                                                                                                                                     370-618                                                                                                                                                                    197-127                                                                                                                        659-980                                                                                                                                                                                                293-490  в                                               Численность                                                                                              1046-1303\n        гг.\n                 за\n\n\n\n                                  6                              7                        12                                                 58                            16                                                     42                                значение)                                                                                     135                                            1-56                                                                                                                              2-469,4                                                162    1166    1340   711 7-137                                                                 1-487                                                                                                                               5-132                                                                                                                                                                                                         0,1-22                                                                                                                                                                                 0,4-79                                                                                           5-2392                                                                                                                                                                                                1,4-490                                           целомсъёмку                                                                                                                                         659-1902        934-2515         190-1733\n         В                   загрязнения2016-2017                         среднее\n    –\n                           км2   2,9   5,4   2,3   2,3    13,8   8,0    20,6   5,8    29,6   1,4   3,2            площадисъёмок                                                                 Площадь,\n                                       знаменатель\n\n                          8            размеры                        65                                                 32                                                         74                                                             41                                                                                                 117                                          172                                                313                                                      234                                                                   943 6-56                                                                                                      6-10                                                                                1210                                                                                                                                                   30-60  ирезультатам    г.     Зона      25-186                                                                              58-376                                                                                                                                                                                             61-302                                                                                                                                                                                                2,6-169                                                                                                          215-415                                                                                                                        172-296                                                                                                                                                                           718-1324                                                                                                                                                                             1061-2067     по                                                         загрязнения                          2016                             пределы,\n\n\n            5                              7                            20                                41                                 1-9                                                                 11 2-81,7                                    51   780   325   129                                                     19   491                                                    4-34                                                             3-80    –           Фон                                                                                      23-74                                                                                                                               17-21                                                                                                                                                                                             1,6-22                                                                                                                                                                                 0,9-10                                                                                                                                       581-875        297-349       125-133                     345-750                                                                                   Численность                     гидробионтов                          Байкальска         за\n     г.\n                                  9                                    (числитель                            52                                                     15                                                                                     149  14  32                                88  88   970   512  50 6-34                                                       1-18610,5 1-462                                                                            2-460                                                                                                                                         2-750                                           целом                                                                                                                                                                    2,1-133                                         0,9-60,3       1,6-302                                                         съёмку                                                   22,8-296        534-2067         207-1324                                                                                                                                                                                                                                                                                                                                               1,14-29,74         В\n                                                съемки                           VI          VI          VI                     III                        Характеристики                                                II-III                                II-III                               II-III                               II-III                                                                                                             VIII-IX                                    VIII-IX                                    VIII-IX                     VIII-IX\n                                        Время\n\n                                                                             тыс.                                                                                                                                 мг/м3              ила\n                                                                                                                                      г/м2\n                                                                                              вл.\n                                                                                                                              кл/г                                             Группыгидробионтов                                                         Бактериопланктон,кл/мл                                                         Фитопланктон,кл/л                                                         Зоопланктон,                                                      Бактериобентос,тыс.           Зообентос,",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Числа/месяцы сохранены раздельно,арифметикой первоисточник не исправлен."
+        }
+      ],
+      "source_versions": [
+        "Проза: август 116, июль 16, рост 13,5 раза",
+        "Таблица: август 162,VI16,II–III12"
+      ],
+      "conclusion": "Числа/месяцы сохранены раздельно, арифметикой первоисточник не исправлен.",
+      "next_step": "Нужны первичные результаты и редакционное пояснение.",
+      "specialist_required": true
+    },
+    {
+      "id": "kos2017-table-malformed",
+      "title": "КОС 2017:49+0,197–127 и пределы 1733/1734",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2017-20261108-03"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 30,
+          "quote": " О состоянии озера Байкал и мерах по его охране в 2017 году                              29\n\n1.1.1.4.1                       км2   0,3   0,9   7,6    11,9    13,0   9,5    17,4    22,6    13,6    0,11   3,8        1. 1                                                                 Площадь,\nТаблица\n\n\n                       36   30                   31  25  18  37  28                                  Зона                22-37        49+0    1574    1510    1307 12-48    5-42      1,4-71     12-79     16-46             г.                                                            124-2392         1418-1902         1465-1598          1021-1734                                                                                                        загрязнения     КОС             2017\n\n\n\n\n\n              4                              1                                6                                21                                                     99                        12 1-7                                                                                              2-8                                                                   529                                                                         103                                                             5-48                           Фон  1-25                                                      835    1209                                                                                     367 0,4-2          районе                                                                                                                                                        90-116                                                                                                                                                     370-618                                                                                                                                                                    197-127                                                                                                                        659-980                                                                                                                                                                                                293-490  в                                               Численность                                                                                              1046-1303\n        гг.\n                 за\n\n\n\n                                  6                              7                        12                                                 58                            16                                                     42                                значение)                                                                                     135                                            1-56                                                                                                                              2-469,4                                                162    1166    1340   711 7-137                                                                 1-487                                                                                                                               5-132                                                                                                                                                                                                         0,1-22                                                                                                                                                                                 0,4-79                                                                                           5-2392                                                                                                                                                                                                1,4-490                                           целомсъёмку                                                                                                                                         659-1902        934-2515         190-1733\n         В                   загрязнения2016-2017                         среднее\n    –\n                           км2   2,9   5,4   2,3   2,3    13,8   8,0    20,6   5,8    29,6   1,4   3,2            площадисъёмок                                                                 Площадь,\n                                       знаменатель\n\n                          8            размеры                        65                                                 32                                                         74                                                             41                                                                                                 117                                          172                                                313                                                      234                                                                   943 6-56                                                                                                      6-10                                                                                1210                                                                                                                                                   30-60  ирезультатам    г.     Зона      25-186                                                                              58-376                                                                                                                                                                                             61-302                                                                                                                                                                                                2,6-169                                                                                                          215-415                                                                                                                        172-296                                                                                                                                                                           718-1324                                                                                                                                                                             1061-2067     по                                                         загрязнения                          2016                             пределы,\n\n\n            5                              7                            20                                41                                 1-9                                                                 11 2-81,7                                    51   780   325   129                                                     19   491                                                    4-34                                                             3-80    –           Фон                                                                                      23-74                                                                                                                               17-21                                                                                                                                                                                             1,6-22                                                                                                                                                                                 0,9-10                                                                                                                                       581-875        297-349       125-133                     345-750                                                                                   Численность                     гидробионтов                          Байкальска         за\n     г.\n                                  9                                    (числитель                            52                                                     15                                                                                     149  14  32                                88  88   970   512  50 6-34                                                       1-18610,5 1-462                                                                            2-460                                                                                                                                         2-750                                           целом                                                                                                                                                                    2,1-133                                         0,9-60,3       1,6-302                                                         съёмку                                                   22,8-296        534-2067         207-1324                                                                                                                                                                                                                                                                                                                                               1,14-29,74         В\n                                                съемки                           VI          VI          VI                     III                        Характеристики                                                II-III                                II-III                               II-III                               II-III                                                                                                             VIII-IX                                    VIII-IX                                    VIII-IX                     VIII-IX\n                                        Время\n\n                                                                             тыс.                                                                                                                                 мг/м3              ила\n                                                                                                                                      г/м2\n                                                                                              вл.\n                                                                                                                              кл/г                                             Группыгидробионтов                                                         Бактериопланктон,кл/мл                                                         Фитопланктон,кл/л                                                         Зоопланктон,                                                      Бактериобентос,тыс.           Зообентос,",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Оригинальные записи проверены на повёрнутой странице,не нормализованы догадкой."
+        }
+      ],
+      "source_versions": [
+        "Бактериальная зона:124–2392 /49+0",
+        "Фоновый зоопланктон:197–127 /103",
+        "Фитопланктон всясъёмка 190–1733, зона 1021–1734"
+      ],
+      "conclusion": "Оригинальные записи проверены на повёрнутой странице, не нормализованы догадкой.",
+      "next_step": "Уточнить исходную таблицу и статус спорных ячеек.",
+      "specialist_required": true
+    },
+    {
+      "id": "kos2017-background-depth",
+      "title": "КОС 2017: фоновая глубина 2 м против 20–90 м",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2017-20261108-05"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 32,
+          "quote": "О состоянии озера Байкал и мерах по его охране в 2017 году                              31\nв прибрежной части озера биогенных веществ антропогенного происхождения.\n    Частота встречаемости спирогиры сохранилась на уровне прошлого года. В период ледовой\nсъёмки в зоопланктонных пробах находили единичные нити в месте выпуска условно чистых\nвод КОС г. Байкальска и на станциях, расположенных 15 км восточнее труб сброса. В июне нит-   1. 1чатку обнаружили в третьей части зоопланктонных проб, ближе к осени количество спирогиры\nвозросло и отмечалось почти в половине проб зоопланктона. Особенно многочисленные\nскопления спирогиры обнаружены в прибрежной зоне, одиночные нити попадались в пробах,\nотобранных как на полигоне, так на западных и восточных разрезах на расстоянии до 11 км от\nберега. Единичные клетки зафиксированы в августе и в пробах фитопланктона.\n    Зоопланктон. Отбор проб зоопланктона проводился тотально с горизонта 0-50 м (кроме\nтрёх мелководных станций). В качестве тест-объектов загрязнения водных масс оз. Байкал\nсточными  водами  выбран  нерезистентный  веслоногий  рачок  Epischurа  baicalensis  Sars,\n1900. В исследуемый период показатели общей численности рачка изменялись в интервале\n0,2-27,9 тыс. экз/м3, биомассы – 1,4-490,3 мг/м3. Минимальные для обследованной акватории пока-\nзатели определены в августе в 3,5 км западнее места выпуска условно чистых вод, в 1,5 км от берега.\nНа станции, расположенной в 3 км восточнее точки сброса, в 4 км от берега, в марте зарегистриро-\nвана максимальная численность, в августе – биомасса. На станции в точке сброса КОС г. Байкаль-\nска во все периоды наблюдались наименьшие количественные показатели эпишуры по отношению\nк средним показателям на полигоне, на восточных, западных разрезах и репере.\n    Сезонная динамика в 2017 году, включающая в себя весенний пик генерации рачка,\nявляется типичной. Средняя численность рачка составила 6,2 тыс. экз/м3, биомасса –\n78,3 мг/м3, что аналогично прошлогодним величинам. Количественные показатели уровня\nразвития популяции эпишуры находились в пределах многолетних.\n    Зообентос. Отбор проб  макрозообентоса проводился на  участке, подверженном\nвоздействию КОС г. Байкальска, с глубин 24-140 м, и на фоновом участке между р. Утулик\nи р. Безымянной с глубин 20-90 м. Пробы отбирались с помощью дночерпателя Петерсена\nс площадью захвата 0,025 м2 на песчаных и илисто-песчаных грунтах с примесью детрита.\nФиксация и камеральная обработка проб, а так же определение отдельных групп зообентонтов\nпроводились по классической методике.\n   На  участке, подверженном влиянию КОС  г.  Байкальска,  в пробах обнаружено\n9 таксономических групп беспозвоночных: хирономиды, олигохеты, амфиподы, моллю-\nски, нематоды, полихеты, планарии, пиявки, водяные клещи. До вида определялась группы\nамфипод и брюхоногих моллюсков. Определено 27 видов амфипод, относящихся к 11 родам,\nс наибольшей частотой встречаемости р.р. Micruropus, Asprogammarus. Моллюски класса\nGastropoda зафиксированы на 12 станциях, преимущественно, единично.\n    Диапазон  колебаний  количественных  показателей  составил  480-28760  экз./м2 и\n0,1-36,02 г/м2. Максимальные значения численности и биомассы наблюдались в 400 м вос-\nточнее точки сброса условно чистых вод, минимальные показатели численности – 400 м за-\nпаднее, в 100 м от берега; биомассы – напротив точки сброса, в 400 м от берега.\n   Доминирующее положение на контролируемом участке, как и в прошлом году, по\nчисленности принадлежало нематодам – 43,9 %, при минимальной биомассе – 0,5 %.\nМалощетинковые черви занимали 40,3 и 60,0 %, гаммариды – 9,6 и 29,5 % численности и\nбиомассы.\n   По сравнению с мартом 2016 года среднее значение численности не изменилось и\nсоставило 9246 экз./м2, биомассы (5,89 г/м2) – снизилось в 1,5 раза.\n   На фоновом участке, расположенном между р. Безымянной и р. Утулик, максимальные\nзначения численности и биомассы отмечены на глубине 2 м – 22520 экз./м2 и 16,92 г/м2\nсоответственно. Минимальная численность – на глубине 85 м (2440 экз./м2), биомасса – на\nглубине 60 м (1,08 г/м2).",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Оба сообщения оригинала сохранены,2не заменено20."
+        }
+      ],
+      "source_versions": [
+        "Метод: фон 20–90 м",
+        "Максимум:2 м"
+      ],
+      "conclusion": "Оба сообщения оригинала сохранены,2 не заменено 20.",
+      "next_step": "Сверить журнал станций и глубин.",
+      "specialist_required": true
+    },
+    {
+      "id": "kos2017-benthos-range",
+      "title": "КОС 2017: таблица бентоса и проза участков",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-kos2017-20261108-06"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 30,
+          "quote": " О состоянии озера Байкал и мерах по его охране в 2017 году                              29\n\n1.1.1.4.1                       км2   0,3   0,9   7,6    11,9    13,0   9,5    17,4    22,6    13,6    0,11   3,8        1. 1                                                                 Площадь,\nТаблица\n\n\n                       36   30                   31  25  18  37  28                                  Зона                22-37        49+0    1574    1510    1307 12-48    5-42      1,4-71     12-79     16-46             г.                                                            124-2392         1418-1902         1465-1598          1021-1734                                                                                                        загрязнения     КОС             2017\n\n\n\n\n\n              4                              1                                6                                21                                                     99                        12 1-7                                                                                              2-8                                                                   529                                                                         103                                                             5-48                           Фон  1-25                                                      835    1209                                                                                     367 0,4-2          районе                                                                                                                                                        90-116                                                                                                                                                     370-618                                                                                                                                                                    197-127                                                                                                                        659-980                                                                                                                                                                                                293-490  в                                               Численность                                                                                              1046-1303\n        гг.\n                 за\n\n\n\n                                  6                              7                        12                                                 58                            16                                                     42                                значение)                                                                                     135                                            1-56                                                                                                                              2-469,4                                                162    1166    1340   711 7-137                                                                 1-487                                                                                                                               5-132                                                                                                                                                                                                         0,1-22                                                                                                                                                                                 0,4-79                                                                                           5-2392                                                                                                                                                                                                1,4-490                                           целомсъёмку                                                                                                                                         659-1902        934-2515         190-1733\n         В                   загрязнения2016-2017                         среднее\n    –\n                           км2   2,9   5,4   2,3   2,3    13,8   8,0    20,6   5,8    29,6   1,4   3,2            площадисъёмок                                                                 Площадь,\n                                       знаменатель\n\n                          8            размеры                        65                                                 32                                                         74                                                             41                                                                                                 117                                          172                                                313                                                      234                                                                   943 6-56                                                                                                      6-10                                                                                1210                                                                                                                                                   30-60  ирезультатам    г.     Зона      25-186                                                                              58-376                                                                                                                                                                                             61-302                                                                                                                                                                                                2,6-169                                                                                                          215-415                                                                                                                        172-296                                                                                                                                                                           718-1324                                                                                                                                                                             1061-2067     по                                                         загрязнения                          2016                             пределы,\n\n\n            5                              7                            20                                41                                 1-9                                                                 11 2-81,7                                    51   780   325   129                                                     19   491                                                    4-34                                                             3-80    –           Фон                                                                                      23-74                                                                                                                               17-21                                                                                                                                                                                             1,6-22                                                                                                                                                                                 0,9-10                                                                                                                                       581-875        297-349       125-133                     345-750                                                                                   Численность                     гидробионтов                          Байкальска         за\n     г.\n                                  9                                    (числитель                            52                                                     15                                                                                     149  14  32                                88  88   970   512  50 6-34                                                       1-18610,5 1-462                                                                            2-460                                                                                                                                         2-750                                           целом                                                                                                                                                                    2,1-133                                         0,9-60,3       1,6-302                                                         съёмку                                                   22,8-296        534-2067         207-1324                                                                                                                                                                                                                                                                                                                                               1,14-29,74         В\n                                                съемки                           VI          VI          VI                     III                        Характеристики                                                II-III                                II-III                               II-III                               II-III                                                                                                             VIII-IX                                    VIII-IX                                    VIII-IX                     VIII-IX\n                                        Время\n\n                                                                             тыс.                                                                                                                                 мг/м3              ила\n                                                                                                                                      г/м2\n                                                                                              вл.\n                                                                                                                              кл/г                                             Группыгидробионтов                                                         Бактериопланктон,кл/мл                                                         Фитопланктон,кл/л                                                         Зоопланктон,                                                      Бактериобентос,тыс.           Зообентос,",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Охваты и алгоритм не установлены,варианты не слиты."
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 32,
+          "quote": "О состоянии озера Байкал и мерах по его охране в 2017 году                              31\nв прибрежной части озера биогенных веществ антропогенного происхождения.\n    Частота встречаемости спирогиры сохранилась на уровне прошлого года. В период ледовой\nсъёмки в зоопланктонных пробах находили единичные нити в месте выпуска условно чистых\nвод КОС г. Байкальска и на станциях, расположенных 15 км восточнее труб сброса. В июне нит-   1. 1чатку обнаружили в третьей части зоопланктонных проб, ближе к осени количество спирогиры\nвозросло и отмечалось почти в половине проб зоопланктона. Особенно многочисленные\nскопления спирогиры обнаружены в прибрежной зоне, одиночные нити попадались в пробах,\nотобранных как на полигоне, так на западных и восточных разрезах на расстоянии до 11 км от\nберега. Единичные клетки зафиксированы в августе и в пробах фитопланктона.\n    Зоопланктон. Отбор проб зоопланктона проводился тотально с горизонта 0-50 м (кроме\nтрёх мелководных станций). В качестве тест-объектов загрязнения водных масс оз. Байкал\nсточными  водами  выбран  нерезистентный  веслоногий  рачок  Epischurа  baicalensis  Sars,\n1900. В исследуемый период показатели общей численности рачка изменялись в интервале\n0,2-27,9 тыс. экз/м3, биомассы – 1,4-490,3 мг/м3. Минимальные для обследованной акватории пока-\nзатели определены в августе в 3,5 км западнее места выпуска условно чистых вод, в 1,5 км от берега.\nНа станции, расположенной в 3 км восточнее точки сброса, в 4 км от берега, в марте зарегистриро-\nвана максимальная численность, в августе – биомасса. На станции в точке сброса КОС г. Байкаль-\nска во все периоды наблюдались наименьшие количественные показатели эпишуры по отношению\nк средним показателям на полигоне, на восточных, западных разрезах и репере.\n    Сезонная динамика в 2017 году, включающая в себя весенний пик генерации рачка,\nявляется типичной. Средняя численность рачка составила 6,2 тыс. экз/м3, биомасса –\n78,3 мг/м3, что аналогично прошлогодним величинам. Количественные показатели уровня\nразвития популяции эпишуры находились в пределах многолетних.\n    Зообентос. Отбор проб  макрозообентоса проводился на  участке, подверженном\nвоздействию КОС г. Байкальска, с глубин 24-140 м, и на фоновом участке между р. Утулик\nи р. Безымянной с глубин 20-90 м. Пробы отбирались с помощью дночерпателя Петерсена\nс площадью захвата 0,025 м2 на песчаных и илисто-песчаных грунтах с примесью детрита.\nФиксация и камеральная обработка проб, а так же определение отдельных групп зообентонтов\nпроводились по классической методике.\n   На  участке, подверженном влиянию КОС  г.  Байкальска,  в пробах обнаружено\n9 таксономических групп беспозвоночных: хирономиды, олигохеты, амфиподы, моллю-\nски, нематоды, полихеты, планарии, пиявки, водяные клещи. До вида определялась группы\nамфипод и брюхоногих моллюсков. Определено 27 видов амфипод, относящихся к 11 родам,\nс наибольшей частотой встречаемости р.р. Micruropus, Asprogammarus. Моллюски класса\nGastropoda зафиксированы на 12 станциях, преимущественно, единично.\n    Диапазон  колебаний  количественных  показателей  составил  480-28760  экз./м2 и\n0,1-36,02 г/м2. Максимальные значения численности и биомассы наблюдались в 400 м вос-\nточнее точки сброса условно чистых вод, минимальные показатели численности – 400 м за-\nпаднее, в 100 м от берега; биомассы – напротив точки сброса, в 400 м от берега.\n   Доминирующее положение на контролируемом участке, как и в прошлом году, по\nчисленности принадлежало нематодам – 43,9 %, при минимальной биомассе – 0,5 %.\nМалощетинковые черви занимали 40,3 и 60,0 %, гаммариды – 9,6 и 29,5 % численности и\nбиомассы.\n   По сравнению с мартом 2016 года среднее значение численности не изменилось и\nсоставило 9246 экз./м2, биомассы (5,89 г/м2) – снизилось в 1,5 раза.\n   На фоновом участке, расположенном между р. Безымянной и р. Утулик, максимальные\nзначения численности и биомассы отмечены на глубине 2 м – 22520 экз./м2 и 16,92 г/м2\nсоответственно. Минимальная численность – на глубине 85 м (2440 экз./м2), биомасса – на\nглубине 60 м (1,08 г/м2).",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Охваты и алгоритм не установлены,варианты не слиты."
+        },
+        {
+          "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+          "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+          "report_year": 2017,
+          "publication_year": null,
+          "page": 33,
+          "quote": "       32                                                             Государственный доклад\n           Количество определённых групп беспозвоночных – 6. Наибольшей частотой встречаемости\n       среди амфипод, как и на полигоне, обладали представители р.р. Micru-ropus, Asprogammarus.\n       Всего определено 16 видов бокоплавов.\n1. 1      Ядро общей численности составляли нематоды, олигохеты и амфиподы, их относительные      доли – 37,6; 34,7; 16,0 % соответственно. При формировании биомассы моллюски заняли\n        58,3, олигохеты – 18,4, гаммариды – 21,2 %. На фоновом участке, как и в зоне действия КОС,\n       олигохеты утратили свою главенствующую роль (обычно малощетинковые черви занимали\n       50-70 % от общего числа организмов зообентоса).\n        По сравнению с мартом 2016 года средняя численность увеличилась в 1,2 раза до\n       10641 экз./м2, биомасса – в 1,5 раза (7,41 г/м2).\n          Гидробиологические наблюдения в районе Северного Байкала\n          Гидробиологические наблюдения в районе трассы БАМ проводились в июне и сентябре\n       2017 года, включали в себя изучение бактериопланктона, фитопланктона, зоопланктона, ми-\n      крофлоры донных отложений и макрозообентоса (сентябрь). Пробы отбирали на полигоне\n      площадью 110 км2, расположенном вдоль берега озера от р. Томпуда на востоке до мыса\n       Котельниковский на западе и на фоновых станциях северной части продольного реперного\n        разреза. Исследования бактериопланктона проводились также в устьях рек: Томпуда, Тыя,\n      Верхняя Ангара, Кичера и Рель.\n         Обобщённые количественные характеристики гидробиологических показателей  за\n       2017 год приведены в таблице 1.1.1.4.2.\n          Бактериопланктон и микрофлора донных отложений. В поверхностном слое воды\n       определялась численность гетеротрофных, фенолокисляющих и углеводородокисляющих\n       микроорганизмов. Летом отмечен минимум гетеротрофных бактерий (2 кл/мл) на станции,\n      расположенной 0,5 км от берега напротив м. Котельниковский.\n          Максимальные количественные показатели всех групп бактерий зафиксированы в\n       сентябре. Гетеротрофы (1706 кл/мл) обнаружены в 0,5 км от устья р. Тыя, фенолокисляющие\n       (151 кл/мл) – в устье р. Кичера. Углеводородокисляющие составляли 104 кл/мл на четырёх\n       станциях – 1 км от устья р. Слюдянка, 1 км от устья р. Тыя и в устьях рек Рель и Кичера.\n          Средние показатели гетеротрофов, по сравнению с прошлым годом, уменьшились: летом\n       в 1,4 раза, осенью в 5,9 раза. Сезонное снижение средних значений происходило от июля к\n      сентябрю в 1,2 раза до 345,08 кл/мл.\n           Предельные  значения  гетеротрофных  микроорганизмов  в донных  отложениях\n      зафиксированы осенью. Максимальный показатель – 68,2 тыс. кл/г вл. ила обнаружен в\n        0,5 км от устья р. Кичера на глубине 15 м, минимальный – 0,6 тыс. кл/г вл. ила – на стан-\n       ции, расположенной в 1 км от устья р. Кичера (гл. 110 м) и 0,5 км от устья р. Томпуда\n         (гл. 50 м). Максимальная численность фенолокисляющих (4,0 тыс. кл/г вл. ила) выявлена в\n        0,5 км от устья р. Тыя, гл. – 87 м. Концентрация углеводородокисляющих варьировала от 0 до\n       104 кл/г вл. ила, наибольшие показатели отмечались как в июне, так и в сентябре. Средние зна-\n       чения гетеротрофов в летнюю съёмку составляли 20,04 тыс. кл./г вл. ила, что практически не\n       отличается от средних значений прошлого года. Осенью средняя численность гетеротрофов\n       в донных отложениях составила 16,48 тыс. кл/г вл. ила, что в 1,6 раза выше прошлогодней.\n          Фитопланктон.  Диапазон  численности  фитопланктона  находился  в  интервале\n        84,7- 3692,9 тыс. кл/л (в прошлом году 181,1-4655,7), биомассы – 51,3-1333,5 мг/м3 (46,7-1299,1).\n      Максимальные значения зафиксированы в июне: численность – в 0,5 км от устья р. Кичера,\n       биомасса – на реперной станции, расположенной на середине разреза м. Котельниковский –\n         р. Ширанда. Минимальные показатели регистрировались в сентябре вдоль восточного побе-\n       режья: численность – на станции в 0,5 км от устья р. Томпуда, биомасса – возле м. Хакусы, в\n       1 км от берега. Общие средние значения численности, составлявшие в июне 1322,3 тыс. кл/л, к\n       сентябрю снизились в 2,2 раза, средние показатели биомассы (731,4 мг/м3) – в 5,75 раза.",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Охваты и алгоритм не установлены,варианты не слиты."
+        }
+      ],
+      "source_versions": [
+        "Таблица 2017 всясъёмка:0,1–22/6 г/м²; фон пуст",
+        "Проза контроль:0,1–36,02/5,89; фон 7,41",
+        "Таблица 2016 фон 1,7; проза говорит о росте в 1,5 до 7,41"
+      ],
+      "conclusion": "Охваты и алгоритм не установлены, варианты не слиты.",
+      "next_step": "Нужны первичные пробы, агрегация и расшифровка табличных зон.",
       "specialist_required": true
     }
   ],
