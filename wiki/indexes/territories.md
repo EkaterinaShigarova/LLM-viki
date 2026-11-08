@@ -204,6 +204,7 @@
 - [2017: все гидробиологические выводы и их территориальные границы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md) — доклад 2017.
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+- [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 
 ## Кабанский заказник
 
@@ -349,6 +350,7 @@
 ## РайонБАМ
 
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
+- [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 
 ## Река Селенга
 
@@ -386,6 +388,7 @@
 - [2017: все гидробиологические выводы и их территориальные границы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md) — доклад 2017.
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+- [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 
 ## Селенга
 
@@ -467,6 +470,7 @@
 ## Томпуда—Котельниковский
 
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
+- [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 
 ## Турка
 
@@ -496,6 +500,7 @@
 ## Утулик—Безымянная
 
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 
 ## Хамар-Дабан
 
@@ -561,6 +566,7 @@
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 
 ## Южный Байкал — Большие Коты, точка № 1
 

@@ -70,4 +70,8 @@
 
 В 2018 на КОС зимние единичные нити Spirogyraна двух западных станциях, июнь **четверть зоопроб**, позднее **почти половина**, отдельные нити до 6,5 км от берега. Север: большинство осенних западных зоо-/бентосных проб, без точного процента; в Селенге **9 из 12 донных проб**. Это три программы, не общий процент акватории. **Spirulina minima var.baicalia**, до 42,1% северного фитопланктонного числа, — другой организм, не Spirogyra. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p38](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-38) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46)
 
+## Тип пробы2019 и осторожность терминологии
+
+На КОС 2019Spirogyra зимой найдена в **половине донных проб**, летом сетьюДжеди в **трети июньских/половине августовских зоопроб**. На севере она описана в большинстве прибрежных зоопроб без точного процента. Источник использует слово«харовая»,2018«нитчатая зелёная»; эта формулировка не основание объединять другие таксоны или оценивать площадь зарастания. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p38](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-38) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42)
+
 <!-- HUMAN NOTES -->

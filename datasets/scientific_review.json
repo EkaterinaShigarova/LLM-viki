@@ -39,7 +39,8 @@
         "night-north2017-20261108-03",
         "night-followup_selenga2019-20261108-03",
         "night-followup_selenga2020-20261108-04",
-        "night-hydro2018_complete-20261109-03"
+        "night-hydro2018_complete-20261109-03",
+        "night-hydro2019_kos_north-20261109-02"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -55,7 +56,7 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "96d3669e6a2ce9cad09e2b759c122a65e92f2b47ed1c4fead7ad8cd7a7e65953",
+      "body_sha256": "12f7f45c11d5572fa203864e8cd7544fea8f50bcce14e4c5233c2cbeeb0a2cc7",
       "open_questions": [
         "Согласовать сезоны, глубины, состав станций и методы; численность и биомасса не взаимозаменяемы.",
         "КОС 2017:116/162 и июль/июнь",
@@ -71,7 +72,8 @@
         "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик",
         "Север 2017: июнь/июль,1322,3/1369 и исходное 0080",
         "Селенга 2020: экз/м²в заголовке против масштаба тысячи впрозе",
-        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума"
+        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума",
+        "Север2019: версии2018, средние2019 и единица массы"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -275,6 +277,31 @@
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "page": 41
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 37
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 40
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 41
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 42
         }
       ],
       "review_history": [
@@ -641,6 +668,50 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "96d3669e6a2ce9cad09e2b759c122a65e92f2b47ed1c4fead7ad8cd7a7e65953",
+          "source_revisions": {
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+          },
+          "claim_ids": [
+            "phytoplankton-01",
+            "phytoplankton-02",
+            "phytoplankton-03",
+            "phytoplankton-04",
+            "phytoplankton-05",
+            "hydrology3-20261104-08",
+            "hydrology3-20261104-09",
+            "hydrology3-20261104-17",
+            "hydrology3-20261104-18",
+            "night-kos2017-20261108-01",
+            "night-kos2017-20261108-02",
+            "night-kos2017-20261108-03",
+            "night-smallsea2022-20261108-01",
+            "night-smallsea2022-20261108-02",
+            "night-review2025-20261108-01",
+            "night-review2025-20261108-02",
+            "night-north2022-20261108-04",
+            "night-north2022-20261108-05",
+            "night-selenga2022-20261108-10",
+            "night-kos2022-20261108-01",
+            "night-kos2022-20261108-02",
+            "night-north2017-20261108-03",
+            "night-followup_selenga2019-20261108-03",
+            "night-followup_selenga2020-20261108-04",
+            "night-hydro2018_complete-20261109-03"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -960,7 +1031,8 @@
         "night-selenga2022-20261108-12",
         "night-kos2022-20261108-05",
         "night-north2017-20261108-06",
-        "night-hydro2018_complete-20261109-07"
+        "night-hydro2018_complete-20261109-07",
+        "night-hydro2019_kos_north-20261109-05"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -970,10 +1042,11 @@
         "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "379d8a96d0fe92cc9abca18d3df503a73579097ded64dbd31c9d6d8d193cd723",
+      "body_sha256": "5e56d8cec3adf8488c7486f22c1c4e0a59084f09432324d82009461cd03fa866",
       "open_questions": [
         "Уточнить систематические группы и стандартизацию сетных, грунтовых и обрастательных проб; обнаружение нитей не измеряет площадь зарастания.",
         "КОС 2017:116/162 и июль/июнь",
@@ -988,7 +1061,8 @@
         "КОС 2022: разные средние/охват таблицы и прозы",
         "Общие выводы 2022 шире отдельных программ иразнонаправленных метрик",
         "Север 2017: июнь/июль,1322,3/1369 и исходное 0080",
-        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума"
+        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума",
+        "Север2019: версии2018, средние2019 и единица массы"
       ],
       "finding_ids": [
         "F02"
@@ -1084,6 +1158,16 @@
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "page": 46
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 42
         }
       ],
       "review_history": [
@@ -1289,6 +1373,38 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "379d8a96d0fe92cc9abca18d3df503a73579097ded64dbd31c9d6d8d193cd723",
+          "source_revisions": {
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+          },
+          "claim_ids": [
+            "spirogyra-observations-01",
+            "spirogyra-observations-02",
+            "spirogyra-observations-03",
+            "spirogyra-observations-04",
+            "spirogyra-observations-05",
+            "spirogyra-observations-06",
+            "night-kos2017-20261108-07",
+            "night-kos2017-20261108-08",
+            "night-smallsea2022-20261108-06",
+            "night-review2025-20261108-05",
+            "night-review2025-20261108-06",
+            "night-north2022-20261108-08",
+            "night-selenga2022-20261108-12",
+            "night-kos2022-20261108-05",
+            "night-north2017-20261108-06",
+            "night-hydro2018_complete-20261109-07"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -1844,7 +1960,8 @@
         "night-followup_selenga2017-20261108-05",
         "night-followup_selenga2018-20261108-04",
         "night-hydro2018_complete-20261109-04",
-        "night-hydro2018_complete-20261109-05"
+        "night-hydro2018_complete-20261109-05",
+        "night-hydro2019_kos_north-20261109-03"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1854,10 +1971,11 @@
         "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
-        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "7a137e3f19c13976c60dc7c8524ddfaf1044f962bd7af74e00da932f65b8d628",
+      "body_sha256": "9b52679c8a7443627cf681b032e63ba2e927d34028ec20890c4fc16d53b59476",
       "open_questions": [
         "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии.",
         "КОС 2017:116/162 и июль/июнь",
@@ -1874,7 +1992,8 @@
         "Север 2017: июнь/июль,1322,3/1369 и исходное 0080",
         "Селенгинское мелководье 2017:18027 втаблице против 10827 впрозе/выводах",
         "Селенга 2018: масштабы донных гетеротрофов и буквальные 103/105",
-        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума"
+        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума",
+        "Север2019: версии2018, средние2019 и единица массы"
       ],
       "finding_ids": [
         "F07"
@@ -2019,6 +2138,21 @@
         {
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+          "page": 42
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 40
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
           "page": 42
         }
       ],
@@ -2317,6 +2451,46 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "7a137e3f19c13976c60dc7c8524ddfaf1044f962bd7af74e00da932f65b8d628",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05",
+            "night-kos2017-20261108-04",
+            "night-kos2017-20261108-05",
+            "night-kos2017-20261108-06",
+            "night-smallsea2022-20261108-03",
+            "night-smallsea2022-20261108-04",
+            "night-smallsea2022-20261108-05",
+            "night-review2025-20261108-03",
+            "night-review2025-20261108-04",
+            "night-north2022-20261108-06",
+            "night-north2022-20261108-07",
+            "night-selenga2022-20261108-11",
+            "night-kos2022-20261108-03",
+            "night-kos2022-20261108-04",
+            "night-north2017-20261108-04",
+            "night-north2017-20261108-05",
+            "night-followup_selenga2017-20261108-05",
+            "night-followup_selenga2018-20261108-04",
+            "night-hydro2018_complete-20261109-04",
+            "night-hydro2018_complete-20261109-05"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -3151,7 +3325,8 @@
         "night-north2022-20261108-03",
         "night-north2017-20261108-01",
         "night-north2017-20261108-02",
-        "night-hydro2018_complete-20261109-06"
+        "night-hydro2018_complete-20261109-06",
+        "night-hydro2019_kos_north-20261109-04"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -3161,16 +3336,18 @@
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
-        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "073d32916448d8c7713f9f197f2f62e95c2b9b72a3185298ff4dc087bcbaf1a5",
+      "body_sha256": "6e0b5cbd50023e5deb06d9a33c102b5d01e8a09401b669e169cd59e31562f5c7",
       "open_questions": [
         "Уточнить смысл фоновой статистики и одинаковых 0,124 мг/л для нитратов/хлоридов.",
         "Север 2022: общий диапазон гетеротрофов 93–304 не охватывает среднее 825",
         "Север 2022: числовые разряды таблицы и прозы",
         "Север 2017: июнь/июль,1322,3/1369 и исходное 0080",
-        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума"
+        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума",
+        "Север2019: версии2018, средние2019 и единица массы"
       ],
       "finding_ids": [],
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -3244,6 +3421,16 @@
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "page": 42
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 39
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 40
         }
       ],
       "review_history": [
@@ -3308,6 +3495,32 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "073d32916448d8c7713f9f197f2f62e95c2b9b72a3185298ff4dc087bcbaf1a5",
+          "source_revisions": {
+            "drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0": "60ccb6065b32d959457faf9745023d763c9f6641ad7c9c8cdee7a88fea454139",
+            "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+          },
+          "claim_ids": [
+            "north-baikal-water-01",
+            "north-baikal-water-02",
+            "north-baikal-water-03",
+            "north-baikal-water-04",
+            "night-north2022-20261108-01",
+            "night-north2022-20261108-02",
+            "night-north2022-20261108-03",
+            "night-north2017-20261108-01",
+            "night-north2017-20261108-02",
+            "night-hydro2018_complete-20261109-06"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ]
     },
@@ -4090,6 +4303,35 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "e759c16d864d1be9b9990fc4c9a26814faefd852b331ef7b40a1fc4d87be0e8d",
+          "source_revisions": {
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+          },
+          "claim_ids": [
+            "night-review2025-20261108-08",
+            "night-review2025-20261108-09",
+            "night-review2025-20261108-10",
+            "night-review2025-20261108-11",
+            "night-review2025-20261108-12",
+            "night-review2025-20261108-13",
+            "night-north2022-20261108-09",
+            "night-kos2022-20261108-06",
+            "night-kos2022-20261108-07",
+            "night-north2017-20261108-07",
+            "night-followup_selenga2017-20261108-06",
+            "night-followup_selenga2023-20261108-04",
+            "night-hydro2018_complete-20261109-01",
+            "night-hydro2018_complete-20261109-02"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ],
       "status": "ai_source_checked",
@@ -4097,13 +4339,14 @@
       "reviewed_at": "2026-11-09",
       "human_confirmation": null,
       "scientific_review_required": true,
-      "body_sha256": "e759c16d864d1be9b9990fc4c9a26814faefd852b331ef7b40a1fc4d87be0e8d",
+      "body_sha256": "bad48c5472082828ca8ddbc3bdf5ffd09fbea3e1655f7fa8d603697caa9b0bec",
       "source_revisions": {
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
         "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
-        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a"
+        "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "claim_ids": [
         "night-review2025-20261108-08",
@@ -4119,7 +4362,8 @@
         "night-followup_selenga2017-20261108-06",
         "night-followup_selenga2023-20261108-04",
         "night-hydro2018_complete-20261109-01",
-        "night-hydro2018_complete-20261109-02"
+        "night-hydro2018_complete-20261109-02",
+        "night-hydro2019_kos_north-20261109-01"
       ],
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -4278,6 +4522,26 @@
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "page": 45
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 35
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 38
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 39
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 42
         }
       ],
       "open_questions": [
@@ -4290,7 +4554,8 @@
         "Север 2017: июнь/июль,1322,3/1369 и исходное 0080",
         "Селенгинское мелководье 2017:18027 втаблице против 10827 впрозе/выводах",
         "Селенга 2023: новая ретроспективная единица 2022 и неоднозначные степени микробов",
-        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума"
+        "Гидробиология2018: летние даты, бактериальные средние и сезон максимума",
+        "Север2019: версии2018, средние2019 и единица массы"
       ]
     },
     "syntheses/selenga-shallows-communities.md": {
@@ -7868,6 +8133,61 @@
       ],
       "conclusion": "Все сообщения сохранены; неизвестны точные даты, включение устьев и веса средних. Повтор в выводах не является независимым разрешением.",
       "next_step": "Получить первичные журналы/протоколыГХИ иУГМС, список станций, календарь и правила расчёта средних.",
+      "specialist_required": true
+    },
+    {
+      "id": "hydro2019-north-versions",
+      "title": "Север2019: версии2018, средние2019 и единица массы",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "night-hydro2019_kos_north-20261109-03",
+        "night-hydro2019_kos_north-20261109-04"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "publication_year": null,
+          "page": 39,
+          "quote": "                                                                          37\n\nвод, 300 м от берега на глубине 110 м, так же низкая биомасса наблюдалась в 600 м\nзападнее точки сброса условно чистых вод, 200 м от берега на глубине 90 м.\n    Доминирующее положение на контролируемом участке принадлежало олигохетам –\n70,4 % численности и 65,3 % биомассы и нематодам  – 21,8 % численности. Биомассу\nдополняли амфиподы – 27,4 %.\n    По сравнению  с количественными показателями  в марте 2018  года, средняя\nчисленность (10831 экз./м2) увеличилась в 1,7 раза, биомасса увеличилась – в 4,4 раза и\nсоставила 9,63 г/м2.\n    На фоновом участке диапазон колебаний количественных показателей составил\n760-6 520 экз./м2 и 0,10-9,72 г/м2 соответственно. Максимальные значения численности\nбыли отмечены на глубине 60 м биомассы – на глубине 40 м. Минимальные показатели\nзафиксированы на глубине 75 м.\n     Определено шесть групп беспозвоночных. Наибольшей частотой встречаемости\nсреди  амфипод,  как  и  на  полигоне,  обладали  представители  родов Micruropus\nи Asprogammarus. Всего встречено 14 видов бокоплавов.\n    Основу общей численности определяли олигохеты, нематоды и амфиподы, их\nотносительные  доли  составляли  41,4 %,  37,6 %  и   9,2 %  соответственно.  При\nформировании  биомассы  олигохетам  принадлежало  43,3 %,  гаммаридам  –  35,8 %\nмоллюскам – 19,8 %.\n    По сравнению  с количественными показателями  в марте 2018  года, средняя\nчисленность  (4160 экз./м2) снизилась в 1,5 раза; биомасса (4,28 г/м2) увеличилась в 2,8\nраза.\n    Гидробиологические наблюдения в районе Северного Байкала\n     Гидробиологические наблюдения озера Байкал в районе трассы БАМ проводились в\nиюне и сентябре 2019 года, включали в себя изучение бактериопланктона, фитопланктона,\nзоопланктона, микрофлоры донных отложений и макрозообентоса (сентябрь). Пробы\nотбирали на полигоне площадью 110 км2, расположенном вдоль берега озера Байкал от\nр. Томпуда на востоке до мыса Котельниковский на западе и на фоновых станциях\nсеверной  части  продольного  реперного  разреза.  Исследования  бактериопланктона\nпроводились также в  устьях рек Томпуда, Тыя, Верхняя Ангара, Кичера и  Рель.\nОбобщённые количественные характеристики гидробиологических показателей за 2018-\n2019 годы приведены в таблице 1.1.1.4.2.\n    Бактериопланктон. В поверхностном слое воды общий диапазон значений групп\nбактериопланктона составил: гетеротрофы – 7-1 192 кл/мл, фенолокисляющие бактерии –\n0-113 кл/мл, углеводородокисляющие – 0-102 кл/мл.\n    Летом определены предельные значения гетеротрофных бактерий, минимальное –\nна  реперной  станции, расположенной  на  середине  разреза  р. Тыя  –  р.  Фролиха,\nмаксимальное – в 1,0 км от устья р. Кичера. Наибольшее количество фенолокисляющих\nопределено в июне на станции, расположенной в  устье  р. Кичера. Максимальное\nколичество углеводородокисляющих бактерий было выявлено как в июне –  в 1,0 км от\nустья р. Слюдянка, так и в сентябре – в районе рек Рель и Тыя. Частота встречаемости\nфенол- и углеводородокисляющих снижалась от 46 и 50 % в июне до 15 и 27 %\nсоответственно в сентябре.\n     Средние показатели гетеротрофов, по сравнению с данными 2018 года, увеличились:\nлетом – в 1,6 раза, осенью – в 1,3 раза. В течение сезона наблюдалось незначительное\nснижение средних значений гетеротрофов от июня к сентябрю (от 254 до 234 кл/мл).\n    Микрофлора донных отложений. В донных отложениях общий диапазон значений\nгрупп микрофлоры составил: гетеротрофы – 2,0-44,1 тыс. кл/г вл. ила, фенолокисляющие\nбактерии – 0-1,9 тыс. кл/г вл. ила, углеводородокисляющие – 0-100 тыс. кл/ г вл. ила.",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены версии, единицы и агрегации; последующая перепечатка не объявлена официальной поправкой."
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "publication_year": null,
+          "page": 40,
+          "quote": "  38\n\n                                                             Таблица 1.1.1.4.2.\n      Количественные характеристики гидробионтов в районе северного Байкала по\n результатам съёмок 2018 и 2019 гг. (числитель - пределы, знаменатель - среднее значение)\nГруппы             Время     В целом за    Западный    Восточный   Центральная\nгидробионтов        съёмки       съёмку         берег          берег       часть озера\nБактериопланктон,      июнь          7-1192         11-1192         39-1015          7-190\nчисленность            2019 г.          399            480            406            64\nгетеротрофов кл/мл     сентябрь         21-922          82-860          21-922           33-95\n                       2019 г.          234            250            302            67\n                      июль           6-693          13-429          7-180           6-693\n                       2018 г.          213            258            88            193\n                        сентябрь         14-627          33-144          14-627          14-251\n                       2018 г.          123            78            313            85\nФитопланктон,         июнь        811,0-7368,6     811,8-7368,6    1258,9-2845,0    811,0-1884,0\nчисленность,            2019 г.          2381,1          2892,5          1839,7          1260,6\nтыс.кл/л,               сентябрь      362,4-1071,3     440,5-1071,3     362,4-625,3      443,4-781,0\n                       2019 г.           628,7           684,2            524,4            552,8\n                      июль         332-7490       2345-7490       2097-5158       332-5058\n                       2018 г.          3752           4190           2815           2815\n                        сентябрь        160-3094       883-3094        160-2108       1407-2918\n                       2018 г.          1830           2018           1027           2021\nБиомасса, мг/м3         июнь        153,8-3086,1     202,2-3086,1     198,1-495,5     153,8-1341,3\n                       2019 г.           705,6           853,6            377,7            552,3\n                        сентябрь        33,9-143,2       33,9-143,2       53,7-107,9       44,5-128,1\n                       2019 г.            86,7             91,9             83,3             73,3\n                      июль          48-1426        263-1426        223-916         48-1237\n                       2018 г.          503            544            439            436\n                        сентябрь         28-370          94-307          28-370          84-360\n                       2018 г.          199            211            162            195\nЗоопланктон           июнь           2,4-54,5          4,2-54,5          9,0-34,6          2,4-19,4\nЧисленность,           2019 г.            23,5             27,4             20,8             13,8\nтыс.экз./м3              сентябрь        12,8-34,8        15,7-28,8         12,8-28,7         17,3-34,8\n                       2019 г.            22,8             22,8             20,4             25,1\n                      июль            7-66           13-66            7-41            10-42\n                       2018 г.           31             33             24             29\n                        сентябрь          2,4-40           10-40            2,4-11           9,1-26\n                       2018 г.           20             25               6,3             19\nБиомасса, мг/м3         июнь         13,6-1373,0      74,3-1373,0      118,3-343,2       13,6-284,7\n                       2019 г.           391,9           497,9            240,0            199,5\n                        сентябрь       126,2-641,8      126,2-374,8      155,6-471,9      291,0-641,8\n                       2019 г.           296,8           235,4            333,8            459,5\n                      июль         221-1447       278-1447        221-1102        342-1018\n                       2018 г.          669            708            588            622\n                        сентябрь        13-1235        117-1235         13-197         141-1087\n                       2018 г.          522            613            84            664\nБактериобентос,        июнь           2,0-44,1          2,0-44,1          4,0-22,2\nтыс.кл/г вл. ила         2019 г.            11,1             11,4             10,0\n                        сентябрь         2,2-39,5          3,3-39,5          2,2-27,4\n                       2019 г.            17,3             19,8              9,1\n                      июль            0,6-21           1,3-21           0,6-12\n                       2018 г.           8              9              4\n                        сентябрь          5-57            5-57            7-21\n                       2018 г.           23             26             14\nЗообентос,              сентябрь       476-59416      476-15974      3304-59416\nчисленность,            2019 г.         11915          6088          30853\nэкз./м2                  сентябрь      1280-59060     1280-59060     1280-25840\n                       2018 г.         11535          11842          10540\nБиомасса, г/м2          сентябрь         0,4-97,6          0,4-36,5          1,3-97,6\n                       2019 г.            17,7             10,0             42,6\n                        сентябрь          0,2-66           2,0-66           0,2-27\n                       2018 г.           16             17             11",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены версии, единицы и агрегации; последующая перепечатка не объявлена официальной поправкой."
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "publication_year": null,
+          "page": 42,
+          "quote": "  40\n\nRhodomonas  pusilla (до  45,8 %). Monoraphidium pseudomirabile  (Korschik.) Hindȧk  et\nZagorenko чаще выступала в роли субдоминанта (до 10,5 %).\n     Харовая водоросль рода Spirogyra  Link. встречалась в зоопланктонных пробах,\nотобранных на большинстве прибрежных станций. В июне нитчатка обнаружена вдоль\nзападного побережья на всех станциях от м. Толстый до порта Северобайкальск, по самой\nсеверной оконечности озера – на станциях, расположенных в 0,5 км от устьев рек Кичера\nи В. Ангара, вдоль восточного побережья – в 0,5 км от устья р. Томпуда и в 1 км от берега\nнапротив м. Хакусы. В сентябре водоросль вновь была обнаружена на большинстве\nстанций вдоль западного побережья и северной оконечности. Наибольшие скопления\nспирогиры в оба срока фиксировались с западной стороны: летом – в 0,5 км от устьев\nрек Слюдянка и Тыя, осенью – на станциях от устья р. Талая до устья р. Рель и, повторно,\nв 0,5 км от устья реки Тыя.\n     Зоопланктон. Показатели численности зоопланктонного сообщества изменялись в\nинтервале 2,4-54,5 тыс. экз./м3, биомассы – 13,6-1373,0 мг/м3. Минимальные значения\nколичественных   показателей   зарегистрированы   летом   на   реперной   станции,\nрасположенной на середине разреза  р. Тыя –  р. Фролиха. Максимальные показатели\nчисленности и биомассы отмечены  в июне  в  0,5 км  от  берега напротив  порта\nСеверобайкальск.\n    В зоопланктонном сообществе летом на большинстве станций доминировала по\nчисленности группа Calanoida (93,6 %). Среди каланид превалировал веслоногий рачок\nEpischura baicalensis (Sars, 1900), достигая 99,8 % от общей численности зоопланктона на\nреперных станциях. На прибрежной станции 0,5 км от устья р. Кичера содоминировали\nтаксономические группы коловраток (Asplanchna priodonta (Gosse, 1850) – 38,3 %) и\nциклопов  (науплиальные  и  копеподитные  возрастные  стадии  –  36,0 %).  Осенью\nконкуренцию  составляли  таксономические  группы  каланид  (45,2 %) и  коловраток\n(36,0 %). Среди веслоногих преобладал рачок E. baicalensis, среди коловраток – Keratella\nquadratа (Müller, 1786), Filinia terminalis  (Plate, 1886), Kellicottia longispina (Kellicott,\n1879).\n    Общие средние значения численности и биомассы зоопланктона для обследованной\nакватории летом достигали 23,531 тыс. экз./м3 и 391,93 мг/м3, что в 1,3 и 1,7 раза ниже\nсоответствующих значений 2018 года. К осени средние количественные показатели\nнемного снизились (численность – незначительно, биомасса – в 1,3 раза) и составили\n22,775 тыс. экз./м3 и 296,83 мг/м3 соответственно. По сравнению с соответствующими\nрезультатами сентября 2018 года общая средняя численность незначительно увеличилась,\nбиомасса – уменьшилась в 1,8 раза.\n     Зообентос. Отбор проб зообентоса в северной части  оз. Байкал проводили на\nилистых и илисто-песчаных грунтах с примесью детрита с глубин 19-200 м. В работе\nиспользовали дночерпатель Петерсена с площадью захвата 0,025 м2.\n    Наибольшие значения численности и биомассы зообентоса зафиксированы в 0,5 км\nот устья р. Томпуда – 59416 экз./м2 и 97,62 г/м2 и в 1,0 км от берега напротив м. Хакусы -\n53746 экз./м2  и 63,00 г/м2 соответственно. Здесь же отмечена наибольшая плотность\nпоселения олигохет. Минимальные количественные показатели 476 экз./м2 и 0,36 г/м2\nвыявлены в 1,0 км от берега напротив м. Курлы. Кроме того, низкие значения – 854 экз./м2\nи 0,86 г/м2 зарегистрированы в 0,5 км от устья р. Талая.\n     Средние численность (18197 экз./м2) и биомасса (28,11 экз./м2) зообентоса в зоне\nлитораль –  сублитораль  (19-60 м)  в  2,1 и  2,4  раза  соответственно выше, чем  в\nглубоководной зоне (105-200 м). По сравнению с данными за сентябрь прошлого года\nколичественные показатели изменились незначительно. В зоне мелководья численность\nосталась на уровне прошлого года, биомасса возросла в 1,4 раза. В глубоководной зоне\nпроизошло повышение численности в 1,2 раза, биомасса практически не изменилась.\n    В целом, средние значения численности (30854 экз./м2) и биомассы (42,60 г/м2) в\nвосточной прибрежной части озера выше, чем в западной в 5,1 и 4,2 раза соответственно.",
+          "quote_basis": "exact_cached_page_context_checked_with_original",
+          "original_page_visually_checked": true,
+          "source_authenticity": "mirror_unverified",
+          "statement": "Сохранены версии, единицы и агрегации; последующая перепечатка не объявлена официальной поправкой."
+        }
+      ],
+      "source_versions": [
+        "2018лето:6–693/213в ретроспективе2019 против6–1496/567в таблице2018/254в её прозе.",
+        "2019июнь:399таблица/254текст; сентябрь234в обоих.",
+        "Масса28,11«экз./м²»в тексте; восток30854в тексте/30853в таблице."
+      ],
+      "conclusion": "Сохранены версии, единицы и агрегации; последующая перепечатка не объявлена официальной поправкой.",
+      "next_step": "Первичные станционные ряды, протокол расчёта/взвешивания, официальное редакционное разъяснение.",
       "specialist_required": true
     }
   ],

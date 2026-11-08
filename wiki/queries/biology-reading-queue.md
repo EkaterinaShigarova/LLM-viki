@@ -141,3 +141,8 @@ PDF220–222 от подзаголовка искусственного восп
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — PDF35,36,37,38,39
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — PDF39,40,41,42
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — PDF45,46
+
+## Выполнено 9 ноября: hydro2019_kos_north
+
+- [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — PDF35,36,37,38,39
+- [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — PDF39,40,41,42,43

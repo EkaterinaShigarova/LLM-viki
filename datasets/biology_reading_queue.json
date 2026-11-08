@@ -705,9 +705,18 @@
       ],
       "located_evidence_page": 35,
       "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Весь подраздел до северного заголовкаPDF39, повёрнутая таблица и все продолжения.",
+      "verified_pdf_pages": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md"
     },
     {
       "id": "next-north-hydrobiology-2019",
@@ -721,9 +730,18 @@
       ],
       "located_evidence_page": 39,
       "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Весь северный текст доСеленгиPDF43; таблица40целиком, продолжения всех групп.",
+      "verified_pdf_pages": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md"
     },
     {
       "id": "next-kos-hydrobiology-2020",

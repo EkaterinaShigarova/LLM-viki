@@ -88,4 +88,8 @@
 
 В северной прозе 2018 зоопланктонный максимум числа помещён осенью, но общий предел **65,9 тыс.экз/м³** близок летнему табличному 66, а осенний верхний предел 40. Не присвоен 65,9 конкретной осенней станции без первичных проб. Табличные **480–0080/3250 экз/м²** за 2017 также сохранены без восстановления цифры. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p40](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-40) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41)
 
+## Эпишура и бентос2019: виды и размерности
+
+Эпишура КОС 2019: средние **14,520 тыс.экз/м³/189,75 мг/м³**, Север — весь зоопланктон **23,531/391,93** летом и **22,775/296,83** осенью. Доля эпишуры до 99,8% относится северным реперам, не всей акватории. Для северного бентоса проза даёт массу **28,11«экз./м²»**, тогда как табличная масса вг/м²; восточное число **30854 в прозе/30853 в таблице** сохранено. Стратификация не позволяет подменять эти значения общим средним 11915/17,7. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p38](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-38) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p40](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-40) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42)
+
 <!-- HUMAN NOTES -->
