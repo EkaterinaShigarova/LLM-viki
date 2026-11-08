@@ -2150,6 +2150,18 @@
                   "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
                   "report_year": 2019,
                   "page": 150
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 135
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 137
                 }
               ],
               "gap": "Другиегоды,первичныереестры/геометрия,приживаемость,неоднозначноститаблиц."
@@ -2339,6 +2351,42 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 54
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 134
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 135
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 136
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 137
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 138
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 139
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."

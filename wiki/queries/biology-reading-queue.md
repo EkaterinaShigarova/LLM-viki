@@ -115,3 +115,7 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_forests2019
 
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — PDF141,142,143,144,145,146,147,148,149,150
+
+## Завершённое чтение: followup_lands2015
+
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — PDF134,135,136,137,138,139

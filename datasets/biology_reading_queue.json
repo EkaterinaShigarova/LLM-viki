@@ -591,6 +591,32 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md",
       "limitations": "Весь раздел до следующего заголовкаPDF151; просмотрены все продолжения таблиц, диаграммы и повёрнутая таблицаPDF144."
+    },
+    {
+      "id": "followup-land-categories-agricultural-2015",
+      "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+      "source_sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+      "report_year": 2015,
+      "title": "2015: земли — категории, угодья, собственность и ограничения границ",
+      "candidate_pdf_pages": [
+        134,
+        139
+      ],
+      "located_evidence_page": 134,
+      "exact_locator_quote": "      134                                                            Государственный доклад\n        ",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md",
+      "limitations": "Полный разделPDF134–139; следующая глава сPDF140 не включена. Все муниципальные строки и оригинальные изображения проверены."
     }
   ],
   "updated_at": "2026-11-08",

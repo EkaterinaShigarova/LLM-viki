@@ -577,6 +577,8 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p144](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-144) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p149](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-149) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p150](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-150) · доклад 2019.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p135](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-135) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p137](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-137) · доклад 2015.
 
 <a id="reserves"></a>
 ### Управление ООПТ
@@ -641,6 +643,12 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p52](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-52) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p53](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-53) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p134](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-134) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p135](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-135) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p136](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-136) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p137](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-137) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p138](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-138) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p139](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-139) · доклад 2015.
 
 
 <a id="climate"></a>

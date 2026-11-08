@@ -10,6 +10,7 @@
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
 - [2015: уровень, водный баланс и весенние ледовые явления](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hydrology.md) — доклад 2015.
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 
 ## 2016
 

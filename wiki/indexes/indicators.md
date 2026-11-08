@@ -238,6 +238,10 @@
 
 - [2016: разные схемы контроля у глубоководного выпуска КОС Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/wastewater-control.md) — доклад 2016.
 
+## Категории земель
+
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+
 ## Категории качества
 
 - [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
@@ -385,6 +389,10 @@
 ## Митохондриальные геномы
 
 - [2022: кислородная гипотеза аквариумной адаптации голомянок и геномный контекст](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md) — доклад 2022.
+
+## Муниципальные границы
+
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 
 ## Навеска
 
@@ -665,6 +673,10 @@
 
 - [2015: температура воздуха и начало сезонов иркутской части БПТ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/air-temperature.md) — доклад 2015.
 
+## Сельскохозяйственные угодья
+
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+
 ## Сеть гидрохимических наблюдений
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
@@ -675,6 +687,10 @@
 - [2019: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/baikal-omul.md) — доклад 2019.
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2024: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md) — доклад 2024.
+
+## Собственность
+
+- [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 
 ## Сопоставимость
 
