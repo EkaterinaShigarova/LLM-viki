@@ -2290,7 +2290,8 @@
         "night-hydro2018_complete-20261109-05",
         "night-hydro2019_kos_north-20261109-03",
         "night-hydro2020_kos_north-20261109-02",
-        "night-hydro2023_kos_north-20261109-03"
+        "night-hydro2023_kos_north-20261109-03",
+        "night-malo_conclusions2020-20261109-01"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -2304,7 +2305,7 @@
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "fd0c183cc83d2ac2abdeb512c5aa9bf3102568b9ea7b4b1a423ea176047b07c5",
+      "body_sha256": "39a7873d8026ac2b3cfc7bc6f3bc78c89b8eac1c6eb382af4d1e8226513f46bf",
       "open_questions": [
         "Разделить сезонную/пространственную и антропогенную изменчивость при совместном анализе биологии и химии.",
         "КОС 2017:116/162 и июль/июнь",
@@ -2505,6 +2506,16 @@
           "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
           "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
           "page": 53
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 45
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 47
         }
       ],
       "review_history": [
@@ -2924,6 +2935,50 @@
             "night-hydro2018_complete-20261109-05",
             "night-hydro2019_kos_north-20261109-03",
             "night-hydro2020_kos_north-20261109-02"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "fd0c183cc83d2ac2abdeb512c5aa9bf3102568b9ea7b4b1a423ea176047b07c5",
+          "source_revisions": {
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
+          },
+          "claim_ids": [
+            "epishura-benthos-01",
+            "epishura-benthos-02",
+            "epishura-benthos-03",
+            "epishura-benthos-04",
+            "epishura-benthos-05",
+            "night-kos2017-20261108-04",
+            "night-kos2017-20261108-05",
+            "night-kos2017-20261108-06",
+            "night-smallsea2022-20261108-03",
+            "night-smallsea2022-20261108-04",
+            "night-smallsea2022-20261108-05",
+            "night-review2025-20261108-03",
+            "night-review2025-20261108-04",
+            "night-north2022-20261108-06",
+            "night-north2022-20261108-07",
+            "night-selenga2022-20261108-11",
+            "night-kos2022-20261108-03",
+            "night-kos2022-20261108-04",
+            "night-north2017-20261108-04",
+            "night-north2017-20261108-05",
+            "night-followup_selenga2017-20261108-05",
+            "night-followup_selenga2018-20261108-04",
+            "night-hydro2018_complete-20261109-04",
+            "night-hydro2018_complete-20261109-05",
+            "night-hydro2019_kos_north-20261109-03",
+            "night-hydro2020_kos_north-20261109-02",
+            "night-hydro2023_kos_north-20261109-03"
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
@@ -5071,6 +5126,42 @@
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-09",
+          "body_sha256": "e560c977d14b98b474845e089335d2442c560dd9dca45094c054ee68aae5a3d2",
+          "source_revisions": {
+            "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+            "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+          },
+          "claim_ids": [
+            "night-review2025-20261108-08",
+            "night-review2025-20261108-09",
+            "night-review2025-20261108-10",
+            "night-review2025-20261108-11",
+            "night-review2025-20261108-12",
+            "night-review2025-20261108-13",
+            "night-north2022-20261108-09",
+            "night-kos2022-20261108-06",
+            "night-kos2022-20261108-07",
+            "night-north2017-20261108-07",
+            "night-followup_selenga2017-20261108-06",
+            "night-followup_selenga2023-20261108-04",
+            "night-hydro2018_complete-20261109-01",
+            "night-hydro2018_complete-20261109-02",
+            "night-hydro2019_kos_north-20261109-01",
+            "night-hydro2020_kos_north-20261109-01",
+            "night-hydro2023_kos_north-20261109-01",
+            "night-hydro_methods_comparison-20261109-01",
+            "night-malo_conclusions2019-20261109-02"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия."
         }
       ],
       "status": "ai_source_checked",
@@ -5078,7 +5169,7 @@
       "reviewed_at": "2026-11-09",
       "human_confirmation": null,
       "scientific_review_required": true,
-      "body_sha256": "e560c977d14b98b474845e089335d2442c560dd9dca45094c054ee68aae5a3d2",
+      "body_sha256": "dd22c862123759be5980a7adc2650a65c285d30ec763896639d50bd59b24a99a",
       "source_revisions": {
         "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
@@ -5107,7 +5198,8 @@
         "night-hydro2020_kos_north-20261109-01",
         "night-hydro2023_kos_north-20261109-01",
         "night-hydro_methods_comparison-20261109-01",
-        "night-malo_conclusions2019-20261109-02"
+        "night-malo_conclusions2019-20261109-02",
+        "night-malo_conclusions2020-20261109-02"
       ],
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
       "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
@@ -5350,6 +5442,21 @@
         {
           "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
           "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 47
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 45
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "page": 46
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
           "page": 47
         }
       ],

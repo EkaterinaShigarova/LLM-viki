@@ -111,4 +111,8 @@
 
 Общие выводы 2019 года прочитаны целиком: четыре района имеют разные программы, а индикаторная площадь загрязнения КОС не является площадью полигона или доказанной площадью повреждённой экосистемы. Для Малого моря в 2019 бактериология охватывает три станции, фитопланктон две; зоопланктона нет. [Районный конспект](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md), [все выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md). [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p47](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-47)
 
+## Полный районный итог 2020 года
+
+Общие выводы 2020 года прочитаны целиком: четыре района имеют разные программы, а индикаторная площадь загрязнения КОС не является площадью полигона или доказанной площадью повреждённой экосистемы. Для Малого моря в 2020 впервые добавлен зоопланктон трёх станций, отдельного макробентоса пока нет. [Районный конспект](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md), [все выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md). [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p46](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-46) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47)
+
 <!-- HUMAN NOTES -->

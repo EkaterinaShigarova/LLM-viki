@@ -180,6 +180,7 @@
 ## Зундук—Хобой
 
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Иня
 
@@ -234,6 +235,7 @@
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Кабанский заказник
 
@@ -294,6 +296,8 @@
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Модонкуль — выше Закаменска
 
@@ -430,6 +434,7 @@
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Северобайкальск
 
@@ -486,6 +491,7 @@
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Слюдянка
 
@@ -593,12 +599,14 @@
 ## Хорин-Ирги—Улан
 
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Хужир
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 - [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## ЦЭЗ
 

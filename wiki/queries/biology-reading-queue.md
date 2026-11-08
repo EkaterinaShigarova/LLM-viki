@@ -169,3 +169,8 @@ PDF220–222 от подзаголовка искусственного восп
 
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — PDF45,46
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — PDF46,47
+
+## Выполнено 9 ноября: malo_conclusions2020
+
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — PDF45
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — PDF46,47

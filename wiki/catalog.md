@@ -239,6 +239,8 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) · доклад 2020.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47) · доклад 2020.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -324,6 +326,9 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p47](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-47) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p46](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-46) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47) · доклад 2020.
 
 
 <a id="water"></a>

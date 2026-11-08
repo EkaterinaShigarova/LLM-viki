@@ -100,4 +100,8 @@
 
 Эпишура КОС 2023 имеет средние **26,4/2,3/18,2 тыс.экз/м³**, массы **141/9,8/339 мг/м³**. Северныеобщие **22/217** и **18,6/231,5** относятся всему зоопланктону. Бентос Севера **2037 экз/м²/5,8 г/м²**, мелководье **2993/6,7**, глубины **1080/4,8**; новые глубинные границы и добавленные станции ограничивают сравнение с 2022. Масса/число разных групп не объединены в одно направление улучшения. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53)
 
+## Малое море: новый зоопланктонный блок 2020 года
+
+Сентябрь 2020 на трёх станциях Малого моря дал общий зоопланктон 4,481–13,855 тыс. экз./м³ и 50,83–192,83 мг/м³, средние 7,862/102,39. Максимумы — Хорин-Ирги—Улан у Кобыльей Головы; минимум числа — Зундук—Хобой, массы — Хужир. Коловратки, циклопы, ветвистоусые и веслоногие содоминируют; значения не являются отдельной оценкой эпишуры. Авторы называют этот зоопланктонный этап первым в своей программе. В 2019 на Малом море изучали микробиологию и фитопланктон, поэтому искусственный зоопланктонный ряд за 2019–2020 здесь не создан. [Конспект](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md). [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47)
+
 <!-- HUMAN NOTES -->

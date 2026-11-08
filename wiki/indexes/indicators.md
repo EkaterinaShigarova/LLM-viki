@@ -38,6 +38,7 @@
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Батометрический отбор
 
@@ -262,6 +263,7 @@
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Икра
 
@@ -439,6 +441,7 @@
 ## Микрофлора донных отложений
 
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Минерализация
 
@@ -614,6 +617,7 @@
 ## Планктон и бентос
 
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Площади биоиндикаторных зон
 
@@ -622,6 +626,7 @@
 ## Площади загрязнения
 
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Площадь индикаторной зоны
 
@@ -728,6 +733,7 @@
 ## Районные ограничения
 
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+- [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 
 ## Растворённый кислород
 
@@ -915,6 +921,7 @@
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+- [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 
 ## Фитопланктон: численность и биомасса
 
