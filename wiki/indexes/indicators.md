@@ -111,6 +111,10 @@
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
 
+## ГЛПМ
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+
 ## Геохимический мониторинг
 
 - [2020: температура и геохимический мониторинг истока Ангары](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/angara-geochemistry.md) — доклад 2020.
@@ -192,6 +196,10 @@
 
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 
+## Заготовка древесины
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+
 ## Зимний маршрутный учёт
 
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
@@ -268,6 +276,20 @@
 - [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
 - [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
 - [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
+
+## Лесистость
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+
+## Лесной фонд
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
+
+## Лесовосстановление
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Летучие фенолы
 
@@ -367,6 +389,10 @@
 ## Навеска
 
 - [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
+
+## Назначение лесов
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
 
 ## Нарушения ПДК
 
@@ -468,6 +494,10 @@
 
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 
+## Очаги вредителей
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+
 ## Ошибка учёта
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
@@ -509,6 +539,10 @@
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 
+## Погибшие насаждения
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+
 ## Подлёдные и открытоводные наблюдения
 
 - [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
@@ -516,6 +550,10 @@
 ## Подрощенная молодь
 
 - [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
+
+## Пожары
+
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Популяция нерпы
 
@@ -602,6 +640,10 @@
 ## Региональные сети одной реки
 
 - [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Рубки
+
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Рыбоохрана
 

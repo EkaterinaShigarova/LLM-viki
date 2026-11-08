@@ -514,6 +514,83 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md",
       "limitations": "От правого заголовкаPDF53до Малого моряPDF55,включая выноски,обе колонки и всю таблицу;северный материал исключён."
+    },
+    {
+      "id": "followup-forest-resources-use-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "2024: лесаБПТ — площади,назначение и использование со всеми таблицами",
+      "candidate_pdf_pages": [
+        136,
+        139
+      ],
+      "located_evidence_page": 136,
+      "exact_locator_quote": "                                                                  1. СОСТОЯНИЕ ОКРУЖАЮЩЕЙ СРЕДЫ НА Б",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        136,
+        137,
+        138,
+        139
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md",
+      "limitations": "Все три таблицы с продолжениями и их контекст;остальные блоки лесопатологии/восстановления раскрыты в связанном конспекте,граница до1.2.6."
+    },
+    {
+      "id": "followup-forest-health-reforestation-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление",
+      "candidate_pdf_pages": [
+        136,
+        139
+      ],
+      "located_evidence_page": 136,
+      "exact_locator_quote": "                                                                  1. СОСТОЯНИЕ ОКРУЖАЮЩЕЙ СРЕДЫ НА Б",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        136,
+        137,
+        139
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md",
+      "limitations": "Весь лесопатологический/восстановительный текстPDF136–137и выводыPDF139,не атмосферныйвоздух."
+    },
+    {
+      "id": "followup-forest-resources-fires-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство",
+      "candidate_pdf_pages": [
+        141,
+        150
+      ],
+      "located_evidence_page": 141,
+      "exact_locator_quote": "                                                                         139\n     1.2.4. Леса\n     (",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md",
+      "limitations": "Весь раздел до следующего заголовкаPDF151; просмотрены все продолжения таблиц, диаграммы и повёрнутая таблицаPDF144."
     }
   ],
   "updated_at": "2026-11-08",

@@ -27,6 +27,7 @@
 - [Рыбы и биоразнообразие: почему одного показателя недостаточно](syntheses/fish-and-biodiversity.md)
 - [Искусственное воспроизводство рыб Байкала: стадии, мощности и учёт выпусков](syntheses/fish-artificial-reproduction.md)
 - [Лесные пожары: учёт последствий и меры предупреждения](syntheses/forest-fires.md)
+- [Лесные ресурсы БПТ: назначение, использование и восстановление](syntheses/forest-resources-reforestation.md)
 - [Подземные воды и геологические процессы: как устроена сеть мониторинга](syntheses/groundwater-geological-monitoring.md)
 - [Наземные охотничьи ресурсы иркутской части БПТ: оценки, добыча и методы учёта](syntheses/hunting-resources-irkutsk-bpt.md)
 - [Гидробиологический мониторинг: станции, пробы и пределы сопоставления](syntheses/hydrobiological-monitoring-methods.md)

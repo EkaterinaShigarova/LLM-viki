@@ -42,6 +42,7 @@
 - [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
 - [2019: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/baikal-omul.md) — доклад 2019.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## 2020
 
@@ -98,6 +99,8 @@
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
 - [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
 
 ## 2025
 

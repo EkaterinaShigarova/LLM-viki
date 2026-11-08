@@ -106,3 +106,12 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_selenga2023
 
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — PDF53,54,55
+
+## Завершённое чтение: followup_forests2024
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — PDF136,137,138,139
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — PDF136,137,139
+
+## Завершённое чтение: followup_forests2019
+
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — PDF141,142,143,144,145,146,147,148,149,150

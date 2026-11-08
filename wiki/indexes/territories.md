@@ -26,6 +26,10 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## БЭЗ
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+
 ## Байкал
 
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
@@ -48,6 +52,9 @@
 ## Байкальская природная территория
 
 - [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Байкальский заповедник и охранная зона
 
@@ -134,6 +141,12 @@
 ## Забайкальский край
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
+
+## Зона атмосферного влияния
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
 
 ## Зундук — Хобой
 
@@ -149,6 +162,11 @@
 ## Иркутск
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Иркутская область
+
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Иркутская область целиком
 
@@ -328,6 +346,8 @@
 ## Республика Бурятия
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
+- [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+- [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 
 ## Северная оконечность
 
@@ -478,6 +498,10 @@
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 - [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
+
+## ЦЭЗ
+
+- [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
 
 ## Чивыркуйский залив
 

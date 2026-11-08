@@ -552,6 +552,31 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p140](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-140) · доклад 2015.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p142](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-142) · доклад 2019.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p136](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-136) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p137](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-137) · доклад 2024.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p144](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-144) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p146](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-146) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p147](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-147) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p148](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-148) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p149](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-149) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p150](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-150) · доклад 2019.
+
+- [Лесные ресурсыБПТ:назначение,использование и восстановление](syntheses/forest-resources-reforestation.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Другиегоды,первичныереестры/геометрия,приживаемость,неоднозначноститаблиц.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p136](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-136) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p137](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-137) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p138](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-138) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p141](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-141) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p142](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-142) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p143](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-143) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p144](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-144) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p149](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-149) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p150](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-150) · доклад 2019.
 
 <a id="reserves"></a>
 ### Управление ООПТ
