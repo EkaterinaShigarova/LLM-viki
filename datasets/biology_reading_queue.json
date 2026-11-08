@@ -468,6 +468,29 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md",
       "limitations": "От заголовкаPDF43через полную таблицу и текст до заголовка Малого моряPDF45;север/Малое море исключены."
+    },
+    {
+      "id": "followup-selenga-shallows-hydrobiology-2020",
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "source_sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "title": "2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность",
+      "candidate_pdf_pages": [
+        43,
+        45
+      ],
+      "located_evidence_page": 43,
+      "exact_locator_quote": "минировали на всех глубинах нематоды. Роль остальных зообентонтов в построении со-\nобщества незначит",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        43,
+        44,
+        45
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md",
+      "limitations": "Полный подраздел от PDF43до Малого моряPDF45,вся таблица1.1.1.4.3и продолжение бентоса."
     }
   ],
   "updated_at": "2026-11-08",

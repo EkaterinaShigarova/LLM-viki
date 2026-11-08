@@ -98,3 +98,7 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_selenga2019
 
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — PDF43,44,45
+
+## Завершённое чтение: followup_selenga2020
+
+- [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — PDF43,44,45

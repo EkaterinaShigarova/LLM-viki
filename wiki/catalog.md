@@ -146,6 +146,8 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p44](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-44) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p43](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-43) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p44](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-44) · доклад 2020.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -382,6 +384,8 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p43](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-43) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p44](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-44) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p43](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-43) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p44](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-44) · доклад 2020.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос
