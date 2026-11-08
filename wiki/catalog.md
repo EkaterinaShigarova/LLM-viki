@@ -148,6 +148,11 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p44](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-44) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p43](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-43) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p44](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-44) · доклад 2020.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p36](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-36) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p37](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-37) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p40](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-40) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) · доклад 2018.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -169,6 +174,10 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p45](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-45) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p38](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-38) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46) · доклад 2018.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -199,6 +208,11 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p43](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-43) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p44](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-44) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p38](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-38) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p40](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-40) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p42](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-42) · доклад 2018.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -259,6 +273,14 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p35](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-35) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p37](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-37) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p38](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-38) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p40](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-40) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p42](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-42) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) · доклад 2018.
 
 
 <a id="water"></a>
@@ -365,6 +387,10 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p40](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-40) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p42](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-42) · доклад 2018.
 
 - [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
 
@@ -676,6 +702,8 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p135](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-135) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p138](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-138) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p139](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-139) · доклад 2019.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46) · доклад 2018.
 
 
 <a id="climate"></a>

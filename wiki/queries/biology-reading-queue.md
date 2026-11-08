@@ -135,3 +135,9 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_lands2019
 
 - [2019: земельный учёт муниципалитетов — формы 22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — PDF135,136,137,138,139,140
+
+## Выполнено 9 ноября: hydro2018_complete
+
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — PDF35,36,37,38,39
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — PDF39,40,41,42
+- [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — PDF45,46

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "evidence_levels": {
     "multiyear_text": "Содержательные страницы нескольких лет прочитаны; достаточны для текста с ограничениями, но не автоматически для числового тренда.",
     "reviewed_overview": "Существующая аналитическая статья с происхождением утверждений; уровень не означает внешнюю экспертизу.",
@@ -597,6 +597,36 @@
                   "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
                   "report_year": 2020,
                   "page": 44
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 36
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 37
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 41
                 }
               ],
               "gap": "Разные районы и сезоны; общего временного ряда нет."
@@ -689,6 +719,30 @@
                   "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
                   "report_year": 2017,
                   "page": 35
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 38
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 45
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 46
                 }
               ],
               "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
@@ -835,6 +889,36 @@
                   "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
                   "report_year": 2018,
                   "page": 44
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 38
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 42
                 }
               ],
               "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
@@ -1062,6 +1146,54 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "report_year": 2022,
                   "page": 50
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 35
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 37
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 38
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 42
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 45
                 }
               ],
               "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия."
@@ -1418,6 +1550,30 @@
                   "sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
                   "report_year": 2017,
                   "page": 36
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 39
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 40
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 41
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 42
                 }
               ],
               "gap": "Уточнить фоновые значения и неизменность вертикалей."
@@ -2505,6 +2661,18 @@
                   "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
                   "report_year": 2019,
                   "page": 139
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 45
+                },
+                {
+                  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+                  "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+                  "report_year": 2018,
+                  "page": 46
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."

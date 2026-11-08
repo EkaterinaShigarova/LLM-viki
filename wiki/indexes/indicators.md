@@ -53,6 +53,11 @@
 
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 
+## Биомасса
+
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
+
 ## Биомасса омуля
 
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
@@ -138,6 +143,10 @@
 ## Гипотеза поглощения кислорода
 
 - [2022: кислородная гипотеза аквариумной адаптации голомянок и геномный контекст](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md) — доклад 2022.
+
+## Глубинные страты
+
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
 
 ## Год наблюдений и публикации
 
@@ -455,6 +464,10 @@
 
 - [2017: все гидробиологические выводы и их территориальные границы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md) — доклад 2017.
 
+## Общие выводы
+
+- [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+
 ## Общий зоопланктон и эпишура
 
 - [2022: Малое море — полный гидробиологический подраздел и таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/small-sea-hydrobiology.md) — доклад 2022.
@@ -527,10 +540,18 @@
 
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
 
+## Периоды наблюдений
+
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
+
 ## Петерсен
 
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
+
+## Площади биоиндикаторных зон
+
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 
 ## Площадь индикаторной зоны
 
@@ -665,6 +686,8 @@
 ## Сезонность
 
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 
 ## Сезонные категории и фон
 
@@ -697,6 +720,7 @@
 ## Сопоставимость
 
 - [2017: все гидробиологические выводы и их территориальные границы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md) — доклад 2017.
+- [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 
 ## Сопоставимость статистик
 
@@ -831,6 +855,11 @@
 ## Химия дождя и снега
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+
+## Численность
+
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
 
 ## Численность и биомасса фитопланктона
 

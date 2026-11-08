@@ -656,9 +656,18 @@
       ],
       "located_evidence_page": 35,
       "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Полностью до северного заголовкаPDF39; таблица1.1.1.4.1 и весь фоновой бентос. Другие районы общей страницы отдельно.",
+      "verified_pdf_pages": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md"
     },
     {
       "id": "next-north-hydrobiology-2018",
@@ -672,9 +681,17 @@
       ],
       "located_evidence_page": 39,
       "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Полностью от северного заголовкаPDF39 до заголовкаСеленгиPDF42; таблица с продолжением, весь текст всех групп.",
+      "verified_pdf_pages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md"
     },
     {
       "id": "next-kos-hydrobiology-2019",
@@ -787,6 +804,28 @@
       "substantive_reading_completed": false,
       "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
       "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "completed-hydrobiology-conclusions-2018",
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "report_year": 2018,
+      "title": "2018: все гидробиологические выводы и их районная принадлежность",
+      "candidate_pdf_pages": [
+        45,
+        46
+      ],
+      "located_evidence_page": 45,
+      "exact_locator_quote": "       44                                                             Государств",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        45,
+        46
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md",
+      "limitations": "ПолностьюPDF45–46 до1.1.1.5наPDF47, проверена граница; разные районы не объединены."
     }
   ],
   "updated_at": "2026-11-08",

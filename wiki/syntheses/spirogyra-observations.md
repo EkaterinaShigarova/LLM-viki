@@ -66,4 +66,8 @@
 
 В июне 2017Spirogyra найдена в половине северных зоопланктонных проб, осенью —**15 из 21**, включая **3 из 4 фоновых реперов**; наибольшие летние скопления 0,5 км от Верхней Ангары, осенние клубкивдоль западаТолстый—Слюдянка. Эточастота проб, не площадное покрытие или доля биомассы. С 2022 северными 62/67% нельзя построитьтренд без совпадения сети и условий отбора; наличиезнаменателя 21 в одном году не компенсирует неизвестные условия другого. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p48](../sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-48)
 
+## Разные знаменатели встречаемости2018
+
+В 2018 на КОС зимние единичные нити Spirogyraна двух западных станциях, июнь **четверть зоопроб**, позднее **почти половина**, отдельные нити до 6,5 км от берега. Север: большинство осенних западных зоо-/бентосных проб, без точного процента; в Селенге **9 из 12 донных проб**. Это три программы, не общий процент акватории. **Spirulina minima var.baicalia**, до 42,1% северного фитопланктонного числа, — другой организм, не Spirogyra. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p38](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-38) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p41](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-41) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46)
+
 <!-- HUMAN NOTES -->

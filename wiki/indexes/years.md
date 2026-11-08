@@ -36,6 +36,9 @@
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
 - [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
+- [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+- [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
+- [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 
 ## 2019
 
