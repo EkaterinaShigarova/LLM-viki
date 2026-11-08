@@ -34,6 +34,7 @@
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
 - [2018: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrology.md) — доклад 2018.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## 2019
 

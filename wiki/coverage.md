@@ -7,7 +7,7 @@
 | [2015](notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/index.md) | 372/372 | 6 | 17 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
 | [2016](notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/index.md) | 374/374 | 5 | 14 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
 | [2017](notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/index.md) | 341/341 | 8 | 17 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
-| [2018](notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/index.md) | 342/342 | 2 | 7 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
+| [2018](notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/index.md) | 342/342 | 3 | 10 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
 | [2019](notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/index.md) | 348/348 | 3 | 11 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
 | [2020](notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/index.md) | 361/361 | 4 | 12 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |
 | [2021](notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/index.md) | 372/372 | 6 | 14 | Всё вне явно указанных страниц; полнота внутри них также не утверждается |

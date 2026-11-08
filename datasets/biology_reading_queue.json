@@ -422,6 +422,29 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md",
       "limitations": "ВесьPDF39;по оригиналуPDF40подтверждено начало1.1.1.5,продолжениявыводовнет."
+    },
+    {
+      "id": "followup-selenga-shallows-hydrobiology-2018",
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "report_year": 2018,
+      "title": "2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры",
+      "candidate_pdf_pages": [
+        42,
+        44
+      ],
+      "located_evidence_page": 42,
+      "exact_locator_quote": "О состоянии озера Байкал и мерах по его охране в 2018 году                              41\n\n    Сред",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        42,
+        43,
+        44
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md",
+      "limitations": "От заголовка внизуPDF42до концаPDF44,вся таблица1.1.1.4.3;общие выводыPDF45не включены."
     }
   ],
   "updated_at": "2026-11-08",

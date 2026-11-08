@@ -33,6 +33,7 @@
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — доклад 2017.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## Батометрический отбор
 
@@ -41,6 +42,7 @@
 ## Бентос
 
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — доклад 2017.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## Биоиндикация
 
@@ -175,6 +177,7 @@
 ## Донная микрофлора
 
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## Донная микрофлора и бентос
 
@@ -194,6 +197,7 @@
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — доклад 2017.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## Икра
 
@@ -720,6 +724,7 @@
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — доклад 2017.
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 
 ## Фитопланктон: численность и биомасса
 

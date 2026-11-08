@@ -90,3 +90,7 @@ PDF220–222 от подзаголовка искусственного восп
 
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — PDF36,37,38
 - [2017: все гидробиологические выводы и их территориальные границы](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md) — PDF39
+
+## Завершённое чтение: followup_selenga2018
+
+- [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — PDF42,43,44
