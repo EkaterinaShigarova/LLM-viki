@@ -28,6 +28,10 @@
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 
+## Атмосферные концентрации
+
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
+
 ## Бактериопланктон
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
@@ -50,6 +54,8 @@
 
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
 - [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Бентос
 
@@ -75,7 +81,7 @@
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 - [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
@@ -257,6 +263,10 @@
 ## Заготовка древесины
 
 - [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
+
+## Загрязнение атмосферного воздуха
+
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Зимний маршрутный учёт
 
@@ -442,7 +452,7 @@
 ## Методы
 
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
@@ -568,6 +578,10 @@
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
 
+## Озон
+
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
+
 ## Олигохетный индекс
 
 - [2025: гидробиология Байкала — четыре района, индикаторы и ограничения](../notes/official-b4e3fcfe0e41e26ea03b/hydrobiological-communities.md) — доклад 2025.
@@ -617,6 +631,8 @@
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
 - [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## ПДК и частота превышения
 
@@ -904,7 +920,7 @@
 
 ## Транскрипция таблиц
 
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 
 ## Угодья
 
@@ -985,7 +1001,7 @@
 - [2018: Северный Байкал — сообщества, станции и несогласованные средние](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/north-baikal-hydrobiology.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 - [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.

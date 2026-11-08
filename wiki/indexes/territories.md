@@ -29,6 +29,7 @@
 ## Ангарск
 
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## БЭЗ
 
@@ -37,6 +38,7 @@
 ## БЭЗ БПТ
 
 - [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Байкал
 
@@ -59,6 +61,7 @@
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — доклад 2023.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 
 ## Байкальская природная территория
 
@@ -201,6 +204,7 @@
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Иркутская область
 
@@ -240,7 +244,7 @@
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
@@ -288,6 +292,7 @@
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 - [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — доклад 2023.
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — доклад 2023.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 
 ## Курла
 
@@ -297,6 +302,7 @@
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 
 ## Малое море
 
@@ -423,6 +429,10 @@
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
+## Свирск
+
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
+
 ## Северная оконечность
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
@@ -511,6 +521,7 @@
 
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 - [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — доклад 2023.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 
 ## Слюдянский—Курла
 
@@ -572,6 +583,7 @@
 ## Улан-Удэ
 
 - [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Утулик — Безымянная
 
@@ -632,6 +644,7 @@
 ## ЦЭЗ БПТ
 
 - [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 
 ## Черемхово
 
@@ -660,6 +673,7 @@
 ## ЭЗАВ БПТ
 
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
 ## Южное Прибайкалье
 
@@ -675,7 +689,7 @@
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
-- [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
 

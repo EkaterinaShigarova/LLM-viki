@@ -2583,6 +2583,30 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 147
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 153
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 154
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 155
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 156
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
@@ -3149,6 +3173,30 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 146
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 153
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 154
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 139
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 140
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."

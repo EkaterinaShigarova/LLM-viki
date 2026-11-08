@@ -184,3 +184,8 @@ PDF220–222 от подзаголовка искусственного восп
 - [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — PDF46,58,59,60,63
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — PDF46,60,61,62
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — PDF62,63
+
+## Выполнено 9 ноября: air2019_complete
+
+- [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — PDF153,154
+- [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — PDF154,155,156

@@ -609,6 +609,10 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p145](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-145) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p146](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-146) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p147](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-147) · доклад 2024.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p153](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-153) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p154](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-154) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p155](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-155) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p156](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-156) · доклад 2019.
 
 <a id="visits"></a>
 ### Посещение и инфраструктура
@@ -782,6 +786,10 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p144](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-144) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p145](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-145) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p146](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-146) · доклад 2024.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p153](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-153) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p154](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-154) · доклад 2019.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p140](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-140) · доклад 2024.
 
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 
