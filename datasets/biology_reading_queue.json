@@ -391,9 +391,37 @@
       ],
       "located_evidence_page": 36,
       "exact_locator_quote": "Район Селенгинского мелководья",
-      "substantive_reading_completed": false,
-      "boundary_status": "heading_and_conclusions_located_by_cached_text_search_not_full_visual_reading",
-      "limitations": "НачалоPDF36,таблицаPDF37,продолжениеPDF38доВыводовPDF39. Сначала прочитать оригиналы и уточнить конец самих выводов;не считать найденный заголовок готовым исследованием."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "От заголовка внизуPDF36до последнего абзацаPDF38;вся таблица1.1.1.4.3,без общих выводов.",
+      "verified_pdf_pages": [
+        36,
+        37,
+        38
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md"
+    },
+    {
+      "id": "followup-hydrobiology-conclusions-2017",
+      "source_id": "drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr",
+      "source_sha256": "80935438545af9b1fd55811ea6b4345822b62301ba472e71e76f1a67f7b4967d",
+      "report_year": 2017,
+      "title": "2017: все гидробиологические выводы и их территориальные границы",
+      "candidate_pdf_pages": [
+        39,
+        39
+      ],
+      "located_evidence_page": 39,
+      "exact_locator_quote": "       38                                                             Государственный доклад\n       ",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        39
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/hydrobiology-conclusions.md",
+      "limitations": "ВесьPDF39;по оригиналуPDF40подтверждено начало1.1.1.5,продолжениявыводовнет."
     }
   ],
   "updated_at": "2026-11-08",

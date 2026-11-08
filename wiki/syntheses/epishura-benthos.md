@@ -74,4 +74,8 @@
 
 Северный зоопланктон 2017 имел средние 13,1 тыс. экз/м³/151,7 мг/м³ летом и 9,360/150,45 осенью. Осенниедоли **Calanoida53,8% /Rotifera37,0%** относятся ктаксономическим группам; преобладаниеэпишурысреди Calanoida не превращает 53,8 вдолю одного вида. Общие средние не перенесенывплотность эпишуры. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36)
 
+## Авандельта 2017: точная фиксация и две версии среднего
+
+В 2017 на Селенгинском мелководье применяли **Петерсен 0,025 м²/4% формалин**, видовое определение амфипод. Олигохеты давали 44,7% числа/88,4% массы, нематоды 42,1% числа, амфиподы 10,1/9,0%; это отдельные статистики. Таблица сообщает среднее **18027 экз/м²**, проза ивыводы **10827**. Обе версии сохранены; масса 15,07 г/м²не разрешает спор численности. Указанные 19 видов амфипод 2017/31 вретроспективе 2016 не превращены в тренд всего озера. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p37](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-37) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p38](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-38) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39)
+
 <!-- HUMAN NOTES -->

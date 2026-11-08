@@ -191,6 +191,9 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p46](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-46) · доклад 2022.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p37](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-37) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p38](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-38) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -246,6 +249,9 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p54](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-54) · доклад 2022.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p37](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-37) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p38](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-38) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 
 
 <a id="water"></a>
@@ -363,6 +369,10 @@
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p51](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-51) · доклад 2022.
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p36](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-36) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p37](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-37) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p38](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-38) · доклад 2017.
+[drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос
