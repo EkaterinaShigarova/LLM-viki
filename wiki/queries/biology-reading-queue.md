@@ -151,3 +151,10 @@ PDF220–222 от подзаголовка искусственного восп
 
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — PDF35,36,37,38,39
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — PDF39,40,41,42,43
+
+## Выполнено 9 ноября: hydro2023_kos_north
+
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — PDF46,47,48,49
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — PDF49,50,51,52,53
+
+## Выполнено 9 ноября: hydro_methods_comparison

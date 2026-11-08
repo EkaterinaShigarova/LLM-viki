@@ -123,6 +123,10 @@
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
+## Гуликан—Котельниковский
+
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
+
 ## Гусиноозёрское хозяйство
 
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
@@ -206,6 +210,7 @@
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 
 ## Кабанский заказник
 
@@ -392,6 +397,7 @@
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 - [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Селенга
 
@@ -439,6 +445,10 @@
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+
+## Слюдянский—Курла
+
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Солзан
 
@@ -571,6 +581,7 @@
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 
 ## Южный Байкал — Большие Коты, точка № 1
 

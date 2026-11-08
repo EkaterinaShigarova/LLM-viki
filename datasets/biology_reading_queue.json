@@ -805,9 +805,17 @@
       ],
       "located_evidence_page": 46,
       "exact_locator_quote": "1.1.1.4. Гидробиологические сообщества",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Полностью до северного заголовкаPDF49, обе колонки/выноски и вся таблица48, без геохимии верхней части46.",
+      "verified_pdf_pages": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md"
     },
     {
       "id": "next-north-hydrobiology-2023",
@@ -821,9 +829,18 @@
       ],
       "located_evidence_page": 49,
       "exact_locator_quote": "Байкала (район трассы БАМ)",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "limitations": "Весь северный подраздел от49до заголовкаСеленги53; обе половины таблицы52, выноски и обе колонки.",
+      "verified_pdf_pages": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md"
     },
     {
       "id": "next-air-section-2024",

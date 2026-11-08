@@ -922,6 +922,30 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 42
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 47
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 48
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 51
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 52
     }
   ],
   "syntheses/spirogyra-observations.md": [
@@ -1053,6 +1077,24 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 42
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 46
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 50
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 53
     }
   ],
   "syntheses/epishura-benthos.md": [
@@ -1250,6 +1292,18 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 41
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 53
     }
   ],
   "syntheses/selenga-sediments.md": [
@@ -1409,6 +1463,24 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 43
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 49
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 50
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 52
     }
   ],
   "syntheses/persistent-organic-pollutants.md": [
@@ -2637,6 +2709,48 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 42
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 46
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 49
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 50
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "page": 53
+    },
+    {
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "page": 37
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 35
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "page": 37
     }
   ],
   "syntheses/selenga-shallows-communities.md": [

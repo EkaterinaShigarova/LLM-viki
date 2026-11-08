@@ -159,6 +159,10 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p41](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-41) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p47](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-47) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p48](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-48) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p51](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-51) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -188,6 +192,9 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -228,6 +235,8 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p40](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-40) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -303,6 +312,13 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p39](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-39) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p37](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-37) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p35](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-35) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) · доклад 2020.
 
 
 <a id="water"></a>
@@ -420,6 +436,9 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p43](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-43) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
 
 - [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
 

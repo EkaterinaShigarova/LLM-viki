@@ -96,4 +96,8 @@
 
 Для северного зоопланктона 2020 рядом с утверждением **роста биомассы к осени вдвое** напечатаны средние **503,22→257,20 мг/м³**, таблица также 503→257. Число 22,021→23,698 тыс.экз/м³ растёт незначительно. Оба сообщения сохранены, вывод не исправлен как будто есть официальный протокол. Бентосная таблица подписана **тыс.экз/м²**, но ретроспектива 2019 **476–59416/11915** перенесена без масштаба из прежнихэкз/м². Умножение 2019 на 1000 не выполнено. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p40](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-40) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42)
 
+## Число одного вида и северные страты2023
+
+Эпишура КОС 2023 имеет средние **26,4/2,3/18,2 тыс.экз/м³**, массы **141/9,8/339 мг/м³**. Северныеобщие **22/217** и **18,6/231,5** относятся всему зоопланктону. Бентос Севера **2037 экз/м²/5,8 г/м²**, мелководье **2993/6,7**, глубины **1080/4,8**; новые глубинные границы и добавленные станции ограничивают сравнение с 2022. Масса/число разных групп не объединены в одно направление улучшения. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53)
+
 <!-- HUMAN NOTES -->

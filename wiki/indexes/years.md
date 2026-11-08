@@ -90,6 +90,8 @@
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## 2024
 

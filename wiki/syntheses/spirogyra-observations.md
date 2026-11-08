@@ -78,4 +78,8 @@
 
 На КОС 2020 **63% донных проб** содержали Spirogyra, а зоопробы **7% март/12% июнь**. На Севере **43% июнь/90% сентябрь зоопроб**; в одной северной фитопробе **93,2% массы**, не доля акватории. Находки донных проб до 109/141 м у КОС и 30–200 м на севере не доказывают прикреплённую популяцию на этих глубинах. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42)
 
+## Разные знаменатели2023 и двухколоночная атрибуция
+
+КОС 2023: **46% донных проб** зимой, **30% зоопроб** в августе. Север: **32% июньских/85% сентябрьских зоопроб**, осенняя программа включает дополнительные станции/реперы; **45% западных донных проб** с 23–137 м. Селенгинские **50% зоопроб/42% донных** на PDF53 стоят после нового заголовка, не присвоены северной выборке. Ни одно отношение не равно площади зарастания. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53)
+
 <!-- HUMAN NOTES -->

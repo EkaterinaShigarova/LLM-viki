@@ -61,6 +61,8 @@
 - [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Биомасса омуля
 
@@ -200,6 +202,10 @@
 ## Длительное аквариумное содержание
 
 - [2021: глубоководные рыбы и гаммариды в аквариумах Байкальского музея](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/deep-fish-aquarium.md) — доклад 2021.
+
+## Доля проб
+
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Доминантные таксоны
 
@@ -398,6 +404,8 @@
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Методы и пределы причинного вывода
 
@@ -711,6 +719,7 @@
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 
 ## Сезонные категории и фон
 
@@ -891,6 +900,8 @@
 - [2019: Северный Байкал — Петерсен, реперы и версии бактериальных средних](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/north-baikal-hydrobiology.md) — доклад 2019.
 - [2020: КОС Байкальска — сезонные сообщества и различия таблицы и кэша](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
+- [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
+- [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
 ## Численность и биомасса фитопланктона
 
