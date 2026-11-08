@@ -42,6 +42,11 @@
 
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 
+## Бенз(а)пирен
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+
 ## Бентос
 
 - [2017: Селенгинское мелководье — полный подраздел и противоречие бентоса](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/selenga-shallows-hydrobiology.md) — доклад 2017.
@@ -88,6 +93,10 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## Взвешенные частицы
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+
 ## Видовая атрибуция кормового комплекса
 
 - [2024: голомянко-бычковый комплекс в питании нерпы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md) — доклад 2024.
@@ -113,6 +122,12 @@
 
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 
+## Выбросы
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+
 ## Вылов
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
@@ -121,6 +136,10 @@
 ## Выпуск молоди
 
 - [2024: искусственное воспроизводство — омуль, осётр, мощности и выпуски](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fish-artificial-reproduction.md) — доклад 2024.
+
+## Высокое загрязнение воздуха
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## Выявленные нарушения
 
@@ -295,6 +314,10 @@
 ## Концентрации min/max/mean
 
 - [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
+
+## Концентрация загрязняющих веществ
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 
 ## Концентрация и поток вещества
 
@@ -554,6 +577,12 @@
 ## ПАУ и бенз(а)пирен в осадках
 
 - [2025: донные отложения, грунтовая вода и литотипы Байкала](../notes/official-b4e3fcfe0e41e26ea03b/bottom-sediment-monitoring.md) — доклад 2025.
+
+## ПДК
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## ПДК и частота превышения
 

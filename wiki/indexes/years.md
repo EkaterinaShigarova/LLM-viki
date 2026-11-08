@@ -112,6 +112,9 @@
 - [2024: рыбоохрана и противоречие административной статистики](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-enforcement.md) — доклад 2024.
 - [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## 2025
 

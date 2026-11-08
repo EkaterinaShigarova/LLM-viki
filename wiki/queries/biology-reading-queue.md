@@ -158,3 +158,9 @@ PDF220–222 от подзаголовка искусственного восп
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — PDF49,50,51,52,53
 
 ## Выполнено 9 ноября: hydro_methods_comparison
+
+## Выполнено 9 ноября: air2024_complete
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — PDF139,140,141
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — PDF141,142,143,144
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — PDF144,145,146,147

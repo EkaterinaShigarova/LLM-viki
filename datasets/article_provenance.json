@@ -170,6 +170,36 @@
       "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
       "page": 19
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 141
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 143
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 144
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 145
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 146
     }
   ],
   "syntheses/fish-and-biodiversity.md": [
@@ -377,6 +407,54 @@
       "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
       "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
       "page": 166
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 139
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 140
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 141
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 143
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 144
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 145
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 146
+    },
+    {
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "page": 147
     }
   ],
   "syntheses/river-inputs-2025.md": [

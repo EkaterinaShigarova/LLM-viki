@@ -26,9 +26,17 @@
 - [2022: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrology.md) — доклад 2022.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 
+## Ангарск
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+
 ## БЭЗ
 
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
+
+## БЭЗ БПТ
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## Байкал
 
@@ -48,6 +56,7 @@
 - [2021: коммунальные стоки, водозабор и исторический оператор Байкальска](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/municipal-water.md) — доклад 2021.
 - [2024: пробы фенолов в контрольном створе Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/phenol-control.md) — доклад 2024.
 - [2025: обзорная таблица контрольного створа и ретроспективный год](../notes/official-b4e3fcfe0e41e26ea03b/control-review.md) — доклад 2025.
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 
 ## Байкальская природная территория
 
@@ -105,6 +114,10 @@
 
 - [2016: поверхностные наблюдения в портах Южного Байкала](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/ports.md) — доклад 2016.
 
+## Братск
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+
 ## Верхняя Ангара
 
 - [2025: речной сток и вынос веществ — Селенга и ещё четыре притока](../notes/official-b4e3fcfe0e41e26ea03b/tributary-runoff.md) — доклад 2025.
@@ -126,6 +139,10 @@
 ## Гуликан—Котельниковский
 
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
+
+## Гусиноозерск
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## Гусиноозёрское хозяйство
 
@@ -170,6 +187,7 @@
 ## Иркутск
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
 
 ## Иркутская область
 
@@ -252,6 +270,7 @@
 ## Култук
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 
 ## Курла
 
@@ -260,6 +279,7 @@
 ## Листвянка
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 
 ## Малое море
 
@@ -309,6 +329,10 @@
 ## Озеро Байкал — схема отбора
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
+## Петровск-Забайкальский
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 
 ## Побережье Байкала
 
@@ -399,6 +423,10 @@
 - [2020: Северный Байкал — Ван-Вин, смешанные единицы и сезон массы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/north-baikal-hydrobiology.md) — доклад 2020.
 - [2023: Северный Байкал — расширенный полигон, пробы и глубинные страты](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/north-baikal-hydrobiology.md) — доклад 2023.
 
+## Северобайкальск
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+
 ## Селенга
 
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
@@ -430,6 +458,10 @@
 
 - [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
 
+## Селенгинск
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+
 ## Селенгинское мелководье
 
 - [2020: исторические оценки и ограничения охраны байкальского осетра](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/sturgeon.md) — доклад 2020.
@@ -445,6 +477,10 @@
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
+
+## Слюдянка
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
 
 ## Слюдянский—Курла
 
@@ -503,6 +539,10 @@
 
 - [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
 
+## Улан-Удэ
+
+- [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
+
 ## Утулик — Безымянная
 
 - [2017: КОС Байкальска — схема гидробиологии, бактерии и полная таблица](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-methods-microbiology.md) — доклад 2017.
@@ -550,6 +590,14 @@
 
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
 
+## ЦЭЗ БПТ
+
+- [Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md) — доклад 2024.
+
+## Черемхово
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+
 ## Чивыркуйский залив
 
 - [2024: голомянко-бычковый комплекс в питании нерпы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/golomyanka-seal-diet.md) — доклад 2024.
@@ -565,6 +613,14 @@
 ## Чикой — с. Чикой
 
 - [2024: Чикой — пункты Бурятии и отдельный краевой блок](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/chikoy-water-quality.md) — доклад 2024.
+
+## Шелехов
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
+
+## ЭЗАВ БПТ
+
+- [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
 
 ## Южное Прибайкалье
 

@@ -551,6 +551,14 @@
 
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p168](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-168) · доклад 2018.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p166](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-166) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p140](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-140) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p141](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-141) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p143](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-143) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p144](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-144) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p145](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-145) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p146](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-146) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p147](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-147) · доклад 2024.
 
 <a id="visits"></a>
 ### Посещение и инфраструктура
@@ -719,6 +727,11 @@
 
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p168](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-168) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p19](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-19) · доклад 2018.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p141](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-141) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p143](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-143) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p144](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-144) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p145](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-145) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p146](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-146) · доклад 2024.
 
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 

@@ -879,6 +879,77 @@
       "completed_at": "2026-11-09",
       "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md",
       "limitations": "ПолностьюPDF45–46 до1.1.1.5наPDF47, проверена граница; разные районы не объединены."
+    },
+    {
+      "id": "completed-air-monitoring-central-zone-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "Атмосферный мониторинг и ЦЭЗ БПТ в 2024 году",
+      "candidate_pdf_pages": [
+        139,
+        141
+      ],
+      "located_evidence_page": 139,
+      "exact_locator_quote": "Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2024 го",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        139,
+        140,
+        141
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md",
+      "limitations": "С заголовка 1.2.6 на PDF139 до заголовка ЭЗАВ на PDF141; весь текст ЦЭЗ и таблица 1.2.6.1. Лесная таблица и выводы PDF139 исключены."
+    },
+    {
+      "id": "completed-air-atmospheric-influence-zone-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "Воздух городов ЭЗАВ и выбросы 2020–2024 годов",
+      "candidate_pdf_pages": [
+        141,
+        144
+      ],
+      "located_evidence_page": 141,
+      "exact_locator_quote": "Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2024 го",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md",
+      "limitations": "От заголовка ЭЗАВ PDF141 до заголовка БЭЗ на PDF144; обе части таблицы 1.2.6.2, текст двух колонок."
+    },
+    {
+      "id": "completed-air-buffer-zone-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "Воздух БЭЗ: станции, эпизоды загрязнения и выбросы",
+      "candidate_pdf_pages": [
+        144,
+        147
+      ],
+      "located_evidence_page": 144,
+      "exact_locator_quote": "                                                                  1. СОСТОЯНИЕ О",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md",
+      "limitations": "От заголовка БЭЗ PDF144 до заголовка 1.2.7 на PDF147; таблица 1.2.6.3 и все зональные выводы. Осадки PDF147 исключены."
     }
   ],
   "updated_at": "2026-11-08",
