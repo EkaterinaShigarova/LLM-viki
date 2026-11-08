@@ -79,6 +79,7 @@
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
 - [2023: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrology.md) — доклад 2023.
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## 2024
 

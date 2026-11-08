@@ -102,3 +102,7 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_selenga2020
 
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — PDF43,44,45
+
+## Завершённое чтение: followup_selenga2023
+
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — PDF53,54,55

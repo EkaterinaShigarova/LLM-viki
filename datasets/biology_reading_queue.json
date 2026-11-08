@@ -491,6 +491,29 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md",
       "limitations": "Полный подраздел от PDF43до Малого моряPDF45,вся таблица1.1.1.4.3и продолжение бентоса."
+    },
+    {
+      "id": "followup-selenga-shallows-hydrobiology-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица",
+      "candidate_pdf_pages": [
+        53,
+        55
+      ],
+      "located_evidence_page": 53,
+      "exact_locator_quote": "1.1. Природные объекты                                                                              ",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        53,
+        54,
+        55
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md",
+      "limitations": "От правого заголовкаPDF53до Малого моряPDF55,включая выноски,обе колонки и всю таблицу;северный материал исключён."
     }
   ],
   "updated_at": "2026-11-08",

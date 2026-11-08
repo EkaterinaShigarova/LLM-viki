@@ -257,6 +257,8 @@
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p37](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-37) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p38](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-38) · доклад 2017.
 [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p39](sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-39) · доклад 2017.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
+[drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p50](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-50) · доклад 2022.
 
 
 <a id="water"></a>
@@ -386,6 +388,9 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p43](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-43) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p44](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-44) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p54](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-54) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос

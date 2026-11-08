@@ -112,6 +112,7 @@
 
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## Гусиноозёрское хозяйство
 
@@ -213,6 +214,7 @@
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## Култук
 
@@ -307,6 +309,7 @@
 
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## Прорва
 
@@ -388,6 +391,7 @@
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## Солзан
 
@@ -401,6 +405,7 @@
 ## Средняя
 
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
+- [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 
 ## Средняя часть Байкала
 
