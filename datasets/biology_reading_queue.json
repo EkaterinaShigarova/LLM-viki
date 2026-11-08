@@ -950,6 +950,50 @@
       "completed_at": "2026-11-09",
       "note_path": "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md",
       "limitations": "От заголовка БЭЗ PDF144 до заголовка 1.2.7 на PDF147; таблица 1.2.6.3 и все зональные выводы. Осадки PDF147 исключены."
+    },
+    {
+      "id": "completed-malo-more-hydrobiology-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "Малое море 2019: три микробиологические и две фитопланктонные станции",
+      "candidate_pdf_pages": [
+        45,
+        46
+      ],
+      "located_evidence_page": 45,
+      "exact_locator_quote": "                                                                          43\n\nгл",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        45,
+        46
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md",
+      "limitations": "Весь именованный подраздел; соседнее селенгинское продолжение и общие выводы выделены отдельно."
+    },
+    {
+      "id": "completed-hydrobiology-conclusions-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "2019: все районные гидробиологические выводы",
+      "candidate_pdf_pages": [
+        46,
+        47
+      ],
+      "located_evidence_page": 46,
+      "exact_locator_quote": "  44\n\nНаибольшее видовое разнообразие (33 низших таксона) отмечено в створе п. Х",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        46,
+        47
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md",
+      "limitations": "Все четыре районных пункта до ихтиофауны; не самостоятельная новая станционная программа."
     }
   ],
   "updated_at": "2026-11-08",

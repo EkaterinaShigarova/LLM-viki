@@ -163,6 +163,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p48](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-48) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p51](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-51) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -319,6 +321,9 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p37](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-37) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p35](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-35) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p37](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-37) · доклад 2020.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p47](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-47) · доклад 2019.
 
 
 <a id="water"></a>

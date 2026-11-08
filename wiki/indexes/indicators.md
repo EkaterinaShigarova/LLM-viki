@@ -37,6 +37,7 @@
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
+- [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 
 ## Батометрический отбор
 
@@ -260,6 +261,7 @@
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — доклад 2018.
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
+- [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 
 ## Икра
 
@@ -434,6 +436,10 @@
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
 
+## Микрофлора донных отложений
+
+- [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
+
 ## Минерализация
 
 - [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
@@ -605,9 +611,17 @@
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 - [2017: Северный Байкал — методы, сообщества и несогласованные записи](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/north-baikal-hydrobiology.md) — доклад 2017.
 
+## Планктон и бентос
+
+- [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
+
 ## Площади биоиндикаторных зон
 
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
+
+## Площади загрязнения
+
+- [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 
 ## Площадь индикаторной зоны
 
@@ -710,6 +724,10 @@
 - [2019: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/baikal-omul.md) — доклад 2019.
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2024: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md) — доклад 2024.
+
+## Районные ограничения
+
+- [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 
 ## Растворённый кислород
 
@@ -896,6 +914,7 @@
 - [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
+- [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 
 ## Фитопланктон: численность и биомасса
 
