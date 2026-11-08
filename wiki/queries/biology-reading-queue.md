@@ -178,3 +178,9 @@ PDF220–222 от подзаголовка искусственного восп
 ## Выполнено 9 ноября: malo2023_comparison
 
 - [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — PDF46,55,56,57,58
+
+## Выполнено 9 ноября: south_ports_conclusions2023
+
+- [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — PDF46,58,59,60,63
+- [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — PDF46,60,61,62
+- [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — PDF62,63

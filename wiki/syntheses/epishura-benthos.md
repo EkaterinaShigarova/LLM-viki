@@ -108,4 +108,8 @@
 
 В июне 2023 на Малом море эпишура формировала 93% числа и 99,9% массы общего зоопланктона, осенью 37,5% числа и 85% массы; по числу осенью лидировали коловратки 59%. Общие средние — не отдельная оценка эпишуры. Бентос Ван-Вином 0,08 м² на 32–230 м имел средние 10538 экз./м²/30 г/м², без распространения на всё озеро. [Станции, таблицы и ограничения](malo-more-communities.md). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p57](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-57) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58)
 
+## Глубины южных станций 2023
+
+Култук—Слюдянка: бентос 7/180/79 м имеет 9950/263/1875 экз./м² и 23/5/16 г/м², соответственно. Порт Култук на 7 м даёт 10625/20,6; одинаковая глубина и близкое имя не доказывают одну пробу. В районе Слюдянки каланоиды формируют 91% массы общего зоопланктона, на средней станции 96%; эти доли не присвоены автоматически одной эпишуре. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61)
+
 <!-- HUMAN NOTES -->

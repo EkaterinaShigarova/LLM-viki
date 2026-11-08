@@ -131,4 +131,8 @@
 
 В сентябре 2019 года на Малом море бактериопланктон и донную микрофлору изучали на трёх станциях, фитопланктон — только на двух. На последних численность составила 1260,306–1437,041 тыс. кл/л, масса 169,368–197,908 мг/м³; минимумы Хужир, максимумы Хорин-Ирги—Улан у Кобыльей Головы. Chrysochromulina parva45,8–68,0% и Rhodomonas pusilla20,2–29,3% лидировали по числу. Полуразрушенные клетки Spirogyra найдены в фитопланктоне Хужира, что не равно оценке площади зарослей. Третью, микробиологическую станцию Зундук—Хобой нельзя включать в этот фитопланктонный диапазон. [Подробный конспект](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md). [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46)
 
+## Южные станции 2023 и разные объекты
+
+Култук—Слюдянка 2023: районные станции имеют фитопланктон 784/914/1161 тыс. кл/л и 325/170/215 мг/м³; порт Култук имеет 908,5/200 в тех же единицах. Эти записи не заменяют друг друга только из-за названия населённого пункта. Районная проза и выводы называют август, таблица 59 — сентябрь; оба периода сохранены в [CSV](../../datasets/kultuk_slyudyanka_hydrobiology_2023.csv). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63)
+
 <!-- HUMAN NOTES -->

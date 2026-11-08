@@ -86,4 +86,8 @@
 
 Маломорская последовательность различает полуразрушенные клетки фитопланктона Хужира 2019, необнаружение в планктоне 2020 и нити в сетных пробах всех трёх станций 15–50 м осенью 2023. Донные пробы 2023 не содержали спирогиры; это не динамика площади зарослей. [Станции, таблицы и ограничения](malo-more-communities.md). [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56)
 
+## Портовые и районные находки 2023
+
+Южные находки спирогиры 2023 различаются типом пробы: во всех сетных пробах пяти портов, в донных портовых только Култук и Большое Голоустное; во всех районных пробах Култук—Слюдянка. Значительное количество нитей не равно картированной площади зарастания или доказанной причине загрязнения. [Станционные данные](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63)
+
 <!-- HUMAN NOTES -->

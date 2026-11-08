@@ -1062,6 +1062,77 @@
       "completed_at": "2026-11-09",
       "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md",
       "limitations": "Полный районный подраздел PDF55–58 до Култука; PDF46 только общая методика. Селенгинский материал PDF55 и Култук PDF58 не включены."
+    },
+    {
+      "id": "completed-kultuk-slyudyanka-hydrobiology-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "2023: Култук—Слюдянка — три станции и несогласованный месяц",
+      "candidate_pdf_pages": [
+        46,
+        63
+      ],
+      "located_evidence_page": 46,
+      "exact_locator_quote": "44                                            Государственный доклад «О состояни",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        46,
+        58,
+        59,
+        60,
+        63
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md",
+      "limitations": "Весь районный подраздел PDF58–60, общая методика46 и проверка месяца в итогах63. Портовый материал отделён."
+    },
+    {
+      "id": "completed-ports-hydrobiology-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "2023: пять портов — сообщества, микрофлора и разные сезоны",
+      "candidate_pdf_pages": [
+        46,
+        62
+      ],
+      "located_evidence_page": 46,
+      "exact_locator_quote": "44                                            Государственный доклад «О состояни",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        46,
+        60,
+        61,
+        62
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md",
+      "limitations": "Весь подраздел PDF60–62 до выводов; PDF46 общая методика. Таблицы59 другого района не присвоены портам."
+    },
+    {
+      "id": "completed-hydrobiology-conclusions-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "2023: все гидробиологические выводы — статистика районов",
+      "candidate_pdf_pages": [
+        62,
+        63
+      ],
+      "located_evidence_page": 62,
+      "exact_locator_quote": "60                                            Государственный доклад «О состояни",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        62,
+        63
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md",
+      "limitations": "Все три пункта до ихтиофауны; авторское обобщение не объявлено проверкой единой программы."
     }
   ],
   "updated_at": "2026-11-08",

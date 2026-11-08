@@ -64,4 +64,8 @@
 - [Доклад 2021: ports](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/ports.md)
 - [Доклад 2025: ports-review](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md)
 
+## Биологические наблюдения пяти портов 2023
+
+Пять портов в 2023 исследовали раздельно: Байкальск, Култук, Выдрино в августе, Байкал и Большое Голоустное в сентябре. Водные гетеротрофы соответственно 224/136/318/130/303 кл/мл — не химические концентрации нефтепродуктов. Фитопланктон 426/908,5/972/1898/1692 тыс. кл/л и 72/200/140/290/295 мг/м³; общий зоопланктон 61/57,5/41/27/14 тыс. экз./м³. Донный Ван-Вин 0,08 м² охватывал 7–56 м, разные грунты/глубины и сезоны ограничивают ранжирование воздействия судоходства. Спирогира найдена во всех зоопланктонных пробах и только двух портовых донных наборах. [Весь портовый подраздел](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p62](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-62)
+
 <!-- HUMAN NOTES -->
