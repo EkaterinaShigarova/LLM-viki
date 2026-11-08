@@ -92,4 +92,8 @@
 
 Эпишура КОС 2019: средние **14,520 тыс.экз/м³/189,75 мг/м³**, Север — весь зоопланктон **23,531/391,93** летом и **22,775/296,83** осенью. Доля эпишуры до 99,8% относится северным реперам, не всей акватории. Для северного бентоса проза даёт массу **28,11«экз./м²»**, тогда как табличная масса вг/м²; восточное число **30854 в прозе/30853 в таблице** сохранено. Стратификация не позволяет подменять эти значения общим средним 11915/17,7. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p38](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-38) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p40](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-40) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42)
 
+## Север2020: направление массы и несогласованная единица
+
+Для северного зоопланктона 2020 рядом с утверждением **роста биомассы к осени вдвое** напечатаны средние **503,22→257,20 мг/м³**, таблица также 503→257. Число 22,021→23,698 тыс.экз/м³ растёт незначительно. Оба сообщения сохранены, вывод не исправлен как будто есть официальный протокол. Бентосная таблица подписана **тыс.экз/м²**, но ретроспектива 2019 **476–59416/11915** перенесена без масштаба из прежнихэкз/м². Умножение 2019 на 1000 не выполнено. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p40](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-40) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p41](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-41) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42)
+
 <!-- HUMAN NOTES -->

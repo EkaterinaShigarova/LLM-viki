@@ -74,4 +74,8 @@
 
 На КОС 2019Spirogyra зимой найдена в **половине донных проб**, летом сетьюДжеди в **трети июньских/половине августовских зоопроб**. На севере она описана в большинстве прибрежных зоопроб без точного процента. Источник использует слово«харовая»,2018«нитчатая зелёная»; эта формулировка не основание объединять другие таксоны или оценивать площадь зарастания. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p38](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-38) [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p42](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-42)
 
+## Спирогира2020: пробовые доли и большая масса одной пробы
+
+На КОС 2020 **63% донных проб** содержали Spirogyra, а зоопробы **7% март/12% июнь**. На Севере **43% июнь/90% сентябрь зоопроб**; в одной северной фитопробе **93,2% массы**, не доля акватории. Находки донных проб до 109/141 м у КОС и 30–200 м на севере не доказывают прикреплённую популяцию на этих глубинах. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p38](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-38) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p42](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-42)
+
 <!-- HUMAN NOTES -->
