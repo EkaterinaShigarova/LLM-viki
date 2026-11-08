@@ -169,6 +169,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
@@ -207,6 +209,7 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -256,6 +259,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48) · доклад 2021.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -351,6 +356,10 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p62](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-62) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p45](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-45) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48) · доклад 2021.
 
 
 <a id="water"></a>

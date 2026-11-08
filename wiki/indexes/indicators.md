@@ -64,6 +64,7 @@
 - [2020: Селенгинское мелководье — Ван-Вин, спирогира в биомассе и спорная размерность](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) — доклад 2020.
 - [2023: Селенгинское мелководье — сообщества и уточняющая ретроспективная единица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/selenga-shallows-hydrobiology.md) — доклад 2023.
 - [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — доклад 2023.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Биоиндикация
 
@@ -461,6 +462,10 @@
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
 
+## Микробные сообщества
+
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
+
 ## Микрофлора
 
 - [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — доклад 2023.
@@ -820,6 +825,7 @@
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2018: все гидробиологические выводы и их районная принадлежность](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) — доклад 2018.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Сезонные категории и фон
 
@@ -970,6 +976,7 @@
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 - [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 - [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — доклад 2023.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Фитопланктон: численность и биомасса
 
@@ -1035,6 +1042,10 @@
 ## ЭВЗ кадмием
 
 - [2024: Уда — фоновый и контрольный створы Улан-Удэ](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/uda-water-quality.md) — доклад 2024.
+
+## Эпишура
+
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 [Главный индекс](../index.md)
 

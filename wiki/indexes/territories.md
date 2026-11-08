@@ -248,6 +248,7 @@
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Кабанский заказник
 
@@ -596,6 +597,7 @@
 
 - [2018: КОС Байкальска — полный гидробиологический подраздел](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md) — доклад 2018.
 - [2019: КОС Байкальска — состав сообществ и методика Петерсена](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/kos-hydrobiology.md) — доклад 2019.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Хамар-Дабан
 
@@ -692,6 +694,7 @@
 - [2020: КОС Байкальска — сезонные сообщества и табличные агрегаты](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/kos-hydrobiology.md) — доклад 2020.
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## Южный Байкал — Большие Коты, точка № 1
 

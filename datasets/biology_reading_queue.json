@@ -1178,6 +1178,30 @@
       "completed_at": "2026-11-09",
       "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md",
       "limitations": "Полные два зональных подраздела и все выводы до1.2.7. Начало следующего раздела157 проверено как граница, не новое покрытие осадков."
+    },
+    {
+      "id": "next-kos-hydrobiology-2021",
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "title": "2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон",
+      "candidate_pdf_pages": [
+        45,
+        48
+      ],
+      "located_evidence_page": 45,
+      "exact_locator_quote": "                    1.1.1.4. Гидробиологические сообщества\n             (ФГБУ «И",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "completed_at": "2026-11-09",
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md",
+      "limitations": "Полный подраздел и вводная до северного заголовка PDF48; остальные районы и выводы не включены."
     }
   ],
   "updated_at": "2026-11-08",

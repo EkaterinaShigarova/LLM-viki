@@ -90,4 +90,8 @@
 
 Южные находки спирогиры 2023 различаются типом пробы: во всех сетных пробах пяти портов, в донных портовых только Култук и Большое Голоустное; во всех районных пробах Култук—Слюдянка. Значительное количество нитей не равно картированной площади зарастания или доказанной причине загрязнения. [Станционные данные](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63)
 
+## КОС2021: доля проб и глубины
+
+В 2021 у КОС спирогира отмечена в 34% зимних бентосных проб 18–120 м, на фоне 50 м; в зоопланктоне июнь 7%, август 61%, март отдельная станция. Репер без обнаружения. Это разные пробы и сезоны, не доля площади зарастания и не доказанный рост на каждом горизонте. [Станции и единицы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47)
+
 <!-- HUMAN NOTES -->

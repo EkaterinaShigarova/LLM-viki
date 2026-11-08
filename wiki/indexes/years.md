@@ -75,6 +75,7 @@
 - [2021: температура, прозрачность и планктон на точке № 1 у Больших Котов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/temperature-point-1.md) — доклад 2021.
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
 - [2021: глубоководные рыбы и гаммариды в аквариумах Байкальского музея](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/deep-fish-aquarium.md) — доклад 2021.
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
 ## 2022
 

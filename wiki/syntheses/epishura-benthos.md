@@ -112,4 +112,8 @@
 
 Култук—Слюдянка: бентос 7/180/79 м имеет 9950/263/1875 экз./м² и 23/5/16 г/м², соответственно. Порт Култук на 7 м даёт 10625/20,6; одинаковая глубина и близкое имя не доказывают одну пробу. В районе Слюдянки каланоиды формируют 91% массы общего зоопланктона, на средней станции 96%; эти доли не присвоены автоматически одной эпишуре. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61)
 
+## КОС2021: эпишура и раздельный донный контроль
+
+Эпишура 2021 у КОС: средние число 17,53/3,99/17,05 тыс. экз./м³ и масса 74,87/49,71/341,17 мг/м³ в марте/июне/августе. Контрольный бентос 15603 экз./м²/9,25 г/м², фон 12077/6,91; Петерсен одинаков, глубины 18–140 против 20–100 м различаются. Годовые отношения автора не заменяют проверки парности станций. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48)
+
 <!-- HUMAN NOTES -->

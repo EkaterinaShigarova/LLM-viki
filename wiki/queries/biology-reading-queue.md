@@ -189,3 +189,7 @@ PDF220–222 от подзаголовка искусственного восп
 
 - [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — PDF153,154
 - [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — PDF154,155,156
+
+## Выполнено 9 ноября: kos2021_complete
+
+- [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — PDF45,46,47,48
