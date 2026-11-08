@@ -43,6 +43,8 @@ Codex читает государственные доклады, готовит
 | Цитаты и прежние научные опоры | [datasets/scientific_archive.json](../datasets/scientific_archive.json) | Найти сохранённые первичные выдержки и ограничения |
 | Три прежних дополнения | [datasets/editorial_candidates.json](../datasets/editorial_candidates.json) | Проверить источниковую опору и историческую версию статьи; решения человека нет |
 | Нерешённые вопросы | [wiki/questions.md](../wiki/questions.md) | Увидеть противоречия и недостающие методики |
+| Сообщества Малого моря | [Статья](../wiki/syntheses/malo-more-communities.md), [таблица2022/2023](../datasets/malo_more_hydrobiology_2022_2023.csv) | Найти станции, месяцы и разные типы проб; прочерк не означает ноль |
+| Воздух и выбросы по территориям | [Статья](../wiki/syntheses/air-pollution.md), [таблицы2020–2024](../datasets/air_emissions_2020_2024.csv) | Отличить концентрацию от массы выбросов, годовое среднее от разового и месячного максимума; таблицы не меняют 168 observations |
 | Что сделано и что дальше | [PROGRESS.md](../PROGRESS.md), [REMAINING.md](REMAINING.md) | Продолжить работу с реальных пробелов |
 | Сохранность корпуса и проверки | [datasets/reorientation_audit.json](../datasets/reorientation_audit.json) | Посмотреть контрольные суммы и итоги проверок этого этапа |
 | Удалённые компоненты | [REMOVAL_MANIFEST.md](REMOVAL_MANIFEST.md) | Понять очистку и где сохранены полезные данные |

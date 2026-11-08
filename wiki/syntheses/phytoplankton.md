@@ -135,7 +135,7 @@
 
 Култук—Слюдянка 2023: районные станции имеют фитопланктон 784/914/1161 тыс. кл/л и 325/170/215 мг/м³; порт Култук имеет 908,5/200 в тех же единицах. Эти записи не заменяют друг друга только из-за названия населённого пункта. Районная проза и выводы называют август, таблица 59 — сентябрь; оба периода сохранены в [CSV](../../datasets/kultuk_slyudyanka_hydrobiology_2023.csv). [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p59](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-59) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63)
 
-## КОС2021: три разных сезонных характеристики
+## КОС 2021: три разных сезонных характеристики
 
 В 2021 у КОС весь сезон лидирует Chrysochromulina parva, июнь добавляет крупные золотистые/диатомеи; предыдущий синедровый год не перенесён сюда. Среднее число 231,1 тыс. кл/л в марте и 839,7 в августе, масса 47,2 мг/м³ в марте/372,1 в июне: максимумы числа и массы приходятся на разные сезоны/станции. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47)
 

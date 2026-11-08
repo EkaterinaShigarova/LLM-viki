@@ -4260,7 +4260,7 @@
       "notes": [
         {
           "path": "notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/kos-hydrobiology.md",
-          "sha256": "8a70e1524aba0ecbd3ea49b256af4779869b8bb7113b64e3d52e84479dcb90e8",
+          "sha256": "efd7023644867015ff87c598113e1585327fa3883b6ee0ee0c37ca028164e618",
           "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
           "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "report_year": 2018,
@@ -6837,7 +6837,7 @@
       "notes": [
         {
           "path": "notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md",
-          "sha256": "333314ab9759341b6766775f50f2c9c4520096f1e9584479ca895664d0b3185e",
+          "sha256": "1b9c1c3ea0f1849321df22367d25a2a98fd1c695f21bf03f488cd7d874cbaf6b",
           "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
           "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
           "report_year": 2019,
@@ -6849,7 +6849,7 @@
         },
         {
           "path": "notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md",
-          "sha256": "4c625fb98bd6574af2d3984c698f8e5d15577710c9a30cdd45ac23d9d1305eac",
+          "sha256": "53c202598c973e6e54d984578f111260d60734d71610595158088a965c724a35",
           "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
           "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
           "report_year": 2019,
@@ -7071,7 +7071,7 @@
       "notes": [
         {
           "path": "notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md",
-          "sha256": "69b2800ff0a272499ad1c6fd0a2e77f11c8ba636b2f96b87538d41ce0436e919",
+          "sha256": "2f430d2299df3384c0526f54c5b91c895020b94ae60e819ca80f666a2656d5e2",
           "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
           "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
           "report_year": 2021,
@@ -7635,6 +7635,31 @@
       "article": "syntheses/malo-more-communities.md",
       "sha256": "64025c4fdf3e898e8309831a2f761e619eb423e55d419484ab93d7d730dfedd2",
       "path": "data/wiki_updates/versions/64025c4fdf3e898e8309831a2f761e619eb423e55d419484ab93d7d730dfedd2.md"
+    },
+    {
+      "article": "syntheses/air-pollution.md",
+      "sha256": "f78ec2cf1571b4fd76bc4e62ab1d3e04d854a201bed9e77af411f540778d8ff0",
+      "path": "data/wiki_updates/versions/f78ec2cf1571b4fd76bc4e62ab1d3e04d854a201bed9e77af411f540778d8ff0.md"
+    },
+    {
+      "article": "syntheses/epishura-benthos.md",
+      "sha256": "855951b9fff737777222ba4c1944f915315dbdf0c1fc615589ed7a585cff09a6",
+      "path": "data/wiki_updates/versions/855951b9fff737777222ba4c1944f915315dbdf0c1fc615589ed7a585cff09a6.md"
+    },
+    {
+      "article": "syntheses/phytoplankton.md",
+      "sha256": "e1b519630ca8c08976de7e1b9ecb73c0a21b3292a3d905237a05568e35718117",
+      "path": "data/wiki_updates/versions/e1b519630ca8c08976de7e1b9ecb73c0a21b3292a3d905237a05568e35718117.md"
+    },
+    {
+      "article": "syntheses/spirogyra-observations.md",
+      "sha256": "de204fa9c5e8c18f388175e45873183cdec749b270f391762e35af9df13b82b3",
+      "path": "data/wiki_updates/versions/de204fa9c5e8c18f388175e45873183cdec749b270f391762e35af9df13b82b3.md"
+    },
+    {
+      "article": "syntheses/hydrobiological-monitoring-methods.md",
+      "sha256": "e06b990df043a9bfa5f2c273593a8be3ce0d0692a1aa33649f6ee6db9090b290",
+      "path": "data/wiki_updates/versions/e06b990df043a9bfa5f2c273593a8be3ce0d0692a1aa33649f6ee6db9090b290.md"
     }
   ],
   "editorial_cleanup_scope": "Readability/spacing in session additions only;numeric token sequences unchanged;initial article bodies and HUMAN NOTES preserved.",
@@ -7849,9 +7874,9 @@
         ],
         "human_notes_preserved": 39,
         "original_selected_claim_blocks_unchanged": 370,
-        "new_selected_claim_blocks": 52,
-        "new_evidence_references_checked": 200,
-        "source_table_cells_checked": 1240,
+        "new_selected_claim_blocks": 60,
+        "new_evidence_references_checked": 226,
+        "source_table_cells_checked": 1336,
         "source_datasets": {
           "datasets/kos_hydrobiology_2017_2018.csv": 96,
           "datasets/north_hydrobiology_2017_2018.csv": 112,
@@ -7863,15 +7888,16 @@
           "datasets/north_hydrobiology_2022_2023.csv": 112,
           "datasets/air_emissions_2020_2024.csv": 360,
           "datasets/malo_more_hydrobiology_2022_2023.csv": 32,
-          "datasets/kultuk_slyudyanka_hydrobiology_2023.csv": 8
+          "datasets/kultuk_slyudyanka_hydrobiology_2023.csv": 8,
+          "datasets/kos_hydrobiology_2020_2021.csv": 96
         },
-        "new_notes": 20,
-        "total_notes": 99,
+        "new_notes": 23,
+        "total_notes": 102,
         "total_articles": 40,
         "distinct_note_pages_before": 206,
-        "distinct_note_pages_after": 254,
-        "new_distinct_note_pages": 48,
-        "actual_source_pages_read": 60,
+        "distinct_note_pages_after": 262,
+        "new_distinct_note_pages": 56,
+        "actual_source_pages_read": 68,
         "revisited_pages": 12,
         "actual_pages_by_source": {
           "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": [
@@ -7917,7 +7943,11 @@
             43,
             45,
             46,
-            47
+            47,
+            153,
+            154,
+            155,
+            156
           ],
           "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": [
             35,
@@ -7933,6 +7963,12 @@
             46,
             47
           ],
+          "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": [
+            45,
+            46,
+            47,
+            48
+          ],
           "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": [
             139,
             140,
@@ -7946,13 +7982,81 @@
           ]
         },
         "observations_rows": 168,
-        "completed_research_blocks": 10,
+        "registered_stages": 12,
+        "completed_research_blocks": 11,
+        "comparison_components": 1,
         "expert_review": false,
         "full_corpus_completeness_established": false,
-        "errors": []
+        "errors": [],
+        "markdown_links": {
+          "changed_markdown_files": 218,
+          "local_links_checked": 6425,
+          "physical_page_anchors_checked": 3553,
+          "errors": []
+        }
       },
-      "finished_utc": "2026-11-08T17:14:47.394605+00:00",
-      "elapsed_minutes": 42.319338216666665
+      "finished_utc": "2026-11-08T17:26:22.698650+00:00",
+      "elapsed_minutes": 53.90773896666667,
+      "research_blocks_completed": 11,
+      "comparison_components": 1,
+      "boundary_only_original_checks": [
+        {
+          "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+          "page": 47,
+          "reason": "Следующий1.1.1.5 после выводов"
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "page": 48,
+          "reason": "Ихтиофауна после всех выводов"
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "page": 157,
+          "reason": "Начало1.2.7 после атмосферного раздела"
+        }
+      ],
+      "limitations": "Only selected named subsections; full corpus completeness and expert review not claimed. Local PDFs/caches remain outside Git; text and manifests committed.",
+      "validation_commands": [
+        {
+          "command": "python -m unittest discover -s tests -v",
+          "status": "passed",
+          "log_sha256": "1fcedeb83b13048167f56f8ce9a4eaa8ff6392885f63e7d79c900323982e2279"
+        },
+        {
+          "command": "python -m baikal lint",
+          "status": "passed",
+          "log_sha256": "bb0fc3b2374fe0a5e9d341bc5310e0182b6920d34c63545149bf91cd4b5d2882"
+        },
+        {
+          "command": "python scripts/check_scientific_data.py --require-local",
+          "status": "passed",
+          "log_sha256": "cc20c62359e2e9c00708595f6237ac13e8a9eb124fe4e94ceff3d67c2ba6d2a1"
+        },
+        {
+          "command": "python scripts/check_knowledge.py --require-local",
+          "status": "passed",
+          "log_sha256": "bc9f24aad2192be53ace9e0f8ea7a96221dfeba890868c82d10cf9c7f7498b2f"
+        }
+      ],
+      "unit_tests_passed": 64,
+      "known_warnings": [
+        "year 2003: no title-verified processed source",
+        "year 2004: no title-verified processed source",
+        "year 2005: no title-verified processed source",
+        "year 2006: no title-verified processed source",
+        "year 2007: no title-verified processed source",
+        "year 2008: no title-verified processed source",
+        "year 2009: no title-verified processed source",
+        "year 2010: no title-verified processed source",
+        "year 2011: no title-verified processed source",
+        "year 2012: no title-verified processed source",
+        "year 2013: no title-verified processed source",
+        "year 2014: no title-verified processed source",
+        "year 2026: no title-verified processed source"
+      ],
+      "main_reference_unchanged": "0a114cd86c88c3b463884c50cb9607873eed114f",
+      "time_basis": "Wall clock UTC start/end; public entries dated Asia/Irkutsk. No claim of a full three-hour session."
     }
   ],
   "editorial_checks_20261109": {

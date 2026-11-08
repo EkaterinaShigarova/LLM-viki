@@ -1256,6 +1256,7 @@
 - КОС:18в тексте/17в таблице зимой; осадочный максимум32,7в тексте/24–27в общих таблицах.
 - Север:июльв программе/июньв таблицах;567/123таблица против254/182текст.
 - Север:максимум зоопланктонного числа назван осенним, но66в летней колонке/40в осенней.
+- PDF36: единица фитопланктона напечатана тыс.л/л; тыс.кл/л из прозы хранится отдельно как контекст.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p35](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-35)
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p36](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-36)
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p39](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-39)

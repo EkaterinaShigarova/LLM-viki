@@ -854,9 +854,26 @@
       ],
       "located_evidence_page": 139,
       "exact_locator_quote": "1.2.6. Атмосферный воздух",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
-      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+      "substantive_reading_completed": true,
+      "boundary_status": "whole_section_original_images_checked_139_to_147_before_1.2.7",
+      "limitations": "Лесной блок139 и осадки147 исключены, три таблицы и все выводы включены.",
+      "verified_pdf_pages": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "completed_at": "2026-11-09",
+      "note_paths": [
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-monitoring-central-zone.md",
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md",
+        "wiki/notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md"
+      ]
     },
     {
       "id": "completed-hydrobiology-conclusions-2018",
@@ -1202,6 +1219,118 @@
       "completed_at": "2026-11-09",
       "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md",
       "limitations": "Полный подраздел и вводная до северного заголовка PDF48; остальные районы и выводы не включены."
+    },
+    {
+      "id": "next-north2021",
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "title": "Северный Байкал: весь подраздел",
+      "candidate_pdf_pages": [
+        48,
+        51
+      ],
+      "located_evidence_page": 48,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-selenga2021",
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "title": "Селенгинское мелководье: весь подраздел",
+      "candidate_pdf_pages": [
+        51,
+        53
+      ],
+      "located_evidence_page": 51,
+      "exact_locator_quote": "Район Селенгинского мелководья",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-malo2021",
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "title": "Малое море: весь подраздел",
+      "candidate_pdf_pages": [
+        53,
+        55
+      ],
+      "located_evidence_page": 53,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Малого Моря",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-conclusions2021",
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "title": "Все гидробиологические выводы до ихтиофауны",
+      "candidate_pdf_pages": [
+        55,
+        56
+      ],
+      "located_evidence_page": 55,
+      "exact_locator_quote": "Выводы",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-air2018",
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "report_year": 2018,
+      "title": "Весь1.2.6: атмосферный воздух",
+      "candidate_pdf_pages": [
+        144,
+        147
+      ],
+      "located_evidence_page": 144,
+      "exact_locator_quote": "1.2.6. Атмосферный воздух",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-air2020",
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "source_sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "title": "Весь1.2.6: атмосферный воздух",
+      "candidate_pdf_pages": [
+        159,
+        162
+      ],
+      "located_evidence_page": 159,
+      "exact_locator_quote": "1.2.6. Атмосферный воздух",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+    },
+    {
+      "id": "next-air2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "Весь1.2.6: атмосферный воздух",
+      "candidate_pdf_pages": [
+        167,
+        175
+      ],
+      "located_evidence_page": 167,
+      "exact_locator_quote": "1.2.6. Атмосферный воздух",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_text_navigation_only_original_reading_required",
+      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
     }
   ],
   "updated_at": "2026-11-08",
