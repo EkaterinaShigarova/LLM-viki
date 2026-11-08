@@ -103,4 +103,8 @@
 
 В 2017 на севере около **276 таксонов ниже рода восьмиотделов**, летние пробы 19–160/осенние 23–72. Основучисла оба сезонасоставляли **Chrysochromulina parva/Rhodomonas pusilla**, летом добавлялась **Dinobryon cylindricum**. Июньская средняя численность 1322,3 тыс. кл/лв прозе/1369 в таблице остаётся неоднозначной; объявлятьпоэтому точный рост/спад к 2022 нельзя. Названные автором индикаторы Aphanizomenon/Anabaena у Кичеры —его биоиндикаторнаяинтерпретация, не измерение концентрации органики. [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p33](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-33) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p34](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-34) [drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr:p35](../sources/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr.md#page-35)
 
+## Мелководье Селенги 2019: смена доминантов не равна доказанной причине
+
+В 2019 селенгинский фитопланктон имел свыше 185 таксонов семиотделов; по числу ведущими названы **Dictyosphaerium subsolitaria11,0–40,9%**и **Raphidocelis sigmoidea8,3–37,7%**, преимущественно космополитные зелёные. Chrysochromulina parva **6,6–25,4%**обычно третья, на отдельных северо-восточных станциях выше. Максимумы развития/разнообразия у Кривой над 23 м, минимумы Колпинная над 32 м. Такая видовая и пространственная информация дополняет 2017/2018, но сама по себе не доказывает действие стоков, климатическую тенденцию или долгосрочную сукцессию. [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p44](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-44)
+
 <!-- HUMAN NOTES -->

@@ -41,6 +41,7 @@
 - [2019: съёмка авандельты Селенги и разделение двух сред](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-sediments.md) — доклад 2019.
 - [2019: уровенный ход, балансовый фон и весенние ледовые события](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrology.md) — доклад 2019.
 - [2019: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/baikal-omul.md) — доклад 2019.
+- [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — доклад 2019.
 
 ## 2020
 

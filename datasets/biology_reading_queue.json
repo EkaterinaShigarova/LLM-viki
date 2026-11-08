@@ -445,6 +445,29 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md",
       "limitations": "От заголовка внизуPDF42до концаPDF44,вся таблица1.1.1.4.3;общие выводыPDF45не включены."
+    },
+    {
+      "id": "followup-selenga-shallows-hydrobiology-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "2019: Селенгинское мелководье — зелёные доминанты и донные сообщества",
+      "candidate_pdf_pages": [
+        43,
+        45
+      ],
+      "located_evidence_page": 43,
+      "exact_locator_quote": "                                                                          41\n\n    В зоне влияния тра",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        43,
+        44,
+        45
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md",
+      "limitations": "От заголовкаPDF43через полную таблицу и текст до заголовка Малого моряPDF45;север/Малое море исключены."
     }
   ],
   "updated_at": "2026-11-08",

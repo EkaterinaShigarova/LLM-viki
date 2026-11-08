@@ -94,3 +94,7 @@ PDF220–222 от подзаголовка искусственного восп
 ## Завершённое чтение: followup_selenga2018
 
 - [2018: Селенгинское мелководье — сообщества и масштабы донной микрофлоры](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/selenga-shallows-hydrobiology.md) — PDF42,43,44
+
+## Завершённое чтение: followup_selenga2019
+
+- [2019: Селенгинское мелководье — зелёные доминанты и донные сообщества](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/selenga-shallows-hydrobiology.md) — PDF43,44,45
