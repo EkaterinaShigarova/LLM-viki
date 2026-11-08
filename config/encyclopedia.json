@@ -2199,6 +2199,106 @@
               "gap": "Выбранные страницы не охватывают все ООПТ; нужны результаты сохранения видов."
             }
           ]
+        },
+        {
+          "id": "land-use",
+          "title": "Землепользование и границы учёта",
+          "topics": [
+            {
+              "id": "land-use-accounting",
+              "title": "Категории земель и угодья: ограничения административного учёта",
+              "article": "syntheses/land-use-accounting.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 134
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 135
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 136
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 137
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 138
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 139
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 135
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 136
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 137
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 138
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 139
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 140
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 144
+                },
+                {
+                  "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+                  "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+                  "report_year": 2024,
+                  "page": 136
+                }
+              ],
+              "gap": "Карты муниципалитетов/БПТ, первичные формы и земельные разделы остальных лет"
+            }
+          ]
         }
       ]
     },
@@ -2386,6 +2486,24 @@
                   "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
                   "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
                   "report_year": 2015,
+                  "page": 139
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 135
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 138
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
                   "page": 139
                 }
               ],

@@ -617,6 +617,176 @@
       "completed_at": "2026-11-08",
       "note_path": "wiki/notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md",
       "limitations": "Полный разделPDF134–139; следующая глава сPDF140 не включена. Все муниципальные строки и оригинальные изображения проверены."
+    },
+    {
+      "id": "followup-land-categories-agricultural-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы",
+      "candidate_pdf_pages": [
+        135,
+        140
+      ],
+      "located_evidence_page": 135,
+      "exact_locator_quote": "                                                                         133\n     1.2.3. Земли\n     ",
+      "substantive_reading_completed": true,
+      "boundary_status": "complete_named_subsection_original_images_and_cached_text_checked",
+      "verified_pdf_pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "completed_at": "2026-11-08",
+      "note_path": "wiki/notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md",
+      "limitations": "ПолностьюPDF135–140, включая методический абзац, две таблицы, четыре диаграммы и выводы; следующая лесная глава отдельно."
+    },
+    {
+      "id": "next-kos-hydrobiology-2018",
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "report_year": 2018,
+      "title": "kos-hydrobiology-2018",
+      "candidate_pdf_pages": [
+        35,
+        39
+      ],
+      "located_evidence_page": 35,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-north-hydrobiology-2018",
+      "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+      "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+      "report_year": 2018,
+      "title": "north-hydrobiology-2018",
+      "candidate_pdf_pages": [
+        39,
+        42
+      ],
+      "located_evidence_page": 39,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-kos-hydrobiology-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "kos-hydrobiology-2019",
+      "candidate_pdf_pages": [
+        35,
+        39
+      ],
+      "located_evidence_page": 35,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-north-hydrobiology-2019",
+      "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+      "source_sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+      "report_year": 2019,
+      "title": "north-hydrobiology-2019",
+      "candidate_pdf_pages": [
+        39,
+        43
+      ],
+      "located_evidence_page": 39,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-kos-hydrobiology-2020",
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "source_sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "title": "kos-hydrobiology-2020",
+      "candidate_pdf_pages": [
+        35,
+        39
+      ],
+      "located_evidence_page": 35,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе КОС г. Байкальска",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-north-hydrobiology-2020",
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "source_sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+      "report_year": 2020,
+      "title": "north-hydrobiology-2020",
+      "candidate_pdf_pages": [
+        39,
+        43
+      ],
+      "located_evidence_page": 39,
+      "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-kos-hydrobiology-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "kos-hydrobiology-2023",
+      "candidate_pdf_pages": [
+        46,
+        49
+      ],
+      "located_evidence_page": 46,
+      "exact_locator_quote": "1.1.1.4. Гидробиологические сообщества",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-north-hydrobiology-2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "north-hydrobiology-2023",
+      "candidate_pdf_pages": [
+        49,
+        53
+      ],
+      "located_evidence_page": 49,
+      "exact_locator_quote": "Байкала (район трассы БАМ)",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
+    },
+    {
+      "id": "next-air-section-2024",
+      "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+      "source_sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+      "report_year": 2024,
+      "title": "air-section-2024",
+      "candidate_pdf_pages": [
+        139,
+        147
+      ],
+      "located_evidence_page": 139,
+      "exact_locator_quote": "1.2.6. Атмосферный воздух",
+      "substantive_reading_completed": false,
+      "boundary_status": "cached_heading_navigation_only_original_images_and_shared_page_limits_pending",
+      "limitations": "Границы по заголовкам машинного текста; оригиналы, продолжения таблиц и конец на общей странице требуют чтения. Это не содержательное покрытие."
     }
   ],
   "updated_at": "2026-11-08",

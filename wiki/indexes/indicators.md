@@ -241,6 +241,7 @@
 ## Категории земель
 
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Категории качества
 
@@ -691,6 +692,7 @@
 ## Собственность
 
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Сопоставимость
 
@@ -760,6 +762,10 @@
 
 - [2022: кислородная гипотеза аквариумной адаптации голомянок и геномный контекст](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/golomyanka-oxygen-hypothesis.md) — доклад 2022.
 
+## Угодья
+
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
+
 ## Удельное поступление т/(км²·год)
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
@@ -817,6 +823,10 @@
 ## Фоновые концентрации
 
 - [2025: портовые оценки относительно фона и авторская атрибуция](../notes/official-b4e3fcfe0e41e26ea03b/ports-review.md) — доклад 2025.
+
+## Формы22-1/22-2
+
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Химия дождя и снега
 

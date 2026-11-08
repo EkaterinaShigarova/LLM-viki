@@ -56,6 +56,7 @@
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Байкальский заповедник и охранная зона
 
@@ -145,6 +146,7 @@
 - [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Зона атмосферного влияния
 
@@ -170,6 +172,7 @@
 - [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Иркутская область целиком
 
@@ -264,6 +267,10 @@
 
 - [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
 
+## Муниципальные образования
+
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
+
 ## Муниципальные образования БПТ
 
 - [2022: автомобильная статистика субъектов и неполные муниципальные данные БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/road-statistics.md) — доклад 2022.
@@ -352,6 +359,7 @@
 - [2024: лесаБПТ — площади,назначение и использование со всеми таблицами](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-resources-use.md) — доклад 2024.
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
+- [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 
 ## Северная оконечность
 

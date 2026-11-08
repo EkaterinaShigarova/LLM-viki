@@ -1256,7 +1256,8 @@
         "night-review2025-20261108-07",
         "night-kos2022-20261108-08",
         "night-followup_lands2015-20261108-01",
-        "night-followup_lands2015-20261108-02"
+        "night-followup_lands2015-20261108-02",
+        "night-followup_lands2019-20261108-08"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -1265,10 +1266,11 @@
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
         "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
-        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023"
+        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a"
       },
       "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия.",
-      "body_sha256": "bf87ac2775b9cd6a11e36a7006f05ed3fd56c55591e4d82b2dfb9379d72c9807",
+      "body_sha256": "23f78761929f23ca29aae76fc10adc902b99b11a2b28e0d73e362021c261f798",
       "open_questions": [
         "Не строить единый индекс из несопоставимых показателей; проверить официальные экземпляры зеркал и непокрытые годы.",
         "Обзор 2025: проценты олигохетного индекса и доли проб",
@@ -1386,6 +1388,21 @@
           "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
           "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
           "page": 139
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 135
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 138
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 139
         }
       ],
       "review_history": [
@@ -1446,6 +1463,31 @@
             "environmental-problems-06",
             "night-review2025-20261108-07",
             "night-kos2022-20261108-08"
+          ],
+          "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+          "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
+        },
+        {
+          "reviewed_at": "2026-11-08",
+          "body_sha256": "bf87ac2775b9cd6a11e36a7006f05ed3fd56c55591e4d82b2dfb9379d72c9807",
+          "source_revisions": {
+            "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+            "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+            "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
+            "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+            "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023"
+          },
+          "claim_ids": [
+            "environmental-problems-01",
+            "environmental-problems-02",
+            "environmental-problems-03",
+            "environmental-problems-04",
+            "environmental-problems-05",
+            "environmental-problems-06",
+            "night-review2025-20261108-07",
+            "night-kos2022-20261108-08",
+            "night-followup_lands2015-20261108-01",
+            "night-followup_lands2015-20261108-02"
           ],
           "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
           "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки; не заявлена полная атомизация статьи или экспертная рецензия."
@@ -4312,7 +4354,7 @@
       "reviewed_at": "2026-11-08",
       "human_confirmation": null,
       "scientific_review_required": true,
-      "body_sha256": "1d947920599b093a1ffac3d9b0090344c4ea5893f2cf56e707d9bc3e121222ca",
+      "body_sha256": "8b25e0542c6b1989541b57de495241b395963d54bbc4c8dd89f80acf81f9f879",
       "source_revisions": {
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
@@ -4400,6 +4442,104 @@
         "Леса 2019: размерность мониторинга, сумма долей и база сравнения",
         "Земли 2015: угодья Забайкалья, суммы собственности и границы"
       ]
+    },
+    "syntheses/land-use-accounting.md": {
+      "review_history": [],
+      "status": "ai_source_checked",
+      "reviewer_type": "ai_agent",
+      "reviewed_at": "2026-11-08",
+      "human_confirmation": null,
+      "scientific_review_required": true,
+      "body_sha256": "d65859a9f54fb9c6ce04a2051504a14e094e3e519b5f0c3698dd92feb21877f1",
+      "source_revisions": {
+        "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+        "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+        "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8"
+      },
+      "claim_ids": [
+        "night-followup_lands2019-20261108-01",
+        "night-followup_lands2019-20261108-02",
+        "night-followup_lands2019-20261108-03",
+        "night-followup_lands2019-20261108-04",
+        "night-followup_lands2019-20261108-05",
+        "night-followup_lands2019-20261108-06",
+        "night-followup_lands2019-20261108-07"
+      ],
+      "coverage": "Сверены выбранные новые блоки и сохранены прежние проверки;не заявлена полная атомизация статьи или экспертная рецензия.",
+      "review_method": "Agent reads original text,tables,figures and cached context;not specialist review",
+      "reviewed_evidence": [
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 134
+        },
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 135
+        },
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 136
+        },
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 137
+        },
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 138
+        },
+        {
+          "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+          "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+          "page": 139
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 135
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 136
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 137
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 138
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 139
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 140
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "page": 144
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "page": 136
+        }
+      ],
+      "open_questions": []
     }
   },
   "issues": [

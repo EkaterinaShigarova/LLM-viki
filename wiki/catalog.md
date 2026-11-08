@@ -593,6 +593,30 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p75](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-75) · доклад 2021.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p81](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-81) · доклад 2023.
 
+<a id="land-use"></a>
+### Землепользование и границы учёта
+
+- [Категории земель и угодья: ограничения административного учёта](syntheses/land-use-accounting.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Карты муниципалитетов/БПТ, первичные формы и земельные разделы остальных лет
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p134](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-134) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p135](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-135) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p136](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-136) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p137](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-137) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p138](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-138) · доклад 2015.
+[drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p139](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-139) · доклад 2015.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p135](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-135) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p136](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-136) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p137](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-137) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p138](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-138) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p139](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-139) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p140](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-140) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p144](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-144) · доклад 2019.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p136](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-136) · доклад 2024.
+
 
 <a id="methods"></a>
 ## Мониторинг и проверка знаний
@@ -649,6 +673,9 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p137](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-137) · доклад 2015.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p138](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-138) · доклад 2015.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p139](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-139) · доклад 2015.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p135](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-135) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p138](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-138) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p139](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-139) · доклад 2019.
 
 
 <a id="climate"></a>
