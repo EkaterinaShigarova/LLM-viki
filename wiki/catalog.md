@@ -197,6 +197,9 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56) · доклад 2023.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
@@ -241,6 +244,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p57](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-57) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) · доклад 2023.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -329,6 +334,8 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p46](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-46) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) · доклад 2023.
 
 
 <a id="water"></a>
@@ -475,6 +482,21 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p54](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-54) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
+
+- [Малое море: станции, планктон и донные сообщества](syntheses/malo-more-communities.md)
+
+Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p57](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-57) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58) · доклад 2023.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос

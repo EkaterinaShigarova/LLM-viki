@@ -857,6 +857,24 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 53
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 56
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 46
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 45
                 }
               ],
               "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
@@ -1087,6 +1105,18 @@
                   "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
                   "report_year": 2020,
                   "page": 47
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 57
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 58
                 }
               ],
               "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
@@ -1482,6 +1512,18 @@
                   "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
                   "report_year": 2020,
                   "page": 47
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 56
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 58
                 }
               ],
               "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия."
@@ -2049,6 +2091,64 @@
                 }
               ],
               "gap": "Первичные программы/индекс,единица бентоса2022,сопоставимость сетей."
+            },
+            {
+              "id": "malo-more-communities",
+              "title": "Малое море: станции, планктон и донные сообщества",
+              "article": "syntheses/malo-more-communities.md",
+              "status": "published",
+              "evidence_level": "multiyear_text",
+              "sources": [
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 46
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 55
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 56
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 57
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 58
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 45
+                },
+                {
+                  "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+                  "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+                  "report_year": 2019,
+                  "page": 46
+                },
+                {
+                  "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+                  "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+                  "report_year": 2020,
+                  "page": 45
+                }
+              ],
+              "gap": "Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10."
             }
           ]
         },

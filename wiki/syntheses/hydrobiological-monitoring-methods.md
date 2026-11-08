@@ -115,4 +115,8 @@
 
 Общие выводы 2020 года прочитаны целиком: четыре района имеют разные программы, а индикаторная площадь загрязнения КОС не является площадью полигона или доказанной площадью повреждённой экосистемы. Для Малого моря в 2020 впервые добавлен зоопланктон трёх станций, отдельного макробентоса пока нет. [Районный конспект](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md), [все выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md). [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p46](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-46) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p47](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-47)
 
+## Малое море: отдельные станции и расширение программы
+
+Малое море теперь сопоставлено по полным подразделам 2019/2020/2023: от двух фитопланктонных станций к трём, затем к двум сезонам и осеннему бентосу. Одинаковое название района не обеспечивает одинаковой выборки. [Станции, таблицы и ограничения](malo-more-communities.md). [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p58](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-58)
+
 <!-- HUMAN NOTES -->

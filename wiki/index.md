@@ -32,6 +32,7 @@
 - [Наземные охотничьи ресурсы иркутской части БПТ: оценки, добыча и методы учёта](syntheses/hunting-resources-irkutsk-bpt.md)
 - [Гидробиологический мониторинг: станции, пробы и пределы сопоставления](syntheses/hydrobiological-monitoring-methods.md)
 - [Земл епользование БПТ: категории, угодья и границы административного учёта](syntheses/land-use-accounting.md)
+- [Малое море: станции, планктон и донные сообщества](syntheses/malo-more-communities.md)
 - [Коммунальные сточные воды Байкальска: операторы, сброс и контроль качества](syntheses/municipal-wastewater.md)
 - [Северный Байкал: район БАМ и фоновые наблюдения](syntheses/north-baikal-water.md)
 - [Устойчивые органические загрязнители: ПХБ, пестициды и разные среды](syntheses/persistent-organic-pollutants.md)

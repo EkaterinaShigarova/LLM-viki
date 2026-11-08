@@ -174,3 +174,7 @@ PDF220–222 от подзаголовка искусственного восп
 
 - [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — PDF45
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — PDF46,47
+
+## Выполнено 9 ноября: malo2023_comparison
+
+- [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — PDF46,55,56,57,58

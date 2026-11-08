@@ -82,4 +82,8 @@
 
 КОС 2023: **46% донных проб** зимой, **30% зоопроб** в августе. Север: **32% июньских/85% сентябрьских зоопроб**, осенняя программа включает дополнительные станции/реперы; **45% западных донных проб** с 23–137 м. Селенгинские **50% зоопроб/42% донных** на PDF53 стоят после нового заголовка, не присвоены северной выборке. Ни одно отношение не равно площади зарастания. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p46](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-46) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53)
 
+## Малое море: отдельные станции и расширение программы
+
+Маломорская последовательность различает полуразрушенные клетки фитопланктона Хужира 2019, необнаружение в планктоне 2020 и нити в сетных пробах всех трёх станций 15–50 м осенью 2023. Донные пробы 2023 не содержали спирогиры; это не динамика площади зарослей. [Станции, таблицы и ограничения](malo-more-communities.md). [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](../sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p56](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-56)
+
 <!-- HUMAN NOTES -->
