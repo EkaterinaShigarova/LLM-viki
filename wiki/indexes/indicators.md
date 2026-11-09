@@ -7,6 +7,18 @@
 - [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 
+## PM10
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
+## PM2,5
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
 ## Spirogyra
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
@@ -638,6 +650,9 @@
 - [Воздух БЭЗ: станции, эпизоды загрязнения и выбросы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-buffer-zone.md) — доклад 2024.
 - [2019: атмосферная сеть и ЦЭЗ — средние, максимумы и нормативы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-central-zone.md) — доклад 2019.
 - [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 
 ## ПДК и частота превышения
 
@@ -1054,6 +1069,12 @@
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
+## бенз(а)пирен
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
 ## биомасса
 
 - [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
@@ -1068,12 +1089,24 @@
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
+## интервал усреднения
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
 ## методы наблюдений
 
 - [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
 - [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## среднегодовая концентрация
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 
 ## фитопланктон
 

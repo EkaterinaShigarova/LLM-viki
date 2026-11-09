@@ -454,3 +454,7 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 - **hydro2021-conclusion-scope**: Гидробиология 2021: пределы вывода об отсутствии тенденций. Не указаны период ряда, тесты и ошибки; общий вывод не подменяет районные изменения. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
 
 - **selenga2021-retrospective-benthos**: Селенгинская ретроспектива 2020 в докладе 2021: масштаб бентоса. Повтор исходной подписи не разрешает известное расхождение масштаба 2020; тире 2021 не ноль. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52)
+
+## Атмосферный раздел2018: интервалы и городская атрибуция
+
+**air2018-interval-attribution**: два множителя разового озона1,3и2,9даны для трёх городов; формулировки роста×1,0не раскрывают точность; у максимумов БЭЗ не назван временной интервал. Числа не распределены по догадке, нужны первичные ряды, нормы и редакционное пояснение. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p144](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-144) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p145](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-145) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p146](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-146) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147)

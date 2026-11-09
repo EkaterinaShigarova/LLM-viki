@@ -1,0 +1,124 @@
+{
+  "stage": "air2018_complete",
+  "starting_head": "2be22e851dffa8823203d18a07989017bf04e055",
+  "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+  "source_sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+  "date": "2026-11-09",
+  "substantive_pages": [
+    144,
+    145,
+    146,
+    147
+  ],
+  "boundary_only_pages": [
+    148
+  ],
+  "technical_pages": [
+    144,
+    145,
+    146,
+    147,
+    148
+  ],
+  "ocr_pages": 0,
+  "new_notes": 3,
+  "expanded_articles": [
+    "air-pollution",
+    "emissions-and-comparability",
+    "environmental-problems"
+  ],
+  "new_articles": [],
+  "archives": [
+    {
+      "article": "syntheses/air-pollution.md",
+      "sha256": "eccfc4071211ee8ef0c70d4213bcd737187743c8d7d6be2f3bd9bc72277575d4",
+      "path": "data/wiki_updates/versions/eccfc4071211ee8ef0c70d4213bcd737187743c8d7d6be2f3bd9bc72277575d4.md"
+    },
+    {
+      "article": "syntheses/emissions-and-comparability.md",
+      "sha256": "4f6fadb4d5b7a513c03654efb0c0e50cef3ae18f037961af4da3b12f6d02ef0a",
+      "path": "data/wiki_updates/versions/4f6fadb4d5b7a513c03654efb0c0e50cef3ae18f037961af4da3b12f6d02ef0a.md"
+    },
+    {
+      "article": "syntheses/environmental-problems.md",
+      "sha256": "2829ac3fda1336e7e8127475e2b6e08e2d0882bee8fb0d7c8ee37a773f01f5a6",
+      "path": "data/wiki_updates/versions/2829ac3fda1336e7e8127475e2b6e08e2d0882bee8fb0d7c8ee37a773f01f5a6.md"
+    }
+  ],
+  "new_selected_claim_ids": [
+    "air2018-air-pollution-01",
+    "air2018-air-pollution-02",
+    "air2018-air-pollution-03",
+    "air2018-emissions-and-comparability-01",
+    "air2018-emissions-and-comparability-02",
+    "air2018-environmental-problems-01"
+  ],
+  "source_messages": 73,
+  "source_messages_path": "datasets/air2018_source_messages.json",
+  "original_tables": 0,
+  "original_figures": 0,
+  "issues": [
+    "air2018-interval-attribution"
+  ],
+  "expert_review": false,
+  "visual_checks": [
+    {
+      "page": 144,
+      "path": "data/processed/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a/previews/0144-150dpi.png",
+      "sha256": "98ae866742625c69c3f1337c71dc22484152df86a096703a03a720c702f846ce"
+    },
+    {
+      "page": 145,
+      "path": "data/processed/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a/previews/0145-150dpi.png",
+      "sha256": "3096ea1c6a11eba87c869ff6f57958ea3070c8c1741d9dbade62f188fbd1a3c6"
+    },
+    {
+      "page": 146,
+      "path": "data/processed/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a/previews/0146-150dpi.png",
+      "sha256": "df1f63cc80e31f87d8507546863db36b7bf43cf4d0e86fedd747c41b18aa8ccf"
+    },
+    {
+      "page": 147,
+      "path": "data/processed/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a/previews/0147-150dpi.png",
+      "sha256": "cfab46fa54c73279f1753c220b05732e726c3786f0325fa1b6127892d7226df2"
+    },
+    {
+      "page": 148,
+      "path": "data/processed/c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a/previews/0148-150dpi.png",
+      "sha256": "0681979a3dde984ff1198d25507179cfec54428e39f2604450ff4e5031e774a1"
+    }
+  ],
+  "validation": {
+    "new_notes_require_local": {
+      "errors": [],
+      "notes": 3,
+      "documents_with_notes": 1,
+      "distinct_physical_pages_with_notes": 4,
+      "checked_local_note_references": 5,
+      "full_document_completeness_established": false,
+      "expert_review": false
+    },
+    "all_73_values_bound_to_exact_source_page": true,
+    "previous_106_notes_and_447_claims_unchanged": true,
+    "protected_file_hashes_checked": 149,
+    "all_originals_and_previous_archives_unchanged": true,
+    "three_preceding_articles_and_human_notes_preserved": true,
+    "review_registry": {
+      "errors": [],
+      "warnings": [],
+      "articles_reviewed": 40,
+      "claims_reviewed": 453,
+      "evidence_references": 1073,
+      "checked_local_references": 60,
+      "articles_pending": 0
+    },
+    "tests": {
+      "run": 64,
+      "passed": 63,
+      "skipped": 1,
+      "reason": "Tesseract rus data absent; OCR not run"
+    },
+    "wiki_lint_errors": [],
+    "global_require_local": "Still blocked by missing historical page caches; not reported as a full local pass."
+  }
+}

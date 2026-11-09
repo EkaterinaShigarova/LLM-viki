@@ -1319,9 +1319,20 @@
       ],
       "located_evidence_page": 144,
       "exact_locator_quote": "1.2.6. Атмосферный воздух",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "Весь1.2.6и три вывода;148только граница. Интервалы/множители не исправлены предположением.",
+      "confirmed_pdf_pages": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "note_paths": [
+        "notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md",
+        "notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md",
+        "notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md"
+      ]
     },
     {
       "id": "next-air2020",

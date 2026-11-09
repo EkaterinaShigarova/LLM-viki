@@ -631,7 +631,7 @@
 
 - [Атмосферный воздух: выбросы теплоэнергетики и границы сравнения](syntheses/air-pollution.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -649,6 +649,10 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p154](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-154) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p155](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-155) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p156](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-156) · доклад 2019.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p144](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-144) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p145](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-145) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p146](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-146) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147) · доклад 2018.
 
 <a id="visits"></a>
 ### Посещение и инфраструктура
@@ -811,7 +815,7 @@
 
 - [Выбросы теплоэнергетики: что подтверждает ретроспективный ряд](syntheses/emissions-and-comparability.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -826,10 +830,13 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p154](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-154) · доклад 2019.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p140](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-140) · доклад 2024.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p144](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-144) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p146](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-146) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147) · доклад 2018.
 
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -861,6 +868,7 @@
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46) · доклад 2018.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147) · доклад 2018.
 
 
 <a id="climate"></a>

@@ -31,6 +31,12 @@
 - [Воздух городов ЭЗАВ и выбросы 2020–2024 годов](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/air-atmospheric-influence-zone.md) — доклад 2024.
 - [2019: воздух БЭЗ и ЭЗАВ — станции, месячные случаи и выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/air-buffer-influence-zones.md) — доклад 2019.
 
+## БПТ
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
 ## БЭЗ
 
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
@@ -713,6 +719,18 @@
 - [2016: ледовая гидробиологическая съёмка и сезонный фитопланктон у Байкальска](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/under-ice-phytoplankton.md) — доклад 2016.
 - [2020: гидробиологическая ледовая съёмка и статистики фитопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/under-ice-phytoplankton.md) — доклад 2020.
 - [2024: ледовая и открытоводные съёмки фитопланктона у Байкальска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/under-ice-phytoplankton.md) — доклад 2024.
+
+## атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017
+
+- [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
+
+## воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов
+
+- [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
+
+## воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений
+
+- [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 
 ## озеро Байкал
 
