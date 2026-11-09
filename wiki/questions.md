@@ -446,3 +446,11 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 ## Вопросы источниковой сессии: air2019_complete
 
 - **air2019-interval-multipliers**: Атмосферный воздух2019: дробные множители и подмена интервала бенз(а)пирена. Печатные интервалы/коэффициенты сохранены, направление и абсолютные концентрации не восстановлены. Нужны первичные месячные/разовые ряды, нормативные значения по годам, паспорт станций и ведомственное пояснение печатных множителей.
+
+## Гидробиология 2021 после восстановления оригиналов
+
+- **malo2021-benthos-scale**: Малое море 2021: 11,5 и 11 479 при одной подписи экз./м². Обе записи подтверждены оригиналом; множитель 1000 не добавлен. Требуется первичная таблица и официальное уточнение. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
+
+- **hydro2021-conclusion-scope**: Гидробиология 2021: пределы вывода об отсутствии тенденций. Не указаны период ряда, тесты и ошибки; общий вывод не подменяет районные изменения. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
+
+- **selenga2021-retrospective-benthos**: Селенгинская ретроспектива 2020 в докладе 2021: масштаб бентоса. Повтор исходной подписи не разрешает известное расхождение масштаба 2020; тире 2021 не ноль. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52)

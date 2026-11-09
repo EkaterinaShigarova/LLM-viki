@@ -48,6 +48,7 @@
 - [2022: общие гидробиологические выводы — сверка с четырьмя районами](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hydrobiology-conclusions.md) — доклад 2022.
 - [2016: искусственное воспроизводство — заказы, личинки и выпуск осетра](../notes/drive-1VJ2SzyWQ_xLpzOX-SR09GB7_oAI1GYr0/fish-artificial-reproduction.md) — доклад 2016.
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — доклад 2023.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
 ## Байкал: атмосферные станции
 
@@ -249,6 +250,7 @@
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 - [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
 ## Кабанский заказник
 
@@ -317,6 +319,8 @@
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 - [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
 ## Модонкуль — выше Закаменска
 
@@ -459,6 +463,8 @@
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
 ## Северобайкальск
 
@@ -517,6 +523,8 @@
 - [2019: все районные гидробиологические выводы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/hydrobiology-conclusions.md) — доклад 2019.
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
 ## Слюдянка
 

@@ -94,4 +94,10 @@
 
 В 2021 у КОС спирогира отмечена в 34% зимних бентосных проб 18–120 м, на фоне 50 м; в зоопланктоне июнь 7%, август 61%, март отдельная станция. Репер без обнаружения. Это разные пробы и сезоны, не доля площади зарастания и не доказанный рост на каждом горизонте. [Станции и единицы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47)
 
+## 2021: три района и разные знаменатели находок
+
+На Севере летом 2021 Spirogyra в 48% зоопроб западного берега и северной оконечности, осенью находки по периметру и на северном репере. На Селенгинском мелководье — одна фитопроба и треть зоопроб юго-запада. В Малом море нет находок в фито- и бентосных пробах, но обрывки нитей есть в сентябрьской зоопробе на выходе Зундук—Хобой. Отрицательные и положительные сообщения разных проб совместимы; проценты не являются долей площади зарастания. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54)
+
+Пункты 2–5 общих выводов 2021 обобщают районные наблюдения. Повтор северных и селенгинских находок не является независимой дополнительной съёмкой; авторское увеличение количества к концу вегетации не задаёт единого измеренного ряда биомассы водоросли. [Все пять выводов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
+
 <!-- HUMAN NOTES -->

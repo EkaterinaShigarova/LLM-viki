@@ -53,4 +53,12 @@
 - [Северный Байкал](north-baikal-water.md) и [Селенгинское мелководье](selenga-shallows-communities.md) — другие программы, не дополнительные станции Малого моря.
 - Конспекты: [2019](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md), [2020](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md), [2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md).
 
+## 2021: расширение сезонной и донной программы
+
+В 2021 Малое море обследовали на трёх станциях в июне и сентябре; таблица 1.1.1.4.4 содержит только сентябрьские колонки 2020/2021. Фитосредние июнь 3118,6 тыс. кл/л/2090,5 мг/м³ к сентябрю 1017,9/239,4 снижаются в 3,1/8,7 раза, хотя сентябрьская численность выше 2020. Летний пик не подменяет межгодовое осеннее сравнение. [Полный подраздел и таблица](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54)
+
+Общий зоопланктон 2021: средние июнь 2,95 тыс. экз./м³/70,64 мг/м³, сентябрь 24,26/194,74. Летом преобладает эпишура, осенью по числу коловратки с содоминированием эпишуры/незрелых циклопов; общие числа не являются отдельным измерением эпишуры. Первая названная автором макробентосная съёмка — сентябрь, Ван-Вин 0,08 м², 28–315 м. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54)
+
+Для бентоса таблица 2021 подписана экз./м² и даёт 0,8–19,7/11,5; проза сообщает 839–19 725/11 479 экз./м². Масса в прозе 13,17–34,62/27,20 г/м², в таблице 13,2–34,6/27,2. Обе версии сохранены в конспекте и CSV: гипотеза пропущенного «тыс.» требует официального уточнения. Это препятствует прямому ряду бентоса 2021–2023. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
+
 <!-- HUMAN NOTES -->

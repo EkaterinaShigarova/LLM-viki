@@ -1,0 +1,228 @@
+{
+  "stage": "hydrobiology2021_recovered_range",
+  "starting_head": "3712d97137b47f8fd760326753092dcf21eaf58b",
+  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+  "source_sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+  "date": "2026-11-09",
+  "technical_pages": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "substantive_pages": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "boundary_only_pages": [
+    56
+  ],
+  "newly_touched_pages": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "notes_created": 4,
+  "articles_expanded": [
+    "north-baikal-water",
+    "selenga-shallows-communities",
+    "malo-more-communities",
+    "hydrobiological-monitoring-methods",
+    "phytoplankton",
+    "epishura-benthos",
+    "spirogyra-observations",
+    "environmental-problems"
+  ],
+  "articles_created": [],
+  "archives": [
+    {
+      "article": "syntheses/north-baikal-water.md",
+      "sha256": "e243acf7bf9a603496813b5fd2e87817000226a431f973efed7cf522ae92b947",
+      "path": "data/wiki_updates/versions/e243acf7bf9a603496813b5fd2e87817000226a431f973efed7cf522ae92b947.md"
+    },
+    {
+      "article": "syntheses/selenga-shallows-communities.md",
+      "sha256": "de463c8a293eea221e4af5aabb2fbeda2b1b691d37dba0fc1744de9c6985593f",
+      "path": "data/wiki_updates/versions/de463c8a293eea221e4af5aabb2fbeda2b1b691d37dba0fc1744de9c6985593f.md"
+    },
+    {
+      "article": "syntheses/malo-more-communities.md",
+      "sha256": "7d7b18690b3e47bcc95dbd380d71dd547e74f484388552b1639c319de19424ec",
+      "path": "data/wiki_updates/versions/7d7b18690b3e47bcc95dbd380d71dd547e74f484388552b1639c319de19424ec.md"
+    },
+    {
+      "article": "syntheses/hydrobiological-monitoring-methods.md",
+      "sha256": "cd5b5b4ca3a8ea901c987fbe04d740a361865d2d8e3c3d985993901b1bb05df5",
+      "path": "data/wiki_updates/versions/cd5b5b4ca3a8ea901c987fbe04d740a361865d2d8e3c3d985993901b1bb05df5.md"
+    },
+    {
+      "article": "syntheses/phytoplankton.md",
+      "sha256": "2283dfd2ec0b4d396a3b39e1f1ee032cdcbed936f5a6b9d3723419cb7d877b5d",
+      "path": "data/wiki_updates/versions/2283dfd2ec0b4d396a3b39e1f1ee032cdcbed936f5a6b9d3723419cb7d877b5d.md"
+    },
+    {
+      "article": "syntheses/epishura-benthos.md",
+      "sha256": "2e932b2963727b020f319c4c8df3904a36728a91ff5d708e51f9b568c0a67748",
+      "path": "data/wiki_updates/versions/2e932b2963727b020f319c4c8df3904a36728a91ff5d708e51f9b568c0a67748.md"
+    },
+    {
+      "article": "syntheses/spirogyra-observations.md",
+      "sha256": "f3fa6bf95d9966482ac91fafda62424d032dbb07ac5c9721e4a30699f8273de6",
+      "path": "data/wiki_updates/versions/f3fa6bf95d9966482ac91fafda62424d032dbb07ac5c9721e4a30699f8273de6.md"
+    },
+    {
+      "article": "syntheses/environmental-problems.md",
+      "sha256": "00e27cde0710933cf686b30f0286037dded2727f87b55a722fec803532ff46f8",
+      "path": "data/wiki_updates/versions/00e27cde0710933cf686b30f0286037dded2727f87b55a722fec803532ff46f8.md"
+    }
+  ],
+  "selected_claim_ids": [
+    "hydro2021-north-baikal-water-01",
+    "hydro2021-north-baikal-water-02",
+    "hydro2021-north-baikal-water-03",
+    "hydro2021-selenga-shallows-communities-01",
+    "hydro2021-selenga-shallows-communities-02",
+    "hydro2021-malo-more-communities-01",
+    "hydro2021-malo-more-communities-02",
+    "hydro2021-malo-more-communities-03",
+    "hydro2021-hydrobiological-monitoring-methods-01",
+    "hydro2021-hydrobiological-monitoring-methods-02",
+    "hydro2021-phytoplankton-01",
+    "hydro2021-phytoplankton-02",
+    "hydro2021-epishura-benthos-01",
+    "hydro2021-epishura-benthos-02",
+    "hydro2021-spirogyra-observations-01",
+    "hydro2021-spirogyra-observations-02",
+    "hydro2021-environmental-problems-01"
+  ],
+  "issues": [
+    "malo2021-benthos-scale",
+    "hydro2021-conclusion-scope",
+    "selenga2021-retrospective-benthos"
+  ],
+  "table_cells": 128,
+  "tables": [
+    {
+      "pdf_page": 49,
+      "table": "1.1.1.4.2",
+      "cells": 96,
+      "csv": "datasets/north_hydrobiology_2020_2021.csv"
+    },
+    {
+      "pdf_page": 52,
+      "table": "1.1.1.4.3",
+      "cells": 16,
+      "csv": "datasets/selenga_hydrobiology_2020_2021.csv"
+    },
+    {
+      "pdf_page": 53,
+      "table": "1.1.1.4.4",
+      "cells": 16,
+      "csv": "datasets/malo_more_hydrobiology_2020_2021.csv"
+    }
+  ],
+  "extraction_method": "Existing baikal.extract._init/_extract_one for physical indexes 47..55 after native-text checks; OCR explicitly blocked; no CLI ingest/build or global inventory rebuild.",
+  "ocr_pages": 0,
+  "visual_checks": [
+    {
+      "pdf_page": 48,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0048-150dpi.png",
+      "sha256": "bdc3352fdf8d3390b45bb2ed171e3c18ae09a6f9fb7ce92aae6e4de4837369af"
+    },
+    {
+      "pdf_page": 49,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0049-150dpi.png",
+      "sha256": "454bf2290f946531afbbbe5c4e3ed3dd2df7b78222a65af701541975c4f3d1f0"
+    },
+    {
+      "pdf_page": 50,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0050-150dpi.png",
+      "sha256": "7bc33f8efaccabec7b2332fadeb70e3b21c5cf19221af9bd3c92c060385642ac"
+    },
+    {
+      "pdf_page": 51,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0051-150dpi.png",
+      "sha256": "bf65394f26d09aa2f467add164ec0146dae9abde9a87326a9918bfc15e15e45e"
+    },
+    {
+      "pdf_page": 52,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0052-150dpi.png",
+      "sha256": "c2eb71d3878bd94576725fcd6c74fb88f6a27d712ef2c9f1e4c7f3d734f8fa3f"
+    },
+    {
+      "pdf_page": 53,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0053-150dpi.png",
+      "sha256": "25ac27d2fab4aa1f5c7995e9914743ebe5d459b332ff183591dbffd424c77b6f"
+    },
+    {
+      "pdf_page": 54,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0054-150dpi.png",
+      "sha256": "b82f581096ad9a8e1feda12f211d0180b708d26aefdd99a9c9b9c83d00b48a79"
+    },
+    {
+      "pdf_page": 55,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0055-150dpi.png",
+      "sha256": "42f0b08369149bbb1ca6197d34e658a6b97a0ccd198f10b18a7ed71f2e6ee9fe"
+    },
+    {
+      "pdf_page": 56,
+      "path": "data/processed/9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391/previews/0056-150dpi.png",
+      "sha256": "e52ffbad96e6dd9b24f747d0b36067c383edde75b13b8cb07008fcda9060aa62"
+    }
+  ],
+  "scope_limit": "Only nine page caches restored. Historical 3878-page processing records retained, not a statement of current cache availability. Previous selected checks remain historical outside restored range.",
+  "expert_review": false,
+  "validation": {
+    "selected_notes_require_local": {
+      "errors": [],
+      "notes": 4,
+      "documents_with_notes": 1,
+      "distinct_physical_pages_with_notes": 8,
+      "checked_local_note_references": 11,
+      "full_document_completeness_established": false,
+      "expert_review": false
+    },
+    "new_claims": 17,
+    "new_claim_page_references": 42,
+    "all_128_table_cells_match_extracted_locations": true,
+    "all_originals_and_123_restored_archives_unchanged": true,
+    "previous_102_notes_unchanged": true,
+    "previous_430_claims_unchanged": true,
+    "eight_full_preceding_articles_and_human_notes_preserved": true,
+    "protected_files_checked": 140,
+    "wiki_lint_errors": [],
+    "all_claims_registry": {
+      "errors": [],
+      "warnings": [],
+      "articles_reviewed": 40,
+      "claims_reviewed": 447,
+      "evidence_references": 1061,
+      "checked_local_references": 48,
+      "articles_pending": 0
+    },
+    "tests": {
+      "run": 64,
+      "passed": 63,
+      "skipped": 1,
+      "skip_reason": "Tesseract rus data absent; no OCR installed or run"
+    },
+    "whole_corpus_require_local": "blocked by missing historical processed pages; first science pages/0042.json and knowledge pages/0164.json of report2015",
+    "full_corpus_reextraction": false,
+    "coverage_matrix_rows": 422
+  }
+}

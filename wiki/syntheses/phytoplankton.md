@@ -139,4 +139,10 @@
 
 В 2021 у КОС весь сезон лидирует Chrysochromulina parva, июнь добавляет крупные золотистые/диатомеи; предыдущий синедровый год не перенесён сюда. Среднее число 231,1 тыс. кл/л в марте и 839,7 в августе, масса 47,2 мг/м³ в марте/372,1 в июне: максимумы числа и массы приходятся на разные сезоны/станции. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47)
 
+## 2021: районные и сезонные направления расходятся
+
+Северный фитопланктон 2021: летом к 2020 среднее число ниже в 3,6 раза при массе выше в 1,2; осенью число выше в 1,2 при массе ниже в 1,6. На Селенгинском мелководье среднее число 1371,3 тыс. кл/л выросло в 1,6 раза, масса 394,6 мг/м³ снизилась в 1,4. Это разные районы и статистики, не единое направление «развития планктона». [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p50](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-50) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52)
+
+В Малом море июньские средние 3118,6 тыс. кл/л/2090,5 мг/м³ сменяются сентябрьскими 1017,9/239,4; первая позиция от центрической диатомеи переходит к мелкоклеточной золотистой. Суммарные более 231 северного, более 204 селенгинских и более 68 маломорских низших таксонов получены при разных станциях/сезонах; их нельзя ранжировать как готовое сравнение экологического качества. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p50](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-50) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54)
+
 <!-- HUMAN NOTES -->

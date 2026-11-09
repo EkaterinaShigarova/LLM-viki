@@ -158,6 +158,18 @@
       "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
       "report_year": 2018,
       "page": 46
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 53
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 55
     }
   ],
   "syntheses/emissions-and-comparability.md": [
@@ -1120,6 +1132,24 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 47
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 50
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 54
     }
   ],
   "syntheses/spirogyra-observations.md": [
@@ -1311,6 +1341,30 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 47
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 51
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 54
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 55
     }
   ],
   "syntheses/epishura-benthos.md": [
@@ -1574,6 +1628,36 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 48
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 51
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 53
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 54
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 55
     }
   ],
   "syntheses/selenga-sediments.md": [
@@ -1751,6 +1835,30 @@
       "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
       "report_year": 2023,
       "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 48
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 49
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 50
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 51
     }
   ],
   "syntheses/persistent-organic-pollutants.md": [
@@ -3141,6 +3249,42 @@
       "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
       "report_year": 2021,
       "page": 48
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 49
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 51
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 53
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 54
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 55
     }
   ],
   "syntheses/selenga-shallows-communities.md": [
@@ -3257,6 +3401,24 @@
       "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
       "report_year": 2023,
       "page": 55
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 51
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 52
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 53
     }
   ],
   "syntheses/fish-artificial-reproduction.md": [
@@ -3505,6 +3667,24 @@
       "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
       "report_year": 2020,
       "page": 45
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 53
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 54
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+      "report_year": 2021,
+      "page": 55
     }
   ]
 }

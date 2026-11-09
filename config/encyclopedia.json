@@ -735,9 +735,27 @@
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
                   "report_year": 2021,
                   "page": 47
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 50
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 54
                 }
               ],
-              "gap": "Разные районы и сезоны; общего временного ряда нет."
+              "gap": "Разные районы и сезоны; общего временного ряда нет. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             },
             {
               "id": "spirogyra-observations",
@@ -935,9 +953,27 @@
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
                   "report_year": 2021,
                   "page": 47
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 54
                 }
               ],
-              "gap": "Сетные и грунтовые пробы не дают единой площади зарастания."
+              "gap": "Сетные и грунтовые пробы не дают единой площади зарастания. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             },
             {
               "id": "epishura-benthos",
@@ -1207,9 +1243,39 @@
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
                   "report_year": 2021,
                   "page": 48
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 53
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 54
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 55
                 }
               ],
-              "gap": "Нужно стандартизовать орудия, глубины и группы организмов."
+              "gap": "Нужно стандартизовать орудия, глубины и группы организмов. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             }
           ]
         },
@@ -1668,9 +1734,45 @@
                   "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
                   "report_year": 2021,
                   "page": 48
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 49
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 53
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 54
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 55
                 }
               ],
-              "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия."
+              "gap": "Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             }
           ]
         }
@@ -2126,9 +2228,33 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 48
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 49
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 50
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 51
                 }
               ],
-              "gap": "Уточнить фоновые значения и неизменность вертикалей."
+              "gap": "Уточнить фоновые значения и неизменность вертикалей. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             },
             {
               "id": "selenga-shallows-communities",
@@ -2250,9 +2376,27 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 55
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 51
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 52
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 53
                 }
               ],
-              "gap": "Первичные программы/индекс,единица бентоса2022,сопоставимость сетей."
+              "gap": "Первичные программы/индекс,единица бентоса2022,сопоставимость сетей. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             },
             {
               "id": "malo-more-communities",
@@ -2308,9 +2452,27 @@
                   "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
                   "report_year": 2020,
                   "page": 45
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 53
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 54
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 55
                 }
               ],
-              "gap": "Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10."
+              "gap": "Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             }
           ]
         },
@@ -3409,9 +3571,21 @@
                   "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
                   "report_year": 2018,
                   "page": 46
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 53
+                },
+                {
+                  "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+                  "sha256": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
+                  "report_year": 2021,
+                  "page": 55
                 }
               ],
-              "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно."
+              "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса."
             }
           ]
         }

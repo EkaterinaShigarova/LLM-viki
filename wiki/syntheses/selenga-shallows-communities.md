@@ -93,4 +93,10 @@ Spirogyra2018 найдена в **9 из 12 бентосных проб**, в з
 
 Селенгинская выноска 2023 даёт Spirogyra **50% зоопроб/42% донных проб**, максимум в воде Галутай/**26 м**. Её нужно читать после селенгинского заголовка, а не переносить в предыдущий северный блок. Коловратки ведут по числу зоопланктона,Calanoida по массе; наличие эпишуры внутри группы не делает общий показатель её отдельной плотностью. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p54](../sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-54)
 
+## Сентябрь 2021: разные направления планктона и донный пробел
+
+На 12 станциях Селенгинского мелководья в сентябре 2021 исследовали бактерии воды/осадка и планктон. Фитосредние 1371,3 тыс. кл/л/394,6 мг/м³ означают рост числа к 2020 в 1,6 раза при снижении массы в 1,4. Зоосредние 100,724 тыс. экз./м³/192,98 мг/м³ выше прошлогодних в 3,2/1,9 раза; по числу доминируют коловратки. Отдельные количественные показатели эпишуры не названы. [Все станции, экстремумы и таблица](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53)
+
+В колонке 2021 таблицы 1.1.1.4.3 макрозообентос обозначен тире; метод Ван-Вина и плотности из [подраздела 2020](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/selenga-shallows-hydrobiology.md) не переносятся на 2021. Ретроспектива 2020 в издании 2021 вновь даёт 1–50,1/19,1 при подписи экз./м². Повтор не устраняет уже известного размерностного вопроса и не разрешает множитель 1000. [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52)
+
 <!-- HUMAN NOTES -->

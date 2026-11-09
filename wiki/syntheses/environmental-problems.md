@@ -56,4 +56,8 @@
 
 Все выводы 2018 заканчиваются на **PDF 46**, перед ихтиофауной PDF 47. Южное июньское Synedra-доминирование, северные летние/осенние сообщества и осенняя Селенга имеют разные программы. Авторские отношения роста/снижения по числу и массе разнонаправленны; из них не построен единый индекс или причинная оценка сбросов. [Конспект выводов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/hydrobiology-conclusions.md) сохраняет и несовпадающие северные бактериальные средние. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](../sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46)
 
+## Границы общего гидробиологического вывода 2021
+
+Пункт 1 выводов 2021 называет сопоставимыми с прошлыми годами КОС Байкальска, район БАМ и Селенгинское мелководье; Малое море в этом перечне отсутствует. Период трендового ряда, критерий значимости и неопределённости не приведены. Формулировка «тенденций ... не выявлено» сохраняется как авторская оценка и не отменяет конкретные районные изменения, например рост селенгинских средних зоопланктона к 2020 в 3,2/1,9 раза. [Границы и содержание пяти пунктов](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md). [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](../sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55)
+
 <!-- HUMAN NOTES -->

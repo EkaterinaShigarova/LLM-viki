@@ -1047,6 +1047,48 @@
 
 - [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
+## бактериопланктон
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## биомасса
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## зоопланктон
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## методы наблюдений
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## фитопланктон
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## численность
+
+- [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
+- [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
+- [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
+- [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
 [Главный индекс](../index.md)
 
 <!-- HUMAN NOTES -->

@@ -3547,7 +3547,60 @@
       "start_page": 211,
       "heading_status": "detected_unreviewed_boundary",
       "boundary_completeness": "not_established"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.1.1.4/north",
+      "title": "1.1.1.4: Северный Байкал",
+      "start_page": 48,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "confirmed_last_page": 51,
+      "boundary_note": "Общие страницы разграничены по заголовкам; точный предмет чтения в knowledge_notes.json.",
+      "provenance": "datasets/hydrobiology_2021_review.json"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.1.1.4/selenga",
+      "title": "1.1.1.4: Селенгинское мелководье",
+      "start_page": 51,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "confirmed_last_page": 53,
+      "boundary_note": "Общие страницы разграничены по заголовкам; точный предмет чтения в knowledge_notes.json.",
+      "provenance": "datasets/hydrobiology_2021_review.json"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.1.1.4/malo",
+      "title": "1.1.1.4: Малое море",
+      "start_page": 53,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "confirmed_last_page": 55,
+      "boundary_note": "Общие страницы разграничены по заголовкам; точный предмет чтения в knowledge_notes.json.",
+      "provenance": "datasets/hydrobiology_2021_review.json"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.1.1.4/conclusions",
+      "title": "1.1.1.4: Выводы",
+      "start_page": 55,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "confirmed_last_page": 55,
+      "boundary_note": "Общие страницы разграничены по заголовкам; точный предмет чтения в knowledge_notes.json.",
+      "provenance": "datasets/hydrobiology_2021_review.json"
+    },
+    {
+      "source_id": "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB",
+      "section": "1.1.1.5",
+      "title": "1.1.1.5. Ихтиофауна и популяция нерпы",
+      "start_page": 56,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "boundary_only_not_summarized",
+      "provenance": "datasets/hydrobiology_2021_review.json"
     }
   ],
-  "note": "Detected headings are incomplete navigation aids, not verified chapter boundaries or source summaries."
+  "note": "Detected headings are incomplete navigation aids, not verified chapter boundaries or source summaries. Four 2021 named subsection headings appended after original-page inspection; retained detected headings are unchanged. Confirmed boundaries belong to named subsections, not whole pages; generated candidate ranges remain navigation aids."
 }

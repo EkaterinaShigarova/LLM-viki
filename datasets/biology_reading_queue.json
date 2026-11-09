@@ -1232,9 +1232,16 @@
       ],
       "located_evidence_page": 48,
       "exact_locator_quote": "Гидробиологические наблюдения в районе Северного Байкала",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "Прочитан названный подраздел; остальные части совместных страниц и полнота документа не утверждаются. PDF56 только граничная проверка.",
+      "confirmed_pdf_pages": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md"
     },
     {
       "id": "next-selenga2021",
@@ -1248,9 +1255,15 @@
       ],
       "located_evidence_page": 51,
       "exact_locator_quote": "Район Селенгинского мелководья",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "Прочитан названный подраздел; остальные части совместных страниц и полнота документа не утверждаются. PDF56 только граничная проверка.",
+      "confirmed_pdf_pages": [
+        51,
+        52,
+        53
+      ],
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md"
     },
     {
       "id": "next-malo2021",
@@ -1264,9 +1277,15 @@
       ],
       "located_evidence_page": 53,
       "exact_locator_quote": "Гидробиологические наблюдения в районе Малого Моря",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "Прочитан названный подраздел; остальные части совместных страниц и полнота документа не утверждаются. PDF56 только граничная проверка.",
+      "confirmed_pdf_pages": [
+        53,
+        54,
+        55
+      ],
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md"
     },
     {
       "id": "next-conclusions2021",
@@ -1280,9 +1299,13 @@
       ],
       "located_evidence_page": 55,
       "exact_locator_quote": "Выводы",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "Прочитан названный подраздел; остальные части совместных страниц и полнота документа не утверждаются. PDF56 только граничная проверка.",
+      "confirmed_pdf_pages": [
+        55
+      ],
+      "note_path": "wiki/notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md"
     },
     {
       "id": "next-air2018",

@@ -109,7 +109,7 @@
 
 - [Фитопланктон Байкала: сезонность, численность и биомасса](syntheses/phytoplankton.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Разные районы и сезоны; общего временного ряда нет.
+Обеспеченность: Достаточно для описания по нескольким годам. Разные районы и сезоны; общего временного ряда нет. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -171,10 +171,13 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63) · доклад 2023.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p50](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-50) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54) · доклад 2021.
 
 - [Спирогира: где её находили и что означает обнаружение](syntheses/spirogyra-observations.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Сетные и грунтовые пробы не дают единой площади зарастания.
+Обеспеченность: Достаточно для описания по нескольким годам. Сетные и грунтовые пробы не дают единой площади зарастания. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -210,10 +213,13 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p60](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-60) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p63](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-63) · доклад 2023.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54) · доклад 2021.
 
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Нужно стандартизовать орудия, глубины и группы организмов.
+Обеспеченность: Достаточно для описания по нескольким годам. Нужно стандартизовать орудия, глубины и группы организмов. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -261,6 +267,11 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p61](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-61) · доклад 2023.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
 
 <a id="seal"></a>
 ### Верхний трофический уровень
@@ -294,7 +305,7 @@
 
 - [Гидробиологический мониторинг: станции,пробы и пределы сопоставления](syntheses/hydrobiological-monitoring-methods.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия.
+Обеспеченность: Достаточно для описания по нескольким годам. Нет полного совпадения станций,орудий/слоёв и знаменателей;нужны первичные программы и научная рецензия. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -360,6 +371,12 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p46](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-46) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p47](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-47) · доклад 2021.
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p49](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-49) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
 
 
 <a id="water"></a>
@@ -455,7 +472,7 @@
 
 - [Северный Байкал: район БАМ и фоновые наблюдения](syntheses/north-baikal-water.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Уточнить фоновые значения и неизменность вертикалей.
+Обеспеченность: Достаточно для описания по нескольким годам. Уточнить фоновые значения и неизменность вертикалей. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -483,10 +500,14 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p49](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-49) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p50](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-50) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p52](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-52) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p48](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-48) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p49](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-49) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p50](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-50) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) · доклад 2021.
 
 - [Селенгинское мелководье: планктон, микрофлора и донные сообщества](syntheses/selenga-shallows-communities.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы/индекс,единица бентоса2022,сопоставимость сетей.
+Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы/индекс,единица бентоса2022,сопоставимость сетей. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -509,10 +530,13 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p53](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-53) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p54](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-54) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p55](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-55) · доклад 2023.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p51](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-51) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p52](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-52) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
 
 - [Малое море: станции, планктон и донные сообщества](syntheses/malo-more-communities.md)
 
-Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10.
+Обеспеченность: Достаточно для описания по нескольким годам. Первичные программы, координаты/глубины и ошибки; начало разных компонентов2019/2020, точность9,8/10. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -524,6 +548,9 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p45](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-45) · доклад 2019.
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p46](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-46) · доклад 2019.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p45](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-45) · доклад 2020.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p54](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-54) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
 
 <a id="inflow-level"></a>
 ### Притоки: водный сток и вынос
@@ -802,7 +829,7 @@
 
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -832,6 +859,8 @@
 [drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p139](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-139) · доклад 2019.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p45](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-45) · доклад 2018.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p46](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-46) · доклад 2018.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p53](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-53) · доклад 2021.
+[drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
 
 
 <a id="climate"></a>
