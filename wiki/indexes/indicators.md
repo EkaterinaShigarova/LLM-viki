@@ -12,12 +12,14 @@
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## PM2,5
 
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## Spirogyra
 
@@ -658,6 +660,18 @@
 
 - [2024: гидрохимические створы Селенги и таблицы Кабанска](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/selenga-water-quality.md) — доклад 2024.
 
+## ПДКм.р.
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## ПДКс.г.
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## ПДКс.с.
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
 ## Пассажирские перевозки
 
 - [2015: региональная статистика автомобилей и границы экологического вывода](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/road-statistics.md) — доклад 2015.
@@ -1062,6 +1076,14 @@
 
 - [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 
+## аммиак
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## атмосферный мониторинг
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
 ## бактериопланктон
 
 - [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
@@ -1074,6 +1096,7 @@
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## биомасса
 
@@ -1081,6 +1104,18 @@
 - [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## взвешенные вещества
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## диоксид азота
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## диоксид серы
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## зоопланктон
 
@@ -1095,6 +1130,10 @@
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 
+## интервалы осреднения
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
 ## методы наблюдений
 
 - [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
@@ -1102,11 +1141,43 @@
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
 
+## озон
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## оксид азота
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## оксид углерода
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## сажа
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## сероводород
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## сеть наблюдений
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
 ## среднегодовая концентрация
 
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
+## тяжёлые металлы
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## фенол
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## фитопланктон
 
@@ -1114,6 +1185,14 @@
 - [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## формальдегид
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## фторид водорода
+
+- [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
 ## численность
 

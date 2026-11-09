@@ -107,7 +107,9 @@ def build(root=ROOT):
             stop=s.get('wiki_stop_before',{}).get(str(sec['start_page']))
             if stop and sec['title'].startswith(stop):in_scope=False
             scope='outside_configured_baikal_scope' if not in_scope else ('configured_baikal_range' if ranges else 'document_scope_unreviewed')
-            linked=[n for n in group if in_scope and any(sec['start_page']<=p<=end for p in n['pages'])]
+            linked=[n for n in group if in_scope
+                    and sec['section'] not in n.get('excluded_sections', [])
+                    and any(sec['start_page']<=p<=end for p in n['pages'])]
             articles=sorted({a for n in linked for a in n['articles']})
             gap=('partial_selected_pages_only' if linked else 'not_summarized') if in_scope else 'outside_baikal_scope'
             rows.append({'source_id':s['id'],'report_year':s['report_year'],'section':sec['section'],'heading':sec['title'],

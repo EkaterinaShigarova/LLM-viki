@@ -51,6 +51,10 @@
 - [Уровень Байкала: приточность, регулирование и системы высот](syntheses/water-level-regulation.md)
 - [Качество воды: нормы, станции и локальные превышения](syntheses/water-quality-evidence.md)
 
+## Последнее завершённое исследование
+
+[Атмосферный мониторинг2020: полный раздел и сравнение с2018](notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) · [Отчёт](../docs/AIR_2020.md).
+
 ## Документы и конспекты
 
 - [Доклад 2015: конспекты](notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/index.md) · [первичные страницы](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md)

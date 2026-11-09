@@ -3650,6 +3650,72 @@
       "heading_status": "original_heading_visually_checked",
       "boundary_completeness": "boundary_only_not_summarized",
       "provenance": "datasets/air_2018_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.6",
+      "title": "1.2.6: Атмосферный воздух",
+      "start_page": 159,
+      "confirmed_last_page": 163,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.6/central",
+      "title": "1.2.6/central: ЦЭЗ",
+      "start_page": 159,
+      "confirmed_last_page": 160,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.6/buffer",
+      "title": "1.2.6/buffer: БЭЗ",
+      "start_page": 160,
+      "confirmed_last_page": 161,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.6/influence",
+      "title": "1.2.6/influence: ЭЗАВ",
+      "start_page": 161,
+      "confirmed_last_page": 163,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.6/conclusions",
+      "title": "1.2.6/conclusions: Все три вывода",
+      "start_page": 163,
+      "confirmed_last_page": 163,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+      "section": "1.2.7",
+      "title": "1.2.7: Осадки, снежный покров",
+      "start_page": 163,
+      "confirmed_last_page": null,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "boundary_only_not_summarized",
+      "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
+      "provenance": "datasets/air_2020_review.json"
     }
   ],
   "note": "Detected headings are incomplete navigation aids, not verified chapter boundaries or source summaries. Four 2021 named subsection headings appended after original-page inspection; retained detected headings are unchanged. Confirmed boundaries belong to named subsections, not whole pages; generated candidate ranges remain navigation aids."

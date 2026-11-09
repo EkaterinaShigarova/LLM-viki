@@ -458,3 +458,13 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 ## Атмосферный раздел2018: интервалы и городская атрибуция
 
 **air2018-interval-attribution**: два множителя разового озона1,3и2,9даны для трёх городов; формулировки роста×1,0не раскрывают точность; у максимумов БЭЗ не назван временной интервал. Числа не распределены по догадке, нужны первичные ряды, нормы и редакционное пояснение. [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p144](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-144) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p145](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-145) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p146](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-146) [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147)
+
+## Атмосферный воздух2020: вопросы полного раздела
+
+- **air2020-h2s-scope**: Селенгинск2020:15,6 и30,7ПДК H₂S в двух сообщениях. Оба значения сохранены; охваты и причина различия не установлены. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160)
+
+- **air2020-bap-range**: ЭЗАВ2020: нижняя граница1,5 против городского минимума3,5. Нижний край не исправлен и не приписан неназванному городу. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161)
+
+- **air2020-intervals**: Воздух2020: интервалы бенз(а)пиренаБЭЗ,PM10ЦЭЗ и нормативы. Разные/неуточнённые интервалы сохранены; не исправлены по аналогии с другим годом. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p159](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-159) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161)
+
+- **air2020-kultuk-category**: Култук2020: неопределённая категория и ориентировочная неизменность. Неопределённая категория не заменена низкой; нужно основание категоризации. [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p159](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-159) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p163](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-163)

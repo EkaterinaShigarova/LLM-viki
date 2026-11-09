@@ -1346,9 +1346,17 @@
       ],
       "located_evidence_page": 159,
       "exact_locator_quote": "1.2.6. Атмосферный воздух",
-      "substantive_reading_completed": false,
-      "boundary_status": "cached_text_navigation_only_original_reading_required",
-      "limitations": "Диапазон навигационный; проверить оригинал, конец, таблицы и совместные страницы; не готовый конспект."
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "limitations": "PDF163содержит окончание1.2.6и все три вывода; осадки ниже1.2.7исключены. Сравнение2018ограничено неизвестными нормами/методами и тождеством постов.",
+      "confirmed_pdf_pages": [
+        159,
+        160,
+        161,
+        162,
+        163
+      ],
+      "note_path": "wiki/notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md"
     },
     {
       "id": "next-air2023",

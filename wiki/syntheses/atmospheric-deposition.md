@@ -50,4 +50,8 @@
 - [Атмосферные выбросы теплоэнергетики](air-pollution.md)
 - [Температура воздуха иркутской части БПТ](air-temperature-irkutsk-bpt.md)
 
+## Городской воздух 2020 и выпадения: разные наблюдаемые величины
+
+Раздел 1.2.6 доклада 2020 содержит годовые концентрационные характеристики и максимумы, преимущественно как кратности ПДК. Он не даёт измеренного потока вещества с дождём/снегом, площади представительности выпадений или массы поступления в Байкал. Его нормы и городские категории не продолжают автоматически станционные ряды атмосферных нагрузок и не подменяют тонны выбросов. Связать эти процессы можно лишь при согласованных веществах, периодах, пространственном переносе и отдельных измерениях осадков. [Подробный раздел 2020 и сравнение с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md). [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p159](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-159) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161) [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p162](../sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-162)
+
 <!-- HUMAN NOTES -->

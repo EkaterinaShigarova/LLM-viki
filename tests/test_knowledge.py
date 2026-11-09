@@ -80,6 +80,27 @@ class DocumentKnowledge(unittest.TestCase):
             data=read_json(p);data['notes'][0]['expert_review']=True;atomic_json(p,data)
             with self.assertRaises(ValueError):knowledge.validate(root)
 
+    def test_shared_page_does_not_cover_explicitly_excluded_section(self):
+        with tempfile.TemporaryDirectory() as d:
+            import csv
+            root=Path(d);source=self.fixture(root)
+            path=root/'datasets/knowledge_notes.json';data=read_json(path)
+            data['notes'][0]['excluded_sections']=['1.2']
+            atomic_json(path,data)
+            atomic_json(root/'datasets/corpus_inventory.json',{'documents':[],
+                'sections':[{'source_id':source['id'],'section':'1.1','title':'1.1 Air','start_page':1},
+                            {'source_id':source['id'],'section':'1.2','title':'1.2 Precipitation','start_page':1}]})
+            knowledge.build(root)
+            with (root/'datasets/coverage_matrix.csv').open() as f:
+                rows=list(csv.DictReader(f))
+            self.assertEqual(rows[0]['coverage'],'partial_selected_pages_only')
+            self.assertIn('section.md',rows[0]['notes'])
+            self.assertEqual(rows[1]['coverage'],'not_summarized')
+            self.assertEqual(rows[1]['notes'],'')
+            self.assertEqual(rows[1]['articles'],'')
+            docindex=(root/'wiki/notes/local-fixture/index.md').read_text()
+            self.assertIn('1.2 Precipitation (PDF1): конспекта пока нет',docindex)
+
     def test_national_sections_outside_baikal_do_not_become_content_backlog(self):
         import csv
         with tempfile.TemporaryDirectory() as d:
