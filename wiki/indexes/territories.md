@@ -209,6 +209,7 @@
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## Забайкальский край,частьБПТ
 
@@ -251,6 +252,7 @@
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## Иркутская область целиком
 
@@ -513,6 +515,7 @@
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 - [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## Россия
 

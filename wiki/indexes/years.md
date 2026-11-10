@@ -121,6 +121,7 @@
 - [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 - [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 - [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## 2024
 

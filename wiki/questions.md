@@ -500,3 +500,11 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 - **climate2023-may-duplicate**: Забайкалье 2023:дважды напечатан майский температурный абзац. Повтор документирован;числовые сообщения сохранены один раз,не как два независимых наблюдения. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p190](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-190)
 
 - **climate2023-trend-method**: Климат 2023:годовая погода,российский ранг и заявленная частота экстремумов. Авторские оценки сохранены;независимый трендБПТ/охлаждение озера не заявлены. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p182](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-182) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p188](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-188) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p189](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-189) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p190](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-190) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p191](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-191)
+
+## Радиационный мониторинг 2023
+
+- **radiation2023-statistics:** PDF191 — среднемесячная база Иркутска и среднесуточная за предыдущий месяц Ангарска; PDF193 — диапазон Улан-Удэ0,10–0,11 и максимум0,13 мкЗв/ч с неизвестным интервалом диапазона. Нужны методика осреднения и первичные протоколы.
+- **radiation2023-dimensions:** PDF192 — «объёмная активность» в абзаце выпадений, где 7Be/40K даны в Бк/м²; станции и пределы 210Pb/22Na не уточнены. Не заменять размерность догадкой.
+- **radiation2023-risk-method:** не раскрыты нормативные документы/расчёт критических значений, пределы обнаружения, ошибки, веса регионального среднего и постоянство сети2022–2023. Фоновая кратность5,8 не равна кратности ПДК; авторская оценка не заменяет расчёт риска.
+
+[Конспект и точные страницы](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) · [Аналитическая статья](syntheses/radiation-monitoring.md).

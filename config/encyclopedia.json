@@ -4009,6 +4009,18 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 186
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 192
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 193
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения."
@@ -4224,6 +4236,40 @@
                 }
               ],
               "gap": "Подробно прочитан2023;нужны станционные ряды/базовые нормы/критерииОЯ и редакционные пояснения. Отдельные рекорды не дают тренда."
+            }
+          ]
+        },
+        {
+          "id": "radiation-programmes",
+          "title": "Радиационная обстановка",
+          "topics": [
+            {
+              "id": "radiation-monitoring",
+              "title": "Радиационный мониторинг БПТ: среды, станции и ограничения",
+              "article": "syntheses/radiation-monitoring.md",
+              "status": "published",
+              "sources": [
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 191
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 192
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 193
+                }
+              ],
+              "evidence_level": "reviewed_overview",
+              "gap": "Один источник2023; нет подтверждённого многолетнего ряда."
             }
           ]
         }

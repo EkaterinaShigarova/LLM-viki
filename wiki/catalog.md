@@ -932,6 +932,8 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p184](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-184) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p185](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-185) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p186](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-186) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p192](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-192) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p193](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-193) · доклад 2023.
 
 
 <a id="climate"></a>
@@ -992,6 +994,19 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p185](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-185) · доклад 2023.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p164](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-164) · доклад 2015.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p172](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-172) · доклад 2022.
+
+<a id="radiation-programmes"></a>
+### Радиационная обстановка
+
+- [Радиационный мониторинг БПТ: среды, станции и ограничения](syntheses/radiation-monitoring.md)
+
+Обеспеченность: Ранее подготовленный обзор с источниками. Один источник2023; нет подтверждённого многолетнего ряда.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p191](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-191) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p192](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-192) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p193](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-193) · доклад 2023.
 
 
 <a id="hydrology"></a>

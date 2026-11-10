@@ -856,9 +856,10 @@
       "title": "1.2.9. Радиационная обстановка",
       "start_page": 191,
       "heading_status": "original_heading_visually_checked",
-      "boundary_completeness": "boundary_only_not_summarized",
-      "boundary_note": "1.2.8с заголовкаPDF182до1.2.9наPDF191;осадки182ирадиация191исключены.",
-      "provenance": "datasets/climate_2023_review.json"
+      "boundary_completeness": "named_section_checked_not_full_shared_pages",
+      "boundary_note": "После1.2.9на191 до конца трёх выводов193;1.3на194 только граница.",
+      "provenance": "datasets/radiation_2023_review.json",
+      "confirmed_last_page": 193
     },
     {
       "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",

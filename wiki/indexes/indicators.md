@@ -16,6 +16,14 @@
 - [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 - [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
 
+## 137Cs
+
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
+
+## 7Be
+
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
+
 ## Epischura baicalensis
 
 - [2017: КОС — эпишура, зоопланктон и макрозообентос](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-epishura-benthos.md) — доклад 2017.
@@ -451,6 +459,10 @@
 ## Любительское рыболовство
 
 - [2024: рыбное хозяйство — фонд, учёт уловов и две версии таблиц](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/fishery-catches.md) — доклад 2024.
+
+## МАЭД
+
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## Макрозообентос
 
@@ -1346,6 +1358,10 @@
 - [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 - [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
 
+## радиоактивные аэрозоли
+
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
+
 ## сажа
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
@@ -1408,6 +1424,10 @@
 ## сульфаты
 
 - [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## суммарная бета-активность
+
+- [2023: радиационный мониторинг БПТ — сеть, дозовая мощность, аэрозоли и выпадения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/radiation-monitoring.md) — доклад 2023.
 
 ## суточные осадки
 
