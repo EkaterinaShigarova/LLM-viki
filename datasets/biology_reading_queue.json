@@ -1392,6 +1392,34 @@
         "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md",
         "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md"
       ]
+    },
+    {
+      "id": "completed-precipitation-snow2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "Весь1.2.7:Осадки,снежный покров",
+      "candidate_pdf_pages": [
+        176,
+        182
+      ],
+      "confirmed_pdf_pages": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "completed_at": "2026-11-10",
+      "note_paths": [
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md",
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md"
+      ],
+      "limitations": "На176только с1.2.7,на182только до1.2.8;предыдущий атмосферный и следующий климатический разделы исключены."
     }
   ],
   "updated_at": "2026-11-08",

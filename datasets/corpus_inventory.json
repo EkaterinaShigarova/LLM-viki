@@ -833,16 +833,21 @@
       "section": "1.2.7",
       "title": "1.2.7. Осадки, снежный покров",
       "start_page": 176,
-      "heading_status": "detected_unreviewed_boundary",
-      "boundary_completeness": "not_established"
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_section_checked_not_full_shared_pages",
+      "boundary_note": "1.2.7с нижнейPDF176по верхPDF182;атмосферный воздух176и климат182исключены.",
+      "provenance": "datasets/precipitation_snow_2023_review.json",
+      "confirmed_last_page": 182
     },
     {
       "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
       "section": "1.2.8",
       "title": "1.2.8. Климатические условия",
       "start_page": 182,
-      "heading_status": "detected_unreviewed_boundary",
-      "boundary_completeness": "not_established"
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "boundary_only_not_summarized",
+      "boundary_note": "1.2.7с нижнейPDF176по верхPDF182;атмосферный воздух176и климат182исключены.",
+      "provenance": "datasets/precipitation_snow_2023_review.json"
     },
     {
       "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",

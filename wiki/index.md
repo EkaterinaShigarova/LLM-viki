@@ -38,6 +38,7 @@
 - [Устойчивые органические загрязнители: ПХБ, пестициды и разные среды](syntheses/persistent-organic-pollutants.md)
 - [Фитопланктон Байкала: сезонность, численность и биомасса](syntheses/phytoplankton.md)
 - [Порты Южного Байкала: нефтепродукты, сопутствующие показатели и границы выводов](syntheses/ports-and-petroleum.md)
+- [Осадки и снежный покров БПТ: региональный режим и масштабы измерений](syntheses/precipitation-snow-regime.md)
 - [Охраняемые территории: наблюдения, посещение и природоохранная работа](syntheses/protected-areas-management.md)
 - [Притоки Байкала: водный сток и вынос веществ в 2024–2025 годах](syntheses/river-inputs-2025.md)
 - [Авандельта Селенги: донные отложения и грунтовая вода](syntheses/selenga-sediments.md)
@@ -53,7 +54,7 @@
 
 ## Последнее завершённое исследование
 
-[Атмосферный мониторинг 2023: весь раздел](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/index.md) · [Сопоставление пяти лет](syntheses/emissions-and-comparability.md) · [Подробный отчёт](../docs/AIR_2023.md).
+[Осадки и снежный покров2023](syntheses/precipitation-snow-regime.md) · [Химия снега](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) · [Отчёт](../docs/PRECIPITATION_SNOW_2023.md).
 
 ## Документы и конспекты
 

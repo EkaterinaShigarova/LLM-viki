@@ -79,6 +79,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Байкальская природная территория
 
@@ -206,6 +207,7 @@
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Зона атмосферного влияния
 
@@ -255,6 +257,7 @@
 - [2015: иркутский подраздел об условиях обитания и охотничьих ресурсах](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/hunting-resources.md) — доклад 2015.
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Исток Ангары
 
@@ -281,6 +284,10 @@
 - [2020: все районные гидробиологические выводы](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/hydrobiology-conclusions.md) — доклад 2020.
 - [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## Кабанск
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Кабанский заказник
 
@@ -329,6 +336,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Курла
 
@@ -371,6 +379,10 @@
 ## Модонкуль — ниже Закаменска
 
 - [2024: Модонкуль — горнорудная нагрузка, ВЗ/ЭВЗ и два створа](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/modonkul-water-quality.md) — доклад 2024.
+
+## Монды
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Муниципальные образования
 
@@ -441,6 +453,10 @@
 - [2023: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/baikal-omul.md) — доклад 2023.
 - [2024: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/baikal-omul.md) — доклад 2024.
 
+## Прибайкалье
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
 ## Продольный разрез Байкала
 
 - [2025: гидрохимия Байкала — сеть, горизонты, нормы и сезонные средние](../notes/official-b4e3fcfe0e41e26ea03b/lake-hydrochemistry.md) — доклад 2025.
@@ -478,6 +494,7 @@
 - [2019: лесаБПТ — ресурсы, рубки, пожары и воспроизводство](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/forest-resources-fires.md) — доклад 2019.
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Свирск
 
@@ -585,6 +602,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Слюдянский—Курла
 
@@ -611,6 +629,7 @@
 ## Танхой
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Томпуда
 
@@ -673,6 +692,7 @@
 ## Хамар-Дабан
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## Харауз
 
@@ -721,6 +741,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Черемхово
 
@@ -779,6 +800,7 @@
 - [2023: КОС Байкальска — двухколоночный подраздел и сезонные организмы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kos-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
 - [2021: КОС Байкальска — сезонные сообщества, эпишура и контроль/фон](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/kos-hydrobiology.md) — доклад 2021.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## Южный Байкал — Большие Коты, точка № 1
 

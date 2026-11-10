@@ -480,3 +480,13 @@ PDF165: 41,6 мкг/л → 32,9 мг/л названо снижением; Та�
 - **air2023-no-irkutsk**: Иркутск 2023: максимум разовогоNO одновременно вырос 1,4 раза и не изменился. Оба сообщения сохранены; предполагаемое другое название города не подставлено. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p174](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-174)
 
 Сохраняются прежние вопросы 2020:15,6/30,7 ПДКH₂S,неверифицированный диапазон бенз(а)пирена 1,5–14,5 при городском минимуме 3,5,интервалы максимумов. Увеличение заявленного числаАСК-А 7→8 и явное включениеБрянска требуют истории сети, а не догадки о дате ввода.
+
+## Осадки и снежный покров2023:вопросы источника и сопоставимости
+
+- **snow2023-method-density**: Снежная химия 2023:формула плотностей,периоды накопления и межгодовая сопоставимость. Единицы и исходные величины сохранены;годовые массы и общая нагрузка озера не вычислены. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p178](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-178) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179)
+
+- **snow2023-factor-rounding**: Взвесь Байкальска 2023:авторский рост 2,4 против пары 4,55→10,60. Это несогласованность опубликованного множителя с напечатанной парой;первичные средние/охват не раскрыты,оба варианта сохранены. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179)
+
+- **snow2023-regional-summary**: Снег 2023:общие выводы и горные/прибрежные исключения. Общие формулировки сохранены с исключениями;единая дата для каждого пунктаБПТне назначена. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p181](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-181) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p182](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-182)
+
+- **snow2023-editorial-labels**: Снег 2023:буквальные «с.»,6 мая и приближённые группы норм. Печатные варианты сохранены;дата/единица не исправлены,доказанный конфликт одной станции не заявлен. [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p180](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-180)

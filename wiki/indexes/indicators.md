@@ -44,6 +44,10 @@
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
 
+## pH
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
 ## АСК-А
 
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
@@ -1154,12 +1158,21 @@
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## высокое загрязнение
 
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## высота снега
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
+## годовые осадки
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
 ## диоксид азота
 
@@ -1176,6 +1189,10 @@
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## железо
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## зоопланктон
 
@@ -1194,12 +1211,48 @@
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
+## кадмий
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## климатическая норма
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
+## кобальт
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## марганец
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## медь
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## месячные осадки
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
 ## методы наблюдений
 
 - [2021: Северный Байкал — летне-осенние сообщества и границы донной программы](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/north-baikal-hydrobiology.md) — доклад 2021.
 - [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## минеральные вещества
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## нефтепродукты
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## никель
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## озон
 
@@ -1225,12 +1278,32 @@
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
+## осадки
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
+## плотность выпадений
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
 ## сажа
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## свинец
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## сера несульфатная
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## сера общая
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## сероводород
 
@@ -1243,11 +1316,32 @@
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 
+## снежный покров
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
 ## среднегодовая концентрация
 
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+
+## сроки установления/разрушения снега
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
+## сульфаты
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## суточные осадки
+
+- [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+
+## талая вода
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## твёрдые фториды
 
@@ -1269,6 +1363,10 @@
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## фенолы
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## фитопланктон
 
@@ -1304,6 +1402,14 @@
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## хлориды
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+
+## цинк
+
+- [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
 
 ## численность
 

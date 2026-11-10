@@ -407,6 +407,8 @@
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p92](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-92) · доклад 2024.
 [official-b4e3fcfe0e41e26ea03b:p162](sources/official-b4e3fcfe0e41e26ea03b.md#page-162) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p163](sources/official-b4e3fcfe0e41e26ea03b.md#page-163) · доклад 2025.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p178](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-178) · доклад 2023.
 
 <a id="organic"></a>
 ### Органические загрязнители
@@ -731,6 +733,9 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p171](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-171) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p172](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-172) · доклад 2023.
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p176](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-176) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p178](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-178) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179) · доклад 2023.
 
 
 <a id="conservation"></a>
@@ -915,6 +920,11 @@
 [drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p168](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-168) · доклад 2023.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
 [drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p144](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-144) · доклад 2024.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p178](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-178) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p181](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-181) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p182](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-182) · доклад 2023.
 
 
 <a id="climate"></a>
@@ -932,6 +942,23 @@
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p164](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-164) · доклад 2015.
 [drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab:p205](sources/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab.md#page-205) · доклад 2015.
 [drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq:p172](sources/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq.md#page-172) · доклад 2022.
+
+<a id="precipitation-and-snow"></a>
+### Осадки и снежный покров
+
+- [Осадки и снежный покров БПТ: региональный режим и масштабы измерений](syntheses/precipitation-snow-regime.md)
+
+Обеспеченность: Ранее подготовленный обзор с источниками. Пока подробно разобран2023; нужны станционные ряды,базовые периоды норм,водный эквивалент снега и другие годы.
+
+Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
+
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p176](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-176) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p180](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-180) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p181](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-181) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p178](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-178) · доклад 2023.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p282](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-282) · доклад 2024.
 
 
 <a id="hydrology"></a>
@@ -1013,6 +1040,12 @@
 [official-b4e3fcfe0e41e26ea03b:p164](sources/official-b4e3fcfe0e41e26ea03b.md#page-164) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p165](sources/official-b4e3fcfe0e41e26ea03b.md#page-165) · доклад 2025.
 [official-b4e3fcfe0e41e26ea03b:p166](sources/official-b4e3fcfe0e41e26ea03b.md#page-166) · доклад 2025.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p176](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-176) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p177](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-177) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p179](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-179) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p180](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-180) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p181](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-181) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p182](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-182) · доклад 2023.
 
 <a id="spring-ice"></a>
 ### Ледовые фазы и сроки наблюдений
