@@ -3967,6 +3967,48 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 182
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 188
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 189
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 190
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 191
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 184
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 185
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 186
                 }
               ],
               "gap": "Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения."
@@ -4007,6 +4049,18 @@
                   "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
                   "page": 172,
                   "report_year": 2022
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 182
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 183
                 }
               ],
               "gap": "Источниковый обзор выбранных материалов; полнота и методическая сопоставимость не установлены."
@@ -4066,9 +4120,110 @@
                   "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
                   "report_year": 2024,
                   "page": 282
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 182
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 183
                 }
               ],
               "gap": "Пока подробно разобран2023; нужны станционные ряды,базовые периоды норм,водный эквивалент снега и другие годы."
+            }
+          ]
+        },
+        {
+          "id": "regional-climate",
+          "title": "Региональные условия и погодные экстремумы",
+          "topics": [
+            {
+              "id": "climate-bpt",
+              "title": "Климатические условия и метеорологические экстремумы БПТ: территории,сезоны и проверяемость",
+              "article": "syntheses/climate-bpt.md",
+              "status": "published",
+              "sprint_new": true,
+              "evidence_level": "reviewed_overview",
+              "sources": [
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 182
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 183
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 186
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 187
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 188
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 189
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 190
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 191
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 184
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 185
+                },
+                {
+                  "source_id": "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab",
+                  "sha256": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
+                  "report_year": 2015,
+                  "page": 164
+                },
+                {
+                  "source_id": "drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq",
+                  "sha256": "6363b7b441d241e4718714b0062a2e011647e14b8219193f0a40a08270568e8e",
+                  "report_year": 2022,
+                  "page": 172
+                }
+              ],
+              "gap": "Подробно прочитан2023;нужны станционные ряды/базовые нормы/критерииОЯ и редакционные пояснения. Отдельные рекорды не дают тренда."
             }
           ]
         }
@@ -4492,6 +4647,18 @@
                   "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
                   "report_year": 2023,
                   "page": 182
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 184
+                },
+                {
+                  "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+                  "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+                  "report_year": 2023,
+                  "page": 185
                 }
               ],
               "gap": "Основные годовые подразделы 2015–2024 прочитаны; нет полного исходного суточного/ледового/балансового ряда, методики норм и официального разрешения противоречий."

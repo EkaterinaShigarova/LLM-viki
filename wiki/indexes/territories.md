@@ -80,6 +80,7 @@
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 - [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 
 ## Байкальская природная территория
 
@@ -209,6 +210,10 @@
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 
+## Забайкальский край,частьБПТ
+
+- [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
+
 ## Зона атмосферного влияния
 
 - [2024: здоровье лесовБПТ — гибель,очаги,обследования и восстановление](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/forest-health-reforestation.md) — доклад 2024.
@@ -238,6 +243,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 
 ## Иркутская область
 
@@ -258,6 +264,7 @@
 - [2022: годовая и месячная температура воздуха иркутской части БПТ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/air-temperature.md) — доклад 2022.
 - [2022: численность охотничьих ресурсов и ограничения ЗМУ](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/hunting.md) — доклад 2022.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: температура и сезонные переходы иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-irkutsk.md) — доклад 2023.
 
 ## Исток Ангары
 
@@ -293,6 +300,10 @@
 
 - [2023: туристическая инфраструктура и отходы Байкальского заповедника](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/protected-area-tourism.md) — доклад 2023.
 
+## Киренга
+
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
+
 ## Кичера
 
 - [2015: байкальский омуль — структура, нерест, скат и запасы](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/baikal-omul.md) — доклад 2015.
@@ -318,6 +329,10 @@
 ## Котельниковский
 
 - [2022: Северный Байкал — сезонные сообщества и полная таблица](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/north-baikal-hydrobiology.md) — доклад 2022.
+
+## Красночикойский район
+
+- [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
 
 ## Кривая
 
@@ -383,6 +398,7 @@
 ## Монды
 
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 
 ## Муниципальные образования
 
@@ -428,6 +444,7 @@
 ## Побережье Байкала
 
 - [2018: учёт нерпы и обследование эпизода гибели](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/seal-survey.md) — доклад 2018.
+- [2023: температура и сезонные переходы иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-irkutsk.md) — доклад 2023.
 
 ## Полигон КОС Байкальска
 
@@ -495,6 +512,11 @@
 - [2015: земли — категории, угодья, собственность и ограничения границ](../notes/drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab/land-categories-agricultural.md) — доклад 2015.
 - [2019: земельный учёт муниципалитетов — формы22-1/22-2 и границы](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/land-categories-agricultural.md) — доклад 2019.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
+
+## Россия
+
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 
 ## Свирск
 
@@ -617,6 +639,10 @@
 - [2017: КОС — фитопланктон и находки Spirogyra](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/kos-phytoplankton.md) — доклад 2017.
 - [2022: КОС Байкальска — методы, вся таблица и биологические сообщества](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/kos-hydrobiology.md) — доклад 2022.
 
+## Солнечная
+
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
+
 ## Средняя
 
 - [2022: Селенгинское мелководье — сообщества, методы и противоречие единиц](../notes/drive-1oYm8VhJ3_eRNdxbrGfLXhf6_vI6s6SJq/selenga-shallows-hydrobiology.md) — доклад 2022.
@@ -626,10 +652,15 @@
 
 - [2017: учёт нерпы в средней части озера](../notes/drive-1jl98YhWpGzbTkJXflFXv0fHB7yKqPRJr/seal-survey.md) — доклад 2017.
 
+## Таксимо
+
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
+
 ## Танхой
 
 - [2024: химия дождя и снега Южного Прибайкалья за 2020–2024](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/precipitation-chemistry.md) — доклад 2024.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 
 ## Томпуда
 
@@ -669,6 +700,7 @@
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
 - [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
 
 ## Усолье-Сибирское
 
@@ -693,6 +725,8 @@
 
 - [2025: атмосферные выпадения и пространственная схема мониторинга](../notes/official-b4e3fcfe0e41e26ea03b/atmospheric-deposition.md) — доклад 2025.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
+- [2023: температура и сезонные переходы иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-irkutsk.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 
 ## Харауз
 
@@ -711,6 +745,10 @@
 ## Хилок — выше и ниже г. Хилок
 
 - [2024: Хилок — устьевой пункт и створы Забайкальского края](../notes/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos/khilok-water-quality.md) — доклад 2024.
+
+## Хилокский район
+
+- [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
 
 ## Хорин-Ирги — Улан
 
@@ -742,6 +780,7 @@
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 - [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 
 ## Черемхово
 
@@ -781,6 +820,7 @@
 - [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
 - [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
 
 ## Южное Прибайкалье
 

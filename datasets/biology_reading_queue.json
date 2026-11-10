@@ -1420,6 +1420,39 @@
         "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md"
       ],
       "limitations": "На176только с1.2.7,на182только до1.2.8;предыдущий атмосферный и следующий климатический разделы исключены."
+    },
+    {
+      "id": "completed-climate2023",
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "source_sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+      "report_year": 2023,
+      "title": "Весь1.2.8:Климатические условия",
+      "candidate_pdf_pages": [
+        182,
+        191
+      ],
+      "confirmed_pdf_pages": [
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "substantive_reading_completed": true,
+      "boundary_status": "original_text_and_images_checked",
+      "completed_at": "2026-11-10",
+      "note_paths": [
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-irkutsk.md",
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md",
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md",
+        "wiki/notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md"
+      ],
+      "limitations": "Только после1.2.8на182 и до1.2.9на191;соседние темы не включены."
     }
   ],
   "updated_at": "2026-11-08",

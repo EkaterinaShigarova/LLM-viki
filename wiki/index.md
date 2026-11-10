@@ -21,6 +21,7 @@
 - [Водный баланс Байкала: компоненты, полезный приток и границы сопоставления](syntheses/baikal-water-balance.md)
 - [Наследие БЦБК: накопители, подземные воды и коммунальные стоки](syntheses/bcbk-legacy.md)
 - [Донные отложения Байкала: сеть мониторинга, ПАУ и литотипы](syntheses/bottom-sediment-monitoring.md)
+- [Климатические условия и метеорологические экстремумы БПТ: территории,сезоны и проверяемость](syntheses/climate-bpt.md)
 - [Выбросы теплоэнергетики: что подтверждает ретроспективный ряд](syntheses/emissions-and-comparability.md)
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 - [Эпишура и донные беспозвоночные: биологические показатели качества среды](syntheses/epishura-benthos.md)
@@ -54,7 +55,7 @@
 
 ## Последнее завершённое исследование
 
-[Осадки и снежный покров2023](syntheses/precipitation-snow-regime.md) · [Химия снега](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) · [Отчёт](../docs/PRECIPITATION_SNOW_2023.md).
+[Климат БПТ2023](syntheses/climate-bpt.md) · [Четыре конспекта](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/index.md) · [Отчёт](../docs/CLIMATE_2023.md).
 
 ## Документы и конспекты
 

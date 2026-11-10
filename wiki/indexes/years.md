@@ -117,6 +117,10 @@
 - [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 - [2023: осадки и снежный покров трёх регионов БПТ — периоды, территории и исключения](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/precipitation-snow-regime.md) — доклад 2023.
 - [2023: химия снежного покрова ЦЭЗ, плотности выпадений и вся таблица 2022–2023](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/snow-chemistry.md) — доклад 2023.
+- [2023: температура и сезонные переходы иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-irkutsk.md) — доклад 2023.
+- [2023: опасные гидрометеорологические явления иркутской части БПТ](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-hazards-irkutsk.md) — доклад 2023.
+- [2023: климат Бурятии, сезонные температуры и исторические рекорды](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-buryatia.md) — доклад 2023.
+- [2023: климат Забайкальской части БПТ и все общие выводы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/climate-transbaikalia.md) — доклад 2023.
 
 ## 2024
 
