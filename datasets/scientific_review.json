@@ -2220,7 +2220,9 @@
         "night-hydro2018_complete-20261109-08",
         "hydro2021-environmental-problems-01",
         "air2018-environmental-problems-01",
-        "air2020-environmental-problems-01"
+        "air2020-environmental-problems-01",
+        "air2023-environmental-problems-01",
+        "air2023-environmental-problems-02"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -2232,10 +2234,11 @@
         "drive-1FFG7dMsfKpCRp3yWVm8m2C9vjxK8ATab": "26dc3610938c5b8f91e85b4179ee1092f20aa03684135d0534b8ad2ab9629023",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
         "drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB": "9f0ff38111fe9092e96e8bed6e602f92a5b1e63f6cd9bbcb856d76dc3b7fb391",
-        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066"
       },
-      "coverage": "Прежние выбранные сверки сохранены; новые блоки2020 и сопоставление2018 проверены по оригиналам. Полная атомизация и экспертная рецензия не заявляются.",
-      "body_sha256": "5abc74c3140a63e2298863e8ba8da88ddd77ee379fd55b818134cf708fd51882",
+      "coverage": "Прежние выбранные сверки сохранены. Новые блоки 2023 проверены локально; сопоставление 2019/2024 использует зарегистрированные выдержки, без нового локального подтверждения. Полная атомизация/научная рецензия не заявлены.",
+      "body_sha256": "d9023f23137cfe5d4828aaa0f4536c33e6e4918b7af76a34f7b0d804ff2ca95f",
       "open_questions": [
         "Не строить единый индекс из несопоставимых показателей; проверить официальные экземпляры зеркал и непокрытые годы.",
         "Обзор 2025: проценты олигохетного индекса и доли проб",
@@ -2403,6 +2406,84 @@
           "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
           "report_year": 2020,
           "page": 163
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 169
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 175
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 176
+        },
+        {
+          "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+          "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+          "report_year": 2018,
+          "page": 144
+        },
+        {
+          "source_id": "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ",
+          "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
+          "report_year": 2018,
+          "page": 145
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "page": 153
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "page": 154
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "report_year": 2020,
+          "page": 159
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "report_year": 2020,
+          "page": 160
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 167
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 168
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "report_year": 2024,
+          "page": 139
+        },
+        {
+          "source_id": "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos",
+          "sha256": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
+          "report_year": 2024,
+          "page": 144
         }
       ],
       "review_history": [
@@ -2606,6 +2687,33 @@
             "air2018-environmental-problems-01"
           ],
           "scope": "Добавлен полный атмосферный раздел2020 и ограниченное сопоставление2018; прежние утверждения сохранены."
+        },
+        {
+          "at": "2026-11-10",
+          "archived_article": {
+            "article": "syntheses/environmental-problems.md",
+            "sha256": "dba644441e2cee267fc3fe0eb43d79631fed188459514660442bb28abfe42535",
+            "path": "data/wiki_updates/versions/dba644441e2cee267fc3fe0eb43d79631fed188459514660442bb28abfe42535.md"
+          },
+          "previous_body_sha256": "5abc74c3140a63e2298863e8ba8da88ddd77ee379fd55b818134cf708fd51882",
+          "previous_claim_ids": [
+            "environmental-problems-01",
+            "environmental-problems-02",
+            "environmental-problems-03",
+            "environmental-problems-04",
+            "environmental-problems-05",
+            "environmental-problems-06",
+            "night-review2025-20261108-07",
+            "night-kos2022-20261108-08",
+            "night-followup_lands2015-20261108-01",
+            "night-followup_lands2015-20261108-02",
+            "night-followup_lands2019-20261108-08",
+            "night-hydro2018_complete-20261109-08",
+            "hydro2021-environmental-problems-01",
+            "air2018-environmental-problems-01",
+            "air2020-environmental-problems-01"
+          ],
+          "scope": "Добавлено полное исследование атмосферного раздела 2023 и сопоставление пяти лет. Прежние научные блоки и HUMAN NOTES сохранены."
         }
       ]
     },
@@ -2749,7 +2857,10 @@
         "air2018-emissions-and-comparability-01",
         "air2018-emissions-and-comparability-02",
         "air2020-emissions-and-comparability-01",
-        "air2020-emissions-and-comparability-02"
+        "air2020-emissions-and-comparability-02",
+        "air2023-emissions-and-comparability-01",
+        "air2023-emissions-and-comparability-02",
+        "air2023-emissions-and-comparability-03"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -2757,10 +2868,11 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
-        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066"
       },
-      "coverage": "Прежние выбранные сверки сохранены; новые блоки2020 и сопоставление2018 проверены по оригиналам. Полная атомизация и экспертная рецензия не заявляются.",
-      "body_sha256": "51e1f6eae606a22fb22cda72588400f4e07dcebe9adc410920e3af52812c8c11",
+      "coverage": "Прежние выбранные сверки сохранены. Новые блоки 2023 проверены локально; сопоставление 2019/2024 использует зарегистрированные выдержки, без нового локального подтверждения. Полная атомизация/научная рецензия не заявлены.",
+      "body_sha256": "d0237703cdd49d15c7844a101c91121491c7fa1b9bd00e4d661c5afe3f49f44a",
       "open_questions": [
         "Независимо установить преемственность источников разных компаний; не объединять ряды по одному названию.",
         "Охват сети и интервалы нормативов атмосферного мониторинга 2024 года",
@@ -2859,6 +2971,60 @@
           "sha256": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
           "report_year": 2018,
           "page": 145
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 167
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 168
+        },
+        {
+          "source_id": "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn",
+          "sha256": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
+          "report_year": 2019,
+          "page": 155
+        },
+        {
+          "source_id": "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP",
+          "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+          "report_year": 2020,
+          "page": 161
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 169
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 170
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 171
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 172
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 173
         }
       ],
       "review_history": [
@@ -2934,6 +3100,29 @@
             "air2018-emissions-and-comparability-02"
           ],
           "scope": "Добавлен полный атмосферный раздел2020 и ограниченное сопоставление2018; прежние утверждения сохранены."
+        },
+        {
+          "at": "2026-11-10",
+          "archived_article": {
+            "article": "syntheses/emissions-and-comparability.md",
+            "sha256": "545ea2495247205c54acdee610e2e70c0f6287485fc1a1b1c9689a20c496e71d",
+            "path": "data/wiki_updates/versions/545ea2495247205c54acdee610e2e70c0f6287485fc1a1b1c9689a20c496e71d.md"
+          },
+          "previous_body_sha256": "51e1f6eae606a22fb22cda72588400f4e07dcebe9adc410920e3af52812c8c11",
+          "previous_claim_ids": [
+            "emissions-and-comparability-01",
+            "emissions-and-comparability-02",
+            "emissions-and-comparability-03",
+            "emissions-and-comparability-04",
+            "night-air2024_complete-20261109-07",
+            "night-air2024_complete-20261109-08",
+            "night-air2019_complete-20261109-04",
+            "air2018-emissions-and-comparability-01",
+            "air2018-emissions-and-comparability-02",
+            "air2020-emissions-and-comparability-01",
+            "air2020-emissions-and-comparability-02"
+          ],
+          "scope": "Добавлено полное исследование атмосферного раздела 2023 и сопоставление пяти лет. Прежние научные блоки и HUMAN NOTES сохранены."
         }
       ]
     },
@@ -4281,7 +4470,12 @@
         "air2020-air-pollution-01",
         "air2020-air-pollution-02",
         "air2020-air-pollution-03",
-        "air2020-air-pollution-04"
+        "air2020-air-pollution-04",
+        "air2023-air-pollution-01",
+        "air2023-air-pollution-02",
+        "air2023-air-pollution-03",
+        "air2023-air-pollution-04",
+        "air2023-air-pollution-05"
       ],
       "scientific_review_required": true,
       "human_confirmation": null,
@@ -4289,10 +4483,11 @@
         "drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ": "c813f2671ebb235dd3291076f3c728bb78d821391024e2bce754849c79fa992a",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
         "drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn": "747fadeaf55107fbf9fbb5965696912195b4795436a9f300c009a4f5e5d9839a",
-        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066"
       },
-      "coverage": "Прежние выбранные сверки сохранены; новые блоки2020 и сопоставление2018 проверены по оригиналам. Полная атомизация и экспертная рецензия не заявляются.",
-      "body_sha256": "bc1a9e3fc13b60aff4bf5a840100898557c4999b90757f62935add2e1a550d82",
+      "coverage": "Прежние выбранные сверки сохранены. Новые блоки 2023 проверены локально; сопоставление 2019/2024 использует зарегистрированные выдержки, без нового локального подтверждения. Полная атомизация/научная рецензия не заявлены.",
+      "body_sha256": "4dab0c068d10c8de89e16a328341ac0019231971acb7ec099813d6ba2474f12c",
       "open_questions": [
         "Проверить состав источников предприятий, методы учёта и связь выбросов с измеренными концентрациями.",
         "Охват сети и интервалы нормативов атмосферного мониторинга 2024 года",
@@ -4418,6 +4613,54 @@
           "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
           "report_year": 2020,
           "page": 162
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 167
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 168
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 170
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 171
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 172
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 169
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 173
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 174
         }
       ],
       "review_history": [
@@ -4515,6 +4758,39 @@
             "air2018-air-pollution-03"
           ],
           "scope": "Добавлен полный атмосферный раздел2020 и ограниченное сопоставление2018; прежние утверждения сохранены."
+        },
+        {
+          "at": "2026-11-10",
+          "archived_article": {
+            "article": "syntheses/air-pollution.md",
+            "sha256": "a1bccce116a5fbb13ca8b82e48637fac4e6f3bc6a7960ae56cdd2be9d35d3fdd",
+            "path": "data/wiki_updates/versions/a1bccce116a5fbb13ca8b82e48637fac4e6f3bc6a7960ae56cdd2be9d35d3fdd.md"
+          },
+          "previous_body_sha256": "bc1a9e3fc13b60aff4bf5a840100898557c4999b90757f62935add2e1a550d82",
+          "previous_claim_ids": [
+            "air-pollution-01",
+            "air-pollution-02",
+            "air-pollution-03",
+            "air-pollution-04",
+            "air-pollution-05",
+            "night-air2024_complete-20261109-01",
+            "night-air2024_complete-20261109-02",
+            "night-air2024_complete-20261109-03",
+            "night-air2024_complete-20261109-04",
+            "night-air2024_complete-20261109-05",
+            "night-air2024_complete-20261109-06",
+            "night-air2019_complete-20261109-01",
+            "night-air2019_complete-20261109-02",
+            "night-air2019_complete-20261109-03",
+            "air2018-air-pollution-01",
+            "air2018-air-pollution-02",
+            "air2018-air-pollution-03",
+            "air2020-air-pollution-01",
+            "air2020-air-pollution-02",
+            "air2020-air-pollution-03",
+            "air2020-air-pollution-04"
+          ],
+          "scope": "Добавлено полное исследование атмосферного раздела 2023 и сопоставление пяти лет. Прежние научные блоки и HUMAN NOTES сохранены."
         }
       ]
     },
@@ -5891,21 +6167,23 @@
       "reviewed_at": "2026-11-10",
       "human_confirmation": null,
       "scientific_review_required": true,
-      "body_sha256": "d85e3845b9ad1660f87b096a5e1ee627e7a855b8f2d641c448b016fa974d9523",
+      "body_sha256": "769a0059514c283d9c1838464b7f1dc6890a10b20a7e280333ee7253acc587bb",
       "claim_ids": [
         "hydrology3-20261104-10",
         "hydrology3-20261104-11",
         "hydrology3-20261104-12",
         "hydrology3-20261104-13",
         "hydrology3-20261104-14",
-        "air2020-atmospheric-deposition-01"
+        "air2020-atmospheric-deposition-01",
+        "air2023-atmospheric-deposition-01"
       ],
       "source_revisions": {
         "official-b4e3fcfe0e41e26ea03b": "f42cd72201a7bb8652d10a571c5f472e9f9bd738d78939d676b13d0ee6146920",
         "drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos": "557959d2c8996b990487e9d2acd501ca4048f29e3c7a6fe27e49f8fc1c554fd8",
-        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54"
+        "drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
+        "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066"
       },
-      "coverage": "Прежние выбранные сверки сохранены; новые блоки2020 и сопоставление2018 проверены по оригиналам. Полная атомизация и экспертная рецензия не заявляются.",
+      "coverage": "Прежние выбранные сверки сохранены. Новые блоки 2023 проверены локально; сопоставление 2019/2024 использует зарегистрированные выдержки, без нового локального подтверждения. Полная атомизация/научная рецензия не заявлены.",
       "review_method": "Source reading by knowledge-base agent; exact cached contexts and selected original table/figure views; not specialist review",
       "review_history": [
         {
@@ -5924,6 +6202,24 @@
             "hydrology3-20261104-14"
           ],
           "scope": "Добавлен полный атмосферный раздел2020 и ограниченное сопоставление2018; прежние утверждения сохранены."
+        },
+        {
+          "at": "2026-11-10",
+          "archived_article": {
+            "article": "syntheses/atmospheric-deposition.md",
+            "sha256": "ce21881f63abbbc856b91ad21c457bd829a68a8bab0fc651dc4380c2fac60e53",
+            "path": "data/wiki_updates/versions/ce21881f63abbbc856b91ad21c457bd829a68a8bab0fc651dc4380c2fac60e53.md"
+          },
+          "previous_body_sha256": "d85e3845b9ad1660f87b096a5e1ee627e7a855b8f2d641c448b016fa974d9523",
+          "previous_claim_ids": [
+            "hydrology3-20261104-10",
+            "hydrology3-20261104-11",
+            "hydrology3-20261104-12",
+            "hydrology3-20261104-13",
+            "hydrology3-20261104-14",
+            "air2020-atmospheric-deposition-01"
+          ],
+          "scope": "Добавлено полное исследование атмосферного раздела 2023 и сопоставление пяти лет. Прежние научные блоки и HUMAN NOTES сохранены."
         }
       ],
       "reviewed_evidence": [
@@ -5950,6 +6246,30 @@
           "sha256": "48bfd75a6c75a685d4f5ff2ea52cd1aba78d6d0a6bd45fbd311d5305a9b84c54",
           "report_year": 2020,
           "page": 162
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 170
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 171
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 172
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "page": 176
         }
       ]
     },
@@ -11567,6 +11887,177 @@
       ],
       "conclusion": "Неопределённая категория не заменена низкой; нужно основание категоризации.",
       "next_step": "Первичные протоколы/постовые ряды, паспорт сети, методы и нормативные/редакционные пояснения.",
+      "specialist_required": true
+    },
+    {
+      "id": "air2023-event-calendar",
+      "title": "БЭЗ 2023: дата 2022 и временные границы трёх длительных событий",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "air2023-air-pollution-03",
+        "air2023-environmental-problems-01"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 169,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  167\n\n\n                                                                           (21,5 ПДК);          гинск — шесть (бенз(а)пирен — в 9,5 раза, взве-\n        шенные вещества — в 2 раза, формальдегид —         ■  17.08.2023 г. в 22:40 — 0,084 мг/м³\n          в 1,7 раза, сероводород — в 1,5 раза, озон —             (10,5 ПДК);\n                                                              ■          в 1,3 раза, РМ 2.5 — в 1,2 раза); в г. Гусиноо­            18.08.2023 г. в 00:20 — 0,109 мг/м³\n          зерск — три (взвешенные вещества — в 2,7             (13,6 ПДК);\n           раза, озон — в 1,7 раза, РМ 10 — в 1,3 раза);         ■  18.08.2023 г. с 01:00 до 01:20 один\n          в г. Петровск-Забайкальский — две (бенз(а)пи-           случай длительностью 40 мин —\n         рен — в 5,3 раза, сероводород — в 1,4 раза).               0,108 мг/м³ (13,5 ПДК);\n\n                                                              ■                                                                    18.08.2023 г. с 03:20 до 04:00 один         Максимальные разовые концентрации превы-                                                               случай длительностью 1 час —        шали ПДК во всех населенных пунктах, где осу-                                                                    0,088 мг/м³ (11,0 ПДК);         ществляются наблюдения. В г. Улан-Удэ таких\n                                                              ■                                                                    19.08.2023 г. в 00:40 — 0,086 мг/м³         загрязняющих веществ одиннадцать (бенз(а)пи-\n                                                                           (10,8 ПДК);         рен — в 33,2 раза, озон — в 18,9 раз, взвешен-\n                                                              ■         ные вещества — в 5,1 раза, РМ 2.5 — в 5,1 раза,            20.08.2023 г. в 07:20 — 0,089 мг/м³\n       РМ 10 — в 3,3 раза, сероводород — в 2,8 раза,              (11,1 ПДК);\n         фенол — в 2,2 раза, оксид азота — в 1,5 раза,         ■  21.08.2023 г. в 02:40 до 03:20 один\n          углерод  (сажа) —  в 1,4 раза,  оксид  углеро-           случай длительностью 1 час —\n         да — в 26,9 раз, диоксид азота — в 14,7 раз);            0,142 мг/м³ (17,8 ПДК)4\n          в пгт.  Селенгинске —  семь  (бенз(а)пирен —         ■                                                                    12.09.2023 г. в 07:20 — 0,086 мг/м³          в 28,5 раза,    сероводород —    в 21,54 раза,                                                                           (10,8 ПДК).       РМ 10 —   в 6,3 раза,  РМ 2.5 —   в 3,4 раза,\n         взвешенные  вещества —  в 2,2 раза,  оксид\n          углерода —  в 1,6 раза, фенол —  в 1,2 раза);      ■  Случаи ВЗ сероводородом на ПНЗ №1,\n          в  г. Гусиноозерск — пять (взвешенные веще-           пгт. Селенгинск:\n          ства — в 6,4 раза, РМ 10 — в 6 раз, РМ 2.5 —\n          в 4 раза,  озон —  в 2 раза,  сероводород —         ■  27.08.2023 г. в 05:20 — 0,099 мг/м³\n          в 1,2 раза); в г. Петровск-Забайкальский — три             (12,4 ПДК);\n                                                              ■          (бенз(а)пирен —  в 17,1 раза,  сероводород —            15.09.2023 г. в 04:40 — 0,096 мг/м³\n          в 7,6 раза, взвешенные вещества — в 1,3 раза).              (12,0 ПДК).\n        В 2023 году пунктами государственной наблю-\n                                                           ■                                                         Случай ВЗ диоксидом азота на ПНЗ № 4         дательной сети было зарегистрировано 17 слу-\n                                                            в г.Улан-Удэ:          чаев высокого загрязнения (ВЗ) атмосферного\n          воздуха длительностью 20 мин и три случая         ■                                                                          13.02. 2023 г. в 04:20 — 2,939 мг/м³         длительностью  от 40 минут до 1 часа: из них                                                                           (14,7 ПДК).          в с. Брянск — 15 случаев ВЗ сероводородом,\n          в пгт.  Селенгинск —  2 случая ВЗ  сероводо-\n                                                           ■          родом, в г. Улан-Удэ — 1 случай ВЗ оксидом        Случай ВЗ оксидом углерода\n          углерода, 1 случай ВЗ диоксидом азота и 1 слу-        на ПНЗ № 4 в г.Улан-Удэ:\n         чай ВЗ озоном.\n                                                              ■                                                                    04.09.2023 г. в 20:00 — 134,4 мг/м³\n                                                                           (26,9 ПДК).\n              ■               Случаи ВЗ сероводородом на ПНЗ № 2,\n                  с.Брянск, ул.Новая:\n                                                           ■                                                         Случай ВЗ озоном на ПНЗ № 1\n                ■                      07.02. 2023 г. в 14:20 — 0,117 мг/м³                                                            в г.Улан-Удэ:\n                      (14,6 ПДК);\n                                                              ■                ■                                                  31.07.2023 г. в 05:20 — 3,024 мг/м³                      24.07. 2023 г. в 08:40 — 0,139 мг/м³\n                                                                           (18,9 ПДК).                      (17,4 ПДК);\n\n                ■                      24.07. 2023 г. в 09:20 — 0,087 мг/м³\n                      (10,9 ПДК);                                              По результатам наблюдений в 2023 году было\n                ■                      28.07. 2022 г. в 07:40 — 0,100 мг/м³     зарегистрировано  14  случаев  превышения\n                      (12,5 ПДК);                          средне­месячными концентрациями  бенз(а)пи-\n                ■                      03.08. 2023 г. в 23:40 — 0,092 мг/м³     рена 10 ПДКс. с.:\n                       (11,4 ПДК);\n\n                ■                    07.08.2023 г. в 01:00 — 0,088 мг/м³         ■   г. Улан-Удэ — 7 случаев: ПНЗ № 1\n                       (11,0 ПДК);                                  (январь — 21,6, февраль — 11,6); ПНЗ\n                ■                    10.08.2023 г. в 23:40 — 0,172 мг/м³       № 2 (январь — 28,0, февраль — 25,3,"
+        }
+      ],
+      "source_versions": [
+        "28.07.2022 внутри списка 2023",
+        "01:00–01:20 /40 мин;03:20–04:00 и 02:40–03:20 /1 час"
+      ],
+      "conclusion": "20 сообщений сохранены, но календарная принадлежность и длительность требуют первичных протоколов.",
+      "next_step": "Сверить первичные постовые/лабораторные ряды, паспорта сети, нормативные таблицы и редакционное пояснение.",
+      "specialist_required": true
+    },
+    {
+      "id": "air2023-table-prose",
+      "title": "Группа 1.2.6.1: H₂SПетровска 1,4/1,5;PM10 Селенгинска 6,3/6,;H₂S21,54/21,5",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "air2023-air-pollution-02",
+        "air2023-air-pollution-05"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 169,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  167\n\n\n                                                                           (21,5 ПДК);          гинск — шесть (бенз(а)пирен — в 9,5 раза, взве-\n        шенные вещества — в 2 раза, формальдегид —         ■  17.08.2023 г. в 22:40 — 0,084 мг/м³\n          в 1,7 раза, сероводород — в 1,5 раза, озон —             (10,5 ПДК);\n                                                              ■          в 1,3 раза, РМ 2.5 — в 1,2 раза); в г. Гусиноо­            18.08.2023 г. в 00:20 — 0,109 мг/м³\n          зерск — три (взвешенные вещества — в 2,7             (13,6 ПДК);\n           раза, озон — в 1,7 раза, РМ 10 — в 1,3 раза);         ■  18.08.2023 г. с 01:00 до 01:20 один\n          в г. Петровск-Забайкальский — две (бенз(а)пи-           случай длительностью 40 мин —\n         рен — в 5,3 раза, сероводород — в 1,4 раза).               0,108 мг/м³ (13,5 ПДК);\n\n                                                              ■                                                                    18.08.2023 г. с 03:20 до 04:00 один         Максимальные разовые концентрации превы-                                                               случай длительностью 1 час —        шали ПДК во всех населенных пунктах, где осу-                                                                    0,088 мг/м³ (11,0 ПДК);         ществляются наблюдения. В г. Улан-Удэ таких\n                                                              ■                                                                    19.08.2023 г. в 00:40 — 0,086 мг/м³         загрязняющих веществ одиннадцать (бенз(а)пи-\n                                                                           (10,8 ПДК);         рен — в 33,2 раза, озон — в 18,9 раз, взвешен-\n                                                              ■         ные вещества — в 5,1 раза, РМ 2.5 — в 5,1 раза,            20.08.2023 г. в 07:20 — 0,089 мг/м³\n       РМ 10 — в 3,3 раза, сероводород — в 2,8 раза,              (11,1 ПДК);\n         фенол — в 2,2 раза, оксид азота — в 1,5 раза,         ■  21.08.2023 г. в 02:40 до 03:20 один\n          углерод  (сажа) —  в 1,4 раза,  оксид  углеро-           случай длительностью 1 час —\n         да — в 26,9 раз, диоксид азота — в 14,7 раз);            0,142 мг/м³ (17,8 ПДК)4\n          в пгт.  Селенгинске —  семь  (бенз(а)пирен —         ■                                                                    12.09.2023 г. в 07:20 — 0,086 мг/м³          в 28,5 раза,    сероводород —    в 21,54 раза,                                                                           (10,8 ПДК).       РМ 10 —   в 6,3 раза,  РМ 2.5 —   в 3,4 раза,\n         взвешенные  вещества —  в 2,2 раза,  оксид\n          углерода —  в 1,6 раза, фенол —  в 1,2 раза);      ■  Случаи ВЗ сероводородом на ПНЗ №1,\n          в  г. Гусиноозерск — пять (взвешенные веще-           пгт. Селенгинск:\n          ства — в 6,4 раза, РМ 10 — в 6 раз, РМ 2.5 —\n          в 4 раза,  озон —  в 2 раза,  сероводород —         ■  27.08.2023 г. в 05:20 — 0,099 мг/м³\n          в 1,2 раза); в г. Петровск-Забайкальский — три             (12,4 ПДК);\n                                                              ■          (бенз(а)пирен —  в 17,1 раза,  сероводород —            15.09.2023 г. в 04:40 — 0,096 мг/м³\n          в 7,6 раза, взвешенные вещества — в 1,3 раза).              (12,0 ПДК).\n        В 2023 году пунктами государственной наблю-\n                                                           ■                                                         Случай ВЗ диоксидом азота на ПНЗ № 4         дательной сети было зарегистрировано 17 слу-\n                                                            в г.Улан-Удэ:          чаев высокого загрязнения (ВЗ) атмосферного\n          воздуха длительностью 20 мин и три случая         ■                                                                          13.02. 2023 г. в 04:20 — 2,939 мг/м³         длительностью  от 40 минут до 1 часа: из них                                                                           (14,7 ПДК).          в с. Брянск — 15 случаев ВЗ сероводородом,\n          в пгт.  Селенгинск —  2 случая ВЗ  сероводо-\n                                                           ■          родом, в г. Улан-Удэ — 1 случай ВЗ оксидом        Случай ВЗ оксидом углерода\n          углерода, 1 случай ВЗ диоксидом азота и 1 слу-        на ПНЗ № 4 в г.Улан-Удэ:\n         чай ВЗ озоном.\n                                                              ■                                                                    04.09.2023 г. в 20:00 — 134,4 мг/м³\n                                                                           (26,9 ПДК).\n              ■               Случаи ВЗ сероводородом на ПНЗ № 2,\n                  с.Брянск, ул.Новая:\n                                                           ■                                                         Случай ВЗ озоном на ПНЗ № 1\n                ■                      07.02. 2023 г. в 14:20 — 0,117 мг/м³                                                            в г.Улан-Удэ:\n                      (14,6 ПДК);\n                                                              ■                ■                                                  31.07.2023 г. в 05:20 — 3,024 мг/м³                      24.07. 2023 г. в 08:40 — 0,139 мг/м³\n                                                                           (18,9 ПДК).                      (17,4 ПДК);\n\n                ■                      24.07. 2023 г. в 09:20 — 0,087 мг/м³\n                      (10,9 ПДК);                                              По результатам наблюдений в 2023 году было\n                ■                      28.07. 2022 г. в 07:40 — 0,100 мг/м³     зарегистрировано  14  случаев  превышения\n                      (12,5 ПДК);                          средне­месячными концентрациями  бенз(а)пи-\n                ■                      03.08. 2023 г. в 23:40 — 0,092 мг/м³     рена 10 ПДКс. с.:\n                       (11,4 ПДК);\n\n                ■                    07.08.2023 г. в 01:00 — 0,088 мг/м³         ■   г. Улан-Удэ — 7 случаев: ПНЗ № 1\n                       (11,0 ПДК);                                  (январь — 21,6, февраль — 11,6); ПНЗ\n                ■                    10.08.2023 г. в 23:40 — 0,172 мг/м³       № 2 (январь — 28,0, февраль — 25,3,"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 170,
+          "quote": "168                                           Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2023 году»\n\n\n          ноябрь — 15,1, декабрь — 33,2); ПНЗ             дегида. Средние за год концентрации\n      № 6 — 1 случай (декабрь — 11,6);              взвешенных веществ, РМ 10, углерода\n\n        ■             пгт. Селенгинск — 4 (январь — 25,7,              (сажи), аммиака, диоксида азота сни-\n         февраль — 22,0, ноябрь — 11,1,                  зились. Средние за год концентрации\n          декабрь — 28,5);                             оксида азота, фенола, озона, PM2.5 не\n        ■                                               изменились.                г. Петровск-Забайкальский — 3\n           (январь — 16,4, февраль — 10,3,             ■  в г. Гусиноозерск повысились средние\n          декабрь — 17,1).                               за год концентрации диоксида азота,\n                                                           озона. Средние за год концентрации\n  В 2023 году по сравнению                взвешенных веществ, РМ 10, РМ 2.5,                                                    диоксида серы, оксида азота, серово-\n   с предыдущим годом:                       дорода, аммиака снизились. Средние\n                                                        за год концентрации оксида углерода\n        ■          в г. Улан-Удэ повысились средние за год        не изменились.\n          концентрации взвешенных веществ,          ■                                                      в г. Петровск-Забайкальский повыси-          диоксида серы, оксида углерода, диок-                                                       лись средние за год концентрации взве-          сида азота, оксида азота, формальдеги-                                                шенных веществ, бенз(а)пирена и окси-           да, озона. Средние за год концентрации                                                   да азота. Средняя за год концентрация           бенз(а)пирена, РМ 10, РМ 2.5, углерода                                                    диоксида серы снизилась. Средние           (сажи), аммиака, свинца, никеля, меди,                                                        за год концентрации оксида углерода,          железа, магния, хрома и цинка снизи-                                                    диоксида азота, аммиака существенно           лись. Средние за год концентрации се-                                                     не изменились.          роводорода, фенола, марганца и кадмия\n          не изменились.                                           Данные о среднегодовых и максимальных кон-\n        ■          в пгт. Селенгинск повысились средние    центрациях,  превышениях  ПДК,  приведены\n          за год концентрации бенз(а)пирена, ди-   в таблице 1.2.3.1..\n          оксида серы, сероводорода, формаль-\n\n\n\n   Группа таблиц 1.2.6.1.\n  Характеристики загрязнения атмосферного воздуха\n     г. Улан-Удэ\n\n\n         Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                        в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n         Взвешенные вещества                                                                           0,178                                2,4                           2,54                                   5,1\n\n         Диоксид серы                                                                      0,009                               0,2                        0,204                             0,4\n\n         Оксид углерода                                                                               0,6                               0,2                           134,4                           26,9\n\n         Диоксид азота                                                                      0,040                                    1,0                         2,939                                14,7\n\n         Оксид азота                                                                         0,026                               0,4                        0,603                                   1,5\n\n         Озон                                                                               0,036                                     1,2                         3,024                              18,9\n\n         Сероводород                                                                            0,001                               0,5                        0,022                              2,8\n\n        Фенол                                                                            0,004                                     1,3                        0,022                              2,2\n\n         Сажа (углерод)                                                                       0,023                               0,9                           0,214                                   1,4\n\n         Аммиак                                                                            0,004                                    0,1                          0,140                                0,7"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 171,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  169\n\n\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Формальдегид                                                                                  0,011                                    3,7                        0,044                             0,9\n\n                         Бенз(а)пирен, нг/м³                                                                                      6,7                                   6,7                           33,2                           33,2\n\n                     Взвешенные частицы РМ10                                                            0,058                                     1,4                            0,197                               3,3\n\n                     Взвешенные частицы РМ2.5                                                            0,034                                     1,4                            0,178                                   5,1\n\n                       Марганец, мкг/м³                                                                       0,06                                     1,2                                 0,11                                 0,11\n\n                      Медь, мкг/м³                                                                            0,03                               0,01                          0,05                          0,03\n\n                       Никель, мкг/м³                                                                          0,03                               0,6                                  0,1                                  0,1\n\n                       Свинец, мкг/м³                                                                                 0,01                                    0,1                          0,03                                  0,1\n\n                       Железо, мкг/м³                                                                                    1,43                            0,04                           2,95                            0,07\n\n                        Хром, мкг/м³                                                                        0,002                                             -                          0,02                                           -\n\n                       Цинк, мкг/м³                                                                                 0,07                              0,0                             0,12                             0,0\n\n                       Кадмий, мкг/м³                                                                               0,0                              0,0                             0,0                             0,0\n\n                       Магний, мкг/м³                                                                                 0,75                                             -                                6,71                                           -\n\n\n            г. Петровск-Забайкальский\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Взвешенные вещества                                                                0,066                               0,9                          0,667                                   1,3\n\n                     Диоксид серы                                                                                   0,011                               0,2                          0,414                             0,8\n\n                     Оксид углерода                                                                                            0,1                               0,0                              2,9                             0,6\n\n                     Диоксид азота                                                                      0,004                                    0,1                          0,102                             0,5\n\n                     Оксид азота                                                                             0,007                                    0,1                            0,187                             0,5\n\n                      Сероводород                                                                        0,003                                      1,5                          0,061                                 7,6\n\n                     Аммиак                                                                                      0,0                               0,0                          0,04                             0,2\n\n                         Бенз(а)пирен, нг/м³                                                                                5,3                                 5,3                                     17,1                                     17,1\n\n\n            г. Гусиноозёрск\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Взвешенные вещества                                                                0,206                                   2,7                              3,21                              6,4\n\n                     Диоксид серы                                                                      0,008                               0,16                             0,181                             0,4"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 172,
+          "quote": "170                                           Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2023 году»\n\n\n\n\n         Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                        в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n         Оксид углерода                                                                               0,6                               0,2                              4,2                             0,8\n\n         Диоксид азота                                                                        0,025                               0,6                          0,160                             0,8\n\n         Оксид азота                                                                                    0,017                               0,3                        0,380                             0,9\n\n         Озон                                                                                     0,051                                         1,7                           0,316                             2,0\n\n         Сероводород                                                                              0,0011                               0,5                          0,010                                   1,2\n\n         Аммиак                                                                            0,002                                    0,1                        0,030                             0,2\n\n         Взвешенные частицы РМ10                                                                 0,051                                     1,3                         0,358                             6,0\n\n         Взвешенные частицы РМ2,5                                                            0,025                                    1,0                             0,141                             4,0\n\n\n   пгт. Селенгинск, включая с. Брянск\n\n\n         Наименование загрязняющего вещества                           Средняя за год концентрация                                       Максимальная разовая концентрация\n\n                                                                             в мг/м3                            в ПДК                             в мг/м3                          в ПДК\n\n         Взвешенные вещества                                             0,152                             2,0                                    1,119                             2,2\n\n         Диоксид серы                                               0,008                             0,2                            0,400                           0,8\n\n         Оксид углерода                                                    0,5                               0,2                                   7,8                                   1,6\n\n         Диоксид азота                                                  0,016                             0,4                               0,133                              0,7\n\n         Оксид азота                                                 0,008                                0,1                               0,218                            0,5\n\n         Озон                                                       0,038                                 1,3                             0,095                           0,6\n\n         Сероводород                                                0,003                                  1,5                                 0,172                              21,5\n\n        Фенол                                                     0,002                               0,7                               0,012                                1,2\n\n         Аммиак                                                   0,0004                           0,01                             0,070                            0,4\n\n         Формальдегид                                               0,005                                     1,7                               0,031                           0,6\n\n         Сажа (углерод)                                              0,009                            0,4                            0,098                           0,6\n\n         Взвешенные частицы РМ10                                     0,039                            0,9                            0,380                                6,\n\n         Взвешенные частицы РМ2,5                                    0,030                                 1,2                                 0,118                             3,4\n\n          Бенз(а)пирен, нг/м3                                                 9,5                                9,5                               28,5                            28,5"
+        }
+      ],
+      "source_versions": [
+        "Петровск, годовойH₂S:проза 1,4;таблица 1,5",
+        "Селенгинск,PM10 максимум:проза 6,3;таблица 6,",
+        "Селенгинск,H₂Sмаксимум:проза 21,54;таблица/событие 21,5",
+        "Вводная ссылка 1.2.3.1 против фактической подписи 1.2.6.1"
+      ],
+      "conclusion": "Сохранены буквальные варианты, прочерки/0,0 и строковые единицы; числовые нормы и предполагаемые сноски не восстановлены.",
+      "next_step": "Сверить первичные постовые/лабораторные ряды, паспорта сети, нормативные таблицы и редакционное пояснение.",
+      "specialist_required": true
+    },
+    {
+      "id": "air2023-intervals",
+      "title": "Воздух 2023: разовая шапка бенз(а)пирена и разные нормативы месячных максимумов",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "air2023-air-pollution-04",
+        "air2023-emissions-and-comparability-02",
+        "air2023-emissions-and-comparability-03"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 167,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  165\n\n        1.2.6. Атмосферный воздух\n      ■ФГБУ «Иркутское УГМС» Росгидромета,\n      ■ФГБУ «Забайкальское УГМС», Росгидромета, ФГБУ «ГГО»)\n\n\n        В ЦЭЗ БПТ мониторинг загрязнения атмосфер-\n          ного воздуха осуществляется в четырех насе-\n         ленных пунктах Иркутской области: городах\n         Байкальск и Слюдянка, а также в рабочих по-\n          селках Култук и Листвянка.               В 2023 году на территории ЦЭЗ\n        В БЭЗ БПТ наблюдения проводятся в трех насе-   БПТ высокого и экстремально-вы-\n         ленных пунктах Республики Бурятия: городе    сокого загрязнения атмосферного          Улан-Удэ, пгт. Селенгинск (включая с. Брянск)\n         и городе Гусиноозерске, а также в городе Пе-    воздуха не было зарегистрировано.\n          тровске-Забайкальском Забайкальского края.\n        На территории ЭЗАВ БПТ мониторинг загрязне-  По комплексному индексу загрязнения атмос-\n         ния воздуха осуществляется в шести городах  ферного воздуха (далее — ИЗА) уровень загряз-\n         Иркутской области: Ангарске, Иркутске, Свир-  нения атмосферы в  г. Байкальск оценивался\n           ске, Усолье-Сибирском, Черемхово и Шелехове,  как «повышенный», в г. Слюдянка, п. Листвянка\n         а также в поселке Мегет.                     и в п. Култук — оценивался как «низкий».\n         Оценка качества атмосферного воздуха выпол-  Среднегодовые концентрации взвешенных ве-\n         нена в соответствии с СанПиН 1.2.3685–21 «Ги-  ществ, диоксида серы, оксида углерода, диок-\n          гиенические нормативы и требования к обеспе-  сида и оксида азота, наблюдаемых тяжелых ме-\n         чению безопасности и (или) безвредности для  таллов (свинец, марганец, никель, цинк, железо)\n         человека факторов среды обитания», где для  в атмосферном  воздухе населенных  пунктов\n         ряда загрязняющих веществ изменены значе-  ЦЭЗ БПТ,  и, дополнительно, среднегодовые\n         ния  среднесуточных  предельно  допустимых  концентрации аммиака, хлора, взвешенных ча-\n         концентраций  и введен  новый  норматив —  стиц РМ 10 в  г. Байкальск — не превышали\n         среднегодовые предельно допустимые концен-  ПДКс. г. Средние за год концентрации бенз(а)\n         трации (ПДКс. г.). Для некоторых загрязняющих  пирена превышали установленные гигиениче-\n         веществ установлены более  строгие нормы  ские нормативы в п. Култук в 1,3 раза и в г. Слю-\n         ПДКс. г., чем прежние среднесуточные концен-  дянка — в 1,1 раза; озона и формальдегида —\n         трации (ПДКс. с.). Также определяется ПДКм.  в г. Байкальск — достигали 1,6 и 1,7 ПДКс. г. со-\n             р. — максимальные разовые предельно допу-  ответственно.\n         стимые концентрации загрязняющих веществ.\n                                                 Наибольшая из среднемесячных концентрация\n          Загрязнение атмосферного воздуха БПТ обу-  бенз(а)пирена концентрация бенз(а)пирена до-\n          словлено антропогенным воздействием выбро-  стигала 4,4 ПДКс. с. в п. Култук; 3,1 ПДКс. с. —\n          сов автотранспорта, объектов жизнеобеспече-  в  г. Слюдянка; 1,6 ПДКс.  с. — в п. Листвянка;\n         ния и инфраструктуры, расположенных в ЦЭЗ,   0,9 ПДКс. с. — в г. Байкальск.\n         а также предприятий Иркутско-Черемховского\n         промышленного  комплекса,  расположенных  Превышения разовых концентраций были заре-\n          в ЭЗАВ БПТ.                                 гистрированы в г. Байкальск: максимальная ра-\n                                                      зовая концентрация оксида азота достигала\n                                                               1,9 ПДКм. р., озона — уровня ПДКм. р. Макси-\n      Состояние атмосферного        мальные разовые концентрации взвешенных\n      воздуха в ЦЭЗ БПТ                  веществ, диоксида серы, оксида углерода, ди-                                                     оксида азота, и, дополнительно — сероводоро-\n                                                             да, хлора и формальдегида, аммиака в г. Бай-\n         Наблюдения  за загрязнением  атмосферного  кальск — не превышали ПДКм. р. Максимальная\n          воздуха осуществлялись в четырех населенных  из среднесуточных концентраций взвешенных\n          пунктах ЦЭЗ БПТ: в городах Байкальск, Слю-  частиц РМ 10 не превышала ПДКс.  с. Макси-\n         дянка и в поселках Листвянка, Култук.         мальные   из среднемесячных   концентраций"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 169,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  167\n\n\n                                                                           (21,5 ПДК);          гинск — шесть (бенз(а)пирен — в 9,5 раза, взве-\n        шенные вещества — в 2 раза, формальдегид —         ■  17.08.2023 г. в 22:40 — 0,084 мг/м³\n          в 1,7 раза, сероводород — в 1,5 раза, озон —             (10,5 ПДК);\n                                                              ■          в 1,3 раза, РМ 2.5 — в 1,2 раза); в г. Гусиноо­            18.08.2023 г. в 00:20 — 0,109 мг/м³\n          зерск — три (взвешенные вещества — в 2,7             (13,6 ПДК);\n           раза, озон — в 1,7 раза, РМ 10 — в 1,3 раза);         ■  18.08.2023 г. с 01:00 до 01:20 один\n          в г. Петровск-Забайкальский — две (бенз(а)пи-           случай длительностью 40 мин —\n         рен — в 5,3 раза, сероводород — в 1,4 раза).               0,108 мг/м³ (13,5 ПДК);\n\n                                                              ■                                                                    18.08.2023 г. с 03:20 до 04:00 один         Максимальные разовые концентрации превы-                                                               случай длительностью 1 час —        шали ПДК во всех населенных пунктах, где осу-                                                                    0,088 мг/м³ (11,0 ПДК);         ществляются наблюдения. В г. Улан-Удэ таких\n                                                              ■                                                                    19.08.2023 г. в 00:40 — 0,086 мг/м³         загрязняющих веществ одиннадцать (бенз(а)пи-\n                                                                           (10,8 ПДК);         рен — в 33,2 раза, озон — в 18,9 раз, взвешен-\n                                                              ■         ные вещества — в 5,1 раза, РМ 2.5 — в 5,1 раза,            20.08.2023 г. в 07:20 — 0,089 мг/м³\n       РМ 10 — в 3,3 раза, сероводород — в 2,8 раза,              (11,1 ПДК);\n         фенол — в 2,2 раза, оксид азота — в 1,5 раза,         ■  21.08.2023 г. в 02:40 до 03:20 один\n          углерод  (сажа) —  в 1,4 раза,  оксид  углеро-           случай длительностью 1 час —\n         да — в 26,9 раз, диоксид азота — в 14,7 раз);            0,142 мг/м³ (17,8 ПДК)4\n          в пгт.  Селенгинске —  семь  (бенз(а)пирен —         ■                                                                    12.09.2023 г. в 07:20 — 0,086 мг/м³          в 28,5 раза,    сероводород —    в 21,54 раза,                                                                           (10,8 ПДК).       РМ 10 —   в 6,3 раза,  РМ 2.5 —   в 3,4 раза,\n         взвешенные  вещества —  в 2,2 раза,  оксид\n          углерода —  в 1,6 раза, фенол —  в 1,2 раза);      ■  Случаи ВЗ сероводородом на ПНЗ №1,\n          в  г. Гусиноозерск — пять (взвешенные веще-           пгт. Селенгинск:\n          ства — в 6,4 раза, РМ 10 — в 6 раз, РМ 2.5 —\n          в 4 раза,  озон —  в 2 раза,  сероводород —         ■  27.08.2023 г. в 05:20 — 0,099 мг/м³\n          в 1,2 раза); в г. Петровск-Забайкальский — три             (12,4 ПДК);\n                                                              ■          (бенз(а)пирен —  в 17,1 раза,  сероводород —            15.09.2023 г. в 04:40 — 0,096 мг/м³\n          в 7,6 раза, взвешенные вещества — в 1,3 раза).              (12,0 ПДК).\n        В 2023 году пунктами государственной наблю-\n                                                           ■                                                         Случай ВЗ диоксидом азота на ПНЗ № 4         дательной сети было зарегистрировано 17 слу-\n                                                            в г.Улан-Удэ:          чаев высокого загрязнения (ВЗ) атмосферного\n          воздуха длительностью 20 мин и три случая         ■                                                                          13.02. 2023 г. в 04:20 — 2,939 мг/м³         длительностью  от 40 минут до 1 часа: из них                                                                           (14,7 ПДК).          в с. Брянск — 15 случаев ВЗ сероводородом,\n          в пгт.  Селенгинск —  2 случая ВЗ  сероводо-\n                                                           ■          родом, в г. Улан-Удэ — 1 случай ВЗ оксидом        Случай ВЗ оксидом углерода\n          углерода, 1 случай ВЗ диоксидом азота и 1 слу-        на ПНЗ № 4 в г.Улан-Удэ:\n         чай ВЗ озоном.\n                                                              ■                                                                    04.09.2023 г. в 20:00 — 134,4 мг/м³\n                                                                           (26,9 ПДК).\n              ■               Случаи ВЗ сероводородом на ПНЗ № 2,\n                  с.Брянск, ул.Новая:\n                                                           ■                                                         Случай ВЗ озоном на ПНЗ № 1\n                ■                      07.02. 2023 г. в 14:20 — 0,117 мг/м³                                                            в г.Улан-Удэ:\n                      (14,6 ПДК);\n                                                              ■                ■                                                  31.07.2023 г. в 05:20 — 3,024 мг/м³                      24.07. 2023 г. в 08:40 — 0,139 мг/м³\n                                                                           (18,9 ПДК).                      (17,4 ПДК);\n\n                ■                      24.07. 2023 г. в 09:20 — 0,087 мг/м³\n                      (10,9 ПДК);                                              По результатам наблюдений в 2023 году было\n                ■                      28.07. 2022 г. в 07:40 — 0,100 мг/м³     зарегистрировано  14  случаев  превышения\n                      (12,5 ПДК);                          средне­месячными концентрациями  бенз(а)пи-\n                ■                      03.08. 2023 г. в 23:40 — 0,092 мг/м³     рена 10 ПДКс. с.:\n                       (11,4 ПДК);\n\n                ■                    07.08.2023 г. в 01:00 — 0,088 мг/м³         ■   г. Улан-Удэ — 7 случаев: ПНЗ № 1\n                       (11,0 ПДК);                                  (январь — 21,6, февраль — 11,6); ПНЗ\n                ■                    10.08.2023 г. в 23:40 — 0,172 мг/м³       № 2 (январь — 28,0, февраль — 25,3,"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 170,
+          "quote": "168                                           Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2023 году»\n\n\n          ноябрь — 15,1, декабрь — 33,2); ПНЗ             дегида. Средние за год концентрации\n      № 6 — 1 случай (декабрь — 11,6);              взвешенных веществ, РМ 10, углерода\n\n        ■             пгт. Селенгинск — 4 (январь — 25,7,              (сажи), аммиака, диоксида азота сни-\n         февраль — 22,0, ноябрь — 11,1,                  зились. Средние за год концентрации\n          декабрь — 28,5);                             оксида азота, фенола, озона, PM2.5 не\n        ■                                               изменились.                г. Петровск-Забайкальский — 3\n           (январь — 16,4, февраль — 10,3,             ■  в г. Гусиноозерск повысились средние\n          декабрь — 17,1).                               за год концентрации диоксида азота,\n                                                           озона. Средние за год концентрации\n  В 2023 году по сравнению                взвешенных веществ, РМ 10, РМ 2.5,                                                    диоксида серы, оксида азота, серово-\n   с предыдущим годом:                       дорода, аммиака снизились. Средние\n                                                        за год концентрации оксида углерода\n        ■          в г. Улан-Удэ повысились средние за год        не изменились.\n          концентрации взвешенных веществ,          ■                                                      в г. Петровск-Забайкальский повыси-          диоксида серы, оксида углерода, диок-                                                       лись средние за год концентрации взве-          сида азота, оксида азота, формальдеги-                                                шенных веществ, бенз(а)пирена и окси-           да, озона. Средние за год концентрации                                                   да азота. Средняя за год концентрация           бенз(а)пирена, РМ 10, РМ 2.5, углерода                                                    диоксида серы снизилась. Средние           (сажи), аммиака, свинца, никеля, меди,                                                        за год концентрации оксида углерода,          железа, магния, хрома и цинка снизи-                                                    диоксида азота, аммиака существенно           лись. Средние за год концентрации се-                                                     не изменились.          роводорода, фенола, марганца и кадмия\n          не изменились.                                           Данные о среднегодовых и максимальных кон-\n        ■          в пгт. Селенгинск повысились средние    центрациях,  превышениях  ПДК,  приведены\n          за год концентрации бенз(а)пирена, ди-   в таблице 1.2.3.1..\n          оксида серы, сероводорода, формаль-\n\n\n\n   Группа таблиц 1.2.6.1.\n  Характеристики загрязнения атмосферного воздуха\n     г. Улан-Удэ\n\n\n         Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                        в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n         Взвешенные вещества                                                                           0,178                                2,4                           2,54                                   5,1\n\n         Диоксид серы                                                                      0,009                               0,2                        0,204                             0,4\n\n         Оксид углерода                                                                               0,6                               0,2                           134,4                           26,9\n\n         Диоксид азота                                                                      0,040                                    1,0                         2,939                                14,7\n\n         Оксид азота                                                                         0,026                               0,4                        0,603                                   1,5\n\n         Озон                                                                               0,036                                     1,2                         3,024                              18,9\n\n         Сероводород                                                                            0,001                               0,5                        0,022                              2,8\n\n        Фенол                                                                            0,004                                     1,3                        0,022                              2,2\n\n         Сажа (углерод)                                                                       0,023                               0,9                           0,214                                   1,4\n\n         Аммиак                                                                            0,004                                    0,1                          0,140                                0,7"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 171,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  169\n\n\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Формальдегид                                                                                  0,011                                    3,7                        0,044                             0,9\n\n                         Бенз(а)пирен, нг/м³                                                                                      6,7                                   6,7                           33,2                           33,2\n\n                     Взвешенные частицы РМ10                                                            0,058                                     1,4                            0,197                               3,3\n\n                     Взвешенные частицы РМ2.5                                                            0,034                                     1,4                            0,178                                   5,1\n\n                       Марганец, мкг/м³                                                                       0,06                                     1,2                                 0,11                                 0,11\n\n                      Медь, мкг/м³                                                                            0,03                               0,01                          0,05                          0,03\n\n                       Никель, мкг/м³                                                                          0,03                               0,6                                  0,1                                  0,1\n\n                       Свинец, мкг/м³                                                                                 0,01                                    0,1                          0,03                                  0,1\n\n                       Железо, мкг/м³                                                                                    1,43                            0,04                           2,95                            0,07\n\n                        Хром, мкг/м³                                                                        0,002                                             -                          0,02                                           -\n\n                       Цинк, мкг/м³                                                                                 0,07                              0,0                             0,12                             0,0\n\n                       Кадмий, мкг/м³                                                                               0,0                              0,0                             0,0                             0,0\n\n                       Магний, мкг/м³                                                                                 0,75                                             -                                6,71                                           -\n\n\n            г. Петровск-Забайкальский\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Взвешенные вещества                                                                0,066                               0,9                          0,667                                   1,3\n\n                     Диоксид серы                                                                                   0,011                               0,2                          0,414                             0,8\n\n                     Оксид углерода                                                                                            0,1                               0,0                              2,9                             0,6\n\n                     Диоксид азота                                                                      0,004                                    0,1                          0,102                             0,5\n\n                     Оксид азота                                                                             0,007                                    0,1                            0,187                             0,5\n\n                      Сероводород                                                                        0,003                                      1,5                          0,061                                 7,6\n\n                     Аммиак                                                                                      0,0                               0,0                          0,04                             0,2\n\n                         Бенз(а)пирен, нг/м³                                                                                5,3                                 5,3                                     17,1                                     17,1\n\n\n            г. Гусиноозёрск\n\n\n                    Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                                     в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n                     Взвешенные вещества                                                                0,206                                   2,7                              3,21                              6,4\n\n                     Диоксид серы                                                                      0,008                               0,16                             0,181                             0,4"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 172,
+          "quote": "170                                           Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2023 году»\n\n\n\n\n         Наименование загрязняющего вещества                        Средняя за год концентрация                                   Максимальная разовая концентрация\n\n                                                                        в мг/м³                          в ПДК                           в мг/м³                        в ПДК\n\n         Оксид углерода                                                                               0,6                               0,2                              4,2                             0,8\n\n         Диоксид азота                                                                        0,025                               0,6                          0,160                             0,8\n\n         Оксид азота                                                                                    0,017                               0,3                        0,380                             0,9\n\n         Озон                                                                                     0,051                                         1,7                           0,316                             2,0\n\n         Сероводород                                                                              0,0011                               0,5                          0,010                                   1,2\n\n         Аммиак                                                                            0,002                                    0,1                        0,030                             0,2\n\n         Взвешенные частицы РМ10                                                                 0,051                                     1,3                         0,358                             6,0\n\n         Взвешенные частицы РМ2,5                                                            0,025                                    1,0                             0,141                             4,0\n\n\n   пгт. Селенгинск, включая с. Брянск\n\n\n         Наименование загрязняющего вещества                           Средняя за год концентрация                                       Максимальная разовая концентрация\n\n                                                                             в мг/м3                            в ПДК                             в мг/м3                          в ПДК\n\n         Взвешенные вещества                                             0,152                             2,0                                    1,119                             2,2\n\n         Диоксид серы                                               0,008                             0,2                            0,400                           0,8\n\n         Оксид углерода                                                    0,5                               0,2                                   7,8                                   1,6\n\n         Диоксид азота                                                  0,016                             0,4                               0,133                              0,7\n\n         Оксид азота                                                 0,008                                0,1                               0,218                            0,5\n\n         Озон                                                       0,038                                 1,3                             0,095                           0,6\n\n         Сероводород                                                0,003                                  1,5                                 0,172                              21,5\n\n        Фенол                                                     0,002                               0,7                               0,012                                1,2\n\n         Аммиак                                                   0,0004                           0,01                             0,070                            0,4\n\n         Формальдегид                                               0,005                                     1,7                               0,031                           0,6\n\n         Сажа (углерод)                                              0,009                            0,4                            0,098                           0,6\n\n         Взвешенные частицы РМ10                                     0,039                            0,9                            0,380                                6,\n\n         Взвешенные частицы РМ2,5                                    0,030                                 1,2                                 0,118                             3,4\n\n          Бенз(а)пирен, нг/м3                                                 9,5                                9,5                               28,5                            28,5"
+        },
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 173,
+          "quote": "1.2. Компоненты природной среды и их ресурсный потенциал                                                                  171\n\n      Состояние атмосферного         гида — в г. Ангарск — в 2,7 раза, в г. Иркутск —\n      воздуха в ЭЗАВ БПТ                в 1,7 раза, в г. Усолье-Сибирское — в 4,7 раза,                                                      в    г. Шелехов —  в 5,7 раза.  Среднегодовая\n                                                     концентрация взвешенных частиц РМ 10 в  г.\n         Наблюдения  за загрязнением  атмосферного  Усолье-Сибирское достигала уровня ПДКс. г.,\n          воздуха в ЭЗАВ БПТ осуществлялись в семи  в  г. Иркутске достигала 1,3 ПДКс.  г. Средние\n         населенных пунктах:  г. Ангарск,  г. Иркутск,  за год концентрации остальных наблюдаемых\n             п. Мегет, г. Свирск, г. Усолье-Сибирское, г. Че-  примесей не превышали установленные сани-\n          ремхово, г. Шелехов.                           тарно-гигиенические нормативы.\n       В 2023 году уровень загрязнения атмосфер-  Максимальные из среднемесячных концентра-\n         ного воздуха в городах Свирск, Усолье-Си-  ций бенз(а)пирена превышали ПДКс. г. в 8,1 —\n         бирское, Черемхово, Шелехов был опреде-  50,9 раза во всех городах ЭЗАВ БПТ: в г. Ан-\n         лен как «очень высокий», в городах Ангарск  гарск — в 9,7 раза, в  г. Иркутск — в 8,1 раза,\n         и Иркутск — как «высокий», в п. Мегет — как  в  г. Свирск — в 50,9 раза, в  г. Усолье-Сибир-\n          «низкий».                                    ское — в 16,1 раза, в г. Черемхово — в 27,7 раза,\n                                                      в г. Шелехов — в 14,0 раза.\n         Веществами, вносящими основной вклад в за-\n          грязнения атмосферного воздуха, в указанных  Максимальные  разовые  концентрации  взве-\n         населенных пунктах являлись:                шенных веществ превышали ПДКм. р. в  г. Ан-\n                                                         гарск — в 3,9 раза, в г. Иркутск — в 3,1 раза, в\n                                                                      п. Мегет — в 1,4 раза, в г. Свирск — в 6,9 раза,\n              ■                в г. Ангарск — формальдегид, бенз(а)                                                      в г. Усолье-Сибирское — в 3,9 раза, в г. Черем-                 пирен, взвешенные вещества;                                                      хово — в 3,0 раза, в  г. Шелехов — в 1,1 раза;\n              ■                в г. Иркутск — бенз(а)пирен, формаль-    взвешенных частиц РМ 10 в  гг. Ангарск, Усо-\n                 дегид, взвешенные вещества, взвешен-   лье-Сибирское — в 1,2; 4,5 раза соответствен-\n              ные частицы РМ 10, диоксид азота;        но;  взвешенных  частиц РМ 2,5 —  в   г. Усо-\n              ■                в п. Мегет — взвешенные вещества;      лье-Сибирское —  в 3,3 раза.  Максимальные\n              ■                                        из среднесуточных концентраций взвешенных                в г. Свирск — бенз(а)пирен, взвешенные                                                      частиц РМ 10 превышали ПДКс. с. в гг. Ангарск,                вещества;                                                         Иркутск, Усолье-Сибирское, Шелехов в 2,2; 5,2;              ■                в г. Усолье—Сибирское — бенз(а)пирен,                                                                      2,8; 2,8 раза соответственно; взвешенных ча-               формальдегид, взвешенные вещества;                                                       стиц РМ- 2,5 — в 3,0 раза в г. Иркутск.\n              ■                в г. Черемхово — бенз(а)пирен, взве-\n              шенные вещества;                    Максимальные разовые концентрации  диок-\n              ■                в г. Шелехов — формальдегид, бенз(а)    сида серы превышали ПДКм. р. в г. Ангарск —\n                 пирен, взвешенные вещества.            в 2,5  раза, —  в   г. Иркутск —  в 2,0  раза,  в\n                                                                                      г. Усолье Сибирское — в 1,4 раза, в  г. Черем­\n                                                      хово — в 1,5 раза, в  г. Шелехов — в 1,3 раза.\n                                                 Максимальные разовые концентрации оксида\n         Средние за 2023 год концентрации бенз(а)пи-  углерода превышали ПДКм. р. в  г. Ангарск —\n         рена превышали допустимую норму в 1,9–12,0  в 2,0 раза, в г. Иркутск — в 1,8 раза, в г. Черем-\n          раза во всех городах ЭЗАВ БПТ, за исклю-  хово — в 2,1 раза, в г. Шелехов — в 2,1 раза, в\n         чением  п. Мегет  (наблюдения  за загрязняю-    г. Усолье-Сибирское — в 1,6 раза. Максималь-\n        щим веществом не осуществляются): в  г. Ан-  ные разовые концентрации диоксида азота\n          гарск — в 1,9 раза, в  г. Иркутск — в 3,3 раза,  превышали ПДКм. р. в  г. Ангарск — в 2,3 раза,\n          в  г. Свирск — в 12,0 раза, в  г. Усолье-Сибир-  в  г. Иркутск — в 2,9  раза,  вг. Усолье-Сибир-\n          ское — в 4,9 раза, в г. Черемхово — в 7,6 раза,  ское — в 6,2 раза, в  г. Шелехов — в 1,2 раза.\n          в г. Шелехов — в 3,8 раза.                   Максимальные разовые концен­трации оксида\n                                                       азота превышали ПДКм. р. в г. Ангарск — в 3,4\n         Среднегодовые концентрации взвешенных ве-  раза, в г. Иркутск — в 4,2 раза, в г. Усолье-Си-\n         ществ превышали предельно допустимые кон-  бирское — в 3,2 раза, в  г. Черемхово — в 3,0\n         центрации в городах: Ангарск, Иркутск, Свирск,  раза, в г. Шелехов — в 3,4 раза. Макси­мальные\n          Черемхово, Шелехов и п. Мегет — в 2,1; 1,7; 2,2;  разовые  концентрации  специфических  при-\n             2,4; 1,3 и 1,5 раза соответственно; диоксида  месей превышали установленные нормативы:\n          азота — в г. Иркутск— в 1,1 раза; формальде-  сероводорода в г. Иркутск — в 1,9 раза; фено-"
+        }
+      ],
+      "source_versions": [
+        "БЭЗ:33,2/28,5/17,1 под разовой шапкой и в списке среднемесячных",
+        "ЦЭЗ/БЭЗмесячные относительноПДКс.с.,ЭЗАВмесячные относительноПДКс.г.",
+        "ВидПДКпострочно в группе 1.2.6.1 не уточнён"
+      ],
+      "conclusion": "Интервалы и нормы не унифицированы предположениями; нужны методики/нормативные первичные таблицы.",
+      "next_step": "Сверить первичные постовые/лабораторные ряды, паспорта сети, нормативные таблицы и редакционное пояснение.",
+      "specialist_required": true
+    },
+    {
+      "id": "air2023-no-irkutsk",
+      "title": "Иркутск 2023: максимум разовогоNO одновременно вырос 1,4 раза и не изменился",
+      "status": "requires_source_or_methodological_review",
+      "claim_ids": [
+        "air2023-air-pollution-05"
+      ],
+      "evidence": [
+        {
+          "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+          "sha256": "da48b7061dc74cdc300213ca2e4b6f0d124ac5aab5aa7f2da84d3c3451d07066",
+          "report_year": 2023,
+          "publication_year": null,
+          "page": 174,
+          "quote": "172                                           Государственный доклад «О состоянии озера Байкал и мерах по его охране в 2023 году»\n\n\n    ла в г. Черемхово — в 3,3 раза; хлора в г. Усо-  ответственно, твердых фторидов и фторида\n    лье-Сибирское — в 1,3 раза; хлорида водорода  водорода в г. Шелехов — уровня ПДКм. р. Мак-\n    в  г. Усолье-Сибирское — в 1,8 раза; формаль-  симальные разовые концентрации остальных\n    дегида в гг. Ангарск, Иркутск, Усолье-Сибир-  наблюдаемых загрязняющих веществ не превы-\n    ское, Шелехов в 2,0; 2,0; 2,7 и в 2,9 раза со-  шали установленные гигиенические нормативы.\n\n\n\n\n\n     По сравнению с 2022 годом в 2023 году уровень загрязнения атмосферного\n       воздуха в гг. Свирск, Усолье-Сибирское, Черемхово, Шелехов — не изме-\n      нился и характеризуется как «очень высокий», в г. Ангарск и в г. Иркутск\n      не изменился и характеризуется как «высокий», в п. Мегет не изменился\n      и характеризуется как «низкий».\n\n\n\n\n   В 2023 году среднегодовая концентрация бенз(а)  Максимальная  разовая  концентрация  взве-\n    пирена повысилась — в г. Иркутск — в 1,3 раза;  шенных   веществ   увеличилась   в    г. Ир-\n    понизилась в гг.  Ангарск, Усолье-Сибирское,  кутск —  в 2,2 раза;  уменьшилась  в    г. Ан-\n    Черемхово — в 1,4; 1,2; 1,1 раза соответствен-  гарск —  в 1,6 раза,  в п.  Мегет —  в 1,3 раза,\n    но; в гг. Свирск и Шелехов — не изменилась.     в  г. Свирск — в 1,1 раза, в  г. Усолье-Сибир-\n                                                ское — в 1,6 раза, в г. Черемхово — в 2,7 раза,\n   По сравнению с предыдущим годом, в 2023 году  в г. Шелехов — в 1,2 раза. Максимальная разо-\n    средние за год концентрации взвешенных ве-  вая концентрация диоксида серы увеличилась\n    ществ увеличились: в  г. Ангарск — в 2,1 раза,  в г. Шелехов — в 1,1 раза; уменьшилась в г. Ан-\n    в  г. Усолье-Сибирское — в 2,4 раза; уменьши-  гарск — в 1,6 раза, в  г. Иркутск — в 1,1 раза,\n    лись в  г. Иркутск — в 1,2 раза, в п. Мегет —  в   г. Черемхово —  в 1,5 раза,  в   г. Свирск —\n    в 1,1 раза, в г. Свирск — в 1,3 раза, в г. Черем-  в 3,2 раза, в г. Усолье-Сибирское — в 1,4 раза.\n    хово — в 1,6 раза, в  г. Шелехов — в 1,5 раза.  Максимальная разовая концентрация оксида\n    Среднегодовая концентрация диоксида азота  углерода увеличилась в г. Шелехов — в 1,8 раза;\n    уменьшилась в  г. Иркутск — в 1,2 раза. Сред-  уменьшилась в г. Ангарск — в 1,6 раза, в г. Ир-\n    негодовая концентрация озона в  г. Иркутск  кутск — в 1,1 раза, в г. Черемхово — в 1,4 раза,\n    уменьшилась —   в 1,3 раза.   Среднегодовая  в   г. Свирск —  в 1,4 раза;  не изменилась  в\n    концентрация   формальдегида   повысилась    г. Усолье-Сибирское.  Максимальная  разовая\n    в  г. Ангарск — в 1,4 раза; в  г. Усолье-Сибир-  концентрация диоксида азота увеличилась в\n    ское — в 1,4 раза; уменьшилась в г. Шелехов —    г. Усолье-Сибирское — в 2,4 раза, в  г. Шеле-\n    в 1,5 раза, не изменилась в  г. Иркутск. Сред-  хов — в 1,3 раза; уменьшилась в  г. Ангарск —\n    негодовая концентрация взвешенных частиц  в 2,3 раза, в  г. Свирск — в 1,2 раза; не изме-\n   (РМ 10 с. с.) в г. Иркутск повысилась в 1,3 раза.   нилась в  г. Иркутск. Максимальная разовая\n                                               концентрация оксида азота увеличилась в г. Ир-\n   По сравнению с 2022 годом, в 2023 году макси-  кутск — в 1,4 раза, в г. Свирск — в 3,6 раза, в\n   мальные из среднемесячных концентраций бен-    г. Усолье-Сибирское — в 1,3 раза, в  г. Черем-\n    з(а)пирена увеличились: в г. Ангарск в 1,1 раза,  хово — в 1,3 раза, в  г. Шелехов — в 1,5 раза;\n    в г. Иркутск в 1,2 раза, в г. Свирск в 1,9 раза,  в  г. Иркутск — не изменилась. Максимальная\n    в г. Черемхово в 1,3 раза, в г. Шелехов в 1,3 раза;  из разовых концентраций озона уменьшилась в\n    уменьшились в г. Усолье-Сибирское в 1,1 раза.     г. Иркутск — в 1,9 раза; сероводорода — умень-"
+        }
+      ],
+      "source_versions": [
+        "Максимальная разовая концентрация оксида азота увеличилась вИркутске 1,4 раза",
+        "Втомжеабзаце:вИркутске неизменилась"
+      ],
+      "conclusion": "Оба сообщения сохранены; предполагаемое другое название города не подставлено.",
+      "next_step": "Сверить первичные постовые/лабораторные ряды, паспорта сети, нормативные таблицы и редакционное пояснение.",
       "specialist_required": true
     }
   ],

@@ -13,6 +13,10 @@
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## PM2,5
 
@@ -20,6 +24,12 @@
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+
+## PM2.5
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## Spirogyra
 
@@ -33,6 +43,12 @@
 ## TDS и главные ионы
 
 - [2021: температура, минерализация и главные ионы истока Ангары](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/angara-geochemistry.md) — доклад 2021.
+
+## АСК-А
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## Атмосферное давление
 
@@ -299,6 +315,13 @@
 - [Малое море 2019: три микробиологические и две фитопланктонные станции](../notes/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn/malo-more-hydrobiology.md) — доклад 2019.
 - [Малое море 2020: три станции и первое исследование зоопланктона](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/malo-more-hydrobiology.md) — доклад 2020.
 - [2023: Малое море — два сезона, эпишура и донные сообщества](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/malo-more-hydrobiology.md) — доклад 2023.
+
+## ИЗА
+
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## Икра
 
@@ -655,6 +678,10 @@
 - [2018: атмосферная сеть и ЦЭЗ — интервалы, категории и сравнения с 2017](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-central-zone.md) — доклад 2018.
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## ПДК и частота превышения
 
@@ -1079,6 +1106,17 @@
 ## аммиак
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## атмосферный воздух
+
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## атмосферный мониторинг
 
@@ -1097,6 +1135,10 @@
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## биомасса
 
@@ -1108,14 +1150,32 @@
 ## взвешенные вещества
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## высокое загрязнение
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## диоксид азота
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## диоксид серы
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## зоопланктон
 
@@ -1144,22 +1204,40 @@
 ## озон
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## оксид азота
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## оксид углерода
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## сажа
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## сероводород
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## сеть наблюдений
 
@@ -1171,13 +1249,26 @@
 - [2018: воздух БЭЗ — семь АСК-А, городские примеси и неопределённый интервал максимумов](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-buffer-zone.md) — доклад 2018.
 - [2018: воздух ЭЗАВ и три общих вывода — пять городов и пределы нормативных сравнений](../notes/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ/air-influence-zone-conclusions.md) — доклад 2018.
 
+## твёрдые фториды
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
 ## тяжёлые металлы
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## фенол
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## фитопланктон
 
@@ -1189,10 +1280,30 @@
 ## формальдегид
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## фторид водорода
 
 - [2020: атмосферный воздух БПТ — полный раздел, сеть, нормативы и сопоставимость с 2018](../notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) — доклад 2020.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## хлор
+
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
+
+## хлорид водорода
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## численность
 
@@ -1200,6 +1311,12 @@
 - [2021: Селенгинское мелководье — сентябрьские сообщества и отсутствие бентосной съёмки в своде](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/selenga-shallows-hydrobiology.md) — доклад 2021.
 - [2021: Малое море — два сезона, первая бентосная съёмка и несогласованный масштаб](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/malo-more-hydrobiology.md) — доклад 2021.
 - [2021: пять гидробиологических выводов и пределы общего заключения](../notes/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB/hydrobiology-conclusions.md) — доклад 2021.
+
+## этилбензол
+
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 [Главный индекс](../index.md)
 

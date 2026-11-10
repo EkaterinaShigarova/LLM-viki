@@ -111,6 +111,10 @@
 - [2023: Култук—Слюдянка — три станции и несогласованный месяц](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/kultuk-slyudyanka-hydrobiology.md) — доклад 2023.
 - [2023: пять портов — сообщества, микрофлора и разные сезоны](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/ports-hydrobiology.md) — доклад 2023.
 - [2023: все гидробиологические выводы — статистика районов](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/hydrobiology-conclusions.md) — доклад 2023.
+- [2023: сеть атмосферного мониторинга, нормативы и центральная экологическая зона](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-central-zone.md) — доклад 2023.
+- [2023: воздух БЭЗ — восемь АСК-А, концентрации, события и полная таблица](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-buffer-zone.md) — доклад 2023.
+- [2023: атмосферный воздух ЭЗАВ — семь пунктов и разные интервалы показателей](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-influence-zone.md) — доклад 2023.
+- [2023: все шесть выводов атмосферного раздела и их научные границы](../notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/air-conclusions.md) — доклад 2023.
 
 ## 2024
 

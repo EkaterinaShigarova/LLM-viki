@@ -3716,6 +3716,50 @@
       "boundary_completeness": "boundary_only_not_summarized",
       "boundary_note": "PDF163содержит конец1.2.6и начало1.2.7; осадки не законспектированы.",
       "provenance": "datasets/air_2020_review.json"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.6/central",
+      "title": "1.2.6/central: Сеть,нормативы,ЦЭЗ",
+      "start_page": 167,
+      "confirmed_last_page": 168,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF176содержит продолжение1.2.6до1.2.7;осадкинеисследованы. PDF175:окончаниеЭЗАВпередвыводами.",
+      "provenance": "datasets/air_2023_review.json"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.6/buffer",
+      "title": "1.2.6/buffer: БЭЗ,включая всю группу таблиц1.2.6.1",
+      "start_page": 168,
+      "confirmed_last_page": 172,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF176содержит продолжение1.2.6до1.2.7;осадкинеисследованы. PDF175:окончаниеЭЗАВпередвыводами.",
+      "provenance": "datasets/air_2023_review.json"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.6/influence",
+      "title": "1.2.6/influence: ЭЗАВ",
+      "start_page": 173,
+      "confirmed_last_page": 175,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF176содержит продолжение1.2.6до1.2.7;осадкинеисследованы. PDF175:окончаниеЭЗАВпередвыводами.",
+      "provenance": "datasets/air_2023_review.json"
+    },
+    {
+      "source_id": "drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi",
+      "section": "1.2.6/conclusions",
+      "title": "1.2.6/conclusions: Все шесть выводов",
+      "start_page": 175,
+      "confirmed_last_page": 176,
+      "heading_status": "original_heading_visually_checked",
+      "boundary_completeness": "named_subsection_checked_not_full_page",
+      "boundary_note": "PDF176содержит продолжение1.2.6до1.2.7;осадкинеисследованы. PDF175:окончаниеЭЗАВпередвыводами.",
+      "provenance": "datasets/air_2023_review.json"
     }
   ],
   "note": "Detected headings are incomplete navigation aids, not verified chapter boundaries or source summaries. Four 2021 named subsection headings appended after original-page inspection; retained detected headings are unchanged. Confirmed boundaries belong to named subsections, not whole pages; generated candidate ranges remain navigation aids."

@@ -53,7 +53,7 @@
 
 ## Последнее завершённое исследование
 
-[Атмосферный мониторинг2020: полный раздел и сравнение с2018](notes/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP/air-monitoring.md) · [Отчёт](../docs/AIR_2020.md).
+[Атмосферный мониторинг 2023: весь раздел](notes/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi/index.md) · [Сопоставление пяти лет](syntheses/emissions-and-comparability.md) · [Подробный отчёт](../docs/AIR_2023.md).
 
 ## Документы и конспекты
 

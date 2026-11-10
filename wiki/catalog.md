@@ -631,7 +631,7 @@
 
 - [Атмосферный воздух: выбросы теплоэнергетики и границы сравнения](syntheses/air-pollution.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -657,6 +657,14 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p162](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-162) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p167](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-167) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p168](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-168) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p170](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-170) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p171](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-171) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p172](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-172) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p169](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-169) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p173](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-173) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p174](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-174) · доклад 2023.
 
 <a id="visits"></a>
 ### Посещение и инфраструктура
@@ -706,7 +714,7 @@
 
 - [Атмосферные выпадения в бассейне Байкала: станции, состав и годовые нагрузки](syntheses/atmospheric-deposition.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Два документа: пятилетнее влажное поступление 2020–2024 и другая сеть обзора 2025 с ретроспективой 2017–2025. Не единый ряд; нужны программы отбора, погрешности и пояснение спорных минимумов. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов.
+Обеспеченность: Ранее подготовленный обзор с источниками. Два документа: пятилетнее влажное поступление 2020–2024 и другая сеть обзора 2025 с ретроспективой 2017–2025. Не единый ряд; нужны программы отбора, погрешности и пояснение спорных минимумов. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -719,6 +727,10 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p162](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-162) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p170](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-170) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p171](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-171) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p172](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-172) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p176](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-176) · доклад 2023.
 
 
 <a id="conservation"></a>
@@ -823,7 +835,7 @@
 
 - [Выбросы теплоэнергетики: что подтверждает ретроспективный ряд](syntheses/emissions-and-comparability.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -844,10 +856,19 @@
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p159](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-159) · доклад 2020.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) · доклад 2020.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p145](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-145) · доклад 2018.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p167](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-167) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p168](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-168) · доклад 2023.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p155](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-155) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p161](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-161) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p169](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-169) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p170](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-170) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p171](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-171) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p172](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-172) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p173](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-173) · доклад 2023.
 
 - [Экологические проблемы Байкала: связанная картина и пределы знаний](syntheses/environmental-problems.md)
 
-Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов.
+Обеспеченность: Ранее подготовленный обзор с источниками. Сопоставимость количественных рядов и подлинность зеркал проверяются отдельно. Дополнение 2021: границы районных программ проверены; нужны первичные журналы, веса средних и уточнение размерности бентоса. Атмосферный раздел2018 прочитан; интервалы максимумов и нормативы требуют первичных пояснений. Раздел2020прочитан; нужны паспорта сети, нормы и пояснения противоречивых максимумов/диапазонов. Атмосферный раздел2023 прочитан; остаются паспорта сети/аналитика, нормативы и редакционные расхождения.
 
 Статус проверки: Содержательная сверка с источниками (автоматизированная). Научная рецензия требуется.
 
@@ -881,6 +902,19 @@
 [drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB:p55](sources/drive-1oLnz6N8ueMCEL8p2HnPDtT7dx1tAE8RB.md#page-55) · доклад 2021.
 [drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p147](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-147) · доклад 2018.
 [drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p163](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-163) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p169](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-169) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p175](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-175) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p176](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-176) · доклад 2023.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p144](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-144) · доклад 2018.
+[drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ:p145](sources/drive-1QKhC57MB-qveIXhYWKGfSOkTmzdFw_mJ.md#page-145) · доклад 2018.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p153](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-153) · доклад 2019.
+[drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn:p154](sources/drive-1RWGLrOzFO32Jxrlv-B2n_PafSFoRVySn.md#page-154) · доклад 2019.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p159](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-159) · доклад 2020.
+[drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP:p160](sources/drive-1ScikzOKs0VW7ZZS1XWKyoOfcHeYklUEP.md#page-160) · доклад 2020.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p167](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-167) · доклад 2023.
+[drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi:p168](sources/drive-1C-SRfbklf00M5rsLajYO_2nFCdmCL1fi.md#page-168) · доклад 2023.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p139](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-139) · доклад 2024.
+[drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos:p144](sources/drive-1y2zBx9zaIIBEdcyHf7kwIwOOaA-uaeos.md#page-144) · доклад 2024.
 
 
 <a id="climate"></a>
